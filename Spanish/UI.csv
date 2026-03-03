@@ -2307,8 +2307,8 @@ UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Allies DEF near house artifact,Allies DE
 UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Allies Attack Speed near house artifact,Allies Attack Speed near house artifact
 UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Allies Casting Speed near house artifact,Allies Casting Speed near house artifact
 UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block,PvP Melee/Range Block
-UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,Daño Crítico en PVP
-UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,Probabilidad de crítico en PvP
+UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,Daño Crítico en PvP
+UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,Probabilidad de Crítico en PvP
 UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,Penya Drop Bonus
 UI_OPTION_UNDERWATER,Underwater Effect,Efecto submarino
 UI_REVIVAL_LODELIGHT_CONFIRM,Are you sure that you want to resurrect to the Lodelight?,¿Estás seguro de que quieres resucitar a Lodelight?
@@ -2374,7 +2374,7 @@ UI_MENU_FULL,No more highlighted menus can be set.,No more highlighted menus can
 UI_MENU_UNSPECIFIED,Unspecified,No especificado
 UI_OPTION_KEYREPEAT,Holding Keys,Sosteniendo teclas
 UI_DELETEACCOUNT_TITLE,Delete Account,Eliminar Cuenta
-UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Contraseña para eliminar la cuenta\nIntroduzca la contraseña
+UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Contraseña para eliminar la cuenta\nIntroduce la contraseña
 UI_DELETEACCOUNT_NOPASS,Do you confirm?,¿Deseas continuar?
 UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","Cuando retires tu membresía, todos los datos se eliminarán y no podrás usar el servicio, restaurar tu cuenta ni recibir un reembolso por cualquier artículo o moneda pagada restante."
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Find items in Personal and Vendor shops.
@@ -3260,7 +3260,7 @@ UI_TOOLTIP_VS_BURN_DEF,Damage from Burned Enemies,Damage from Burned Enemies
 UI_TOOLTIP_VS_WATER_DEF,Damage from Watered Enemies,Damage from Watered Enemies
 UI_TOOLTIP_VS_SUFFOCATE_DEF,Damage from Suffocated Enemies,Damage from Suffocated Enemies
 UI_TOOLTIP_VS_SHOCK_DEF,Damage from Shocked Enemies,Damage from Shocked Enemies
-UI_TOOLTIP_HP_SHIELD,Max. Health Shield,Max. Escudo de Salud
+UI_TOOLTIP_HP_SHIELD,Max. Health Shield,Máx. Escudo de Salud
 UI_TOOLTIP_AA_DMG,Auto Attack Damage,Auto Attack Damage
 UI_LEVELCHANGE_NONE,No available jobs at this level,No available jobs at this level
 UI_SKILL_PAGE_SELECT,Select your skill page:,Select your skill page:
