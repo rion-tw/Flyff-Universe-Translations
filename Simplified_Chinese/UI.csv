@@ -114,7 +114,7 @@ UI_TOOLTIP_ATTACK_BASE,Base Attack:,基础攻击力:
 UI_TOOLTIP_DEF_BASE,Base Defense:,基础防御力:
 UI_TOOLTIP_ATTACK,Attack:,攻击力:
 UI_TOOLTIP_DEF_A,Defense:,防御力:
-UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,攻击速度：%s
+UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,攻击速度:%s
 UI_TOOLTIP_REQ_JOB,Req Job:,职业:
 UI_TOOLTIP_REQ_LEVEL,Required Level: %d,等级: %d
 UI_TOOLTIP_REQ,Requires %s,Requires %s
