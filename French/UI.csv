@@ -1721,7 +1721,7 @@ UI_DUNGEON_REQ_ITEM,Required Items:,Objets requis :
 UI_DUNGEON_MAX_ENTRY_COUNT,Max Entrance Per Day: %d / %d,Entrées max. journalières : %d / %d
 UI_DROP_DISTRIBUTE_TITLE,Loot Distribution,Distribution du Butin
 UI_DROP_DISTRIBUTE_INFO,"Either roll a random number for the above item, or pass if you are not interested. After the timer, the player with the highest number gets the item.","Lancez un nombre aléatoire pour cet objet, ou passez votre tour si vous n'êtes pas intéressé. À l'issue du temps imparti, le joueur ayant le plus grand nombre obtient l'objet."
-UI_DROP_DISTRIBUTE_ROLL,Need,J'en ai besoin
+UI_DROP_DISTRIBUTE_ROLL,Need,Obtenir
 UI_DROP_DISTRIBUTE_PASS,Pass,Je passe
 UI_DROP_DISTRIBUTE_ROLL_TOOLTIP,Roll a number for a chance to get this item. Player with the highest roll wins.,Lancez un nombre pour avoir une chance d'obtenir cet objet. Le joueur ayant le plus grand nombre gagne.
 UI_DROP_DISTRIBUTE_PASS_TOOLTIP,Pass on this item if you are not interested.,Passez cet objet si vous n'êtes pas intéressé.
