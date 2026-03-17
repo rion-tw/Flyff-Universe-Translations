@@ -44,9 +44,9 @@ CLIENT_TREEHELP_INC_000292,Guru,鈷礫
 CLIENT_TREEHELP_INC_000293,Collector,採集器
 CLIENT_TREEHELP_INC_000298,PK,PK
 CLIENT_TREEHELP_INC_000299,PK attack,PK攻擊
-CLIENT_TREEHELP_INC_000300,Karma Point and Penalty,白目點數與懲罰
-CLIENT_TREEHELP_INC_000301,Classfying users according to Karma Point,根據白目點數對玩家進行分類
-CLIENT_TREEHELP_INC_000302,PK user Field and Recovering Karma Point,PK玩家的區域與白目點數下降
+CLIENT_TREEHELP_INC_000300,Karma Point and Penalty,惡名點數與懲罰
+CLIENT_TREEHELP_INC_000301,Classfying users according to Karma Point,根據惡名點數對玩家進行分類
+CLIENT_TREEHELP_INC_000302,PK user Field and Recovering Karma Point,PK玩家的區域與惡名點數下降
 CLIENT_TREEHELP_INC_000303,Regional setting,區域設定
 CLIENT_TREEHELP_INC_000304,Safety Zone,安全區域
 CLIENT_TREEHELP_INC_000305,Penalty PK zone,懲戒PK區域
