@@ -1,4 +1,4 @@
-﻿#b#cff0000ff Pet Sacrificing #nb#nc
-You can #bchange the level#nb of your current pet's tier by sacrificing another pet with the #bsame tier or higher#nb.
-#cffff0000The pet that you input below will be permanently destroyed.#nc
-The higher the tier of the pet you destroy, the better the chance to get a good level.
+﻿#b#cff0000ff 宠物献祭 #nb#nc
+你可以通过献祭一只同阶或更高阶的宠物，来调整当前宠物的阶位等级。
+#cffff0000 下方放入的宠物将会被永久销毁。#nc
+献祭的宠物阶位越高，获得高等级的概率就越大。
