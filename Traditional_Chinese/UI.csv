@@ -1728,7 +1728,7 @@ UI_DROP_DISTRIBUTE_PASS_TOOLTIP,Pass on this item if you are not interested.,如
 UI_DROP_DISTRIBUTE_RESULT,%s was awarded the item.,%s 獲得了該物品。
 UI_DROP_DISTRIBUTE_RESULT_MAIL,The item has been mailed to a player who is no longer available.,該物品已寄送給一位無法立即獲得物品的玩家。
 UI_DROP_DISTRIBUTE_CURRENT,Item: %d/%d,物品： %d/%d
-UI_TOOLTIP_MULTISTRIKE,Multistrike Chance,多重打擊幾率
+UI_TOOLTIP_MULTISTRIKE,Multistrike Chance,多重打擊機率
 UI_BATTLEPASS_MISSION_KILLMONSTER_PK,Hunt Monsters Lv.%s+ on the PK Channel,在PK分流獵殺等級%s+的怪物
 UI_BATTLEPASS_MISSION_KILLMONSTER2_PK,Hunt %s on the PK Channel,在PK分流擊殺 %s
 UI_BATTLEPASS_MISSION_CLEARDUNGEON,Clear Dungeon(s),通過副本
