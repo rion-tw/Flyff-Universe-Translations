@@ -568,8 +568,8 @@ CLIENT_HELP_INC_000566,Wind,風元素
 CLIENT_HELP_INC_000567,A property that is strong against the Earth Property but weak against the Fire property.,風元素剋地，但怕火！
 CLIENT_HELP_INC_000568,Enchant,精煉
 CLIENT_HELP_INC_000569,"Upgrading means making the item more powerful. Each item can be normally upgraded over 10 levels, and weapons / armor chest pieces can be elementally upgraded over 10 levels. If the upgrade fails, there is no penalty between levels 1 and 3, but from levels 4-10 the item will be lost.",精煉可將物品變的更強！各物品的元素及強化精煉一共分為10個階段，而進行精煉時，必須擁有該階段的精煉道具。如果升級失敗，則在 1 級和 3 級之間沒有懲罰，但從 4 級到 10 級，​​該物品將消失。
-CLIENT_HELP_INC_000570,Attribute Enchant,元素精煉
-CLIENT_HELP_INC_000571,"Your item can receive an attribute modifier (visible in the name of the item) through various means, granting it extra STR, STA, DEX and/or INT.",物品可以通過各種方式獲得元素強化(在物品名稱中可見)，賦予額外的力量、體力、敏捷和智力。
+CLIENT_HELP_INC_000570,Attribute Enchant,屬性強化
+CLIENT_HELP_INC_000571,"Your item can receive an attribute modifier (visible in the name of the item) through various means, granting it extra STR, STA, DEX and/or INT.",物品可以通過各種方式獲得屬性強化（在物品名稱中可見），賦予額外的力量（STR）、體力（STA）、敏捷（DEX）和智力（INT）。
 CLIENT_HELP_INC_000572,Fire Upgrade,火元素精煉
 CLIENT_HELP_INC_000573,"When you refine an item with the Fire property, you’ll need a Fire Property Card. When an item is imbued with the Fire Property the item becomes weak to Water but stronger against Wind.",使用火元素卡精煉後，可讓物品賦予火元素的能力。武器擁有火元素時，針對怕火的怪物會有提升的攻擊威力！而防具擁有火元素時，可提升風元素攻擊的抵抗力。
 CLIENT_HELP_INC_000574,Water Upgrade,水元素精煉
