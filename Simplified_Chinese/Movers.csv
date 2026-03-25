@@ -1035,7 +1035,7 @@ PROPMOVER_TXT_110100,Silver Aibatt,纯银独眼蝙蝠
 PROPMOVER_TXT_110151,Purple Floating Oni,紫色浮空鬼
 PROPMOVER_TXT_110152,Blue Floating Oni,蓝色浮空鬼
 PROPMOVER_TXT_110153,Green Floating Oni,绿色浮空鬼
-PROPMOVER_TXT_110154,Red Floating Oni,红色浮空鬼
+PROPMOVER_TXT_110154,Red Floating Oni,Red 红色浮空鬼
 PROPMOVER_TXT_110155,Ice Blue Floating Oni,冰蓝浮空鬼
 PROPMOVER_TXT_110156,Black Floating Oni,黑色浮空鬼
 PROPMOVER_TXT_110157,Orange Witch Cat,橙色喵巫
@@ -1297,12 +1297,12 @@ PROPMOVER_TXT_400310,Captain Cursed Warden,大型诅咒守卫
 PROPMOVER_TXT_400311,Giant Cursed Warden,巨型诅咒守卫
 PROPMOVER_TXT_400312,Small Shadowirs,小型影咒者
 PROPMOVER_TXT_400313,Great Shadowirs,巨型影咒者
-PROPMOVER_TXT_400314,Great Skelmaw,巨型噬骨者
+PROPMOVER_TXT_400314,Great Skelmaw,巨型影咒者
 PROPMOVER_TXT_400315,Great Maleficar,巨型邪术使
 PROPMOVER_TXT_400316,Great Cursed Warden,巨型诅咒守卫
 PROPMOVER_TXT_400317,Cyan Gloomie,青影小幽
 PROPMOVER_TXT_400318,Green Gloomie,绿色小幽
-PROPMOVER_TXT_400319,Blue Gloomie,蓝色小幽
+PROPMOVER_TXT_400319,Blue Gloomie,绿色小幽
 PROPMOVER_TXT_400320,Purple Gloomie,紫色小幽
 PROPMOVER_TXT_400321,Red Gloomie,红色小幽
 PROPMOVER_TXT_400322,Gray Gloomie,灰色小幽
@@ -1533,13 +1533,13 @@ PROPMOVER_TXT_110171,[Event] Giant Samoset,[活动] 巨型萨莫塞特
 PROPMOVER_TXT_110172,[Event] Giant Kyouchish,[活动] 巨型利爪奇什
 PROPMOVER_TXT_110173,[Event] Giant Kanonicus,[活动] 巨型追猎者库斯
 PROPMOVER_TXT_110174,[Event] Giant Mage Redcloud,[活动] 巨型绯云术士
-PROPMOVER_TXT_110175,[Event] Small Samoset,[活动] 小萨莫塞特
+PROPMOVER_TXT_110175,[Event] Small Samoset,[活动] 小型萨莫塞特
 PROPMOVER_TXT_110176,[Event] Samoset,[活动] 萨莫塞特
-PROPMOVER_TXT_110177,[Event] Small Kyouchish,[活动] 小利爪奇什
+PROPMOVER_TXT_110177,[Event] Small Kyouchish,[活动] 小型利爪奇什
 PROPMOVER_TXT_110178,[Event] Kyouchish,[活动] 利爪奇什
-PROPMOVER_TXT_110179,[Event] Small Kanonicus,[活动] 小追猎者库斯
+PROPMOVER_TXT_110179,[Event] Small Kanonicus,[活动] 小型追猎者库斯
 PROPMOVER_TXT_110180,[Event] Kanonicus,[活动] 追猎者库斯
-PROPMOVER_TXT_110181,[Event] Small Mage Redcloud,[活动] 小绯云术士
+PROPMOVER_TXT_110181,[Event] Small Mage Redcloud,[活动] 小型绯云术士
 PROPMOVER_TXT_110182,[Event] Mage Redcloud,[活动] 绯云术士
-PROPMOVER_TXT_110183,[Event] Small Taiaha,[活动] 小泰亚哈战士
+PROPMOVER_TXT_110183,[Event] Small Taiaha,[活动] 小型泰亚哈战士
 PROPMOVER_TXT_110184,[Event] Taiaha,[活动] 泰亚哈战士
