@@ -557,7 +557,7 @@ CLIENT_HELP_INC_000555,This indicates how much “Reduced/Weakened magical damag
 CLIENT_HELP_INC_000556,Properties,元素
 CLIENT_HELP_INC_000557,There are 5 elemental properties or attributes that exist in FLYFF. Each of these properties has a strength and weakness. A player can achieve the highest possible damage when he uses a weapon which is imbued with the property that is the weakness of his enemy’s property.,Flyff Online 中一共有五種元素，各種元素都有其對應強與弱元素。根據攻擊方與被攻擊方的元素，傷害可能會增加，也有可能會減少。
 CLIENT_HELP_INC_000558,Fire,火元素
-CLIENT_HELP_INC_000559,Fire A property that is weak against the Wind property but is weak against the Water property.,火元素剋風，但卻怕水！
+CLIENT_HELP_INC_000559,Fire A property that is strong against the Wind property but is weak against the Water property.,火元素剋風，但卻怕水！
 CLIENT_HELP_INC_000560,Water,水元素
 CLIENT_HELP_INC_000561,Water. A property that is as strong against the Fire Property but is weak against the Electricity property.,水元素剋火，但卻怕雷！
 CLIENT_HELP_INC_000562,Electricity,雷元素

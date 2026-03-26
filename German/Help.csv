@@ -557,7 +557,7 @@ CLIENT_HELP_INC_000555,This indicates how much “Reduced/Weakened magical damag
 CLIENT_HELP_INC_000556,Properties,Eigenschaften
 CLIENT_HELP_INC_000557,There are 5 elemental properties or attributes that exist in FLYFF. Each of these properties has a strength and weakness. A player can achieve the highest possible damage when he uses a weapon which is imbued with the property that is the weakness of his enemy’s property.,"Es existieren 5 verschiedene Elemente oder Attribute in FlyFF. Jedes dieser Elemente hat Stärken und Schwächen. Ein Spieler kann den höchstmöglichen Schaden verursachen, wenn er eine Waffe verwendet, die mit einem Element verstärkt ist gegen welches der Gegner schwach ist."
 CLIENT_HELP_INC_000558,Fire,Feuer
-CLIENT_HELP_INC_000559,Fire A property that is weak against the Wind property but is weak against the Water property.,Es wirkt stärker gegen Eigenschaften des Windes und schwächer gegen die des Wassers.
+CLIENT_HELP_INC_000559,Fire A property that is strong against the Wind property but is weak against the Water property.,Es wirkt stärker gegen Eigenschaften des Windes und schwächer gegen die des Wassers.
 CLIENT_HELP_INC_000560,Water,Wasser
 CLIENT_HELP_INC_000561,Water. A property that is as strong against the Fire Property but is weak against the Electricity property.,Es wirkt stärker gegen Eigenschaften des Feuers und schwächer gegen die des Blitzes.
 CLIENT_HELP_INC_000562,Electricity,Blitz

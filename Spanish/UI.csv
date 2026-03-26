@@ -1729,6 +1729,8 @@ UI_DROP_DISTRIBUTE_RESULT,%s was awarded the item.,%s ha recibido el objeto.
 UI_DROP_DISTRIBUTE_RESULT_MAIL,The item has been mailed to a player who is no longer available.,Se ha enviado el artículo por correo a un jugador que ya no está disponible.
 UI_DROP_DISTRIBUTE_CURRENT,Item: %d/%d,Artículo: %d/%d
 UI_TOOLTIP_MULTISTRIKE,Multistrike Chance,Posibilidad de Multigolpe
+UI_TOOLTIP_PVP_MULTISTRIKE,Multistrike Chance (PvP),Multistrike Chance (PvP)
+UI_TOOLTIP_PVE_MULTISTRIKE,Multistrike Chance (PvE),Multistrike Chance (PvE)
 UI_BATTLEPASS_MISSION_KILLMONSTER_PK,Hunt Monsters Lv.%s+ on the PK Channel,Caza Monstruos Nvl.%s+ en Canal PK
 UI_BATTLEPASS_MISSION_KILLMONSTER2_PK,Hunt %s on the PK Channel,Caza %s en Canal PK
 UI_BATTLEPASS_MISSION_CLEARDUNGEON,Clear Dungeon(s),Limpiar Mazmorra(s)
@@ -3275,3 +3277,7 @@ UI_NEWYEARPASS_2026,2026 New Year Pass,Año Nuevo 2026 Pass
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,En tu armario
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,No está en tu armario
 UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%
+UI_DEBUG_DEVICE_ADVERTISING_ID,Advertising ID: ,Advertising ID: 
+UI_DEBUG_DEVICE_EEA,EEA: ,EEA: 
+UI_DEBUG_DEVICE_AD_PERSONALIZATION,Ad Personalization: ,Ad Personalization: 
+UI_DEBUG_DEVICE_AD_USER_DATA,Ad User Data: ,Ad User Data: 

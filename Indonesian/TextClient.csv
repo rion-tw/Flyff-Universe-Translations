@@ -462,7 +462,7 @@ TEXTCLIENT_ACCESSORY_MAXOVER,Jewelry can be upgraded to +20.,Jewelry dapat di Up
 TEXTCLIENT_UPGRADE_ERROR_WRONGUPLEVEL,Using wrong item to upgrade.,Item yang salah untuk Upgrade.
 TEXTCLIENT_UPGRADE_ERROR_NOSUPSTONE,Not enough supplement item.,Tidak cukup supplement item.
 TEXTCLIENT_UPGRADE_FAIL,The upgrade has failed.,Upgrade telah gagal.
-TEXTCLIENT_UPGRADE_SUCCESSFUL,Upgrade Succesful!,Upgrade Sukses!
+TEXTCLIENT_UPGRADE_SUCCESSFUL,Upgrade Successful!,Upgrade Sukses!
 TEXTCLIENT_REMOVE_ERROR,That weapon is not possible to remove the element upgrading. Try again after checking.,Tidak dapat melepaskan Element yang telah di Upgrade pada senjata ini. Silakan periksa dan coba lagi.
 TEXTCLIENT_REMOVE_ATTRIBUTE_CONFIRM,The element of weapon was removed.,Element dari Weapon telah dihapus.
 TEXTCLIENT_DEPEN_USE,This item takes effect once your character dies. Do you want to use it?,Item ini memiliki efek sekali saat karaktermu mati. Apakah kamu ingin menggunakannya?
@@ -732,7 +732,7 @@ TEXTCLIENT_CARDUPGRADE_SUCCESS,Card upgrade successful!,Card upgrade berhasil!
 TEXTCLIENT_CARDUPGRADE_FAIL,Card upgrade failed.,Card upgrade gagal.
 TEXTCLIENT_CARDUPGRADE_FAIL2,Card upgrade failed. %d of registered card will be destroyed.,Card upgrade gagal. %d kartu yang terdaftar akan dihancurkan.
 TEXTCLIENT_CARDRESHUFFLE_SUCCESS,You received %s.,Kamu mendapatkan %s.
-TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Succesful!,Konversi sukses!
+TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Successful!,Konversi sukses!
 TEXTCLIENT_GUILD_ADDSUPPM,%s increased the amount of members you can have in the guild by 5!,%s meningkatkan jumlah anggota yang dapat Anda miliki di guild sebesar 5!
 TEXTCLIENT_REPORT_SUCCESS,Successfully sent report.,Berhasil mengirim laporan.
 TEXTCLIENT_REPORT_WAIT,You must wait before reporting the same player.,Kamu harus menunggu sebelum melaporkan pemain yang sama.
@@ -1084,7 +1084,7 @@ TEXTCLIENT_RAINBOWRACE_END,The Rainbow Race is over! The winner is %s!,The Rainb
 TEXTCLIENT_RAINBOWRACE_NOPENYA,You do not have enough Penya to apply for the Rainbow Race.,Kamu tidak memiliki cukup Penya untuk mendaftar Rainbow Race.
 TEXTCLIENT_RAINBOWRACE_EXIST,You've already applied for the next race.,Kamu telah mendaftar untuk lomba berikutnya.
 TEXTCLIENT_RAINBOWRACE_NOPLAYERS,The Rainbow Race was not held due to lack of participants.,The Rainbow Race tidak jadi dilaksanakan karena minimnya peserta.
-TEXTCLIENT_ULTIMATE_CONVERSION_SUCCESSFUL,Conversion Succesful!,Konversi Berhasil!
+TEXTCLIENT_ULTIMATE_CONVERSION_SUCCESSFUL,Conversion Successful!,Konversi Berhasil!
 TEXTCLIENT_ULTIMATE_CONVERSION_NOMATERIAL,Not enough Material.,Bahan tidak cukup.
 TEXTCLIENT_UPGRADE_MAXLEVEL,This item has reached its maximum upgrade level.,Item ini telah mencapai maximum upgrade level.
 TEXTCLIENT_UPGRADE_GREAT_FAILURE,The upgrade has been a great failure.,Peningkatan tersebut merupakan kegagalan besar.

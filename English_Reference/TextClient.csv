@@ -1421,7 +1421,6 @@ TEXTCLIENT_PROPINTERACTION_MAXUSE,Too many players are using this prop. Please t
 TEXTCLIENT_GATHERING_TOOL_REPAIR,Repaired %s for %s points.
 TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_TIME_FAIL,You cannot change your expertise yet.
 TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_SUCCESS,Successfully changed your expertise.
-TEXTCLIENT_CHANGE_LIFE_MASTERY_ALREADY_SELECTED,You are already selected expertise.
 TEXTCLIENT_PRODUCTIONREDUCTION_FAIL,Failed to use the production reduction item. Please check your production status.
 TEXTCLIENT_PRODUCTION_FAIL_INGREDIENT_COUNT,You do not have enough ingredients.
 TEXTCLIENT_PRODUCTION_FAIL_CHECK_ITEM,Unable to check your ingredients.

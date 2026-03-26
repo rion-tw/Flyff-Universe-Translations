@@ -1086,7 +1086,7 @@ PROPSKILL_TXT_150549,"Casts storm clouds over a targeted area, periodically stri
 PROPSKILL_TXT_150550,Strike interval is shorter.,Schlagintervall ist kürzer.
 PROPSKILL_TXT_150551,"Disrupt the ground, summoning a stone pillar which hurts enemies and lowers their movement speed. After the duration of the pillar, it explodes, dealing extra damage to nearby enemies.","Störe den Boden und beschwöre eine Steinsäule, die Gegner verletzt und ihre Bewegungsgeschwindigkeit senkt. Nach der Dauer der Säule explodiert sie und verursacht zusätzlichen Schaden an nahen Gegnern."
 PROPSKILL_TXT_150552,"Create a swamp at the selected area, slowing movement speed and dealing damage. Enemies in the swamp cannot use movement skills.","Erschaffe einen Sumpf im ausgewählten Bereich, der Bewegungsgeschwindigkeit verlangsamt und Schaden verursacht. Gegner im Sumpf können keine Bewegungsfähigkeiten verwenden."
-PROPSKILL_TXT_150553,"Spawn a gust of wind that pushes back nearby enemies, increases magic resistance, and ranged block chance.","Erschaffe eine Windbö, die nahe Gegner zurückstößt, magische Resistenz und Fernkampf-Blockchance erhöht."
+PROPSKILL_TXT_150553,"Spawn a gust of wind that pushes back nearby enemies, reflects incoming damage, and ranged block chance.","Erschaffe eine Windbö, die nahe Gegner zurückstößt, magische Resistenz und Fernkampf-Blockchance erhöht."
 PROPSKILL_TXT_150554,Roots will go through more enemies.,Wurzeln gehen durch mehr Gegner.
 PROPSKILL_TXT_150555,"Roots will explode once they hit an enemy, dealing damage to them. Explosions have a chance to knock enemies down.","Wurzeln explodieren, sobald sie einen Gegner treffen, und verursachen Schaden an ihnen. Explosionen haben eine Chance, Gegner niederzuschlagen."
 PROPSKILL_TXT_150556,Fire additional roots in a cone in front of you.,Feuere zusätzliche Wurzeln in einem Kegel vor dir ab.
@@ -1099,7 +1099,7 @@ PROPSKILL_TXT_150562,The damage you take from burning enemies is decreased.,"Der
 PROPSKILL_TXT_150563,The damage you take from enemies affected by water skills is decreased.,"Der Schaden, den du von durch Wasserfähigkeiten betroffenen Gegnern erleidest, wird verringert."
 PROPSKILL_TXT_150564,The damage you take from enemies with Suffocate stacks is decreased.,"Der Schaden, den du von Gegnern mit Suffocate-Stapeln erleidest, wird verringert."
 PROPSKILL_TXT_150565,The damage you take from Shocked enemies is decreased.,"Der Schaden, den du von geschockten Gegnern erleidest, wird verringert."
-PROPSKILL_TXT_150566,"When enemies are petrified from Entangling Roots, your defense and melee block rate are increased.","Wenn Gegner durch Entangling Roots versteinert werden, werden deine Verteidigung und Nahkampf-Blockrate erhöht."
+PROPSKILL_TXT_150566,"When enemies are petrified by Entangling Roots, your incoming damage is reduced and your melee block rate is increased.","Wenn Gegner durch Entangling Roots versteinert werden, werden deine Verteidigung und Nahkampf-Blockrate erhöht."
 PROPSKILL_TXT_150567,Probability is increased.,Wahrscheinlichkeit wird erhöht.
 PROPSKILL_TXT_150568,Slowing effect is increased.,Verlangsamungseffekt wird erhöht.
 PROPSKILL_TXT_150569,Silence chance is increased.,Verstummungs-Chance wird erhöht.
@@ -1131,7 +1131,7 @@ PROPSKILL_TXT_150594,The God of Death gazes upon you.,Der Gott des Todes blickt 
 PROPSKILL_TXT_150595,Infusion,Infusion
 PROPSKILL_TXT_150596,"Infuse any elemental skills you use with your weapon's applied element, overriding the skill's element.",Durchdringe alle von dir verwendeten Elementarfähigkeiten mit dem angewendeten Element deiner Waffe und überschreibe das Element der Fähigkeit.
 PROPSKILL_TXT_150597,Intelligent Scaling,Intelligent Scaling
-PROPSKILL_TXT_150598,Skill scales with INT instead of STA.,Fähigkeit skaliert mit INT statt mit STA.
+PROPSKILL_TXT_150598,"Skill duration scales with INT instead of STA, with increased duration, reduced penalty, and improved casting efficiency as it levels.",Fähigkeit skaliert mit INT statt mit STA.
 PROPSKILL_TXT_150599,Reduced Penalty,Reduced Penalty
 PROPSKILL_TXT_150600,Attack penalty is reduced.,Angriffsstrafe wird reduziert.
 PROPSKILL_TXT_150601,Reduced Duration,Reduced Duration

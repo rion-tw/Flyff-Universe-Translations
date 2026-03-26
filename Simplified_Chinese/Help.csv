@@ -557,7 +557,7 @@ CLIENT_HELP_INC_000555,This indicates how much “Reduced/Weakened magical damag
 CLIENT_HELP_INC_000556,Properties,属性
 CLIENT_HELP_INC_000557,There are 5 elemental properties or attributes that exist in FLYFF. Each of these properties has a strength and weakness. A player can achieve the highest possible damage when he uses a weapon which is imbued with the property that is the weakness of his enemy’s property.,在FLYFF中存在着5种元素属性。每种属性都有其优势和劣势。当玩家使用被精炼了克制敌方属性的武器时，他将获得最高可能的伤害。
 CLIENT_HELP_INC_000558,Fire,火
-CLIENT_HELP_INC_000559,Fire A property that is weak against the Wind property but is weak against the Water property.,火属性克制风属性，但是被水属性克制
+CLIENT_HELP_INC_000559,Fire A property that is strong against the Wind property but is weak against the Water property.,火属性克制风属性，但是被水属性克制
 CLIENT_HELP_INC_000560,Water,水
 CLIENT_HELP_INC_000561,Water. A property that is as strong against the Fire Property but is weak against the Electricity property.,水属性克制火属性，但是雷属性克制水属性。
 CLIENT_HELP_INC_000562,Electricity,雷属性

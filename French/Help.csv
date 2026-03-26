@@ -557,7 +557,7 @@ CLIENT_HELP_INC_000555,This indicates how much “Reduced/Weakened magical damag
 CLIENT_HELP_INC_000556,Properties,Eléments
 CLIENT_HELP_INC_000557,There are 5 elemental properties or attributes that exist in FLYFF. Each of these properties has a strength and weakness. A player can achieve the highest possible damage when he uses a weapon which is imbued with the property that is the weakness of his enemy’s property.,"Le monde de Flyff est gouverné par 5 éléments: le feu, l'eau, la foudre, la terre et le vent. Chaque ennemi étant plus ou moins résistant ou sensible à chaque élément, utilisez au mieux vos attaques et enchantement pour infliger le maximum de dégâts."
 CLIENT_HELP_INC_000558,Fire,Feu
-CLIENT_HELP_INC_000559,Fire A property that is weak against the Wind property but is weak against the Water property.,"Le feu triomphe du vent, mais est sensible à l'eau."
+CLIENT_HELP_INC_000559,Fire A property that is strong against the Wind property but is weak against the Water property.,"Le feu triomphe du vent, mais est sensible à l'eau."
 CLIENT_HELP_INC_000560,Water,Eau
 CLIENT_HELP_INC_000561,Water. A property that is as strong against the Fire Property but is weak against the Electricity property.,"L'eau triomphe du feu, mais est sensible à la foudre."
 CLIENT_HELP_INC_000562,Electricity,Foudre

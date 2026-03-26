@@ -1729,6 +1729,8 @@ UI_DROP_DISTRIBUTE_RESULT,%s was awarded the item.,%s 获得了该物品。
 UI_DROP_DISTRIBUTE_RESULT_MAIL,The item has been mailed to a player who is no longer available.,该物品已邮寄给一名不存在的玩家。
 UI_DROP_DISTRIBUTE_CURRENT,Item: %d/%d,物品: %d/%d
 UI_TOOLTIP_MULTISTRIKE,Multistrike Chance,多重打击几率
+UI_TOOLTIP_PVP_MULTISTRIKE,Multistrike Chance (PvP),Multistrike Chance (PvP)
+UI_TOOLTIP_PVE_MULTISTRIKE,Multistrike Chance (PvE),Multistrike Chance (PvE)
 UI_BATTLEPASS_MISSION_KILLMONSTER_PK,Hunt Monsters Lv.%s+ on the PK Channel,在PK频道击杀 Lv.%s 以上怪物
 UI_BATTLEPASS_MISSION_KILLMONSTER2_PK,Hunt %s on the PK Channel,在PK频道击杀 %s
 UI_BATTLEPASS_MISSION_CLEARDUNGEON,Clear Dungeon(s),通关副本
@@ -1787,7 +1789,7 @@ UI_EXCHANGE_2,2 Exchanges,2 次兑换
 UI_EXCHANGE_3,3 Exchanges,3 次兑换
 UI_EXCHANGE_4,4 Exchanges,4 次兑换
 UI_EXCHANGE_5,5 Exchanges,5 次兑换
-UI_QUEST_TRIGGERCTRL,Open %s #cffc32f07#b%d/%d#nb#nc, 打开 %s #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_TRIGGERCTRL,Open %s #cffc32f07#b%d/%d#nb#nc,打开 %s #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_RESCUE_CHILDRENS,Rescue Children #cffc32f07#b%d/%d#nb#nc,Rescue Children #cffc32f07#b%d/%d#nb#nc
 UI_GACHA_RESET_CONFIRM,Reset the gacha? This action cannot be undone.,重置扭蛋？此操作无法撤销。
 UI_FITTINGROOM_REMOVE_FASHION,Remove Fashion,移除时装
@@ -2002,7 +2004,7 @@ UI_RAINBOWRACE_RANKING_TIP,View the rankings of the previous race.,View the rank
 UI_RAINBOWRACE_APP_DISABLE_TIP,Registration is not currently open.,Registration is not currently open.
 UI_RAINBOWRACE_APP_TIMELEFT,Next Race: ,Next Race: 
 UI_CREATEULTIMATEWEAPON_TITLE,Create Ultimate Weapon,制作终极武器
-UI_CREATEULTIMATEWEAPON_DETAIL,"Level 150+ Unique weapons can be converted into Ultimate weapons.\nTo convert, your unique weapon must be upgraded to +10, and you must provide 3 Shining Oricalkums, 3 Ultimate Orbs, and 100,000,000 Penya. Ultimate weapons retain all elemental upgrades, piercings, and stats upon conversion.",“150 级以上传奇武器可转换成为终极武器。转换条件：你的传奇武器必须强化至 +10，并消耗 3 个闪耀晶石、3 个终极宝珠以及 100,000,000 金币。终极武器在转换后将保留所有元素强化、穿孔及属性。”
+UI_CREATEULTIMATEWEAPON_DETAIL,"Level 150+ Unique weapons can be converted into Ultimate weapons.\nTo convert, your unique weapon must be upgraded to +10, and you must provide 3 Shining Oricalkums, 3 Ultimate Orbs, and 100,000,000 Penya. Ultimate weapons retain all elemental upgrades, piercings, and stats upon conversion.","“150 级以上传奇武器可转换成为终极武器。转换条件：你的传奇武器必须强化至 +10，并消耗 3 个闪耀晶石、3 个终极宝珠以及 100,000,000 金币。终极武器在转换后将保留所有元素强化、穿孔及属性。”"
 UI_CREATEULTIMATEWEAPON_CONFIRM,Confirm Ultimate weapon conversion?,你想要继续吗？
 UI_CREATEULTIMATEWEAPON_ERROR_ITEM,This item cannot be made Ultimate.,无法用在此物品上
 UI_CREATEULTIMATEWEAPON_ERROR_UPGRADELEVEL,You can only convert +10 weapons.,只能转换 +10 的武器。
@@ -3275,3 +3277,7 @@ UI_NEWYEARPASS_2026,2026 New Year Pass,2026 New Year Pass
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,在衣橱中
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,不在衣橱中
 UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,宠物经验达到 99.99%
+UI_DEBUG_DEVICE_ADVERTISING_ID,Advertising ID: ,Advertising ID: 
+UI_DEBUG_DEVICE_EEA,EEA: ,EEA: 
+UI_DEBUG_DEVICE_AD_PERSONALIZATION,Ad Personalization: ,Ad Personalization: 
+UI_DEBUG_DEVICE_AD_USER_DATA,Ad User Data: ,Ad User Data: 

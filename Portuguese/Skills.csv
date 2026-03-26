@@ -1086,7 +1086,7 @@ PROPSKILL_TXT_150549,"Casts storm clouds over a targeted area, periodically stri
 PROPSKILL_TXT_150550,Strike interval is shorter.,Strike interval is shorter.
 PROPSKILL_TXT_150551,"Disrupt the ground, summoning a stone pillar which hurts enemies and lowers their movement speed. After the duration of the pillar, it explodes, dealing extra damage to nearby enemies.","Disrupt the ground, summoning a stone pillar which hurts enemies and lowers their movement speed. After the duration of the pillar, it explodes, dealing extra damage to nearby enemies."
 PROPSKILL_TXT_150552,"Create a swamp at the selected area, slowing movement speed and dealing damage. Enemies in the swamp cannot use movement skills.","Create a swamp at the selected area, slowing movement speed and dealing damage. Enemies in the swamp cannot use movement skills."
-PROPSKILL_TXT_150553,"Spawn a gust of wind that pushes back nearby enemies, increases magic resistance, and ranged block chance.","Spawn a gust of wind that pushes back nearby enemies, increases magic resistance, and ranged block chance."
+PROPSKILL_TXT_150553,"Spawn a gust of wind that pushes back nearby enemies, reflects incoming damage, and ranged block chance.","Spawn a gust of wind that pushes back nearby enemies, reflects incoming damage, and ranged block chance."
 PROPSKILL_TXT_150554,Roots will go through more enemies.,Roots will go through more enemies.
 PROPSKILL_TXT_150555,"Roots will explode once they hit an enemy, dealing damage to them. Explosions have a chance to knock enemies down.","Roots will explode once they hit an enemy, dealing damage to them. Explosions have a chance to knock enemies down."
 PROPSKILL_TXT_150556,Fire additional roots in a cone in front of you.,Fire additional roots in a cone in front of you.
@@ -1099,7 +1099,7 @@ PROPSKILL_TXT_150562,The damage you take from burning enemies is decreased.,The 
 PROPSKILL_TXT_150563,The damage you take from enemies affected by water skills is decreased.,The damage you take from enemies affected by water skills is decreased.
 PROPSKILL_TXT_150564,The damage you take from enemies with Suffocate stacks is decreased.,The damage you take from enemies with Suffocate stacks is decreased.
 PROPSKILL_TXT_150565,The damage you take from Shocked enemies is decreased.,The damage you take from Shocked enemies is decreased.
-PROPSKILL_TXT_150566,"When enemies are petrified from Entangling Roots, your defense and melee block rate are increased.","When enemies are petrified from Entangling Roots, your defense and melee block rate are increased."
+PROPSKILL_TXT_150566,"When enemies are petrified by Entangling Roots, your incoming damage is reduced and your melee block rate is increased.","When enemies are petrified by Entangling Roots, your incoming damage is reduced and your melee block rate is increased."
 PROPSKILL_TXT_150567,Probability is increased.,Probability is increased.
 PROPSKILL_TXT_150568,Slowing effect is increased.,Slowing effect is increased.
 PROPSKILL_TXT_150569,Silence chance is increased.,Silence chance is increased.
@@ -1131,7 +1131,7 @@ PROPSKILL_TXT_150594,The God of Death gazes upon you.,The God of Death gazes upo
 PROPSKILL_TXT_150595,Infusion,Infusion
 PROPSKILL_TXT_150596,"Infuse any elemental skills you use with your weapon's applied element, overriding the skill's element.","Infuse any elemental skills you use with your weapon's applied element, overriding the skill's element."
 PROPSKILL_TXT_150597,Intelligent Scaling,Intelligent Scaling
-PROPSKILL_TXT_150598,Skill scales with INT instead of STA.,Skill scales with INT instead of STA.
+PROPSKILL_TXT_150598,"Skill duration scales with INT instead of STA, with increased duration, reduced penalty, and improved casting efficiency as it levels.","Skill duration scales with INT instead of STA, with increased duration, reduced penalty, and improved casting efficiency as it levels."
 PROPSKILL_TXT_150599,Reduced Penalty,Reduced Penalty
 PROPSKILL_TXT_150600,Attack penalty is reduced.,Attack penalty is reduced.
 PROPSKILL_TXT_150601,Reduced Duration,Reduced Duration

@@ -903,7 +903,7 @@ ACHIEVEMENT_STAT_INTELLIGENCE_NAME,Intelligence,智力
 ACHIEVEMENT_STAT_INTELLIGENCE_DESC,Get 253 BASE INT.,基礎智力達到253
 ACHIEVEMENT_STAT_INTELLIGENCE_TITLE,Sage,睿智
 ACHIEVEMENT_DAILY_PLAY_TIME_NAME,Daily Playtime,每日上線時間
-ACHIEVEMENT_DAILY_PLAY_TIME_DESC,"Unlock rewards at 10, 20, 30, and 40 minutes of playtime. Resets daily at midnight.","線上時間長達 10 分鐘、20 分鐘、30 分鐘和 40 分鐘時，即可解鎖獎勵，每日午夜重置。"
+ACHIEVEMENT_DAILY_PLAY_TIME_DESC,"Unlock rewards at 10, 20, 30, and 40 minutes of playtime. Resets daily at midnight.",線上時間長達 10 分鐘、20 分鐘、30 分鐘和 40 分鐘時，即可解鎖獎勵，每日午夜重置。
 ACHIEVEMENT_DAILY_PLAY_TIME_LVL1,10 min,10分鐘
 ACHIEVEMENT_DAILY_PLAY_TIME_LVL2,20 min,20分鐘
 ACHIEVEMENT_DAILY_PLAY_TIME_LVL3,30 min,30分鐘
@@ -1016,7 +1016,7 @@ ACHIEVEMENT_RAINBOWRACE_WINS_DESC,Unique rewards based on the number of Rainbow 
 ACHIEVEMENT_MASTER110_TITLE,Master,大師
 ACHIEVEMENT_DAILY_PLAY_TIME_PREMIUM_DESC,Use a Bonus Playtime Coupon (purchasable with fCoins) to unlock bonus rewards at each daily playtime milestone.,使用fCoin賺取額外的出席獎勵。
 ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_NAME,Bonus Login Rewards,額外登入獎勵
-ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,"Use a Bonus Login Coupon (purchasable with fCoins) to unlock bonus rewards for each day you log in. After completion, you can use another coupon to start over.","使用登入優惠券（可使用fCoins購買）即可解鎖每日登入獎勵。獎勵完成後，您可以使用另一張優惠券重新開始。"
+ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,"Use a Bonus Login Coupon (purchasable with fCoins) to unlock bonus rewards for each day you log in. After completion, you can use another coupon to start over.",使用登入優惠券（可使用fCoins購買）即可解鎖每日登入獎勵。獎勵完成後，您可以使用另一張優惠券重新開始。
 ACHIEVEMENT_FWC_2024_BEGINNER_NAME,2024 FWC Beginner,2024年FWC初賽者
 ACHIEVEMENT_FWC_2024_COMBATANT_NAME,2024 FWC Combatant,2024年FWC戰鬥者
 ACHIEVEMENT_FWC_2024_COMBATANT_DESC,Reach level 60 in the 2024 Flyff World Championship.,在 2024 年 Flyff 世界錦標賽中達到 60 級。
@@ -1055,7 +1055,7 @@ ACHIEVEMENT_COUPLE_MOTION_01_TITLE,Like Bread and Butter,甜蜜合拍
 ACHIEVEMENT_COUPLE_MOTION_02_NAME,Couple Emotes 1000,情侶動作 1000 次
 ACHIEVEMENT_COUPLE_MOTION_02_TITLE,Great Couples Think Alike,心有靈犀
 ACHIEVEMENT_COUPLE_MOTION_03_NAME,Couple Emotes 10000,情侶動作 10000 次
-ACHIEVEMENT_COUPLE_MOTION_03_TITLE,"One Mind, One Body","一心一意"
+ACHIEVEMENT_COUPLE_MOTION_03_TITLE,"One Mind, One Body",一心一意
 ACHIEVEMENT_COUPLE_MOTION_DESC,Use couple emotes.,使用情侶動作。
 ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_NAME,Great Success!,大獲成功！
 ACHIEVEMENT_LIFE_MASTERY_GREAT_SUCCESS_TITLE01,Bonus Obtained,獲得獎勵

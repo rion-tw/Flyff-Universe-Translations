@@ -462,7 +462,7 @@ TEXTCLIENT_ACCESSORY_MAXOVER,Jewelry can be upgraded to +20.,Les accessoires peu
 TEXTCLIENT_UPGRADE_ERROR_WRONGUPLEVEL,Using wrong item to upgrade.,Vous avez utilisé un mauvais objet.
 TEXTCLIENT_UPGRADE_ERROR_NOSUPSTONE,Not enough supplement item.,Vous ne disposez pas de suffisamment d'objets supplémentaires.
 TEXTCLIENT_UPGRADE_FAIL,The upgrade has failed.,L'enchantement a échoué.
-TEXTCLIENT_UPGRADE_SUCCESSFUL,Upgrade Succesful!,Félicitations ! L'enchantement a réussi !
+TEXTCLIENT_UPGRADE_SUCCESSFUL,Upgrade Successful!,Félicitations ! L'enchantement a réussi !
 TEXTCLIENT_REMOVE_ERROR,That weapon is not possible to remove the element upgrading. Try again after checking.,L'enchantement de cet objet ne peut être supprimé.
 TEXTCLIENT_REMOVE_ATTRIBUTE_CONFIRM,The element of weapon was removed.,L'enchantement de cet objet a été supprimé.
 TEXTCLIENT_DEPEN_USE,This item takes effect once your character dies. Do you want to use it?,Cet objet prend effet à la mort du personnage. Souhaitez-vous l'utiliser ?
@@ -732,7 +732,7 @@ TEXTCLIENT_CARDUPGRADE_SUCCESS,Card upgrade successful!,Amélioration réussie !
 TEXTCLIENT_CARDUPGRADE_FAIL,Card upgrade failed.,L'amélioration de carte à échoué...
 TEXTCLIENT_CARDUPGRADE_FAIL2,Card upgrade failed. %d of registered card will be destroyed.,L'amélioration de carte a échoué. %d cartes vont être détruites.
 TEXTCLIENT_CARDRESHUFFLE_SUCCESS,You received %s.,Vous avez reçu %s.
-TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Succesful!,Conversion réussie !
+TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Successful!,Conversion réussie !
 TEXTCLIENT_GUILD_ADDSUPPM,%s increased the amount of members you can have in the guild by 5!,%s a augmenté le nombre maximal de membres de la guilde de 5 !
 TEXTCLIENT_REPORT_SUCCESS,Successfully sent report.,Le signalement a été envoyé.
 TEXTCLIENT_REPORT_WAIT,You must wait before reporting the same player.,Vous devez attendre avant de signaler ce joueur à nouveau.
@@ -1084,7 +1084,7 @@ TEXTCLIENT_RAINBOWRACE_END,The Rainbow Race is over! The winner is %s!,La Course
 TEXTCLIENT_RAINBOWRACE_NOPENYA,You do not have enough Penya to apply for the Rainbow Race.,Vous n'avez pas assez de Penyas pour vous inscrire à la Course Arc-En-Ciel.
 TEXTCLIENT_RAINBOWRACE_EXIST,You've already applied for the next race.,Vous êtes déjà inscrit pour la prochaine course.
 TEXTCLIENT_RAINBOWRACE_NOPLAYERS,The Rainbow Race was not held due to lack of participants.,"La Course Arc-En-Ciel n'aura pas lieu, faute de participants."
-TEXTCLIENT_ULTIMATE_CONVERSION_SUCCESSFUL,Conversion Succesful!,Conversion réussie !
+TEXTCLIENT_ULTIMATE_CONVERSION_SUCCESSFUL,Conversion Successful!,Conversion réussie !
 TEXTCLIENT_ULTIMATE_CONVERSION_NOMATERIAL,Not enough Material.,Pas assez de matériaux.
 TEXTCLIENT_UPGRADE_MAXLEVEL,This item has reached its maximum upgrade level.,L'objet a été son niveau d'amélioration maximum.
 TEXTCLIENT_UPGRADE_GREAT_FAILURE,The upgrade has been a great failure.,L'amélioration a été un échec critique.

@@ -8695,10 +8695,10 @@ PROPITEM_TXT_102024,Thanksgiving Smelting Scroll Package A,Thanksgiving Smelting
 PROPITEM_TXT_102025,"A package containing 25 Scroll of SProtect, 25 Scroll of Weapon Bonus and a Soccer Costume Box. All items are also linked.","A package containing 25 Scroll of SProtect, 25 Scroll of Weapon Bonus and a Soccer Costume Box. All items are also linked."
 PROPITEM_TXT_102026,Thanksgiving Smelting Scroll Package B,Thanksgiving Smelting Scroll Package B
 PROPITEM_TXT_102027,"A package containing 25 Scroll of GProtect, 45 Scroll of AProtect and a Soccer Costume Box. All items are also linked.","A package containing 25 Scroll of GProtect, 45 Scroll of AProtect and a Soccer Costume Box. All items are also linked."
-PROPITEM_TXT_102028,Red Turkey,Red Turkey
-PROPITEM_TXT_102029,"This roasted turkey provides +50% Exp and +30 STR for 1 hour. Does not stack with Scroll of Amplification ES, Elixir of the Tiger nor Flask of the Tiger.","This roasted turkey provides +50% Exp and +30 STR for 1 hour. Does not stack with Scroll of Amplification ES, Elixir of the Tiger nor Flask of the Tiger."
-PROPITEM_TXT_102030,Green Turkey,Green Turkey
-PROPITEM_TXT_102031,"This roasted turkey provides +50% Exp and +30 DEX for 1 hour. Does not stack with Scroll of Amplification ES, Elixir of the Rabbit nor Flask of the Rabbit.","This roasted turkey provides +50% Exp and +30 DEX for 1 hour. Does not stack with Scroll of Amplification ES, Elixir of the Rabbit nor Flask of the Rabbit."
+PROPITEM_TXT_102028,Red Turkey,红色火鸡
+PROPITEM_TXT_102029,"This roasted turkey provides +50% Exp and +30 STR for 1 hour. Does not stack with Scroll of Amplification ES, Elixir of the Tiger nor Flask of the Tiger.",这只烤火鸡提供+50%经验值和1个小时的30力量。不能与ES经验加成卷轴，力量药水，强力力量药水相叠加。
+PROPITEM_TXT_102030,Green Turkey,绿色火鸡
+PROPITEM_TXT_102031,"This roasted turkey provides +50% Exp and +30 DEX for 1 hour. Does not stack with Scroll of Amplification ES, Elixir of the Rabbit nor Flask of the Rabbit.",这只烤火鸡提供+50%经验值和1个小时的30敏捷。不能与ES经验加成卷轴，敏捷药水，强力敏捷药水相叠加。
 PROPITEM_TXT_102032,Blue Turkey,蓝色火鸡
 PROPITEM_TXT_102033,"This roasted turkey provides +50% Exp and +30 INT for 1 hour. Does not stack with Scroll of Amplification ES, Elixir of the Fox nor Flask of the Fox.",这只烤火鸡提供+50%经验值和1个小时的30智力。不能与ES经验加成卷轴，智力药水，强力智力药水相叠加。
 PROPITEM_TXT_102034,Yellow Turkey,黄色火鸡
@@ -10480,7 +10480,7 @@ PROPITEM_TXT_110905,White Stripe Black Bear,White Stripe Black Bear
 PROPITEM_TXT_110906,White Stripe White Bear,White Stripe White Bear
 PROPITEM_TXT_110907,White Stripe Lucky Box,White Stripe Lucky Box
 PROPITEM_TXT_110908,This box contains a White Stripe Set with Speed bonus. You can select your gender after opening the Lucky Box.,This box contains a White Stripe Set with Speed bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_120786,FWC Black Wings,FWC Black Wings
+PROPITEM_TXT_120786,FWC Black Wings,FWC 黑翅膀
 PROPITEM_TXT_120787,Earn it from the Flyff World Championship!,Earn it from the Flyff World Championship!
 PROPITEM_TXT_120788,Green Chips,绿纸片
 PROPITEM_TXT_120789,Adorned Aibatt Cap,Adorned Aibatt Cap
@@ -11937,15 +11937,15 @@ PROPITEM_TXT_122103,Halloween Random Box,Halloween Random Box
 PROPITEM_TXT_122104,Lucky box that you can obtain various rewards by chance upon use.,Lucky box that you can obtain various rewards by chance upon use.
 PROPITEM_TXT_400012,Extended Halloween Pass,Extended Halloween Pass
 PROPITEM_TXT_400013,This purchase will give you access to many advantages until the end of the Halloween Pass 2023 season,This purchase will give you access to many advantages until the end of the Halloween Pass 2023 season
-PROPITEM_TXT_221915,Scroll of Guild Custody,Scroll of Guild Custody
-PROPITEM_TXT_221916,Use your Guild Warehouse remotely! Can't use when not affiliated with a guild.,Use your Guild Warehouse remotely! Can't use when not affiliated with a guild.
+PROPITEM_TXT_221915,Scroll of Guild Custody,公会仓库卷轴
+PROPITEM_TXT_221916,Use your Guild Warehouse remotely! Can't use when not affiliated with a guild.,远程使用公会仓库！未加入公会时无法使用。
 PROPITEM_TXT_221917,Scroll of General Shop,精品店卷轴
 PROPITEM_TXT_221918,"Use it to access a remote shop for general items(Collector, Poster, Magic Tools, Arrows)!",能够远程购买精品店商品(采集器，符咒，魔法道具，箭)！
 PROPITEM_TXT_221919,Scroll of Food Shop,餐饮店卷轴
 PROPITEM_TXT_221920,Use it to access a remote food shop!,能够远程购买餐饮店商品！
-PROPITEM_TXT_221921,Scroll of Multi-Shop,Scroll of Multi-Shop
-PROPITEM_TXT_221922,Use it to access the ultimate remote shop!,Use it to access the ultimate remote shop!
-PROPITEM_TXT_221923,Nitro Booster,Nitro Booster
+PROPITEM_TXT_221921,Scroll of Multi-Shop,多类型商店卷轴
+PROPITEM_TXT_221922,Use it to access the ultimate remote shop!,使用它，即可进入终极远程商店！
+PROPITEM_TXT_221923,Nitro Booster,氮气加速
 PROPITEM_TXT_221924,"Use of this nitro booster can increase your flying speed by up to 30% for a limited time. To use, double click while mounted and press the <X> Key to toggle the boost on or off.","Use of this nitro booster can increase your flying speed by up to 30% for a limited time. To use, double click while mounted and press the <X> Key to toggle the boost on or off."
 PROPITEM_TXT_221925,Nitro Booster (7 Days),Nitro Booster (7 Days)
 PROPITEM_TXT_221926,"Provides unlimited Nitro Booster for 7 days, increasing your flying speed by up to 30%.","Provides unlimited Nitro Booster for 7 days, increasing your flying speed by up to 30%."
@@ -12202,82 +12202,82 @@ PROPITEM_TXT_014620,Song of Sirens,塞壬之歌
 PROPITEM_TXT_014622,Lamprey's Wand,呼风唤雨
 PROPITEM_TXT_014624,Conch Stave,海潮回响
 PROPITEM_TXT_014625,Formed over the ages deep within the watery sands of Coral Island.,于珊瑚岛的水砂深处久经磨砺而形成。
-PROPITEM_TXT_018197,Wingwander Boots,Wingwander Boots
-PROPITEM_TXT_018199,Wingwander Gauntlets,Wingwander Gauntlets
-PROPITEM_TXT_018201,Wingwander Helmet,Wingwander Helmet
-PROPITEM_TXT_018203,Wingwander Suit,Wingwander Suit
-PROPITEM_TXT_018205,Drakoria Boots,Drakoria Boots
-PROPITEM_TXT_018207,Drakoria Gauntlets,Drakoria Gauntlets
-PROPITEM_TXT_018209,Drakoria Helmet,Drakoria Helmet
-PROPITEM_TXT_018211,Drakoria Suit,Drakoria Suit
-PROPITEM_TXT_018213,Luminia Boots,Luminia Boots
-PROPITEM_TXT_018215,Luminia Gauntlets,Luminia Gauntlets
-PROPITEM_TXT_018217,Luminia Helmet,Luminia Helmet
-PROPITEM_TXT_018219,Luminia Suit,Luminia Suit
-PROPITEM_TXT_018221,Tigressa Boots,Tigressa Boots
-PROPITEM_TXT_018223,Tigressa Gauntlets,Tigressa Gauntlets
-PROPITEM_TXT_018225,Tigressa Helmet,Tigressa Helmet
-PROPITEM_TXT_018227,Tigressa Suit,Tigressa Suit
-PROPITEM_TXT_018229,Manetress Boots,Manetress Boots
-PROPITEM_TXT_018231,Manetress Gauntlets,Manetress Gauntlets
-PROPITEM_TXT_018233,Manetress Helmet,Manetress Helmet
-PROPITEM_TXT_018235,Manetress Suit,Manetress Suit
-PROPITEM_TXT_018237,Primalix Boots,Primalix Boots
-PROPITEM_TXT_018239,Primalix Gauntlets,Primalix Gauntlets
-PROPITEM_TXT_018241,Primalix Helmet,Primalix Helmet
-PROPITEM_TXT_018243,Primalix Suit,Primalix Suit
-PROPITEM_TXT_018245,Lyceris Boots,Lyceris Boots
-PROPITEM_TXT_018247,Lyceris Gauntlets,Lyceris Gauntlets
-PROPITEM_TXT_018249,Lyceris Helmet,Lyceris Helmet
-PROPITEM_TXT_018251,Lyceris Suit,Lyceris Suit
-PROPITEM_TXT_018253,Fennia Boots,Fennia Boots
-PROPITEM_TXT_018255,Fennia Gauntlets,Fennia Gauntlets
-PROPITEM_TXT_018257,Fennia Helmet,Fennia Helmet
-PROPITEM_TXT_018259,Fennia Suit,Fennia Suit
-PROPITEM_TXT_018261,Wingwalker Boots,Wingwalker Boots
-PROPITEM_TXT_018263,Wingwalker Gauntlets,Wingwalker Gauntlets
-PROPITEM_TXT_018265,Wingwalker Helmet,Wingwalker Helmet
-PROPITEM_TXT_018267,Wingwalker Suit,Wingwalker Suit
-PROPITEM_TXT_018269,Drakorin Boots,Drakorin Boots
-PROPITEM_TXT_018271,Drakorin Gauntlets,Drakorin Gauntlets
-PROPITEM_TXT_018273,Drakorin Helmet,Drakorin Helmet
-PROPITEM_TXT_018275,Drakorin Suit,Drakorin Suit
-PROPITEM_TXT_018277,Luminis Boots,Luminis Boots
-PROPITEM_TXT_018279,Luminis Gauntlets,Luminis Gauntlets
-PROPITEM_TXT_018281,Luminis Helmet,Luminis Helmet
-PROPITEM_TXT_018283,Luminis Suit,Luminis Suit
-PROPITEM_TXT_018285,Tigraknar Boots,Tigraknar Boots
-PROPITEM_TXT_018287,Tigraknar Gauntlets,Tigraknar Gauntlets
-PROPITEM_TXT_018289,Tigraknar Helmet,Tigraknar Helmet
-PROPITEM_TXT_018291,Tigraknar Suit,Tigraknar Suit
-PROPITEM_TXT_018293,Manebound Boots,Manebound Boots
-PROPITEM_TXT_018295,Manebound Gauntlets,Manebound Gauntlets
-PROPITEM_TXT_018297,Manebound Helmet,Manebound Helmet
-PROPITEM_TXT_018299,Manebound Suit,Manebound Suit
-PROPITEM_TXT_018301,Primamind Boots,Primamind Boots
-PROPITEM_TXT_018303,Primamind Gauntlets,Primamind Gauntlets
-PROPITEM_TXT_018305,Primamind Helmet,Primamind Helmet
-PROPITEM_TXT_018307,Primamind Suit,Primamind Suit
-PROPITEM_TXT_018309,Lycanith Boots,Lycanith Boots
-PROPITEM_TXT_018311,Lycanith Gauntlets,Lycanith Gauntlets
-PROPITEM_TXT_018313,Lycanith Helmet,Lycanith Helmet
-PROPITEM_TXT_018315,Lycanith Suit,Lycanith Suit
-PROPITEM_TXT_018317,Fennith Boots,Fennith Boots
-PROPITEM_TXT_018319,Fennith Gauntlets,Fennith Gauntlets
-PROPITEM_TXT_018321,Fennith Helmet,Fennith Helmet
-PROPITEM_TXT_018323,Fennith Suit,Fennith Suit
-PROPITEM_TXT_018325,"A mysterious artifact from The Wilds, pulsating with primal energy.","A mysterious artifact from The Wilds, pulsating with primal energy."
-PROPITEM_TXT_122300,Crumbling Coral Cutlass,Crumbling Coral Cutlass
-PROPITEM_TXT_122301,Lethargic Leviathan,Lethargic Leviathan
-PROPITEM_TXT_122302,Neglected Nautilus,Neglected Nautilus
-PROPITEM_TXT_122303,Archaic Abyss,Archaic Abyss
-PROPITEM_TXT_122304,Nebulous Nemo's Fury,Nebulous Nemo's Fury
-PROPITEM_TXT_122305,Tarnished Typhoon,Tarnished Typhoon
-PROPITEM_TXT_122306,Flawed Fist of Tides,Flawed Fist of Tides
-PROPITEM_TXT_122307,Sundered Song of Sirens,Sundered Song of Sirens
-PROPITEM_TXT_122308,Leaky Lamprey's Wand,Leaky Lamprey's Wand
-PROPITEM_TXT_122309,Craggy Conch Stave,Craggy Conch Stave
-PROPITEM_TXT_122310,"This weathered iteration emerged as an imperfect echo of its prime, marked by the passage of time.","This weathered iteration emerged as an imperfect echo of its prime, marked by the passage of time."
+PROPITEM_TXT_018197,Wingwander Boots,翔翼鞋子
+PROPITEM_TXT_018199,Wingwander Gauntlets,翔翼手套
+PROPITEM_TXT_018201,Wingwander Helmet,翔翼帽子
+PROPITEM_TXT_018203,Wingwander Suit,翔翼上衣
+PROPITEM_TXT_018205,Drakoria Boots,龙脊鞋子
+PROPITEM_TXT_018207,Drakoria Gauntlets,龙脊手套
+PROPITEM_TXT_018209,Drakoria Helmet,龙脊帽子
+PROPITEM_TXT_018211,Drakoria Suit,龙脊上衣
+PROPITEM_TXT_018213,Luminia Boots,莹光鞋子
+PROPITEM_TXT_018215,Luminia Gauntlets,莹光手套
+PROPITEM_TXT_018217,Luminia Helmet,莹光帽子
+PROPITEM_TXT_018219,Luminia Suit,莹光上衣
+PROPITEM_TXT_018221,Tigressa Boots,虎姬鞋子
+PROPITEM_TXT_018223,Tigressa Gauntlets,虎姬手套
+PROPITEM_TXT_018225,Tigressa Helmet,虎姬帽子
+PROPITEM_TXT_018227,Tigressa Suit,虎姬上衣
+PROPITEM_TXT_018229,Manetress Boots,鬃影鞋子
+PROPITEM_TXT_018231,Manetress Gauntlets,鬃影手套
+PROPITEM_TXT_018233,Manetress Helmet,鬃影帽子
+PROPITEM_TXT_018235,Manetress Suit,鬃影上衣
+PROPITEM_TXT_018237,Primalix Boots,元念鞋子
+PROPITEM_TXT_018239,Primalix Gauntlets,元念手套
+PROPITEM_TXT_018241,Primalix Helmet,元念帽子
+PROPITEM_TXT_018243,Primalix Suit,元念上衣
+PROPITEM_TXT_018245,Lyceris Boots,霜狼鞋子
+PROPITEM_TXT_018247,Lyceris Gauntlets,霜狼手套
+PROPITEM_TXT_018249,Lyceris Helmet,霜狼帽子
+PROPITEM_TXT_018251,Lyceris Suit,霜狼上衣
+PROPITEM_TXT_018253,Fennia Boots,凛霜鞋子
+PROPITEM_TXT_018255,Fennia Gauntlets,凛霜手套
+PROPITEM_TXT_018257,Fennia Helmet,凛霜帽子
+PROPITEM_TXT_018259,Fennia Suit,凛霜上衣
+PROPITEM_TXT_018261,Wingwalker Boots,踏翼鞋子
+PROPITEM_TXT_018263,Wingwalker Gauntlets,踏翼手套
+PROPITEM_TXT_018265,Wingwalker Helmet,踏翼帽子
+PROPITEM_TXT_018267,Wingwalker Suit,踏翼上衣
+PROPITEM_TXT_018269,Drakorin Boots,龙铠鞋子
+PROPITEM_TXT_018271,Drakorin Gauntlets,龙铠手套
+PROPITEM_TXT_018273,Drakorin Helmet,龙铠帽子
+PROPITEM_TXT_018275,Drakorin Suit,龙铠上衣
+PROPITEM_TXT_018277,Luminis Boots,辉光鞋子
+PROPITEM_TXT_018279,Luminis Gauntlets,辉光手套
+PROPITEM_TXT_018281,Luminis Helmet,辉光帽子
+PROPITEM_TXT_018283,Luminis Suit,辉光上衣
+PROPITEM_TXT_018285,Tigraknar Boots,虎踞鞋子
+PROPITEM_TXT_018287,Tigraknar Gauntlets,虎踞手套
+PROPITEM_TXT_018289,Tigraknar Helmet,虎踞帽子
+PROPITEM_TXT_018291,Tigraknar Suit,虎踞上衣
+PROPITEM_TXT_018293,Manebound Boots,驭鬃鞋子
+PROPITEM_TXT_018295,Manebound Gauntlets,驭鬃手套
+PROPITEM_TXT_018297,Manebound Helmet,驭鬃帽子
+PROPITEM_TXT_018299,Manebound Suit,驭鬃上衣
+PROPITEM_TXT_018301,Primamind Boots,元智鞋子
+PROPITEM_TXT_018303,Primamind Gauntlets,元智手套
+PROPITEM_TXT_018305,Primamind Helmet,元智帽子
+PROPITEM_TXT_018307,Primamind Suit,元智上衣
+PROPITEM_TXT_018309,Lycanith Boots,恐狼鞋子
+PROPITEM_TXT_018311,Lycanith Gauntlets,恐狼手套
+PROPITEM_TXT_018313,Lycanith Helmet,恐狼帽子
+PROPITEM_TXT_018315,Lycanith Suit,恐狼上衣
+PROPITEM_TXT_018317,Fennith Boots,霜风鞋子
+PROPITEM_TXT_018319,Fennith Gauntlets,霜风手套
+PROPITEM_TXT_018321,Fennith Helmet,霜风帽子
+PROPITEM_TXT_018323,Fennith Suit,霜风上衣
+PROPITEM_TXT_018325,"A mysterious artifact from The Wilds, pulsating with primal energy.",来自「荒野」的神秘神器，涌动着原始的能量。
+PROPITEM_TXT_122300,Crumbling Coral Cutlass,碎裂的珊瑚短剑
+PROPITEM_TXT_122301,Lethargic Leviathan,死去的猛兽
+PROPITEM_TXT_122302,Neglected Nautilus,被遗忘的螺号战斧
+PROPITEM_TXT_122303,Archaic Abyss,太古的绝渊
+PROPITEM_TXT_122304,Nebulous Nemo's Fury,蒙尘的怒涛
+PROPITEM_TXT_122305,Tarnished Typhoon,锈蚀的涡旋
+PROPITEM_TXT_122306,Flawed Fist of Tides,瑕疵的潮汐之拳
+PROPITEM_TXT_122307,Sundered Song of Sirens,破碎的塞壬之歌
+PROPITEM_TXT_122308,Leaky Lamprey's Wand,破漏的呼风唤雨
+PROPITEM_TXT_122309,Craggy Conch Stave,粗砺的海潮回响
+PROPITEM_TXT_122310,"This weathered iteration emerged as an imperfect echo of its prime, marked by the passage of time.",岁月侵蚀的残次品，作为巅峰时期的残缺回响，刻满了时光流逝的印记。
 PROPITEM_TXT_019197,Aqualis Helmet,Aqualis Helmet
 PROPITEM_TXT_019199,Aqualis Suit,Aqualis Suit
 PROPITEM_TXT_019201,Aqualis Gauntlets,Aqualis Gauntlets
@@ -12406,37 +12406,37 @@ PROPITEM_TXT_019444,Seakissed Marinfury Helmet,Seakissed Marinfury Helmet
 PROPITEM_TXT_019446,Seakissed Marinfury Suit,Seakissed Marinfury Suit
 PROPITEM_TXT_019448,Seakissed Marinfury Gauntlets,Seakissed Marinfury Gauntlets
 PROPITEM_TXT_019450,Seakissed Marinfury Boots,Seakissed Marinfury Boots
-PROPITEM_TXT_019451,Destroyed Coral Cutlass,Destroyed Coral Cutlass
-PROPITEM_TXT_019452,Destroyed Leviathan,Destroyed Leviathan
-PROPITEM_TXT_019453,Destroyed Nautilus,Destroyed Nautilus
-PROPITEM_TXT_019454,Destroyed Abyss,Destroyed Abyss
-PROPITEM_TXT_019455,Destroyed Nemo's Fury,Destroyed Nemo's Fury
-PROPITEM_TXT_019456,Destroyed Typhoon,Destroyed Typhoon
-PROPITEM_TXT_019457,Destroyed Fist of Tides,Destroyed Fist of Tides
-PROPITEM_TXT_019458,Destroyed Song of Sirens,Destroyed Song of Sirens
-PROPITEM_TXT_019459,Destroyed Lamprey's Wand,Destroyed Lamprey's Wand
-PROPITEM_TXT_019460,Destroyed Conch Stave,Destroyed Conch Stave
-PROPITEM_TXT_019461,This weapon has been damaged beyond repair.,This weapon has been damaged beyond repair.
-PROPITEM_TXT_019462,Coral Shield,Coral Shield
-PROPITEM_TXT_019463,Mossy Coral Shield,Mossy Coral Shield
-PROPITEM_TXT_019464,Destroyed Coral Shield,Destroyed Coral Shield
-PROPITEM_TXT_019465,This shield has been damaged beyond repair.,This shield has been damaged beyond repair.
+PROPITEM_TXT_019451,Destroyed Coral Cutlass,被摧毁的珊瑚短剑
+PROPITEM_TXT_019452,Destroyed Leviathan,被摧毁的猛兽
+PROPITEM_TXT_019453,Destroyed Nautilus,被摧毁的螺号战斧
+PROPITEM_TXT_019454,Destroyed Abyss,被摧毁的绝渊
+PROPITEM_TXT_019455,Destroyed Nemo's Fury,被摧毁的怒涛
+PROPITEM_TXT_019456,Destroyed Typhoon,被摧毁的涡旋
+PROPITEM_TXT_019457,Destroyed Fist of Tides,被摧毁的潮汐之拳
+PROPITEM_TXT_019458,Destroyed Song of Sirens,被摧毁的塞壬之歌
+PROPITEM_TXT_019459,Destroyed Lamprey's Wand,被摧毁的呼风唤雨
+PROPITEM_TXT_019460,Destroyed Conch Stave,被摧毁的海潮回响
+PROPITEM_TXT_019461,This weapon has been damaged beyond repair.,此武器已严重损坏，无法修复。
+PROPITEM_TXT_019462,Coral Shield,珊瑚之盾
+PROPITEM_TXT_019463,Mossy Coral Shield,苔生珊瑚之盾
+PROPITEM_TXT_019464,Destroyed Coral Shield,破碎的珊瑚之盾
+PROPITEM_TXT_019465,This shield has been damaged beyond repair.,此盾已严重损坏，无法修复。
 PROPITEM_TXT_019466,Lusaka's Shield,卢萨卡之盾
 PROPITEM_TXT_019467,Lusaka's Crystal Shield,卢萨卡的水晶盾
 PROPITEM_TXT_019468,An exquisitely crafted shield found in The Wilds. It hums with power.,在荒野中发现的制作精良的盾牌。它充满了力量。
 PROPITEM_TXT_150000,Lightning Strike,雷霆之怒
-PROPITEM_TXT_150001,"Call a lightning strike upon the person ahead of you in points, slowing them down by 20% for 10 seconds.","Call a lightning strike upon the person ahead of you in points, slowing them down by 20% for 10 seconds."
-PROPITEM_TXT_150002,Guided Missile,Guided Missile
-PROPITEM_TXT_150003,"Attack the current first place player, slowing them down by 25% for 10 seconds. This missile can be stacked up to 2 times.","Attack the current first place player, slowing them down by 25% for 10 seconds. This missile can be stacked up to 2 times."
-PROPITEM_TXT_150004,Net,Net
-PROPITEM_TXT_150005,"Throw a net to the person right behind you in points, slowing them down by 20% for 10 seconds.","Throw a net to the person right behind you in points, slowing them down by 20% for 10 seconds."
-PROPITEM_TXT_150006,Rainbow Barrier,Rainbow Barrier
-PROPITEM_TXT_150007,Cast a barrier upon yourself that protects you from the next attack.,Cast a barrier upon yourself that protects you from the next attack.
+PROPITEM_TXT_150001,"Call a lightning strike upon the person ahead of you in points, slowing them down by 20% for 10 seconds.",对积分榜上位于你前方的玩家召唤一道雷击，使其 10 秒内减速 20%。
+PROPITEM_TXT_150002,Guided Missile,制导导弹
+PROPITEM_TXT_150003,"Attack the current first place player, slowing them down by 25% for 10 seconds. This missile can be stacked up to 2 times.",攻击当前第一名玩家，使其 10 秒内减速 25%。此导弹最多可叠加 2 层。
+PROPITEM_TXT_150004,Net,捕网
+PROPITEM_TXT_150005,"Throw a net to the person right behind you in points, slowing them down by 20% for 10 seconds.",向积分榜上紧随身后的玩家投掷一张网，使其 10 秒内减速 20%。
+PROPITEM_TXT_150006,Rainbow Barrier,彩虹屏障
+PROPITEM_TXT_150007,Cast a barrier upon yourself that protects you from the next attack.,为自己施加一道屏障，抵挡下一次攻击。
 PROPITEM_TXT_150008,Rainbow Fuel,Rainbow Fuel
-PROPITEM_TXT_150009,Increase your speed by 30% for 10 seconds.,Increase your speed by 30% for 10 seconds.
-PROPITEM_TXT_150010,Rainbow Boost,Rainbow Boost
-PROPITEM_TXT_150011,Rainbow Flashbang,Rainbow Flashbang
-PROPITEM_TXT_150012,"Flashbang the player behind you in points, covering their screen and slowing them down by 20% for 5 seconds.","Flashbang the player behind you in points, covering their screen and slowing them down by 20% for 5 seconds."
+PROPITEM_TXT_150009,Increase your speed by 30% for 10 seconds.,10 秒内提升自身速度 30%。
+PROPITEM_TXT_150010,Rainbow Boost,彩虹加速
+PROPITEM_TXT_150011,Rainbow Flashbang,彩虹闪光弹
+PROPITEM_TXT_150012,"Flashbang the player behind you in points, covering their screen and slowing them down by 20% for 5 seconds.",对积分榜上紧随其后的玩家投掷闪光弹，遮挡其屏幕并使其 5 秒内减速 20%。
 PROPITEM_TXT_150013,Blue Star 10% Set,Blue Star 10% Set
 PROPITEM_TXT_150014,Blue Star Hat (M),Blue Star Hat (M)
 PROPITEM_TXT_150015,Blue Star Suit (M),Blue Star Suit (M)
@@ -12456,201 +12456,201 @@ PROPITEM_TXT_150028,Yellow Star Suit (M),Yellow Star Suit (M)
 PROPITEM_TXT_150029,Yellow Star Shoes (M),Yellow Star Shoes (M)
 PROPITEM_TXT_150030,Yellow Star Backpack,Yellow Star Backpack
 PROPITEM_TXT_122500,Shining Oricalkum,闪耀晶石
-PROPITEM_TXT_122501,Used when converting regular weapons into Ultimate Weapons.,Used when converting regular weapons into Ultimate Weapons.
+PROPITEM_TXT_122501,Used when converting regular weapons into Ultimate Weapons.,用于将普通武器转化为终极武器。
 PROPITEM_TXT_122502,Ultimate Orb,终极宝珠
-PROPITEM_TXT_122503,Used when converting regular weapons into Ultimate Weapons.,Used when converting regular weapons into Ultimate Weapons.
+PROPITEM_TXT_122503,Used when converting regular weapons into Ultimate Weapons.,用于将普通武器转化为终极武器。
 PROPITEM_TXT_122504,Scroll of Ultimate Power,终极之力卷轴
 PROPITEM_TXT_122505,Resets the range value for the fixed stat of Ultimate Weapons and certain Unique Weapons.,重置终极武器和某些史诗武器的固定属性数值。
 PROPITEM_TXT_122506,Scroll of Ultimate Bonus,终极加成卷轴
 PROPITEM_TXT_122507,Resets the kind of random stat and value that gets applied to the Ultimate Weapon.,重置升级终极武器时应用的附加随机属性种类和数值。
 PROPITEM_TXT_122508,Sunstone,晶石
-PROPITEM_TXT_122509,Used for upgrading Ultimate Weapon.,Used for upgrading Ultimate Weapon.
+PROPITEM_TXT_122509,Used for upgrading Ultimate Weapon.,用于升级终极武器。
 PROPITEM_TXT_122510,Scroll of XProtect,终极防护卷轴
-PROPITEM_TXT_122511,"This scroll prevents the loss of Ultimate Weapon for upgrade failure. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","This scroll prevents the loss of Ultimate Weapon for upgrade failure. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process."
-PROPITEM_TXT_123000,Shield of the Jade Dragon,Shield of the Jade Dragon
-PROPITEM_TXT_123001,Shield of the Jade Defender,Shield of the Jade Defender
-PROPITEM_TXT_123002,Shield of the Jade Magician,Shield of the Jade Magician
-PROPITEM_TXT_123003,Sword of the Jade Dragon,Sword of the Jade Dragon
-PROPITEM_TXT_123004,Axe of the Jade Dragon,Axe of the Jade Dragon
-PROPITEM_TXT_123005,Stick of the Jade Dragon,Stick of the Jade Dragon
-PROPITEM_TXT_123006,Fist of the Jade Dragon,Fist of the Jade Dragon
-PROPITEM_TXT_123007,Wand of the Jade Scholar,Wand of the Jade Scholar
-PROPITEM_TXT_123008,Staff of the Jade Scholar,Staff of the Jade Scholar
-PROPITEM_TXT_123009,Yo-Yo of the Jade Dragon,Yo-Yo of the Jade Dragon
-PROPITEM_TXT_123010,Bow of the Jade Dragon,Bow of the Jade Dragon
-PROPITEM_TXT_123011,Big Axe of the Jade Dragon,Big Axe of the Jade Dragon
-PROPITEM_TXT_123012,Big Sword of the Jade Dragon,Big Sword of the Jade Dragon
-PROPITEM_TXT_123013,Shield of the Ruby Dragon,Shield of the Ruby Dragon
-PROPITEM_TXT_123014,Shield of the Ruby Defender,Shield of the Ruby Defender
-PROPITEM_TXT_123015,Shield of the Ruby Magician,Shield of the Ruby Magician
-PROPITEM_TXT_123016,Sword of the Ruby Dragon,Sword of the Ruby Dragon
-PROPITEM_TXT_123017,Axe of the Ruby Dragon,Axe of the Ruby Dragon
-PROPITEM_TXT_123018,Stick of the Ruby Dragon,Stick of the Ruby Dragon
-PROPITEM_TXT_123019,Fist of the Ruby Dragon,Fist of the Ruby Dragon
-PROPITEM_TXT_123020,Wand of the Ruby Scholar,Wand of the Ruby Scholar
-PROPITEM_TXT_123021,Staff of the Ruby Scholar,Staff of the Ruby Scholar
-PROPITEM_TXT_123022,Yo-Yo of the Ruby Dragon,Yo-Yo of the Ruby Dragon
-PROPITEM_TXT_123023,Bow of the Ruby Dragon,Bow of the Ruby Dragon
-PROPITEM_TXT_123024,Big Axe of the Ruby Dragon,Big Axe of the Ruby Dragon
-PROPITEM_TXT_123025,Big Sword of the Ruby Dragon,Big Sword of the Ruby Dragon
-PROPITEM_TXT_123026,Shield of the Sapphire Dragon,Shield of the Sapphire Dragon
-PROPITEM_TXT_123027,Shield of the Sapphire Defender,Shield of the Sapphire Defender
-PROPITEM_TXT_123028,Shield of the Sapphire Magician,Shield of the Sapphire Magician
-PROPITEM_TXT_123029,Sword of the Sapphire Dragon,Sword of the Sapphire Dragon
-PROPITEM_TXT_123030,Axe of the Sapphire Dragon,Axe of the Sapphire Dragon
-PROPITEM_TXT_123031,Stick of the Sapphire Dragon,Stick of the Sapphire Dragon
-PROPITEM_TXT_123032,Fist of the Sapphire Dragon,Fist of the Sapphire Dragon
-PROPITEM_TXT_123033,Wand of the Sapphire Scholar,Wand of the Sapphire Scholar
-PROPITEM_TXT_123034,Staff of the Sapphire Scholar,Staff of the Sapphire Scholar
-PROPITEM_TXT_123035,Yo-Yo of the Sapphire Dragon,Yo-Yo of the Sapphire Dragon
-PROPITEM_TXT_123036,Bow of the Sapphire Dragon,Bow of the Sapphire Dragon
-PROPITEM_TXT_123037,Big Axe of the Sapphire Dragon,Big Axe of the Sapphire Dragon
-PROPITEM_TXT_123038,Big Sword of the Sapphire Dragon,Big Sword of the Sapphire Dragon
-PROPITEM_TXT_123039,Shield of the Scorched Dragon,Shield of the Scorched Dragon
-PROPITEM_TXT_123040,Shield of the Scorched Defender,Shield of the Scorched Defender
-PROPITEM_TXT_123041,Shield of the Scorched Magician,Shield of the Scorched Magician
-PROPITEM_TXT_123042,Sword of the Scorched Dragon,Sword of the Scorched Dragon
-PROPITEM_TXT_123043,Axe of the Scorched Dragon,Axe of the Scorched Dragon
-PROPITEM_TXT_123044,Stick of the Scorched Dragon,Stick of the Scorched Dragon
-PROPITEM_TXT_123045,Fist of the Scorched Dragon,Fist of the Scorched Dragon
-PROPITEM_TXT_123046,Wand of the Scorched Scholar,Wand of the Scorched Scholar
-PROPITEM_TXT_123047,Staff of the Scorched Scholar,Staff of the Scorched Scholar
-PROPITEM_TXT_123048,Yo-Yo of the Scorched Dragon,Yo-Yo of the Scorched Dragon
-PROPITEM_TXT_123049,Bow of the Scorched Dragon,Bow of the Scorched Dragon
-PROPITEM_TXT_123050,Big Axe of the Scorched Dragon,Big Axe of the Scorched Dragon
-PROPITEM_TXT_123051,Big Sword of the Scorched Dragon,Big Sword of the Scorched Dragon
-PROPITEM_TXT_160000,Pristine Pirate Lens,Pristine Pirate Lens
-PROPITEM_TXT_160001,An enhanced set of goggles rarely found on a Meral.,An enhanced set of goggles rarely found on a Meral.
-PROPITEM_TXT_160002,Gigantic Feline Fang,Gigantic Feline Fang
-PROPITEM_TXT_160003,A gigantic fang from the mouth of a Giant Tigar.,A gigantic fang from the mouth of a Giant Tigar.
-PROPITEM_TXT_160004,Purple Pirate Insignia,Purple Pirate Insignia
-PROPITEM_TXT_160005,An essence of purple magic found on the body of the Violet Meral.,An essence of purple magic found on the body of the Violet Meral.
-PROPITEM_TXT_160006,Island Bait,Island Bait
-PROPITEM_TXT_160007,Delicious bait made by Pau Pau to lower the guard of the Naga.,Delicious bait made by Pau Pau to lower the guard of the Naga.
-PROPITEM_TXT_160008,Evidence of Victory,Evidence of Victory
-PROPITEM_TXT_160009,Remains of the Naga you've defeated to help the village of Coral Island.,Remains of the Naga you've defeated to help the village of Coral Island.
-PROPITEM_TXT_160010,Head of the Lord Naga,Head of the Lord Naga
-PROPITEM_TXT_160011,Remains of the Lord Naga.,Remains of the Lord Naga.
-PROPITEM_TXT_160012,Head of the Overlord Naga,Head of the Overlord Naga
-PROPITEM_TXT_160013,Remains of the Overlord Naga.,Remains of the Overlord Naga.
-PROPITEM_TXT_160014,Coral Island Metal Scrap,Coral Island Metal Scrap
-PROPITEM_TXT_160015,Metal scraps found on the bodies of Dorian and Okean.,Metal scraps found on the bodies of Dorian and Okean.
-PROPITEM_TXT_160016,Lord Dorian Gear,Lord Dorian Gear
-PROPITEM_TXT_160017,A gear that can only be found from the largest Dorian.,A gear that can only be found from the largest Dorian.
-PROPITEM_TXT_160018,Lord Okean Crown,Lord Okean Crown
-PROPITEM_TXT_160019,A crown that can only be found from the largest Okean.,A crown that can only be found from the largest Okean.
+PROPITEM_TXT_122511,"This scroll prevents the loss of Ultimate Weapon for upgrade failure. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.",该卷轴可在升级失败时防止终极武器损毁。使用前，请将卷轴放入升级界面的对应栏位中。使用后卷轴将被消耗。
+PROPITEM_TXT_123000,Shield of the Jade Dragon,青龙之盾
+PROPITEM_TXT_123001,Shield of the Jade Defender,青卫之盾
+PROPITEM_TXT_123002,Shield of the Jade Magician,青法之盾
+PROPITEM_TXT_123003,Sword of the Jade Dragon,青龙之剑
+PROPITEM_TXT_123004,Axe of the Jade Dragon,青龙之斧
+PROPITEM_TXT_123005,Stick of the Jade Dragon,青龙之棒
+PROPITEM_TXT_123006,Fist of the Jade Dragon,青龙之拳
+PROPITEM_TXT_123007,Wand of the Jade Scholar,青儒魔杖
+PROPITEM_TXT_123008,Staff of the Jade Scholar,青儒法杖
+PROPITEM_TXT_123009,Yo-Yo of the Jade Dragon,青龙飞轮
+PROPITEM_TXT_123010,Bow of the Jade Dragon,青龙之弓
+PROPITEM_TXT_123011,Big Axe of the Jade Dragon,青龙大斧
+PROPITEM_TXT_123012,Big Sword of the Jade Dragon,青龙大剑
+PROPITEM_TXT_123013,Shield of the Ruby Dragon,赤龙之盾
+PROPITEM_TXT_123014,Shield of the Ruby Defender,赤卫之盾
+PROPITEM_TXT_123015,Shield of the Ruby Magician,赤法之盾
+PROPITEM_TXT_123016,Sword of the Ruby Dragon,赤龙之剑
+PROPITEM_TXT_123017,Axe of the Ruby Dragon,赤龙之斧
+PROPITEM_TXT_123018,Stick of the Ruby Dragon,赤龙之棒
+PROPITEM_TXT_123019,Fist of the Ruby Dragon,赤龙之拳
+PROPITEM_TXT_123020,Wand of the Ruby Scholar,赤儒魔杖
+PROPITEM_TXT_123021,Staff of the Ruby Scholar,赤儒法杖
+PROPITEM_TXT_123022,Yo-Yo of the Ruby Dragon,赤龙之轮
+PROPITEM_TXT_123023,Bow of the Ruby Dragon,赤龙之弓
+PROPITEM_TXT_123024,Big Axe of the Ruby Dragon,赤龙大斧
+PROPITEM_TXT_123025,Big Sword of the Ruby Dragon,赤龙大剑
+PROPITEM_TXT_123026,Shield of the Sapphire Dragon,蔚龙之盾
+PROPITEM_TXT_123027,Shield of the Sapphire Defender,蔚守之盾
+PROPITEM_TXT_123028,Shield of the Sapphire Magician,蔚法之盾
+PROPITEM_TXT_123029,Sword of the Sapphire Dragon,蔚龙之剑
+PROPITEM_TXT_123030,Axe of the Sapphire Dragon,蔚龙之斧
+PROPITEM_TXT_123031,Stick of the Sapphire Dragon,蔚龙之棒
+PROPITEM_TXT_123032,Fist of the Sapphire Dragon,蔚龙之拳
+PROPITEM_TXT_123033,Wand of the Sapphire Scholar,蔚儒魔杖
+PROPITEM_TXT_123034,Staff of the Sapphire Scholar,蔚儒法杖
+PROPITEM_TXT_123035,Yo-Yo of the Sapphire Dragon,蔚龙之轮
+PROPITEM_TXT_123036,Bow of the Sapphire Dragon,蔚龙之弓
+PROPITEM_TXT_123037,Big Axe of the Sapphire Dragon,蔚龙大斧
+PROPITEM_TXT_123038,Big Sword of the Sapphire Dragon,蔚龙大剑
+PROPITEM_TXT_123039,Shield of the Scorched Dragon,焦龙之盾
+PROPITEM_TXT_123040,Shield of the Scorched Defender,焦卫之盾
+PROPITEM_TXT_123041,Shield of the Scorched Magician,焦法之盾
+PROPITEM_TXT_123042,Sword of the Scorched Dragon,焦龙之剑
+PROPITEM_TXT_123043,Axe of the Scorched Dragon,焦龙之斧
+PROPITEM_TXT_123044,Stick of the Scorched Dragon,焦龙之棒
+PROPITEM_TXT_123045,Fist of the Scorched Dragon,焦龙之拳
+PROPITEM_TXT_123046,Wand of the Scorched Scholar,焦儒魔杖
+PROPITEM_TXT_123047,Staff of the Scorched Scholar,焦儒法杖
+PROPITEM_TXT_123048,Yo-Yo of the Scorched Dragon,焦龙之轮
+PROPITEM_TXT_123049,Bow of the Scorched Dragon,焦龙之弓
+PROPITEM_TXT_123050,Big Axe of the Scorched Dragon,焦龙大斧
+PROPITEM_TXT_123051,Big Sword of the Scorched Dragon,焦龙大剑
+PROPITEM_TXT_160000,Pristine Pirate Lens,纯净海盗透镜
+PROPITEM_TXT_160001,An enhanced set of goggles rarely found on a Meral.,一套稀有的强化护目镜，极少在强袭海盗身上发现。
+PROPITEM_TXT_160002,Gigantic Feline Fang,巨兽之獠牙
+PROPITEM_TXT_160003,A gigantic fang from the mouth of a Giant Tigar.,巨型猛虎的獠牙。
+PROPITEM_TXT_160004,Purple Pirate Insignia,紫色海盗徽章
+PROPITEM_TXT_160005,An essence of purple magic found on the body of the Violet Meral.,堕落的强袭海盗的精华。
+PROPITEM_TXT_160006,Island Bait,海岛鱼饵
+PROPITEM_TXT_160007,Delicious bait made by Pau Pau to lower the guard of the Naga.,波布特制的佳饵，用以麻痹那加的戒心。
+PROPITEM_TXT_160008,Evidence of Victory,胜者之证
+PROPITEM_TXT_160009,Remains of the Naga you've defeated to help the village of Coral Island.,为援助珊瑚岛村落所击败的那伽残骸。
+PROPITEM_TXT_160010,Head of the Lord Naga,那伽之王的头颅
+PROPITEM_TXT_160011,Remains of the Lord Naga.,那伽之王的残骸。
+PROPITEM_TXT_160012,Head of the Overlord Naga,那伽霸主的头颅
+PROPITEM_TXT_160013,Remains of the Overlord Naga.,那伽霸主的残骸。
+PROPITEM_TXT_160014,Coral Island Metal Scrap,珊瑚岛金属残片
+PROPITEM_TXT_160015,Metal scraps found on the bodies of Dorian and Okean.,于皇冠海妖与变异枪鱼身上发现的金属残片。
+PROPITEM_TXT_160016,Lord Dorian Gear,变异枪鱼之王的装备
+PROPITEM_TXT_160017,A gear that can only be found from the largest Dorian.,只有在最大的变异枪鱼身上才能找到的东西。
+PROPITEM_TXT_160018,Lord Okean Crown,皇冠海妖的王冠
+PROPITEM_TXT_160019,A crown that can only be found from the largest Okean.,只有在最大的皇冠海妖身上才能找到的王冠。
 PROPITEM_TXT_160020,Champion's Ring,嗜血者之戒
-PROPITEM_TXT_160021,Increases STR. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases STR. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160021,Increases STR. Can be upgraded with a Sunstone up to Ultimate level 10.,提升力量。可使用晶石升级至终极10级。
 PROPITEM_TXT_160022,Defender's Ring,圣骑士之戒
-PROPITEM_TXT_160023,Increases STA. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases STA. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160023,Increases STA. Can be upgraded with a Sunstone up to Ultimate level 10.,提升体质。可使用晶石升级至终极10级。
 PROPITEM_TXT_160024,Adept's Ring,天侍神之戒
-PROPITEM_TXT_160025,Increases INT. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases INT. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160025,Increases INT. Can be upgraded with a Sunstone up to Ultimate level 10.,提升智力。可使用晶石升级至终极10级。
 PROPITEM_TXT_160026,Marksman's Ring,神射手之戒
-PROPITEM_TXT_160027,Increases DEX. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases DEX. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160027,Increases DEX. Can be upgraded with a Sunstone up to Ultimate level 10.,提升敏捷。可使用晶石升级至终极10级。
 PROPITEM_TXT_160028,Champion's Gore Necklace,嗜血者的生命之源
-PROPITEM_TXT_160029,Increases Max HP. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases Max HP. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160029,Increases Max HP. Can be upgraded with a Sunstone up to Ultimate level 10.,提升最大 HP。可使用晶石升级至终极10级。
 PROPITEM_TXT_160030,Adept's Mental Necklace,天侍神的魔力之源
-PROPITEM_TXT_160031,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160031,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.,提升最大 MP。可使用晶石升级至终极10级。
 PROPITEM_TXT_160032,Defender's Peision Necklace,圣骑士的活力之源
-PROPITEM_TXT_160033,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160033,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.,提升最大 FP。可使用晶石升级至终极10级。
 PROPITEM_TXT_160034,Champion's Demol Earring,嗜血者之怒
-PROPITEM_TXT_160035,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160035,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,提升攻击力。可使用晶石升级至终极10级。
 PROPITEM_TXT_160036,Defender's Plug Earring,圣骑士之护
-PROPITEM_TXT_160037,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160037,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,提升防御力。可使用晶石升级至终极10级。
 PROPITEM_TXT_160038,Defender's Gore Necklace,圣骑士的生命之源
 PROPITEM_TXT_160040,Marksman's Gore Necklace,神射手的生命之源
 PROPITEM_TXT_160042,Adept's Gore Necklace,天侍神的生命之源
 PROPITEM_TXT_160044,Marksman's Demol Earring,神射手之怒
-PROPITEM_TXT_160045,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160045,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,提升攻击力。可使用晶石升级至终极10级。
 PROPITEM_TXT_160046,Adept's Demol Earring,天侍神之怒
-PROPITEM_TXT_160047,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160047,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,提升攻击力。可使用晶石升级至终极10级。
 PROPITEM_TXT_160048,Marksman's Mental Necklace,神射手的魔力之源
-PROPITEM_TXT_160049,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160049,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.,提升最大 MP。可使用晶石升级至终极10级。
 PROPITEM_TXT_160050,Champion's Mental Necklace,嗜血者的魔力之源
 PROPITEM_TXT_160052,Champion's Peision Necklace,嗜血者的活力之源
-PROPITEM_TXT_160053,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160053,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.,提升最大 FP。可使用晶石升级至终极10级。
 PROPITEM_TXT_160054,Defender's Demol Earring,圣骑士之怒
-PROPITEM_TXT_160055,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160055,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,提升攻击力。可使用晶石升级至终极10级。
 PROPITEM_TXT_160056,Champion's Plug Earring,嗜血者之护
-PROPITEM_TXT_160057,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160057,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,提升防御力。可使用晶石升级至终极10级。
 PROPITEM_TXT_160058,Adept's Plug Earring,天侍神之护
-PROPITEM_TXT_160059,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160059,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,提升防御力。可使用晶石升级至终极10级。
 PROPITEM_TXT_160060,Marksman's Plug Earring,神射手之护
-PROPITEM_TXT_160061,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.
+PROPITEM_TXT_160061,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,提升防御力。可使用晶石升级至终极10级。
 PROPITEM_TXT_160062,Ultima,终极精粹
 PROPITEM_TXT_160063,A powerful essence that could one day contain Ultimate energy.,一种强大的精华碎片，有朝一日总能汇聚成终极之力。
-PROPITEM_TXT_160064,Blinkwing of Coral Island,Blinkwing of Coral Island
-PROPITEM_TXT_160065,Teleport to Coral Island,Teleport to Coral Island
-PROPITEM_TXT_722003,This housing pack contains various models to decorate your house or guild ship!,This housing pack contains various models to decorate your house or guild ship!
+PROPITEM_TXT_160064,Blinkwing of Coral Island,珊瑚岛翅膀
+PROPITEM_TXT_160065,Teleport to Coral Island,传送到珊瑚岛
+PROPITEM_TXT_722003,This housing pack contains various models to decorate your house or guild ship!,内含多种模型，助你装点私人宅邸或公会船只！
 PROPITEM_TXT_722004,Blank World Template (XL),Blank World Template (XL)
 PROPITEM_TXT_722005,This will give you a new template for your house!,This will give you a new template for your house!
-PROPITEM_TXT_011508,Bileire Helmet,Bileire Helmet
-PROPITEM_TXT_011509,Bileire Suit,Bileire Suit
-PROPITEM_TXT_011510,Bileire Gauntlets,Bileire Gauntlets
-PROPITEM_TXT_011511,Bileire Boots,Bileire Boots
-PROPITEM_TXT_011512,Bilari Helmet,Bilari Helmet
-PROPITEM_TXT_011513,Bilari Suit,Bilari Suit
-PROPITEM_TXT_011514,Bilari Gauntlets,Bilari Gauntlets
-PROPITEM_TXT_011515,Bilari Boots,Bilari Boots
-PROPITEM_TXT_011516,Heraud Helmet,Heraud Helmet
-PROPITEM_TXT_011517,Heraud Suit,Heraud Suit
-PROPITEM_TXT_011518,Heraud Gauntlets,Heraud Gauntlets
-PROPITEM_TXT_011519,Heraud Boots,Heraud Boots
-PROPITEM_TXT_011520,Herainn Helmet,Herainn Helmet
-PROPITEM_TXT_011521,Herainn Suit,Herainn Suit
-PROPITEM_TXT_011522,Herainn Gauntlets,Herainn Gauntlets
-PROPITEM_TXT_011523,Herainn Boots,Herainn Boots
-PROPITEM_TXT_011524,Curio Helmet,Curio Helmet
-PROPITEM_TXT_011525,Curio Suit,Curio Suit
-PROPITEM_TXT_011526,Curio Gauntlets,Curio Gauntlets
-PROPITEM_TXT_011527,Curio Boots,Curio Boots
-PROPITEM_TXT_011528,Curena Helmet,Curena Helmet
-PROPITEM_TXT_011529,Curena Suit,Curena Suit
-PROPITEM_TXT_011530,Curena Gauntlets,Curena Gauntlets
-PROPITEM_TXT_011531,Curena Boots,Curena Boots
-PROPITEM_TXT_011532,Hainure Helmet,Hainure Helmet
-PROPITEM_TXT_011533,Hainure Suit,Hainure Suit
-PROPITEM_TXT_011534,Hainure Gauntlets,Hainure Gauntlets
-PROPITEM_TXT_011535,Hainure Boots,Hainure Boots
-PROPITEM_TXT_011536,Hanira Helmet,Hanira Helmet
-PROPITEM_TXT_011537,Hanira Suit,Hanira Suit
-PROPITEM_TXT_011538,Hanira Gauntlets,Hanira Gauntlets
-PROPITEM_TXT_011539,Hanira Boots,Hanira Boots
-PROPITEM_TXT_011540,Reine Helmet,Reine Helmet
-PROPITEM_TXT_011541,Reine Suit,Reine Suit
-PROPITEM_TXT_011542,Reine Gauntlets,Reine Gauntlets
-PROPITEM_TXT_011543,Reine Boots,Reine Boots
-PROPITEM_TXT_011544,Rayne Helmet,Rayne Helmet
-PROPITEM_TXT_011545,Rayne Suit,Rayne Suit
-PROPITEM_TXT_011546,Rayne Gauntlets,Rayne Gauntlets
-PROPITEM_TXT_011547,Rayne Boots,Rayne Boots
-PROPITEM_TXT_011548,Roenier Helmet,Roenier Helmet
-PROPITEM_TXT_011549,Roenier Suit,Roenier Suit
-PROPITEM_TXT_011550,Roenier Gauntlets,Roenier Gauntlets
-PROPITEM_TXT_011551,Roenier Boots,Roenier Boots
-PROPITEM_TXT_011552,Roelayne Helmet,Roelayne Helmet
-PROPITEM_TXT_011553,Roelayne Suit,Roelayne Suit
-PROPITEM_TXT_011554,Roelayne Gauntlets,Roelayne Gauntlets
-PROPITEM_TXT_011555,Roelayne Boots,Roelayne Boots
-PROPITEM_TXT_011556,Reffiro Helmet,Reffiro Helmet
-PROPITEM_TXT_011557,Reffiro Suit,Reffiro Suit
-PROPITEM_TXT_011558,Reffiro Gauntlets,Reffiro Gauntlets
-PROPITEM_TXT_011559,Reffiro Boots,Reffiro Boots
-PROPITEM_TXT_011560,Rephira Helmet,Rephira Helmet
-PROPITEM_TXT_011561,Rephira Suit,Rephira Suit
-PROPITEM_TXT_011562,Rephira Gauntlets,Rephira Gauntlets
-PROPITEM_TXT_011563,Rephira Boots,Rephira Boots
-PROPITEM_TXT_011564,Lippin Helmet,Lippin Helmet
-PROPITEM_TXT_011565,Lippin Suit,Lippin Suit
-PROPITEM_TXT_011566,Lippin Gauntlets,Lippin Gauntlets
-PROPITEM_TXT_011567,Lippin Boots,Lippin Boots
-PROPITEM_TXT_011568,Lypine Helmet,Lypine Helmet
-PROPITEM_TXT_011569,Lypine Suit,Lypine Suit
-PROPITEM_TXT_011570,Lypine Gauntlets,Lypine Gauntlets
-PROPITEM_TXT_011571,Lypine Boots,Lypine Boots
+PROPITEM_TXT_011508,Bileire Helmet,碧鳞帽子
+PROPITEM_TXT_011509,Bileire Suit,碧鳞上衣
+PROPITEM_TXT_011510,Bileire Gauntlets,碧鳞手套
+PROPITEM_TXT_011511,Bileire Boots,碧鳞靴子
+PROPITEM_TXT_011512,Bilari Helmet,碧影帽子
+PROPITEM_TXT_011513,Bilari Suit,碧影上衣
+PROPITEM_TXT_011514,Bilari Gauntlets,碧影手套
+PROPITEM_TXT_011515,Bilari Boots,碧影鞋子
+PROPITEM_TXT_011516,Heraud Helmet,赫岚帽子
+PROPITEM_TXT_011517,Heraud Suit,赫岚上衣
+PROPITEM_TXT_011518,Heraud Gauntlets,赫岚手套
+PROPITEM_TXT_011519,Heraud Boots,赫岚鞋子
+PROPITEM_TXT_011520,Herainn Helmet,赫蕊帽子
+PROPITEM_TXT_011521,Herainn Suit,赫蕊上衣
+PROPITEM_TXT_011522,Herainn Gauntlets,赫蕊手套
+PROPITEM_TXT_011523,Herainn Boots,赫蕊鞋子
+PROPITEM_TXT_011524,Curio Helmet,奇物帽子
+PROPITEM_TXT_011525,Curio Suit,奇物上衣
+PROPITEM_TXT_011526,Curio Gauntlets,奇物手套
+PROPITEM_TXT_011527,Curio Boots,奇物鞋子
+PROPITEM_TXT_011528,Curena Helmet,珍灵帽子
+PROPITEM_TXT_011529,Curena Suit,珍灵上衣
+PROPITEM_TXT_011530,Curena Gauntlets,珍灵手套
+PROPITEM_TXT_011531,Curena Boots,珍灵鞋子
+PROPITEM_TXT_011532,Hainure Helmet,海岚帽子
+PROPITEM_TXT_011533,Hainure Suit,海岚上衣
+PROPITEM_TXT_011534,Hainure Gauntlets,海岚手套
+PROPITEM_TXT_011535,Hainure Boots,海岚鞋子
+PROPITEM_TXT_011536,Hanira Helmet,海韵帽子
+PROPITEM_TXT_011537,Hanira Suit,海韵上衣
+PROPITEM_TXT_011538,Hanira Gauntlets,海韵手套
+PROPITEM_TXT_011539,Hanira Boots,海韵鞋子
+PROPITEM_TXT_011540,Reine Helmet,君王帽子
+PROPITEM_TXT_011541,Reine Suit,君王上衣
+PROPITEM_TXT_011542,Reine Gauntlets,君王手套
+PROPITEM_TXT_011543,Reine Boots,君王鞋子
+PROPITEM_TXT_011544,Rayne Helmet,女王帽子
+PROPITEM_TXT_011545,Rayne Suit,女王上衣
+PROPITEM_TXT_011546,Rayne Gauntlets,女王手套
+PROPITEM_TXT_011547,Rayne Boots,女王鞋子
+PROPITEM_TXT_011548,Roenier Helmet,凛爵帽子
+PROPITEM_TXT_011549,Roenier Suit,凛爵上衣
+PROPITEM_TXT_011550,Roenier Gauntlets,凛爵手套
+PROPITEM_TXT_011551,Roenier Boots,凛爵鞋子
+PROPITEM_TXT_011552,Roelayne Helmet,洛茵帽子
+PROPITEM_TXT_011553,Roelayne Suit,洛茵上衣
+PROPITEM_TXT_011554,Roelayne Gauntlets,洛茵手套
+PROPITEM_TXT_011555,Roelayne Boots,洛茵鞋子
+PROPITEM_TXT_011556,Reffiro Helmet,雷焰帽子
+PROPITEM_TXT_011557,Reffiro Suit,雷焰上衣
+PROPITEM_TXT_011558,Reffiro Gauntlets,雷焰手套
+PROPITEM_TXT_011559,Reffiro Boots,雷焰鞋子
+PROPITEM_TXT_011560,Rephira Helmet,菲蕊帽子
+PROPITEM_TXT_011561,Rephira Suit,菲蕊上衣
+PROPITEM_TXT_011562,Rephira Gauntlets,菲蕊手套
+PROPITEM_TXT_011563,Rephira Boots,菲蕊鞋子
+PROPITEM_TXT_011564,Lippin Helmet,利鹏帽子
+PROPITEM_TXT_011565,Lippin Suit,利鹏上衣
+PROPITEM_TXT_011566,Lippin Gauntlets,利鹏手套
+PROPITEM_TXT_011567,Lippin Boots,利鹏鞋子
+PROPITEM_TXT_011568,Lypine Helmet,灵茵帽子
+PROPITEM_TXT_011569,Lypine Suit,灵茵上衣
+PROPITEM_TXT_011570,Lypine Gauntlets,灵茵手套
+PROPITEM_TXT_011571,Lypine Boots,灵茵鞋子
 PROPITEM_TXT_011572,"Forged as a relic of ancient craftsmanship, lost to the ages.",它是古代工艺的遗物，已失传多年。
 PROPITEM_TXT_722006,Jewelry Dust,首饰粉尘
-PROPITEM_TXT_722007,Dismantle jewelry for this dust and use it towards better jewelry.,Dismantle jewelry for this dust and use it towards better jewelry.
+PROPITEM_TXT_722007,Dismantle jewelry for this dust and use it towards better jewelry.,分解首饰获取此粉尘，并将其用于打造更好的首饰。
 PROPITEM_TXT_722008,Cursed Jewelry Fragment,被诅咒的首饰碎片
 PROPITEM_TXT_722009,An ominous aura emits from these fragments. Combine them for powerful jewelry.,这些碎片散发着不祥的气息。将它们组合成强力的首饰吧。
 PROPITEM_TXT_722010,Beach World Template (XL),Beach World Template (XL)
@@ -12667,7 +12667,7 @@ PROPITEM_TXT_722021,Royal Housing Pack,Royal Housing Pack
 PROPITEM_TXT_722022,Golden Royal Housing Pack,Golden Royal Housing Pack
 PROPITEM_TXT_722023,Design Housing Pack,Design Housing Pack
 PROPITEM_TXT_722024,Wooden Housing Pack,Wooden Housing Pack
-PROPITEM_TXT_722025,Oversized Heart,Oversized Heart
+PROPITEM_TXT_722025,Oversized Heart,超大心脏
 PROPITEM_TXT_722026,The heart of the great Beast King Khan.,兽王可汗的巨大心脏。
 PROPITEM_TXT_722027,Coral Island Curry,风味咖喱
 PROPITEM_TXT_722028,Recovers 2000 HP,恢复2000hp
@@ -12675,11 +12675,11 @@ PROPITEM_TXT_722035,FWC Remnant,FWC Remnant
 PROPITEM_TXT_722036,An artifact discovered amidst the dismantling of jewelry from an extraordinary event. Dormant powers within may one day be rekindled.,An artifact discovered amidst the dismantling of jewelry from an extraordinary event. Dormant powers within may one day be rekindled.
 PROPITEM_TXT_722037,Trophy of the Master Jeweler,Trophy of the Master Jeweler
 PROPITEM_TXT_722038,An artifact discovered amidst the dismantling of the most powerful jewelry imaginable. Dormant powers within may one day be rekindled.,An artifact discovered amidst the dismantling of the most powerful jewelry imaginable. Dormant powers within may one day be rekindled.
-PROPITEM_TXT_722039,Rainbow Cadillac,Rainbow Cadillac
-PROPITEM_TXT_722040,A mark of a true need for speed!,A mark of a true need for speed!
-PROPITEM_TXT_722041,Rainbow Race First Place Box,Rainbow Race First Place Box
-PROPITEM_TXT_422041,[140] Scroll of Amplification ES,[140] Scroll of Amplification ES
-PROPITEM_TXT_422042,[160] Scroll of Amplification ES,[160] Scroll of Amplification ES
+PROPITEM_TXT_722039,Rainbow Cadillac,彩虹凯迪拉克
+PROPITEM_TXT_722040,A mark of a true need for speed!,极速渴望的见证！
+PROPITEM_TXT_722041,Rainbow Race First Place Box,彩虹竞赛第一名宝箱
+PROPITEM_TXT_422041,[140] Scroll of Amplification ES,经验加成卷轴(140)
+PROPITEM_TXT_422042,[160] Scroll of Amplification ES,经验加成卷轴(160)
 PROPITEM_TXT_422043,Old Scroll of Return Town,旧版任意门卷轴
 PROPITEM_TXT_422044,Teleport to one of the towns and return later where the scroll was activated. The buff is removed once you return.,Teleport to one of the towns and return later where the scroll was activated. The buff is removed once you return.
 PROPITEM_TXT_124000,Forest World Template (XL),Forest World Template (XL)
@@ -14280,11 +14280,11 @@ PROPITEM_TXT_722670,"A package containing 5x Scroll of Element change, 5x Scroll
 PROPITEM_TXT_722671,2024 Valentine Package,2024 Valentine Package
 PROPITEM_TXT_722672,A package containing 20x Scroll of Amplification ES and 1x 15 Days Scroll of Combined Party Effects. All items are also linked.,A package containing 20x Scroll of Amplification ES and 1x 15 Days Scroll of Combined Party Effects. All items are also linked.
 PROPITEM_TXT_131423,Kalgas Silver Coin,卡尔加斯银币
-PROPITEM_TXT_131424,"Instant respawn item that can be used only once when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.","Instant respawn item that can be used only once when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time."
+PROPITEM_TXT_131424,"Instant respawn item that can be used only once when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.",瞬逝复活道具，仅限参与「卡尔加斯突袭」时使用一次。使用后将在起点立即复活，无等待时间。
 PROPITEM_TXT_131425,Kalgas Gold Coin,卡尔加斯金币
-PROPITEM_TXT_131426,"Instant respawn item that can be used unlimited number of times when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.","Instant respawn item that can be used unlimited number of times when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time."
+PROPITEM_TXT_131426,"Instant respawn item that can be used unlimited number of times when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.",瞬逝复活道具，参与「卡尔加斯突袭」时可无限次使用。使用后将在起点立即复活，无等待时间。
 PROPITEM_TXT_131427,Kalgas Chip,卡尔加斯纸片
-PROPITEM_TXT_131428,Exchange this Kalgas chip to Waforu for wonderful rewards!,Exchange this Kalgas chip to Waforu for wonderful rewards!
+PROPITEM_TXT_131428,Exchange this Kalgas chip to Waforu for wonderful rewards!,将卡尔加斯纸片交给[战斗商人] 华弗，兑换丰厚奖励！
 PROPITEM_TXT_722673,Valentine 2024 10% Red Set,Valentine 2024 10% Red Set
 PROPITEM_TXT_722674,Valentine 2024 10% Red Set (M),Valentine 2024 10% Red Set (M)
 PROPITEM_TXT_722675,The Valentine 2024 10% Red Set for male characters.,The Valentine 2024 10% Red Set for male characters.
@@ -15466,86 +15466,86 @@ PROPITEM_TXT_724617,Anniversary 2024 Blue Bag,Anniversary 2024 Blue Bag
 PROPITEM_TXT_724618,Anniversary 2024 Blue Eye Patch,Anniversary 2024 Blue Eye Patch
 PROPITEM_TXT_724619,Anniversary 2024 White Bag,Anniversary 2024 White Bag
 PROPITEM_TXT_724620,Anniversary 2024 White Eye Patch,Anniversary 2024 White Eye Patch
-PROPITEM_TXT_724621,Necklace +15 Box,Necklace +15 Box
-PROPITEM_TXT_724622,Select which +15 Necklace you want to receive!,Select which +15 Necklace you want to receive!
-PROPITEM_TXT_724623,Earring +15 Box,Earring +15 Box
-PROPITEM_TXT_724624,Select which +15 Earring you want to receive!,Select which +15 Earring you want to receive!
-PROPITEM_TXT_724625,Ring +15 Box,Ring +15 Box
-PROPITEM_TXT_724626,Select which +15 Ring you want to receive!,Select which +15 Ring you want to receive!
-PROPITEM_TXT_724627,FWC Golden Roelayne Helmet,FWC Golden Roelayne Helmet
-PROPITEM_TXT_724628,FWC Golden Roelayne Suit,FWC Golden Roelayne Suit
-PROPITEM_TXT_724629,FWC Golden Roelayne Gauntlets,FWC Golden Roelayne Gauntlets
-PROPITEM_TXT_724630,FWC Golden Roelayne Boots,FWC Golden Roelayne Boots
-PROPITEM_TXT_724631,FWC Golden Roenier Helmet,FWC Golden Roenier Helmet
-PROPITEM_TXT_724632,FWC Golden Roenier Suit,FWC Golden Roenier Suit
-PROPITEM_TXT_724633,FWC Golden Roenier Gauntlets,FWC Golden Roenier Gauntlets
-PROPITEM_TXT_724634,FWC Golden Roenier Boots,FWC Golden Roenier Boots
-PROPITEM_TXT_724635,FWC Golden Herainn Helmet,FWC Golden Herainn Helmet
-PROPITEM_TXT_724636,FWC Golden Herainn Suit,FWC Golden Herainn Suit
-PROPITEM_TXT_724637,FWC Golden Herainn Gauntlets,FWC Golden Herainn Gauntlets
-PROPITEM_TXT_724638,FWC Golden Herainn Boots,FWC Golden Herainn Boots
-PROPITEM_TXT_724639,FWC Golden Heraud Helmet,FWC Golden Heraud Helmet
-PROPITEM_TXT_724640,FWC Golden Heraud Suit,FWC Golden Heraud Suit
-PROPITEM_TXT_724641,FWC Golden Heraud Gauntlets,FWC Golden Heraud Gauntlets
-PROPITEM_TXT_724642,FWC Golden Heraud Boots,FWC Golden Heraud Boots
-PROPITEM_TXT_724643,FWC Golden Lypine Helmet,FWC Golden Lypine Helmet
-PROPITEM_TXT_724644,FWC Golden Lypine Suit,FWC Golden Lypine Suit
-PROPITEM_TXT_724645,FWC Golden Lypine Gauntlets,FWC Golden Lypine Gauntlets
-PROPITEM_TXT_724646,FWC Golden Lypine Boots,FWC Golden Lypine Boots
-PROPITEM_TXT_724647,FWC Golden Lippin Helmet,FWC Golden Lippin Helmet
-PROPITEM_TXT_724648,FWC Golden Lippin Suit,FWC Golden Lippin Suit
-PROPITEM_TXT_724649,FWC Golden Lippin Gauntlets,FWC Golden Lippin Gauntlets
-PROPITEM_TXT_724650,FWC Golden Lippin Boots,FWC Golden Lippin Boots
-PROPITEM_TXT_724651,FWC Golden Curena Helmet,FWC Golden Curena Helmet
-PROPITEM_TXT_724652,FWC Golden Curena Suit,FWC Golden Curena Suit
-PROPITEM_TXT_724653,FWC Golden Curena Gauntlets,FWC Golden Curena Gauntlets
-PROPITEM_TXT_724654,FWC Golden Curena Boots,FWC Golden Curena Boots
-PROPITEM_TXT_724655,FWC Golden Curio Helmet,FWC Golden Curio Helmet
-PROPITEM_TXT_724656,FWC Golden Curio Suit,FWC Golden Curio Suit
-PROPITEM_TXT_724657,FWC Golden Curio Gauntlets,FWC Golden Curio Gauntlets
-PROPITEM_TXT_724658,FWC Golden Curio Boots,FWC Golden Curio Boots
-PROPITEM_TXT_724659,FWC Golden Bilari Helmet,FWC Golden Bilari Helmet
-PROPITEM_TXT_724660,FWC Golden Bilari Suit,FWC Golden Bilari Suit
-PROPITEM_TXT_724661,FWC Golden Bilari Gauntlets,FWC Golden Bilari Gauntlets
-PROPITEM_TXT_724662,FWC Golden Bilari Boots,FWC Golden Bilari Boots
-PROPITEM_TXT_724663,FWC Golden Bileire Helmet,FWC Golden Bileire Helmet
-PROPITEM_TXT_724664,FWC Golden Bileire Suit,FWC Golden Bileire Suit
-PROPITEM_TXT_724665,FWC Golden Bileire Gauntlets,FWC Golden Bileire Gauntlets
-PROPITEM_TXT_724666,FWC Golden Bileire Boots,FWC Golden Bileire Boots
-PROPITEM_TXT_724667,FWC Golden Rephira Helmet,FWC Golden Rephira Helmet
-PROPITEM_TXT_724668,FWC Golden Rephira Suit,FWC Golden Rephira Suit
-PROPITEM_TXT_724669,FWC Golden Rephira Gauntlets,FWC Golden Rephira Gauntlets
-PROPITEM_TXT_724670,FWC Golden Rephira Boots,FWC Golden Rephira Boots
-PROPITEM_TXT_724671,FWC Golden Reffiro Helmet,FWC Golden Reffiro Helmet
-PROPITEM_TXT_724672,FWC Golden Reffiro Suit,FWC Golden Reffiro Suit
-PROPITEM_TXT_724673,FWC Golden Reffiro Gauntlets,FWC Golden Reffiro Gauntlets
-PROPITEM_TXT_724674,FWC Golden Reffiro Boots,FWC Golden Reffiro Boots
-PROPITEM_TXT_724675,FWC Golden Hanira Helmet,FWC Golden Hanira Helmet
-PROPITEM_TXT_724676,FWC Golden Hanira Suit,FWC Golden Hanira Suit
-PROPITEM_TXT_724677,FWC Golden Hanira Gauntlets,FWC Golden Hanira Gauntlets
-PROPITEM_TXT_724678,FWC Golden Hanira Boots,FWC Golden Hanira Boots
-PROPITEM_TXT_724679,FWC Golden Hainure Helmet,FWC Golden Hainure Helmet
-PROPITEM_TXT_724680,FWC Golden Hainure Suit,FWC Golden Hainure Suit
-PROPITEM_TXT_724681,FWC Golden Hainure Gauntlets,FWC Golden Hainure Gauntlets
-PROPITEM_TXT_724682,FWC Golden Hainure Boots,FWC Golden Hainure Boots
-PROPITEM_TXT_724683,FWC Golden Rayne Helmet,FWC Golden Rayne Helmet
-PROPITEM_TXT_724684,FWC Golden Rayne Suit,FWC Golden Rayne Suit
-PROPITEM_TXT_724685,FWC Golden Rayne Gauntlets,FWC Golden Rayne Gauntlets
-PROPITEM_TXT_724686,FWC Golden Rayne Boots,FWC Golden Rayne Boots
-PROPITEM_TXT_724687,FWC Golden Reine Helmet,FWC Golden Reine Helmet
-PROPITEM_TXT_724688,FWC Golden Reine Suit,FWC Golden Reine Suit
-PROPITEM_TXT_724689,FWC Golden Reine Gauntlets,FWC Golden Reine Gauntlets
-PROPITEM_TXT_724690,FWC Golden Reine Boots,FWC Golden Reine Boots
-PROPITEM_TXT_724691,FWC Golden Lusaka's Crystal Axe,FWC Golden Lusaka's Crystal Axe
-PROPITEM_TXT_724692,FWC Golden Lusaka's Crystal Bow,FWC Golden Lusaka's Crystal Bow
-PROPITEM_TXT_724693,FWC Golden Lusaka's Crystal Fist,FWC Golden Lusaka's Crystal Fist
-PROPITEM_TXT_724694,FWC Golden Lusaka's Crystal Staff,FWC Golden Lusaka's Crystal Staff
-PROPITEM_TXT_724695,FWC Golden Lusaka's Crystal Stick,FWC Golden Lusaka's Crystal Stick
-PROPITEM_TXT_724696,FWC Golden Lusaka's Crystal Sword,FWC Golden Lusaka's Crystal Sword
-PROPITEM_TXT_724697,FWC Golden Lusaka's Heavy Crystal Axe,FWC Golden Lusaka's Heavy Crystal Axe
-PROPITEM_TXT_724698,FWC Golden Lusaka's Heavy Crystal Sword,FWC Golden Lusaka's Heavy Crystal Sword
-PROPITEM_TXT_724699,FWC Golden Lusaka's Crystal Wand,FWC Golden Lusaka's Crystal Wand
-PROPITEM_TXT_724700,FWC Golden Lusaka's Crystal Yo-Yo,FWC Golden Lusaka's Crystal Yo-Yo
+PROPITEM_TXT_724621,Necklace +15 Box,项链 +15 宝箱
+PROPITEM_TXT_724622,Select which +15 Necklace you want to receive!,请选择你想要获得的 +15 项链！
+PROPITEM_TXT_724623,Earring +15 Box,耳环 +15 宝箱
+PROPITEM_TXT_724624,Select which +15 Earring you want to receive!,请选择你想要获得的 +15 耳环！
+PROPITEM_TXT_724625,Ring +15 Box,戒指 +15 宝箱
+PROPITEM_TXT_724626,Select which +15 Ring you want to receive!,请选择你想要获得的 +15 戒指！
+PROPITEM_TXT_724627,FWC Golden Roelayne Helmet,FWC黄金洛茵帽子
+PROPITEM_TXT_724628,FWC Golden Roelayne Suit,FWC黄金洛茵上衣
+PROPITEM_TXT_724629,FWC Golden Roelayne Gauntlets,FWC黄金洛茵手套
+PROPITEM_TXT_724630,FWC Golden Roelayne Boots,FWC黄金洛茵鞋子
+PROPITEM_TXT_724631,FWC Golden Roenier Helmet,FWC黄金凛爵帽子
+PROPITEM_TXT_724632,FWC Golden Roenier Suit,FWC黄金凛爵上衣
+PROPITEM_TXT_724633,FWC Golden Roenier Gauntlets,FWC黄金凛爵手套
+PROPITEM_TXT_724634,FWC Golden Roenier Boots,FWC黄金凛爵鞋子
+PROPITEM_TXT_724635,FWC Golden Herainn Helmet,FWC黄金赫蕊帽子
+PROPITEM_TXT_724636,FWC Golden Herainn Suit,FWC黄金赫蕊上衣
+PROPITEM_TXT_724637,FWC Golden Herainn Gauntlets,FWC黄金赫蕊手套
+PROPITEM_TXT_724638,FWC Golden Herainn Boots,FWC黄金赫蕊鞋子
+PROPITEM_TXT_724639,FWC Golden Heraud Helmet,FWC黄金赫岚帽子
+PROPITEM_TXT_724640,FWC Golden Heraud Suit,FWC黄金赫岚上衣
+PROPITEM_TXT_724641,FWC Golden Heraud Gauntlets,FWC黄金赫岚手套
+PROPITEM_TXT_724642,FWC Golden Heraud Boots,FWC黄金赫岚鞋子
+PROPITEM_TXT_724643,FWC Golden Lypine Helmet,FWC黄金灵茵帽子
+PROPITEM_TXT_724644,FWC Golden Lypine Suit,FWC黄金灵茵上衣
+PROPITEM_TXT_724645,FWC Golden Lypine Gauntlets,FWC黄金灵茵手套
+PROPITEM_TXT_724646,FWC Golden Lypine Boots,FWC黄金灵茵鞋子
+PROPITEM_TXT_724647,FWC Golden Lippin Helmet,FWC黄金利鹏帽子
+PROPITEM_TXT_724648,FWC Golden Lippin Suit,FWC黄金利鹏上衣
+PROPITEM_TXT_724649,FWC Golden Lippin Gauntlets,FWC黄金利鹏手套
+PROPITEM_TXT_724650,FWC Golden Lippin Boots,FWC黄金利鹏鞋子
+PROPITEM_TXT_724651,FWC Golden Curena Helmet,FWC黄金珍灵帽子
+PROPITEM_TXT_724652,FWC Golden Curena Suit,FWC黄金珍灵上衣
+PROPITEM_TXT_724653,FWC Golden Curena Gauntlets,FWC黄金珍灵手套
+PROPITEM_TXT_724654,FWC Golden Curena Boots,FWC黄金珍灵鞋子
+PROPITEM_TXT_724655,FWC Golden Curio Helmet,FWC黄金奇物帽子
+PROPITEM_TXT_724656,FWC Golden Curio Suit,FWC黄金奇物上衣
+PROPITEM_TXT_724657,FWC Golden Curio Gauntlets,FWC黄金奇物手套
+PROPITEM_TXT_724658,FWC Golden Curio Boots,FWC黄金奇物鞋子
+PROPITEM_TXT_724659,FWC Golden Bilari Helmet,FWC黄金碧影帽子
+PROPITEM_TXT_724660,FWC Golden Bilari Suit,FWC黄金碧影上衣
+PROPITEM_TXT_724661,FWC Golden Bilari Gauntlets,FWC黄金碧影手套
+PROPITEM_TXT_724662,FWC Golden Bilari Boots,FWC黄金碧影鞋子
+PROPITEM_TXT_724663,FWC Golden Bileire Helmet,FWC黄金碧鳞帽子
+PROPITEM_TXT_724664,FWC Golden Bileire Suit,FWC黄金碧鳞上衣
+PROPITEM_TXT_724665,FWC Golden Bileire Gauntlets,FWC黄金碧鳞手套
+PROPITEM_TXT_724666,FWC Golden Bileire Boots,FWC黄金碧鳞鞋子
+PROPITEM_TXT_724667,FWC Golden Rephira Helmet,FWC黄金菲蕊帽子
+PROPITEM_TXT_724668,FWC Golden Rephira Suit,FWC黄金菲蕊上衣
+PROPITEM_TXT_724669,FWC Golden Rephira Gauntlets,FWC黄金菲蕊手套
+PROPITEM_TXT_724670,FWC Golden Rephira Boots,FWC黄金菲蕊鞋子
+PROPITEM_TXT_724671,FWC Golden Reffiro Helmet,FWC黄金雷焰帽子
+PROPITEM_TXT_724672,FWC Golden Reffiro Suit,FWC黄金雷焰上衣
+PROPITEM_TXT_724673,FWC Golden Reffiro Gauntlets,FWC黄金雷焰手套
+PROPITEM_TXT_724674,FWC Golden Reffiro Boots,FWC黄金雷焰鞋子
+PROPITEM_TXT_724675,FWC Golden Hanira Helmet,FWC黄金海韵帽子
+PROPITEM_TXT_724676,FWC Golden Hanira Suit,FWC黄金海韵上衣
+PROPITEM_TXT_724677,FWC Golden Hanira Gauntlets,FWC黄金海韵手套
+PROPITEM_TXT_724678,FWC Golden Hanira Boots,FWC黄金海韵鞋子
+PROPITEM_TXT_724679,FWC Golden Hainure Helmet,FWC黄金海岚帽子
+PROPITEM_TXT_724680,FWC Golden Hainure Suit,FWC黄金海岚上衣
+PROPITEM_TXT_724681,FWC Golden Hainure Gauntlets,FWC黄金海岚手套
+PROPITEM_TXT_724682,FWC Golden Hainure Boots,FWC黄金海岚鞋子
+PROPITEM_TXT_724683,FWC Golden Rayne Helmet,FWC黄金女王帽子
+PROPITEM_TXT_724684,FWC Golden Rayne Suit,FWC黄金女王上衣
+PROPITEM_TXT_724685,FWC Golden Rayne Gauntlets,FWC黄金女王手套
+PROPITEM_TXT_724686,FWC Golden Rayne Boots,FWC黄金女王鞋子
+PROPITEM_TXT_724687,FWC Golden Reine Helmet,FWC黄金君王帽子
+PROPITEM_TXT_724688,FWC Golden Reine Suit,FWC黄金君王上衣
+PROPITEM_TXT_724689,FWC Golden Reine Gauntlets,FWC黄金君王手套
+PROPITEM_TXT_724690,FWC Golden Reine Boots,FWC黄金君王鞋子
+PROPITEM_TXT_724691,FWC Golden Lusaka's Crystal Axe,FWC黄金卢萨卡的水晶斧
+PROPITEM_TXT_724692,FWC Golden Lusaka's Crystal Bow,FWC黄金卢萨卡的水晶弓
+PROPITEM_TXT_724693,FWC Golden Lusaka's Crystal Fist,FWC黄金卢萨卡的水晶拳
+PROPITEM_TXT_724694,FWC Golden Lusaka's Crystal Staff,FWC黄金卢萨卡的水晶法杖
+PROPITEM_TXT_724695,FWC Golden Lusaka's Crystal Stick,FWC黄金卢萨卡的水晶魔棒
+PROPITEM_TXT_724696,FWC Golden Lusaka's Crystal Sword,FWC黄金卢萨卡的水晶剑
+PROPITEM_TXT_724697,FWC Golden Lusaka's Heavy Crystal Axe,FWC黄金卢萨卡的水晶巨斧
+PROPITEM_TXT_724698,FWC Golden Lusaka's Heavy Crystal Sword,FWC黄金卢萨卡的水晶巨剑
+PROPITEM_TXT_724699,FWC Golden Lusaka's Crystal Wand,FWC黄金卢萨卡的水晶魔杖
+PROPITEM_TXT_724700,FWC Golden Lusaka's Crystal Yo-Yo,FWC黄金卢萨卡的水晶飞轮
 PROPITEM_TXT_724701,FWC Pre-Register Gift Box,FWC Pre-Register Gift Box
 PROPITEM_TXT_724702,Some useful items to start your journey!,Some useful items to start your journey!
 PROPITEM_TXT_724703,Spring Qipao 10% Black Set,Spring Qipao 10% Black Set
@@ -17083,36 +17083,36 @@ PROPITEM_TXT_726139,FWC 2024 Guild Rally Winner Reward,FWC 2024 Guild Rally Winn
 PROPITEM_TXT_726140,"A package containing 1x Shadow Hunter Costume Lucky Box, 1x Clockworks Weapon Skin Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 days), 10x Vital Drink X or Refresher Hold, 10x Flask Box and 3x Smelting Scroll of Package A.","A package containing 1x Shadow Hunter Costume Lucky Box, 1x Clockworks Weapon Skin Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 days), 10x Vital Drink X or Refresher Hold, 10x Flask Box and 3x Smelting Scroll of Package A."
 PROPITEM_TXT_726141,FWC 2024 Guild Rally Runner up Reward,FWC 2024 Guild Rally Runner up Reward
 PROPITEM_TXT_726142,"A package containing 1x Clockworks Weapon Skin Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 days), 10x Vital Drink X or Refresher Hold and 10x Flask Box. All items are also linked.","A package containing 1x Clockworks Weapon Skin Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 days), 10x Vital Drink X or Refresher Hold and 10x Flask Box. All items are also linked."
-PROPITEM_TXT_800003,Shining Topaz (1),Shining Topaz (1)
-PROPITEM_TXT_800004,Shining Topaz (2),Shining Topaz (2)
-PROPITEM_TXT_800005,Shining Topaz (3),Shining Topaz (3)
-PROPITEM_TXT_800006,Shining Topaz (4),Shining Topaz (4)
-PROPITEM_TXT_800007,Shining Topaz (5),Shining Topaz (5)
-PROPITEM_TXT_800008,Shining Topaz (6),Shining Topaz (6)
-PROPITEM_TXT_800009,Shining Topaz (7),Shining Topaz (7)
-PROPITEM_TXT_800010,Shining Topaz (8),Shining Topaz (8)
-PROPITEM_TXT_800011,Shining Topaz (9),Shining Topaz (9)
-PROPITEM_TXT_800012,Shining Topaz (10),Shining Topaz (10)
-PROPITEM_TXT_800013,Gives +5 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +5 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800014,Gives +10 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +10 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800015,Gives +15 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +15 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800016,Gives +20 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +20 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800017,Gives +25 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +25 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800018,Gives +30 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +30 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800019,Gives +35 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +35 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800020,Gives +40 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +40 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800021,Gives +45 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +45 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800022,Gives +50 Defense when applied to a ultimate weapon. Can only be attached once.,Gives +50 Defense when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800023,Shining Ruby (1),Shining Ruby (1)
-PROPITEM_TXT_800024,Shining Ruby (2),Shining Ruby (2)
-PROPITEM_TXT_800025,Shining Ruby (3),Shining Ruby (3)
-PROPITEM_TXT_800026,Shining Ruby (4),Shining Ruby (4)
-PROPITEM_TXT_800027,Shining Ruby (5),Shining Ruby (5)
-PROPITEM_TXT_800028,Shining Ruby (6),Shining Ruby (6)
-PROPITEM_TXT_800029,Shining Ruby (7),Shining Ruby (7)
-PROPITEM_TXT_800030,Shining Ruby (8),Shining Ruby (8)
-PROPITEM_TXT_800031,Shining Ruby (9),Shining Ruby (9)
-PROPITEM_TXT_800032,Shining Ruby (10),Shining Ruby (10)
+PROPITEM_TXT_800003,Shining Topaz (1),闪耀黄宝石 (1)
+PROPITEM_TXT_800004,Shining Topaz (2),闪耀黄宝石 (2)
+PROPITEM_TXT_800005,Shining Topaz (3),闪耀黄宝石 (3)
+PROPITEM_TXT_800006,Shining Topaz (4),闪耀黄宝石 (4)
+PROPITEM_TXT_800007,Shining Topaz (5),闪耀黄宝石 (5)
+PROPITEM_TXT_800008,Shining Topaz (6),闪耀黄宝石 (6)
+PROPITEM_TXT_800009,Shining Topaz (7),闪耀黄宝石 (7)
+PROPITEM_TXT_800010,Shining Topaz (8),闪耀黄宝石 (8)
+PROPITEM_TXT_800011,Shining Topaz (9),闪耀黄宝石 (9)
+PROPITEM_TXT_800012,Shining Topaz (10),闪耀黄宝石 (10)
+PROPITEM_TXT_800013,Gives +5 Defense when applied to a ultimate weapon. Can only be attached once.,镶嵌于终极武器时，防御力 +5。
+PROPITEM_TXT_800014,Gives +10 Defense when applied to a ultimate weapon. Can only be attached once.,镶嵌于终极武器时，防御力 +10。
+PROPITEM_TXT_800015,Gives +15 Defense when applied to a ultimate weapon. Can only be attached once.,镶嵌于终极武器时，防御力 +15。
+PROPITEM_TXT_800016,Gives +20 Defense when applied to a ultimate weapon. Can only be attached once.,镶嵌于终极武器时，防御力 +20。
+PROPITEM_TXT_800017,Gives +25 Defense when applied to a ultimate weapon. Can only be attached once.,镶嵌于终极武器时，防御力 +25。
+PROPITEM_TXT_800018,Gives +30 Defense when applied to a ultimate weapon. Can only be attached once.,镶嵌于终极武器时，防御力 +30。
+PROPITEM_TXT_800019,Gives +35 Defense when applied to a ultimate weapon. Can only be attached once.,镶嵌于终极武器时，防御力 +35。
+PROPITEM_TXT_800020,Gives +40 Defense when applied to a ultimate weapon. Can only be attached once.,镶嵌于终极武器时，防御力 +40。
+PROPITEM_TXT_800021,Gives +45 Defense when applied to a ultimate weapon. Can only be attached once.,镶嵌于终极武器时，防御力 +45。
+PROPITEM_TXT_800022,Gives +50 Defense when applied to a ultimate weapon. Can only be attached once.,镶嵌于终极武器时，防御力 +50。
+PROPITEM_TXT_800023,Shining Ruby (1),闪耀红宝石 (1)
+PROPITEM_TXT_800024,Shining Ruby (2),闪耀红宝石 (2)
+PROPITEM_TXT_800025,Shining Ruby (3),闪耀红宝石 (3)
+PROPITEM_TXT_800026,Shining Ruby (4),闪耀红宝石 (4)
+PROPITEM_TXT_800027,Shining Ruby (5),闪耀红宝石 (5)
+PROPITEM_TXT_800028,Shining Ruby (6),闪耀红宝石 (6)
+PROPITEM_TXT_800029,Shining Ruby (7),闪耀红宝石 (7)
+PROPITEM_TXT_800030,Shining Ruby (8),闪耀红宝石 (8)
+PROPITEM_TXT_800031,Shining Ruby (9),闪耀红宝石 (9)
+PROPITEM_TXT_800032,Shining Ruby (10),闪耀红宝石 (10)
 PROPITEM_TXT_800033,Gives +1 Strength when applied to a ultimate weapon. Can only be attached once.,Gives +1 Strength when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800034,Gives +2 Strength when applied to a ultimate weapon. Can only be attached once.,Gives +2 Strength when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800035,Gives +3 Strength when applied to a ultimate weapon. Can only be attached once.,Gives +3 Strength when applied to a ultimate weapon. Can only be attached once.
@@ -17123,16 +17123,16 @@ PROPITEM_TXT_800039,Gives +7 Strength when applied to a ultimate weapon. Can onl
 PROPITEM_TXT_800040,Gives +8 Strength when applied to a ultimate weapon. Can only be attached once.,Gives +8 Strength when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800041,Gives +9 Strength when applied to a ultimate weapon. Can only be attached once.,Gives +9 Strength when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800042,Gives +10 Strength when applied to a ultimate weapon. Can only be attached once.,Gives +10 Strength when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800043,Shining Sapphire (1),Shining Sapphire (1)
-PROPITEM_TXT_800044,Shining Sapphire (2),Shining Sapphire (2)
-PROPITEM_TXT_800045,Shining Sapphire (3),Shining Sapphire (3)
-PROPITEM_TXT_800046,Shining Sapphire (4),Shining Sapphire (4)
-PROPITEM_TXT_800047,Shining Sapphire (5),Shining Sapphire (5)
-PROPITEM_TXT_800048,Shining Sapphire (6),Shining Sapphire (6)
-PROPITEM_TXT_800049,Shining Sapphire (7),Shining Sapphire (7)
-PROPITEM_TXT_800050,Shining Sapphire (8),Shining Sapphire (8)
-PROPITEM_TXT_800051,Shining Sapphire (9),Shining Sapphire (9)
-PROPITEM_TXT_800052,Shining Sapphire (10),Shining Sapphire (10)
+PROPITEM_TXT_800043,Shining Sapphire (1),闪耀蓝宝石 (1)
+PROPITEM_TXT_800044,Shining Sapphire (2),闪耀蓝宝石 (2)
+PROPITEM_TXT_800045,Shining Sapphire (3),闪耀蓝宝石 (3)
+PROPITEM_TXT_800046,Shining Sapphire (4),闪耀蓝宝石 (4)
+PROPITEM_TXT_800047,Shining Sapphire (5),闪耀蓝宝石 (5)
+PROPITEM_TXT_800048,Shining Sapphire (6),闪耀蓝宝石 (6)
+PROPITEM_TXT_800049,Shining Sapphire (7),闪耀蓝宝石 (7)
+PROPITEM_TXT_800050,Shining Sapphire (8),闪耀蓝宝石 (8)
+PROPITEM_TXT_800051,Shining Sapphire (9),闪耀蓝宝石 (9)
+PROPITEM_TXT_800052,Shining Sapphire (10),闪耀蓝宝石 (10)
 PROPITEM_TXT_800053,Gives +1 Intelligence when applied to a ultimate weapon. Can only be attached once.,Gives +1 Intelligence when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800054,Gives +2 Intelligence when applied to a ultimate weapon. Can only be attached once.,Gives +2 Intelligence when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800055,Gives +3 Intelligence when applied to a ultimate weapon. Can only be attached once.,Gives +3 Intelligence when applied to a ultimate weapon. Can only be attached once.
@@ -17143,16 +17143,16 @@ PROPITEM_TXT_800059,Gives +7 Intelligence when applied to a ultimate weapon. Can
 PROPITEM_TXT_800060,Gives +8 Intelligence when applied to a ultimate weapon. Can only be attached once.,Gives +8 Intelligence when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800061,Gives +9 Intelligence when applied to a ultimate weapon. Can only be attached once.,Gives +9 Intelligence when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800062,Gives +10 Intelligence when applied to a ultimate weapon. Can only be attached once.,Gives +10 Intelligence when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800063,Shining Emerald (1),Shining Emerald (1)
-PROPITEM_TXT_800064,Shining Emerald (2),Shining Emerald (2)
-PROPITEM_TXT_800065,Shining Emerald (3),Shining Emerald (3)
-PROPITEM_TXT_800066,Shining Emerald (4),Shining Emerald (4)
-PROPITEM_TXT_800067,Shining Emerald (5),Shining Emerald (5)
-PROPITEM_TXT_800068,Shining Emerald (6),Shining Emerald (6)
-PROPITEM_TXT_800069,Shining Emerald (7),Shining Emerald (7)
-PROPITEM_TXT_800070,Shining Emerald (8),Shining Emerald (8)
-PROPITEM_TXT_800071,Shining Emerald (9),Shining Emerald (9)
-PROPITEM_TXT_800072,Shining Emerald (10),Shining Emerald (10)
+PROPITEM_TXT_800063,Shining Emerald (1),闪耀绿宝石 (1)
+PROPITEM_TXT_800064,Shining Emerald (2),闪耀绿宝石 (2)
+PROPITEM_TXT_800065,Shining Emerald (3),闪耀绿宝石 (3)
+PROPITEM_TXT_800066,Shining Emerald (4),闪耀绿宝石 (4)
+PROPITEM_TXT_800067,Shining Emerald (5),闪耀绿宝石 (5)
+PROPITEM_TXT_800068,Shining Emerald (6),闪耀绿宝石 (6)
+PROPITEM_TXT_800069,Shining Emerald (7),闪耀绿宝石 (7)
+PROPITEM_TXT_800070,Shining Emerald (8),闪耀绿宝石 (8)
+PROPITEM_TXT_800071,Shining Emerald (9),闪耀绿宝石 (9)
+PROPITEM_TXT_800072,Shining Emerald (10),闪耀绿宝石 (10)
 PROPITEM_TXT_800073,Gives +1 Dexterity when applied to a ultimate weapon. Can only be attached once.,Gives +1 Dexterity when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800074,Gives +2 Dexterity when applied to a ultimate weapon. Can only be attached once.,Gives +2 Dexterity when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800075,Gives +3 Dexterity when applied to a ultimate weapon. Can only be attached once.,Gives +3 Dexterity when applied to a ultimate weapon. Can only be attached once.
@@ -17163,16 +17163,16 @@ PROPITEM_TXT_800079,Gives +7 Dexterity when applied to a ultimate weapon. Can on
 PROPITEM_TXT_800080,Gives +8 Dexterity when applied to a ultimate weapon. Can only be attached once.,Gives +8 Dexterity when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800081,Gives +9 Dexterity when applied to a ultimate weapon. Can only be attached once.,Gives +9 Dexterity when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800082,Gives +10 Dexterity when applied to a ultimate weapon. Can only be attached once.,Gives +10 Dexterity when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800083,Shining Amethyst (1),Shining Amethyst (1)
-PROPITEM_TXT_800084,Shining Amethyst (2),Shining Amethyst (2)
-PROPITEM_TXT_800085,Shining Amethyst (3),Shining Amethyst (3)
-PROPITEM_TXT_800086,Shining Amethyst (4),Shining Amethyst (4)
-PROPITEM_TXT_800087,Shining Amethyst (5),Shining Amethyst (5)
-PROPITEM_TXT_800088,Shining Amethyst (6),Shining Amethyst (6)
-PROPITEM_TXT_800089,Shining Amethyst (7),Shining Amethyst (7)
-PROPITEM_TXT_800090,Shining Amethyst (8),Shining Amethyst (8)
-PROPITEM_TXT_800091,Shining Amethyst (9),Shining Amethyst (9)
-PROPITEM_TXT_800092,Shining Amethyst (10),Shining Amethyst (10)
+PROPITEM_TXT_800083,Shining Amethyst (1),闪耀紫水晶 (1)
+PROPITEM_TXT_800084,Shining Amethyst (2),闪耀紫水晶 (2)
+PROPITEM_TXT_800085,Shining Amethyst (3),闪耀紫水晶 (3)
+PROPITEM_TXT_800086,Shining Amethyst (4),闪耀紫水晶 (4)
+PROPITEM_TXT_800087,Shining Amethyst (5),闪耀紫水晶 (5)
+PROPITEM_TXT_800088,Shining Amethyst (6),闪耀紫水晶 (6)
+PROPITEM_TXT_800089,Shining Amethyst (7),闪耀紫水晶 (7)
+PROPITEM_TXT_800090,Shining Amethyst (8),闪耀紫水晶 (8)
+PROPITEM_TXT_800091,Shining Amethyst (9),闪耀紫水晶 (9)
+PROPITEM_TXT_800092,Shining Amethyst (10),闪耀紫水晶 (10)
 PROPITEM_TXT_800093,Gives +1 Stamina when applied to a ultimate weapon. Can only be attached once.,Gives +1 Stamina when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800094,Gives +2 Stamina when applied to a ultimate weapon. Can only be attached once.,Gives +2 Stamina when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800095,Gives +3 Stamina when applied to a ultimate weapon. Can only be attached once.,Gives +3 Stamina when applied to a ultimate weapon. Can only be attached once.
@@ -17183,16 +17183,16 @@ PROPITEM_TXT_800099,Gives +7 Stamina when applied to a ultimate weapon. Can only
 PROPITEM_TXT_800100,Gives +8 Stamina when applied to a ultimate weapon. Can only be attached once.,Gives +8 Stamina when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800101,Gives +9 Stamina when applied to a ultimate weapon. Can only be attached once.,Gives +9 Stamina when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800102,Gives +10 Stamina when applied to a ultimate weapon. Can only be attached once.,Gives +10 Stamina when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800103,Shining Diamond (1),Shining Diamond (1)
-PROPITEM_TXT_800104,Shining Diamond (2),Shining Diamond (2)
-PROPITEM_TXT_800105,Shining Diamond (3),Shining Diamond (3)
-PROPITEM_TXT_800106,Shining Diamond (4),Shining Diamond (4)
-PROPITEM_TXT_800107,Shining Diamond (5),Shining Diamond (5)
-PROPITEM_TXT_800108,Shining Diamond (6),Shining Diamond (6)
-PROPITEM_TXT_800109,Shining Diamond (7),Shining Diamond (7)
-PROPITEM_TXT_800110,Shining Diamond (8),Shining Diamond (8)
-PROPITEM_TXT_800111,Shining Diamond (9),Shining Diamond (9)
-PROPITEM_TXT_800112,Shining Diamond (10),Shining Diamond (10)
+PROPITEM_TXT_800103,Shining Diamond (1),闪耀钻石 (1)
+PROPITEM_TXT_800104,Shining Diamond (2),闪耀钻石 (2)
+PROPITEM_TXT_800105,Shining Diamond (3),闪耀钻石 (3)
+PROPITEM_TXT_800106,Shining Diamond (4),闪耀钻石 (4)
+PROPITEM_TXT_800107,Shining Diamond (5),闪耀钻石 (5)
+PROPITEM_TXT_800108,Shining Diamond (6),闪耀钻石 (6)
+PROPITEM_TXT_800109,Shining Diamond (7),闪耀钻石 (7)
+PROPITEM_TXT_800110,Shining Diamond (8),闪耀钻石 (8)
+PROPITEM_TXT_800111,Shining Diamond (9),闪耀钻石 (9)
+PROPITEM_TXT_800112,Shining Diamond (10),闪耀钻石 (10)
 PROPITEM_TXT_800113,Gives +50 HP when applied to a ultimate weapon. Can only be attached once.,Gives +50 HP when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800114,Gives +100 HP when applied to a ultimate weapon. Can only be attached once.,Gives +100 HP when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800115,Gives +150 HP when applied to a ultimate weapon. Can only be attached once.,Gives +150 HP when applied to a ultimate weapon. Can only be attached once.
@@ -17203,16 +17203,16 @@ PROPITEM_TXT_800119,Gives +350 HP when applied to a ultimate weapon. Can only be
 PROPITEM_TXT_800120,Gives +400 HP when applied to a ultimate weapon. Can only be attached once.,Gives +400 HP when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800121,Gives +450 HP when applied to a ultimate weapon. Can only be attached once.,Gives +450 HP when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800122,Gives +500 HP when applied to a ultimate weapon. Can only be attached once.,Gives +500 HP when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800123,Shining Onyx (1),Shining Onyx (1)
-PROPITEM_TXT_800124,Shining Onyx (2),Shining Onyx (2)
-PROPITEM_TXT_800125,Shining Onyx (3),Shining Onyx (3)
-PROPITEM_TXT_800126,Shining Onyx (4),Shining Onyx (4)
-PROPITEM_TXT_800127,Shining Onyx (5),Shining Onyx (5)
-PROPITEM_TXT_800128,Shining Onyx (6),Shining Onyx (6)
-PROPITEM_TXT_800129,Shining Onyx (7),Shining Onyx (7)
-PROPITEM_TXT_800130,Shining Onyx (8),Shining Onyx (8)
-PROPITEM_TXT_800131,Shining Onyx (9),Shining Onyx (9)
-PROPITEM_TXT_800132,Shining Onyx (10),Shining Onyx (10)
+PROPITEM_TXT_800123,Shining Onyx (1),闪耀玛瑙 (1)
+PROPITEM_TXT_800124,Shining Onyx (2),闪耀玛瑙 (2)
+PROPITEM_TXT_800125,Shining Onyx (3),闪耀玛瑙 (3)
+PROPITEM_TXT_800126,Shining Onyx (4),闪耀玛瑙 (4)
+PROPITEM_TXT_800127,Shining Onyx (5),闪耀玛瑙 (5)
+PROPITEM_TXT_800128,Shining Onyx (6),闪耀玛瑙 (6)
+PROPITEM_TXT_800129,Shining Onyx (7),闪耀玛瑙 (7)
+PROPITEM_TXT_800130,Shining Onyx (8),闪耀玛瑙 (8)
+PROPITEM_TXT_800131,Shining Onyx (9),闪耀玛瑙 (9)
+PROPITEM_TXT_800132,Shining Onyx (10),闪耀玛瑙 (10)
 PROPITEM_TXT_800133,Gives +10 Attack Power when applied to a ultimate weapon. Can only be attached once.,Gives +10 Attack Power when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800134,Gives +20 Attack Power when applied to a ultimate weapon. Can only be attached once.,Gives +20 Attack Power when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800135,Gives +30 Attack Power when applied to a ultimate weapon. Can only be attached once.,Gives +30 Attack Power when applied to a ultimate weapon. Can only be attached once.
@@ -17223,11 +17223,11 @@ PROPITEM_TXT_800139,Gives +70 Attack Power when applied to a ultimate weapon. Ca
 PROPITEM_TXT_800140,Gives +80 Attack Power when applied to a ultimate weapon. Can only be attached once.,Gives +80 Attack Power when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800141,Gives +90 Attack Power when applied to a ultimate weapon. Can only be attached once.,Gives +90 Attack Power when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800142,Gives +100 Attack Power when applied to a ultimate weapon. Can only be attached once.,Gives +100 Attack Power when applied to a ultimate weapon. Can only be attached once.
-PROPITEM_TXT_800143,Jewel Tweezers,Jewel Tweezers
-PROPITEM_TXT_800144,You can get the attached jewel without destruction.,You can get the attached jewel without destruction.
-PROPITEM_TXT_800145,Rune of Increasing HP,Rune of Increasing HP
-PROPITEM_TXT_800146,Rune of Increasing MP,Rune of Increasing MP
-PROPITEM_TXT_800147,Rune of Increasing FP,Rune of Increasing FP
+PROPITEM_TXT_800143,Jewel Tweezers,宝石镊子
+PROPITEM_TXT_800144,You can get the attached jewel without destruction.,可获得附着的宝石且不产生破坏。
+PROPITEM_TXT_800145,Rune of Increasing HP,HP 提升符文
+PROPITEM_TXT_800146,Rune of Increasing MP,MP 提升符文
+PROPITEM_TXT_800147,Rune of Increasing FP,FP 提升符文
 PROPITEM_TXT_800148,Rune of Attack,攻击符文
 PROPITEM_TXT_800149,Rune of Defense,防御符文
 PROPITEM_TXT_800150,Rune of Attack Speed,攻击速度符文
@@ -17235,13 +17235,13 @@ PROPITEM_TXT_800151,Rune of Speed,移动速度符文
 PROPITEM_TXT_800152,Rune of Critical Chance,暴击率符文
 PROPITEM_TXT_800153,Rune of Critical Bonus,暴击伤害符文
 PROPITEM_TXT_800154,Rune of Hit Rate,命中率符文
-PROPITEM_TXT_800155,Rune of Magic Resist,Rune of Magic Resist
+PROPITEM_TXT_800155,Rune of Magic Resist,魔抗符文
 PROPITEM_TXT_800156,Rune of Critical Resistance,暴击抵抗符文
-PROPITEM_TXT_800157,Rune of Block Melee,Rune of Block Melee
-PROPITEM_TXT_800158,Rune of Block Range,Rune of Block Range
+PROPITEM_TXT_800157,Rune of Block Melee,近距离格挡符文
+PROPITEM_TXT_800158,Rune of Block Range,远距离格挡符文
 PROPITEM_TXT_800159,Rune of Skill Range,技能射程符文
-PROPITEM_TXT_800160,Rune of MP Decrease Rate,Rune of MP Decrease Rate
-PROPITEM_TXT_800161,Rune of FP Decrease Rate,Rune of FP Decrease Rate
+PROPITEM_TXT_800160,Rune of MP Decrease Rate,MP 消耗减免符文
+PROPITEM_TXT_800161,Rune of FP Decrease Rate,FP 消耗减免符文
 PROPITEM_TXT_800162,Gives +10% HP when applied to a ultimate weapon. Can only be attached once.,Gives +10% HP when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800163,Gives +10% MP when applied to a ultimate weapon. Can only be attached once.,Gives +10% MP when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800164,Gives +10% FP when applied to a ultimate weapon. Can only be attached once.,Gives +10% FP when applied to a ultimate weapon. Can only be attached once.
@@ -17261,20 +17261,20 @@ PROPITEM_TXT_800177,Gives +10% MP consumption decrease when applied to a ultimat
 PROPITEM_TXT_800178,Gives +10% FP consumption decrease when applied to a ultimate weapon. Can only be attached once.,Gives +10% FP consumption decrease when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_800179,Shining Topaz Piece,闪耀黄宝石碎片
 PROPITEM_TXT_800180,Shining Ruby Piece,闪耀红宝石碎片
-PROPITEM_TXT_800181,Shining Sapphire Piece,Shining Sapphire Piece
+PROPITEM_TXT_800181,Shining Sapphire Piece,闪耀蓝宝石碎片
 PROPITEM_TXT_800182,Shining Emerald Piece,闪耀绿宝石碎片
 PROPITEM_TXT_800183,Shining Diamond Piece,闪耀钻石碎片
 PROPITEM_TXT_800184,Shining Amethyst Piece,闪耀紫水晶碎片
 PROPITEM_TXT_800185,Shining Onyx Piece,闪耀玛瑙碎片
-PROPITEM_TXT_800186,It's a piece where you can get a complete jewel if you collect and process 10 pieces.,It's a piece where you can get a complete jewel if you collect and process 10 pieces.
-PROPITEM_TXT_800187,Ultimate Jewel Box,Ultimate Jewel Box
+PROPITEM_TXT_800186,It's a piece where you can get a complete jewel if you collect and process 10 pieces.,集齐并合成 10 个碎片，即可获得一枚完整宝石。
+PROPITEM_TXT_800187,Ultimate Jewel Box,终极宝石箱
 PROPITEM_TXT_800188,"This box contains various ultimate jewels, runes, and pieces that can be added to an ultimate weapon. You can make a complete jewel by processing 10 individual pieces.",箱子内包含多种可镶嵌于终极武器的终极珠宝、符文及碎片。集齐10枚同类碎片即可合成完整珠宝。
-PROPITEM_TXT_800189,Advanced Mana Stone,Advanced Mana Stone
-PROPITEM_TXT_800190,Recovers between 1 and 3 jewels if fusion fails.,Recovers between 1 and 3 jewels if fusion fails.
-PROPITEM_TXT_800191,Mana Stone,Mana Stone
-PROPITEM_TXT_800192,Recovers all the jewel pieces if creation fails.,Recovers all the jewel pieces if creation fails.
-PROPITEM_TXT_800193,[Personal House NPC] Klock,[Personal House NPC] Klock
-PROPITEM_TXT_800194,"This NPC will grant you the following bonus when placed on the Personal House: Ultimate Jewel features.\nEarn that jewel with a 30% chance of removing Ultimate Jewel.\nUltimate Jewelry Manufacture, Compose Success Rate Increased","This NPC will grant you the following bonus when placed on the Personal House: Ultimate Jewel features.\nEarn that jewel with a 30% chance of removing Ultimate Jewel.\nUltimate Jewelry Manufacture, Compose Success Rate Increased"
+PROPITEM_TXT_800189,Advanced Mana Stone,高级法力石
+PROPITEM_TXT_800190,Recovers between 1 and 3 jewels if fusion fails.,融合失败时，回收 1 至 3 颗宝石。
+PROPITEM_TXT_800191,Mana Stone,法力石
+PROPITEM_TXT_800192,Recovers all the jewel pieces if creation fails.,制作失败时，回收全部宝石碎片。
+PROPITEM_TXT_800193,[Personal House NPC] Klock,[Personal House NPC] 宝石工匠克罗克
+PROPITEM_TXT_800194,"This NPC will grant you the following bonus when placed on the Personal House: Ultimate Jewel features.\nEarn that jewel with a 30% chance of removing Ultimate Jewel.\nUltimate Jewelry Manufacture, Compose Success Rate Increased",将该 NPC 放置于私人住宅时，将赋予以下加成：终极宝石相关功能。提升同类型宝石镶嵌成功率。​\n移除终极宝石时，有 30% 几率保留宝石时。​\n提高终极宝石的制造与合成成功率。
 PROPITEM_TXT_800195,Ultimate Jewel Gemstone,终极珠宝宝石
 PROPITEM_TXT_800196,First-grade jewels and jewel pieces can be extracted from this gemstone.,从此宝石中可提取一级珠宝与珠宝碎片。
 PROPITEM_TXT_800197,Cutting Knife,Cutting Knife
@@ -19012,8 +19012,8 @@ PROPITEM_TXT_134631,Eighth Refresher (B),Eighth Refresher (B)
 PROPITEM_TXT_134632,Eighth Refresher (A),Eighth Refresher (A)
 PROPITEM_TXT_134633,Eighth Refresher (A+),Eighth Refresher (A+)
 PROPITEM_TXT_134634,MP 683 Recovery,MP 683 Recovery
-PROPITEM_TXT_134635,Enduky +4,Enduky +4
-PROPITEM_TXT_134636,Enduky +5,Enduky +5
+PROPITEM_TXT_134635,Enduky +4,冰晶活力项链 +4
+PROPITEM_TXT_134636,Enduky +5,冰晶活力项链 +5
 PROPITEM_TXT_134637,Handmade Silver Ring (C),Handmade Silver Ring (C)
 PROPITEM_TXT_134638,Handmade Silver Ring (B),Handmade Silver Ring (B)
 PROPITEM_TXT_134639,Handmade Silver Ring (A),Handmade Silver Ring (A)
@@ -19033,9 +19033,9 @@ PROPITEM_TXT_134652,Power Vital Drink (A),Power Vital Drink (A)
 PROPITEM_TXT_134653,Power Vital Drink (A+),Power Vital Drink (A+)
 PROPITEM_TXT_134654,A mixture that decreases the FP Consumption when consumed.,A mixture that decreases the FP Consumption when consumed.
 PROPITEM_TXT_140054,Wand of Maleficar,邪术使魔杖
-PROPITEM_TXT_140055,Quest item that drops from Maleficar,Quest item that drops from Maleficar
+PROPITEM_TXT_140055,Quest item that drops from Maleficar,从邪术使掉落的任务物品。
 PROPITEM_TXT_140056,Cursed Warden Gem,诅咒守卫宝石
-PROPITEM_TXT_140057,Quest item that drops from Cursed Warden,Quest item that drops from Cursed Warden
+PROPITEM_TXT_140057,Quest item that drops from Cursed Warden,从诅咒守卫掉落的任务物品。
 PROPITEM_TXT_134655,Statted Chameleon Cloak,Statted Chameleon Cloak
 PROPITEM_TXT_134656,Statted Chameleon Cloak (7 Days),Statted Chameleon Cloak (7 Days)
 PROPITEM_TXT_134657,Select which Statted Chameleon Cloak you would like to receive (7 Days)!,Select which Statted Chameleon Cloak you would like to receive (7 Days)!
@@ -19537,25 +19537,25 @@ PROPITEM_TXT_826196,Lift Scissors Emote,Lift Scissors Emote
 PROPITEM_TXT_826197,Dance 10 Emote,Dance 10 Emote
 PROPITEM_TXT_826198,Dance 11 Emote,Dance 11 Emote
 PROPITEM_TXT_826199,Provides a new emote for your character!,Provides a new emote for your character!
-PROPITEM_TXT_826200,Card and Dice Bag,Card and Dice Bag
-PROPITEM_TXT_826201,"This bag gives you 10 additional card, card piece, dice and dice piece item slots.","This bag gives you 10 additional card, card piece, dice and dice piece item slots."
-PROPITEM_TXT_145000,Blessing of the Demon,Blessing of the Demon
-PROPITEM_TXT_145001,Card and Dice Bag,Card and Dice Bag
-PROPITEM_TXT_145002,"This bag gives you 10 additional card, card piece, dice and dice piece item slots.","This bag gives you 10 additional card, card piece, dice and dice piece item slots."
-PROPITEM_TXT_145003,Pet Reroll Scroll,Pet Reroll Scroll
-PROPITEM_TXT_145004,"Allows you to reroll the level of one pet tier. Once you choose to reroll a tier, all other tiers will not be rerollable using a reroll scroll.","Allows you to reroll the level of one pet tier. Once you choose to reroll a tier, all other tiers will not be rerollable using a reroll scroll."
+PROPITEM_TXT_826200,Card and Dice Bag,
+PROPITEM_TXT_826201,"This bag gives you 10 additional card, card piece, dice and dice piece item slots.",这个袋子可为你额外提供10个卡片、卡片碎片、骰子及骰子碎片的物品栏位。
+PROPITEM_TXT_145000,Blessing of the Demon,恶魔的祝福
+PROPITEM_TXT_145001,Card and Dice Bag,卡片与骰子袋
+PROPITEM_TXT_145002,"This bag gives you 10 additional card, card piece, dice and dice piece item slots.",这个袋子可为你额外提供10个卡片、卡片碎片、骰子及骰子碎片的物品栏位。
+PROPITEM_TXT_145003,Pet Reroll Scroll,宠物重置卷轴
+PROPITEM_TXT_145004,"Allows you to reroll the level of one pet tier. Once you choose to reroll a tier, all other tiers will not be rerollable using a reroll scroll.",允许你重新随机一个宠物阶级的等级。一旦选择重置某个阶级，其他所有阶级将无法再使用重置卷轴进行重置。
 PROPITEM_TXT_145005,Scale of Luminfin,辉鳞的鳞片
-PROPITEM_TXT_145006,A quest item acquired from Luminfin in Herneos. It seems that this Luminfin scale is fluorescent.,A quest item acquired from Luminfin in Herneos. It seems that this Luminfin scale is fluorescent.
-PROPITEM_TXT_145007,Magic water stone,Magic water stone
-PROPITEM_TXT_145008,Quest Item: Magic water stone to help identify the area.,Quest Item: Magic water stone to help identify the area.
-PROPITEM_TXT_145009,Magic Water Stone analysis results,Magic Water Stone analysis results
-PROPITEM_TXT_145010,"Quest Item: Results of the Magic water stone analysis, is it really Herneos?","Quest Item: Results of the Magic water stone analysis, is it really Herneos?"
+PROPITEM_TXT_145006,A quest item acquired from Luminfin in Herneos. It seems that this Luminfin scale is fluorescent.,从赫涅奥斯的辉鳞处获得的任务物品。这块流光鱼鳞片似乎会发出荧光。
+PROPITEM_TXT_145007,Magic water stone,魔法水石头
+PROPITEM_TXT_145008,Quest Item: Magic water stone to help identify the area.,任务物品：帮助识别区域的神奇水之石。
+PROPITEM_TXT_145009,Magic Water Stone analysis results,魔法水石头分析结果
+PROPITEM_TXT_145010,"Quest Item: Results of the Magic water stone analysis, is it really Herneos?",任务物品：魔法水石头的分析结果，这真的是赫涅奥斯吗？
 PROPITEM_TXT_145011,Dreadfin Tooth,惧鳞之牙
-PROPITEM_TXT_145012,A quest item acquired from Dreadfin in Herneos. The Dreadfin must have lost this tooth during the battle.,A quest item acquired from Dreadfin in Herneos. The Dreadfin must have lost this tooth during the battle.
+PROPITEM_TXT_145012,A quest item acquired from Dreadfin in Herneos. The Dreadfin must have lost this tooth during the battle.,一件从赫涅奥斯的惧鳞身上获得的任务物品。这枚利齿想必是战斗中从惧鳞身上脱落的。
 PROPITEM_TXT_145013,Dreadscale Medallion,怖鳞徽记
-PROPITEM_TXT_145014,A quest item acquired from Dreadscale in Herneos. The dreadscale believe this medallion increases their power.,A quest item acquired from Dreadscale in Herneos. The dreadscale believe this medallion increases their power.
-PROPITEM_TXT_145015,Random Housing NPC Box (7 Days),Random Housing NPC Box (7 Days)
-PROPITEM_TXT_145016,Contains a random 7 days housing NPC. The NPC will be soul-linked.,Contains a random 7 days housing NPC. The NPC will be soul-linked.
+PROPITEM_TXT_145014,A quest item acquired from Dreadscale in Herneos. The dreadscale believe this medallion increases their power.,一件从赫涅奥斯的怖鳞身上获得的任务物品。怖鳞们相信这枚勋章能提升它们的力量。
+PROPITEM_TXT_145015,Random Housing NPC Box (7 Days),随机房屋 NPC 箱 (7 天)
+PROPITEM_TXT_145016,Contains a random 7 days housing NPC. The NPC will be soul-linked.,内含一个随机的7天房屋NPC。该NPC将是灵魂绑定的。
 PROPITEM_TXT_145017,Shop Advertisement (Gold),Shop Advertisement (Gold)
 PROPITEM_TXT_145018,This scroll makes your Private or Vendor Shop appear at the top of the Search Shop results with a golden adorner. It is consumed when opening the shop and disappears when closing it.,This scroll makes your Private or Vendor Shop appear at the top of the Search Shop results with a golden adorner. It is consumed when opening the shop and disappears when closing it.
 PROPITEM_TXT_145019,Shop Advertisement (Green),Shop Advertisement (Green)
@@ -24031,7 +24031,7 @@ PROPITEM_TXT_134869,2025 FWC Flame Bilari Costume Set (F),2025 FWC Flame Bilari 
 PROPITEM_TXT_134870,The 2025 FWC Flame Bilari Costume Set for female characters.,The 2025 FWC Flame Bilari Costume Set for female characters.
 PROPITEM_TXT_134871,2025 FWC Flame Bileire Costume Set (M),2025 FWC Flame Bileire Costume Set (M)
 PROPITEM_TXT_134872,The 2025 FWC Flame Bileire Costume Set for male characters.,The 2025 FWC Flame Bileire Costume Set for male characters.
-PROPITEM_TXT_134873,FWC Red Wings,FWC Red Wings
+PROPITEM_TXT_134873,FWC Red Wings,FWC 红翅膀
 PROPITEM_TXT_134874,2025 FWC Flame Lusaka Sword,2025 FWC Flame Lusaka Sword
 PROPITEM_TXT_134875,2025 FWC Flame Lusaka Axe,2025 FWC Flame Lusaka Axe
 PROPITEM_TXT_134876,2025 FWC Flame Lusaka Big Sword,2025 FWC Flame Lusaka Big Sword
@@ -24045,93 +24045,93 @@ PROPITEM_TXT_134883,2025 FWC Flame Lusaka Wand,2025 FWC Flame Lusaka Wand
 PROPITEM_TXT_134884,2025 FWC Flame Lusaka Shield,2025 FWC Flame Lusaka Shield
 PROPITEM_TXT_134885,2025 FWC Flame Lusaka Weapon Select Box,2025 FWC Flame Lusaka Weapon Select Box
 PROPITEM_TXT_134886,This box contains the 2025 FWC Flame Lusaka Weapons.,This box contains the 2025 FWC Flame Lusaka Weapons.
-PROPITEM_TXT_155000,Blinkwing of Eillun,Blinkwing of Eillun
-PROPITEM_TXT_155001,Teleport to Eillun,Teleport to Eillun
-PROPITEM_TXT_155002,Fragment of ???,Fragment of ???
-PROPITEM_TXT_155003,An unknown fragment was found on the ground. Bring it to the Mayor of Flarine; maybe he can figure out what it is.,An unknown fragment was found on the ground. Bring it to the Mayor of Flarine; maybe he can figure out what it is.
-PROPITEM_TXT_155004,Fragment of a Fallen Ship,Fragment of a Fallen Ship
-PROPITEM_TXT_155005,A remnant from a long-lost vessel that once soared the skies.,A remnant from a long-lost vessel that once soared the skies.
-PROPITEM_TXT_155006,Logbook,Logbook
-PROPITEM_TXT_155007,A strange book filled with codes.,A strange book filled with codes.
-PROPITEM_TXT_155008,Trace of the New Continent,Trace of the New Continent
-PROPITEM_TXT_155009,A remnant hinting at the mysteries of an uncharted land.,A remnant hinting at the mysteries of an uncharted land.
-PROPITEM_TXT_155010,Abandoned Serial Number Chain,Abandoned Serial Number Chain
-PROPITEM_TXT_155011,"A rusted chain bearing a series of faded serial numbers, hinting at a forgotten past.","A rusted chain bearing a series of faded serial numbers, hinting at a forgotten past."
-PROPITEM_TXT_155012,Piece of Hundur Bone,Piece of Hundur Bone
-PROPITEM_TXT_155013,"Quest item: A weathered bone fragment, once part of a mighty creature","Quest item: A weathered bone fragment, once part of a mighty creature"
-PROPITEM_TXT_155014,Piece of Samoset Bone,Piece of Samoset Bone
-PROPITEM_TXT_155015,Unknown Fur Ball,Unknown Fur Ball
-PROPITEM_TXT_155016,"A mysterious ball of fur, its origin unclear.","A mysterious ball of fur, its origin unclear."
-PROPITEM_TXT_155017,Lycan Operation Plan,Lycan Operation Plan
-PROPITEM_TXT_155018,A strategic document detailing plans for a covert lycan operation.,A strategic document detailing plans for a covert lycan operation.
-PROPITEM_TXT_155019,Translated Lycan Operation Plan,Translated Lycan Operation Plan
-PROPITEM_TXT_155020,Stolen Supply,Stolen Supply
-PROPITEM_TXT_155021,A cache of goods taken under suspicious circumstances. Its original owner might be looking for it,A cache of goods taken under suspicious circumstances. Its original owner might be looking for it
-PROPITEM_TXT_155022,Secret Letter,Secret Letter
-PROPITEM_TXT_155023,A confidential message sealed with care. Its contents could reveal something important.,A confidential message sealed with care. Its contents could reveal something important.
-PROPITEM_TXT_155024,All about Muran!,All about Muran!
-PROPITEM_TXT_155025,A detailed manuscript containing insights into the mysterious Muran.,A detailed manuscript containing insights into the mysterious Muran.
-PROPITEM_TXT_155026,Fragment of Scroll,Fragment of Scroll
-PROPITEM_TXT_155027,"A torn piece of an ancient scroll with faded, cryptic markings. Its meaning remains unknown.","A torn piece of an ancient scroll with faded, cryptic markings. Its meaning remains unknown."
-PROPITEM_TXT_155028,Lycan Orders,Lycan Orders
-PROPITEM_TXT_155029,A sealed document containing directives from the Lycan leadership. Its contents could be crucial.,A sealed document containing directives from the Lycan leadership. Its contents could be crucial.
-PROPITEM_TXT_155030,Pitch-black Sphere,Pitch-black Sphere
-PROPITEM_TXT_155031,"A mysterious, dark orb that seems to absorb all light. Its purpose is unknown.","A mysterious, dark orb that seems to absorb all light. Its purpose is unknown."
-PROPITEM_TXT_155032,Worn-out serial chain,Worn-out serial chain
-PROPITEM_TXT_155033,"A rusted chain with faded serial numbers, hinting at a forgotten past.","A rusted chain with faded serial numbers, hinting at a forgotten past."
-PROPITEM_TXT_155034,Worn-out Diary,Worn-out Diary
-PROPITEM_TXT_155035,"A tattered diary with faded, barely legible entries. Its story remains a mystery.","A tattered diary with faded, barely legible entries. Its story remains a mystery."
-PROPITEM_TXT_155036,Chief Keokuk's notebook,Chief Keokuk's notebook
-PROPITEM_TXT_155037,"A worn notebook, its pages filled with the fragmented musings of a long-gone leader. Each entry reveals glimpses of a forgotten era, shrouded in mystery.","A worn notebook, its pages filled with the fragmented musings of a long-gone leader. Each entry reveals glimpses of a forgotten era, shrouded in mystery."
+PROPITEM_TXT_155000,Blinkwing of Eillun,艾尔伦翅膀
+PROPITEM_TXT_155001,Teleport to Eillun,传送到艾尔伦
+PROPITEM_TXT_155002,Fragment of ???,？？？的碎片
+PROPITEM_TXT_155003,An unknown fragment was found on the ground. Bring it to the Mayor of Flarine; maybe he can figure out what it is.,地上发现了一片未知的碎片。把它带给帕里市长吧，或许他能弄清楚这是什么东西。
+PROPITEM_TXT_155004,Fragment of a Fallen Ship,沉船碎片
+PROPITEM_TXT_155005,A remnant from a long-lost vessel that once soared the skies.,这是一艘曾在天际翱翔、却已失落许久的船舰所残留的痕迹。
+PROPITEM_TXT_155006,Logbook,航行日志
+PROPITEM_TXT_155007,A strange book filled with codes.,一本写满代码的古怪的书。
+PROPITEM_TXT_155008,Trace of the New Continent,新大陆的踪迹
+PROPITEM_TXT_155009,A remnant hinting at the mysteries of an uncharted land.,一片指向未知之地奥秘的残留印记。
+PROPITEM_TXT_155010,Abandoned Serial Number Chain,被遗弃的编号牌链子
+PROPITEM_TXT_155011,"A rusted chain bearing a series of faded serial numbers, hinting at a forgotten past.",一条生锈的链子，上面挂着一串模糊的编号，暗示着一段被遗忘的过往。
+PROPITEM_TXT_155012,Piece of Hundur Bone,猎犬族骨片
+PROPITEM_TXT_155013,"Quest item: A weathered bone fragment, once part of a mighty creature",任务物品：一块风化的骨片，曾属于某个强大的生物。
+PROPITEM_TXT_155014,Piece of Samoset Bone,萨莫塞特骨片
+PROPITEM_TXT_155015,Unknown Fur Ball,未知毛球
+PROPITEM_TXT_155016,"A mysterious ball of fur, its origin unclear.",一团神秘的毛球，来源不明。
+PROPITEM_TXT_155017,Lycan Operation Plan,狼人行动计划
+PROPITEM_TXT_155018,A strategic document detailing plans for a covert lycan operation.,一份详细记录隐秘狼人行动计划的战略文件。
+PROPITEM_TXT_155019,Translated Lycan Operation Plan,已翻译的狼人行动计划。
+PROPITEM_TXT_155020,Stolen Supply,被盗物资
+PROPITEM_TXT_155021,A cache of goods taken under suspicious circumstances. Its original owner might be looking for it,这是一批在可疑情况下被拿走的物资。它的原主人很可能正在四处寻找它。
+PROPITEM_TXT_155022,Secret Letter,密信
+PROPITEM_TXT_155023,A confidential message sealed with care. Its contents could reveal something important.,一封被小心密封的机密信件。里面的内容或许藏着什么重要的秘密。
+PROPITEM_TXT_155024,All about Muran!,《关于穆兰的一切！》
+PROPITEM_TXT_155025,A detailed manuscript containing insights into the mysterious Muran.,这是一份关于神秘穆兰族的详细手稿，里面记录了不少独到的见解。
+PROPITEM_TXT_155026,Fragment of Scroll,「卷轴碎片」
+PROPITEM_TXT_155027,"A torn piece of an ancient scroll with faded, cryptic markings. Its meaning remains unknown.",一张破损的古老卷轴碎片，上面有着褪色而晦涩的标记。其含义尚不明朗。
+PROPITEM_TXT_155028,Lycan Orders,「狼人密令」
+PROPITEM_TXT_155029,A sealed document containing directives from the Lycan leadership. Its contents could be crucial.,一份盖有封印的文件，内容是狼人高层的指令。里面的信息恐怕至关重要。
+PROPITEM_TXT_155030,Pitch-black Sphere,「漆黑之球」
+PROPITEM_TXT_155031,"A mysterious, dark orb that seems to absorb all light. Its purpose is unknown.",一颗神秘的黑色球体，仿佛会吞噬一切光线。用途尚不明确。
+PROPITEM_TXT_155032,Worn-out serial chain,「磨损的锁链」
+PROPITEM_TXT_155033,"A rusted chain with faded serial numbers, hinting at a forgotten past.",「带有褪色编号的锈蚀锁链，暗示着一段被遗忘的过往。」
+PROPITEM_TXT_155034,Worn-out Diary,「磨损的日记」
+PROPITEM_TXT_155035,"A tattered diary with faded, barely legible entries. Its story remains a mystery.",一本破旧的日记，上面的字迹已经褪得几乎看不清了。它的故事依然是个谜。
+PROPITEM_TXT_155036,Chief Keokuk's notebook,《酋长基奥克的笔记》
+PROPITEM_TXT_155037,"A worn notebook, its pages filled with the fragmented musings of a long-gone leader. Each entry reveals glimpses of a forgotten era, shrouded in mystery.",一本磨损的笔记本，纸页上记录着一位早已离世的领袖零碎的思绪。每一段文字都隐约折射出那段被遗忘的岁月，笼罩在一片神秘之中。
 PROPITEM_TXT_155038,Jarl's Will,Jarl's Will
 PROPITEM_TXT_155039,"A solemn document, bearing the final wishes of a revered leader. Its contents hold the weight of legacy and power, hinting at secrets that could alter the course of history.","A solemn document, bearing the final wishes of a revered leader. Its contents hold the weight of legacy and power, hinting at secrets that could alter the course of history."
-PROPITEM_TXT_155040,Torn Scroll (A),Torn Scroll (A)
-PROPITEM_TXT_155041,"A tattered piece of an ancient scroll, its meaning obscured by time.","A tattered piece of an ancient scroll, its meaning obscured by time."
-PROPITEM_TXT_155042,Torn Scroll (B),Torn Scroll (B)
-PROPITEM_TXT_155043,Torn Scroll (C),Torn Scroll (C)
-PROPITEM_TXT_155044,Torn Scroll (D),Torn Scroll (D)
-PROPITEM_TXT_155045,Hundur Skull,Hundur Skull
-PROPITEM_TXT_155046,This skull appears to have been more than just decoration.,This skull appears to have been more than just decoration.
-PROPITEM_TXT_155047,Samoset's Skull,Samoset's Skull
-PROPITEM_TXT_155048,A gruesome token representing victory over the Samoset.,A gruesome token representing victory over the Samoset.
-PROPITEM_TXT_155049,Kyouchish Claw,Kyouchish Claw
-PROPITEM_TXT_155050,This claw is all that remains of a once great Kyouchich.,This claw is all that remains of a once great Kyouchich.
-PROPITEM_TXT_155051,Kanonicus Sludge,Kanonicus Sludge
-PROPITEM_TXT_155052,A mysterious liquid found on the remains of a Kanonicus.,A mysterious liquid found on the remains of a Kanonicus.
-PROPITEM_TXT_155053,Redcloud Skull,Redcloud Skull
-PROPITEM_TXT_155054,You feel a strong aura of magic emanating from this skull.,You feel a strong aura of magic emanating from this skull.
-PROPITEM_TXT_155055,Devil's Tooth,Devil's Tooth
-PROPITEM_TXT_155056,More or less the business end of a Taiaha's war staff.,More or less the business end of a Taiaha's war staff.
-PROPITEM_TXT_155057,Hellhound Tooth,Hellhound Tooth
-PROPITEM_TXT_155058,This tooth is hard and very sharp.,This tooth is hard and very sharp.
-PROPITEM_TXT_155059,Heart of Chief Keokuk,Heart of Chief Keokuk
-PROPITEM_TXT_155060,"Believe it or not, the Chieftain of the Lycan Tribe had a heart…","Believe it or not, the Chieftain of the Lycan Tribe had a heart…"
-PROPITEM_TXT_155061,Magic Clock of Asylum (5 Min),Magic Clock of Asylum (5 Min)
-PROPITEM_TXT_155062,Re-entry cooldown for Asylum has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Asylum magic clocks.,Re-entry cooldown for Asylum has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Asylum magic clocks.
-PROPITEM_TXT_155063,Magic Clock of Asylum (10 Min),Magic Clock of Asylum (10 Min)
-PROPITEM_TXT_155064,Re-entry cooldown for Asylum has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Asylum magic clocks.,Re-entry cooldown for Asylum has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Asylum magic clocks.
-PROPITEM_TXT_155065,Orcus's Tablet,Orcus's Tablet
-PROPITEM_TXT_155066,"Ancient runes are shown on this tablet, maybe they contain secrets to the mystery of the Asylum.","Ancient runes are shown on this tablet, maybe they contain secrets to the mystery of the Asylum."
-PROPITEM_TXT_155067,Bead of Nergal,Bead of Nergal
-PROPITEM_TXT_155068,A violet bead which once was found around the waist of Nergal.,A violet bead which once was found around the waist of Nergal.
-PROPITEM_TXT_155069,Hel's charm,Hel's charm
-PROPITEM_TXT_155070,A blue charm which once was found around the waist of Hel.,A blue charm which once was found around the waist of Hel.
-PROPITEM_TXT_155071,Morrigan's Crystal,Morrigan's Crystal
-PROPITEM_TXT_155072,This crystal once dangled from the ribbons of Morrigan.,This crystal once dangled from the ribbons of Morrigan.
-PROPITEM_TXT_155073,Mara's Mane,Mara's Mane
-PROPITEM_TXT_155074,A lock of Mara's hair.,A lock of Mara's hair.
-PROPITEM_TXT_155075,Armor of Ghed,Armor of Ghed
-PROPITEM_TXT_155076,A well earned piece of Ghed's enchanted Armor.,A well earned piece of Ghed's enchanted Armor.
-PROPITEM_TXT_155077,Ankou's Scale,Ankou's Scale
-PROPITEM_TXT_155078,A scale from the hide of the [God of Death] Ankou. You may not want to be in possession of this when Ankou returns...,A scale from the hide of the [God of Death] Ankou. You may not want to be in possession of this when Ankou returns...
-PROPITEM_TXT_155079,Trap Tool,Trap Tool
-PROPITEM_TXT_155080,A tool used to place traps.,A tool used to place traps.
-PROPITEM_TXT_155100,Stale Record,Stale Record
-PROPITEM_TXT_155101,"A crumbling stone, witness to a forgotten past.","A crumbling stone, witness to a forgotten past."
-PROPITEM_TXT_155102,Master's Letter of Introduction,Master's Letter of Introduction
-PROPITEM_TXT_155103,"A formal letter, written with carefully chosen words.","A formal letter, written with carefully chosen words."
-PROPITEM_TXT_155104,Mysterious Orb,Mysterious Orb
-PROPITEM_TXT_155105,"A strange sphere, bathed in supernatural light.","A strange sphere, bathed in supernatural light."
+PROPITEM_TXT_155040,Torn Scroll (A),「残破卷轴」 (A)
+PROPITEM_TXT_155041,"A tattered piece of an ancient scroll, its meaning obscured by time.",一片古老的残破卷轴，其含义已被岁月掩埋。
+PROPITEM_TXT_155042,Torn Scroll (B),「残破卷轴」 (B)
+PROPITEM_TXT_155043,Torn Scroll (C),「残破卷轴」 (C)
+PROPITEM_TXT_155044,Torn Scroll (D),「残破卷轴」 (D)
+PROPITEM_TXT_155045,Hundur Skull,猎犬头骨
+PROPITEM_TXT_155046,This skull appears to have been more than just decoration.,这颗头骨似乎不仅仅是装饰品。
+PROPITEM_TXT_155047,Samoset's Skull,萨莫塞特的头骨
+PROPITEM_TXT_155048,A gruesome token representing victory over the Samoset.,代表击败萨莫塞特的胜利之残忍信物。
+PROPITEM_TXT_155049,Kyouchish Claw,奇什之爪
+PROPITEM_TXT_155050,This claw is all that remains of a once great Kyouchich.,这只爪是昔日强大的奇什仅存的遗骸。
+PROPITEM_TXT_155051,Kanonicus Sludge,库斯淤泥
+PROPITEM_TXT_155052,A mysterious liquid found on the remains of a Kanonicus.,在追猎者库斯的遗骸上发现的神秘液体。
+PROPITEM_TXT_155053,Redcloud Skull,绯云术士的头骨
+PROPITEM_TXT_155054,You feel a strong aura of magic emanating from this skull.,你感到这颗头骨正散发着强烈的魔法波动。
+PROPITEM_TXT_155055,Devil's Tooth,恶魔之牙
+PROPITEM_TXT_155056,More or less the business end of a Taiaha's war staff.,这基本上就是泰亚哈战杖的“杀伤端”。
+PROPITEM_TXT_155057,Hellhound Tooth,地狱犬之牙
+PROPITEM_TXT_155058,This tooth is hard and very sharp.,这颗牙齿坚硬且非常锋利。
+PROPITEM_TXT_155059,Heart of Chief Keokuk,酋长基奥卡克的心脏
+PROPITEM_TXT_155060,"Believe it or not, the Chieftain of the Lycan Tribe had a heart…",信不信由你，狼人部落的首领也曾有过一颗心……
+PROPITEM_TXT_155061,Magic Clock of Asylum (5 Min),庇护所魔法时钟（5 分钟）
+PROPITEM_TXT_155062,Re-entry cooldown for Asylum has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Asylum magic clocks.,庇护所再次进入冷却时间已减少 5 分钟。\n本物品今日的剩余使用次数与其他庇护所魔法时钟共享。
+PROPITEM_TXT_155063,Magic Clock of Asylum (10 Min),庇护所魔法时钟（10 分钟）
+PROPITEM_TXT_155064,Re-entry cooldown for Asylum has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Asylum magic clocks.,庇护所再次进入冷却时间已减少 10 分钟。\n本物品今日的剩余使用次数与其他庇护所魔法时钟共享。
+PROPITEM_TXT_155065,Orcus's Tablet,奥库斯之石板
+PROPITEM_TXT_155066,"Ancient runes are shown on this tablet, maybe they contain secrets to the mystery of the Asylum.",这块石板上刻有古代符文，也许它们藏有关于庇护所之谜的秘密。
+PROPITEM_TXT_155067,Bead of Nergal,内尔伽勒之念珠
+PROPITEM_TXT_155068,A violet bead which once was found around the waist of Nergal.,一颗曾在内尔伽勒腰间发现的紫色念珠。
+PROPITEM_TXT_155069,Hel's charm,赫尔之护身符
+PROPITEM_TXT_155070,A blue charm which once was found around the waist of Hel.,一颗曾在赫尔腰间发现的蓝色护身符。
+PROPITEM_TXT_155071,Morrigan's Crystal,莫莉甘之水晶
+PROPITEM_TXT_155072,This crystal once dangled from the ribbons of Morrigan.,这颗水晶曾悬挂于莫莉甘的缎带之上。
+PROPITEM_TXT_155073,Mara's Mane,玛拉之鬃毛
+PROPITEM_TXT_155074,A lock of Mara's hair.,一束玛拉的头发。
+PROPITEM_TXT_155075,Armor of Ghed,盖德之甲
+PROPITEM_TXT_155076,A well earned piece of Ghed's enchanted Armor.,一件盖德那件附魔铠甲中值得拥有的部件。
+PROPITEM_TXT_155077,Ankou's Scale,安库之鳞
+PROPITEM_TXT_155078,A scale from the hide of the [God of Death] Ankou. You may not want to be in possession of this when Ankou returns...,一片来自[死神] 安库表皮的鳞片。当安库归来时，你或许并不想持有此物……
+PROPITEM_TXT_155079,Trap Tool,陷阱工具
+PROPITEM_TXT_155080,A tool used to place traps.,用于放置陷阱的工具。
+PROPITEM_TXT_155100,Stale Record,陈旧唱片
+PROPITEM_TXT_155101,"A crumbling stone, witness to a forgotten past.",一块崩裂的石头，见证着被遗忘的过往。
+PROPITEM_TXT_155102,Master's Letter of Introduction,大师的介绍信
+PROPITEM_TXT_155103,"A formal letter, written with carefully chosen words.",一封措辞考究的正式信函。
+PROPITEM_TXT_155104,Mysterious Orb,神秘宝珠
+PROPITEM_TXT_155105,"A strange sphere, bathed in supernatural light.",一颗沐浴在超自然光辉中的奇异球体。
 PROPITEM_TXT_155106,[190] Scroll of Amplification ES,[190] Scroll of Amplification ES
 PROPITEM_TXT_155107,,
 PROPITEM_TXT_155108,Obtained by completing all story quests from Eillun!,Obtained by completing all story quests from Eillun!
@@ -24177,38 +24177,38 @@ PROPITEM_TXT_155128,Gravunar Helmet,Gravunar Helmet
 PROPITEM_TXT_155129,Gravunar Suit,Gravunar Suit
 PROPITEM_TXT_155130,Gravunar Gauntlets,Gravunar Gauntlets
 PROPITEM_TXT_155131,Gravunar Boots,Gravunar Boots
-PROPITEM_TXT_155132,Calthien Helmet,Calthien Helmet
-PROPITEM_TXT_155133,Calthien Suit,Calthien Suit
-PROPITEM_TXT_155134,Calthien Gauntlets,Calthien Gauntlets
-PROPITEM_TXT_155135,Calthien Boots,Calthien Boots
-PROPITEM_TXT_155136,Calthior Helmet,Calthior Helmet
-PROPITEM_TXT_155137,Calthior Suit,Calthior Suit
-PROPITEM_TXT_155138,Calthior Gauntlets,Calthior Gauntlets
-PROPITEM_TXT_155139,Calthior Boots,Calthior Boots
-PROPITEM_TXT_155140,Runthiel Helmet,Runthiel Helmet
-PROPITEM_TXT_155141,Runthiel Suit,Runthiel Suit
-PROPITEM_TXT_155142,Runthiel Gauntlets,Runthiel Gauntlets
-PROPITEM_TXT_155143,Runthiel Boots,Runthiel Boots
-PROPITEM_TXT_155144,Runthien Helmet,Runthien Helmet
-PROPITEM_TXT_155145,Runthien Suit,Runthien Suit
-PROPITEM_TXT_155146,Runthien Gauntlets,Runthien Gauntlets
-PROPITEM_TXT_155147,Runthien Boots,Runthien Boots
-PROPITEM_TXT_155148,Rethanor Helmet,Rethanor Helmet
-PROPITEM_TXT_155149,Rethanor Suit,Rethanor Suit
-PROPITEM_TXT_155150,Rethanor Gauntlets,Rethanor Gauntlets
-PROPITEM_TXT_155151,Rethanor Boots,Rethanor Boots
-PROPITEM_TXT_155152,Rethanar Helmet,Rethanar Helmet
-PROPITEM_TXT_155153,Rethanar Suit,Rethanar Suit
-PROPITEM_TXT_155154,Rethanar Gauntlets,Rethanar Gauntlets
-PROPITEM_TXT_155155,Rethanar Boots,Rethanar Boots
-PROPITEM_TXT_155156,Zendric Helmet,Zendric Helmet
-PROPITEM_TXT_155157,Zendric Suit,Zendric Suit
-PROPITEM_TXT_155158,Zendric Gauntlets,Zendric Gauntlets
-PROPITEM_TXT_155159,Zendric Boots,Zendric Boots
-PROPITEM_TXT_155160,Zendricar Helmet,Zendricar Helmet
-PROPITEM_TXT_155161,Zendricar Suit,Zendricar Suit
-PROPITEM_TXT_155162,Zendricar Gauntlets,Zendricar Gauntlets
-PROPITEM_TXT_155163,Zendricar Boots,Zendricar Boots
+PROPITEM_TXT_155132,Calthien Helmet,卡尔西恩帽子
+PROPITEM_TXT_155133,Calthien Suit,卡尔西恩上衣
+PROPITEM_TXT_155134,Calthien Gauntlets,卡尔西恩手套
+PROPITEM_TXT_155135,Calthien Boots,卡尔西恩鞋子
+PROPITEM_TXT_155136,Calthior Helmet,卡尔西奥帽子
+PROPITEM_TXT_155137,Calthior Suit,卡尔西奥上衣
+PROPITEM_TXT_155138,Calthior Gauntlets,卡尔西奥手套
+PROPITEM_TXT_155139,Calthior Boots,卡尔西奥鞋子
+PROPITEM_TXT_155140,Runthiel Helmet,伦希勒圣辉帽子
+PROPITEM_TXT_155141,Runthiel Suit,伦希勒圣辉上衣
+PROPITEM_TXT_155142,Runthiel Gauntlets,伦希勒圣辉手套
+PROPITEM_TXT_155143,Runthiel Boots,伦希勒圣辉鞋子
+PROPITEM_TXT_155144,Runthien Helmet,伦希恩圣契帽子
+PROPITEM_TXT_155145,Runthien Suit,伦希恩圣契上衣
+PROPITEM_TXT_155146,Runthien Gauntlets,伦希恩圣契手套
+PROPITEM_TXT_155147,Runthien Boots,伦希恩圣契鞋子
+PROPITEM_TXT_155148,Rethanor Helmet,凛殇诺尔帽子
+PROPITEM_TXT_155149,Rethanor Suit,凛殇诺尔上衣
+PROPITEM_TXT_155150,Rethanor Gauntlets,凛殇诺尔手套
+PROPITEM_TXT_155151,Rethanor Boots,凛殇诺尔鞋子
+PROPITEM_TXT_155152,Rethanar Helmet,凛殇娜尔帽子
+PROPITEM_TXT_155153,Rethanar Suit,凛殇娜尔上衣
+PROPITEM_TXT_155154,Rethanar Gauntlets,凛殇娜尔手套
+PROPITEM_TXT_155155,Rethanar Boots,凛殇娜尔鞋子
+PROPITEM_TXT_155156,Zendric Helmet,烬痕行者帽子
+PROPITEM_TXT_155157,Zendric Suit,烬痕行者上衣
+PROPITEM_TXT_155158,Zendric Gauntlets,烬痕行者手套
+PROPITEM_TXT_155159,Zendric Boots,烬痕行者鞋子
+PROPITEM_TXT_155160,Zendricar Helmet,烬痕圣契帽子
+PROPITEM_TXT_155161,Zendricar Suit,烬痕圣契上衣
+PROPITEM_TXT_155162,Zendricar Gauntlets,烬痕圣契手套
+PROPITEM_TXT_155163,Zendricar Boots,烬痕圣契鞋子
 PROPITEM_TXT_155164,Drovial Helmet,Drovial Helmet
 PROPITEM_TXT_155165,Drovial Suit,Drovial Suit
 PROPITEM_TXT_155166,Drovial Gauntlets,Drovial Gauntlets
@@ -24225,38 +24225,38 @@ PROPITEM_TXT_155176,Crathar Helmet,Crathar Helmet
 PROPITEM_TXT_155177,Crathar Suit,Crathar Suit
 PROPITEM_TXT_155178,Crathar Gauntlets,Crathar Gauntlets
 PROPITEM_TXT_155179,Crathar Boots,Crathar Boots
-PROPITEM_TXT_155180,Khorviel Helmet,Khorviel Helmet
-PROPITEM_TXT_155181,Khorviel Suit,Khorviel Suit
-PROPITEM_TXT_155182,Khorviel Gauntlets,Khorviel Gauntlets
-PROPITEM_TXT_155183,Khorviel Boots,Khorviel Boots
-PROPITEM_TXT_155184,Khorvien Helmet,Khorvien Helmet
-PROPITEM_TXT_155185,Khorvien Suit,Khorvien Suit
-PROPITEM_TXT_155186,Khorvien Gauntlets,Khorvien Gauntlets
-PROPITEM_TXT_155187,Khorvien Boots,Khorvien Boots
-PROPITEM_TXT_155188,Zaythor Helmet,Zaythor Helmet
-PROPITEM_TXT_155189,Zaythor Suit,Zaythor Suit
-PROPITEM_TXT_155190,Zaythor Gauntlets,Zaythor Gauntlets
-PROPITEM_TXT_155191,Zaythor Boots,Zaythor Boots
-PROPITEM_TXT_155192,Zaythar Helmet,Zaythar Helmet
-PROPITEM_TXT_155193,Zaythar Suit,Zaythar Suit
-PROPITEM_TXT_155194,Zaythar Gauntlets,Zaythar Gauntlets
-PROPITEM_TXT_155195,Zaythar Boots,Zaythar Boots
-PROPITEM_TXT_155196,Vornithic Helmet,Vornithic Helmet
-PROPITEM_TXT_155197,Vornithic Suit,Vornithic Suit
-PROPITEM_TXT_155198,Vornithic Gauntlets,Vornithic Gauntlets
-PROPITEM_TXT_155199,Vornithic Boots,Vornithic Boots
-PROPITEM_TXT_155200,Vornithicar Helmet,Vornithicar Helmet
-PROPITEM_TXT_155201,Vornithicar Suit,Vornithicar Suit
-PROPITEM_TXT_155202,Vornithicar Gauntlets,Vornithicar Gauntlets
-PROPITEM_TXT_155203,Vornithicar Boots,Vornithicar Boots
-PROPITEM_TXT_155204,Dornith Helmet,Dornith Helmet
-PROPITEM_TXT_155205,Dornith Suit,Dornith Suit
-PROPITEM_TXT_155206,Dornith Gauntlets,Dornith Gauntlets
-PROPITEM_TXT_155207,Dornith Boots,Dornith Boots
-PROPITEM_TXT_155208,Dornyth Helmet,Dornyth Helmet
-PROPITEM_TXT_155209,Dornyth Suit,Dornyth Suit
-PROPITEM_TXT_155210,Dornyth Gauntlets,Dornyth Gauntlets
-PROPITEM_TXT_155211,Dornyth Boots,Dornyth Boots
+PROPITEM_TXT_155180,Khorviel Helmet,冥骸御魔帽子
+PROPITEM_TXT_155181,Khorviel Suit,冥骸御魔上衣
+PROPITEM_TXT_155182,Khorviel Gauntlets,冥骸御魔手套
+PROPITEM_TXT_155183,Khorviel Boots,冥骸御魔鞋子
+PROPITEM_TXT_155184,Khorvien Helmet,冥骸幽铠帽子
+PROPITEM_TXT_155185,Khorvien Suit,冥骸幽铠上衣
+PROPITEM_TXT_155186,Khorvien Gauntlets,冥骸幽铠手套
+PROPITEM_TXT_155187,Khorvien Boots,冥骸幽铠鞋子
+PROPITEM_TXT_155188,Zaythor Helmet,裁罪炽铠帽子
+PROPITEM_TXT_155189,Zaythor Suit,裁罪炽铠上衣
+PROPITEM_TXT_155190,Zaythor Gauntlets,裁罪炽铠手套
+PROPITEM_TXT_155191,Zaythor Boots,裁罪炽铠鞋子
+PROPITEM_TXT_155192,Zaythar Helmet,裁罪炽曜帽子
+PROPITEM_TXT_155193,Zaythar Suit,裁罪炽曜上衣
+PROPITEM_TXT_155194,Zaythar Gauntlets,裁罪炽曜手套
+PROPITEM_TXT_155195,Zaythar Boots,裁罪炽曜鞋子
+PROPITEM_TXT_155196,Vornithic Helmet,沃尼提克破魔帽子
+PROPITEM_TXT_155197,Vornithic Suit,沃尼提克破魔上衣
+PROPITEM_TXT_155198,Vornithic Gauntlets,沃尼提克破魔手套
+PROPITEM_TXT_155199,Vornithic Boots,沃尼提克破魔鞋子
+PROPITEM_TXT_155200,Vornithicar Helmet,沃尼瑟卡战魂帽子
+PROPITEM_TXT_155201,Vornithicar Suit,沃尼瑟卡战魂上衣
+PROPITEM_TXT_155202,Vornithicar Gauntlets,沃尼瑟卡战魂手套
+PROPITEM_TXT_155203,Vornithicar Boots,沃尼瑟卡战魂鞋子
+PROPITEM_TXT_155204,Dornith Helmet,苍岩战铠帽子
+PROPITEM_TXT_155205,Dornith Suit,苍岩战铠上衣
+PROPITEM_TXT_155206,Dornith Gauntlets,苍岩战铠手套
+PROPITEM_TXT_155207,Dornith Boots,苍岩战铠鞋子
+PROPITEM_TXT_155208,Dornyth Helmet,磐岩战铠帽子
+PROPITEM_TXT_155209,Dornyth Suit,磐岩战铠上衣
+PROPITEM_TXT_155210,Dornyth Gauntlets,磐岩战铠手套
+PROPITEM_TXT_155211,Dornyth Boots,磐岩战铠鞋子
 PROPITEM_TXT_155212,Slephen Helmet,Slephen Helmet
 PROPITEM_TXT_155213,Slephen Suit,Slephen Suit
 PROPITEM_TXT_155214,Slephen Gauntlets,Slephen Gauntlets
@@ -24273,38 +24273,38 @@ PROPITEM_TXT_155224,Juvemyl Helmet,Juvemyl Helmet
 PROPITEM_TXT_155225,Juvemyl Suit,Juvemyl Suit
 PROPITEM_TXT_155226,Juvemyl Gauntlets,Juvemyl Gauntlets
 PROPITEM_TXT_155227,Juvemyl Boots,Juvemyl Boots
-PROPITEM_TXT_155228,Quostrel Helmet,Quostrel Helmet
-PROPITEM_TXT_155229,Quostrel Suit,Quostrel Suit
-PROPITEM_TXT_155230,Quostrel Gauntlets,Quostrel Gauntlets
-PROPITEM_TXT_155231,Quostrel Boots,Quostrel Boots
-PROPITEM_TXT_155232,Quostren Helmet,Quostren Helmet
-PROPITEM_TXT_155233,Quostren Suit,Quostren Suit
-PROPITEM_TXT_155234,Quostren Gauntlets,Quostren Gauntlets
-PROPITEM_TXT_155235,Quostren Boots,Quostren Boots
-PROPITEM_TXT_155236,Chyrelle Helmet,Chyrelle Helmet
-PROPITEM_TXT_155237,Chyrelle Suit,Chyrelle Suit
-PROPITEM_TXT_155238,Chyrelle Gauntlets,Chyrelle Gauntlets
-PROPITEM_TXT_155239,Chyrelle Boots,Chyrelle Boots
-PROPITEM_TXT_155240,Chyrella Helmet,Chyrella Helmet
-PROPITEM_TXT_155241,Chyrella Suit,Chyrella Suit
-PROPITEM_TXT_155242,Chyrella Gauntlets,Chyrella Gauntlets
-PROPITEM_TXT_155243,Chyrella Boots,Chyrella Boots
-PROPITEM_TXT_155244,Noltrave Helmet,Noltrave Helmet
-PROPITEM_TXT_155245,Noltrave Suit,Noltrave Suit
-PROPITEM_TXT_155246,Noltrave Gauntlets,Noltrave Gauntlets
-PROPITEM_TXT_155247,Noltrave Boots,Noltrave Boots
-PROPITEM_TXT_155248,Noltrava Helmet,Noltrava Helmet
-PROPITEM_TXT_155249,Noltrava Suit,Noltrava Suit
-PROPITEM_TXT_155250,Noltrava Gauntlets,Noltrava Gauntlets
-PROPITEM_TXT_155251,Noltrava Boots,Noltrava Boots
-PROPITEM_TXT_155252,Frodral Helmet,Frodral Helmet
-PROPITEM_TXT_155253,Frodral Suit,Frodral Suit
-PROPITEM_TXT_155254,Frodral Gauntlets,Frodral Gauntlets
-PROPITEM_TXT_155255,Frodral Boots,Frodral Boots
-PROPITEM_TXT_155256,Frodrel Helmet,Frodrel Helmet
-PROPITEM_TXT_155257,Frodrel Suit,Frodrel Suit
-PROPITEM_TXT_155258,Frodrel Gauntlets,Frodrel Gauntlets
-PROPITEM_TXT_155259,Frodrel Boots,Frodrel Boots
+PROPITEM_TXT_155228,Quostrel Helmet,魁斯迅击帽子
+PROPITEM_TXT_155229,Quostrel Suit,魁斯迅击上衣
+PROPITEM_TXT_155230,Quostrel Gauntlets,魁斯迅击手套
+PROPITEM_TXT_155231,Quostrel Boots,魁斯迅击鞋子
+PROPITEM_TXT_155232,Quostren Helmet,魁星迅影帽子
+PROPITEM_TXT_155233,Quostren Suit,魁星迅影上衣
+PROPITEM_TXT_155234,Quostren Gauntlets,魁星迅影手套
+PROPITEM_TXT_155235,Quostren Boots,魁星迅影鞋子
+PROPITEM_TXT_155236,Chyrelle Helmet,绮璃圣辉帽子
+PROPITEM_TXT_155237,Chyrelle Suit,绮璃圣辉上衣
+PROPITEM_TXT_155238,Chyrelle Gauntlets,绮璃圣辉手套
+PROPITEM_TXT_155239,Chyrelle Boots,绮璃圣辉鞋子
+PROPITEM_TXT_155240,Chyrella Helmet,绮璃灵裳帽子
+PROPITEM_TXT_155241,Chyrella Suit,绮璃灵裳上衣
+PROPITEM_TXT_155242,Chyrella Gauntlets,绮璃灵裳手套
+PROPITEM_TXT_155243,Chyrella Boots,绮璃灵裳鞋子
+PROPITEM_TXT_155244,Noltrave Helmet,诺特拉维帽子
+PROPITEM_TXT_155245,Noltrave Suit,诺特拉维上衣
+PROPITEM_TXT_155246,Noltrave Gauntlets,诺特拉维手套
+PROPITEM_TXT_155247,Noltrave Boots,诺特拉维鞋子
+PROPITEM_TXT_155248,Noltrava Helmet,诺特拉瓦帽子
+PROPITEM_TXT_155249,Noltrava Suit,诺特拉瓦上衣
+PROPITEM_TXT_155250,Noltrava Gauntlets,诺特拉瓦手套
+PROPITEM_TXT_155251,Noltrava Boots,诺特拉瓦鞋子
+PROPITEM_TXT_155252,Frodral Helmet,凛霜秘典帽子
+PROPITEM_TXT_155253,Frodral Suit,凛霜秘典上衣
+PROPITEM_TXT_155254,Frodral Gauntlets,凛霜秘典手套
+PROPITEM_TXT_155255,Frodral Boots,凛霜秘典鞋子
+PROPITEM_TXT_155256,Frodrel Helmet,凛霜御卫帽子
+PROPITEM_TXT_155257,Frodrel Suit,凛霜御卫上衣
+PROPITEM_TXT_155258,Frodrel Gauntlets,凛霜御卫手套
+PROPITEM_TXT_155259,Frodrel Boots,凛霜御卫鞋子
 PROPITEM_TXT_155260,Shycrel Helmet,Shycrel Helmet
 PROPITEM_TXT_155261,Shycrel Suit,Shycrel Suit
 PROPITEM_TXT_155262,Shycrel Gauntlets,Shycrel Gauntlets
@@ -24321,38 +24321,38 @@ PROPITEM_TXT_155272,Yernyd Helmet,Yernyd Helmet
 PROPITEM_TXT_155273,Yernyd Suit,Yernyd Suit
 PROPITEM_TXT_155274,Yernyd Gauntlets,Yernyd Gauntlets
 PROPITEM_TXT_155275,Yernyd Boots,Yernyd Boots
-PROPITEM_TXT_155276,Treviron Helmet,Treviron Helmet
-PROPITEM_TXT_155277,Treviron Suit,Treviron Suit
-PROPITEM_TXT_155278,Treviron Gauntlets,Treviron Gauntlets
-PROPITEM_TXT_155279,Treviron Boots,Treviron Boots
-PROPITEM_TXT_155280,Treviran Helmet,Treviran Helmet
-PROPITEM_TXT_155281,Treviran Suit,Treviran Suit
-PROPITEM_TXT_155282,Treviran Gauntlets,Treviran Gauntlets
-PROPITEM_TXT_155283,Treviran Boots,Treviran Boots
-PROPITEM_TXT_155284,Lenvire Helmet,Lenvire Helmet
-PROPITEM_TXT_155285,Lenvire Suit,Lenvire Suit
-PROPITEM_TXT_155286,Lenvire Gauntlets,Lenvire Gauntlets
-PROPITEM_TXT_155287,Lenvire Boots,Lenvire Boots
-PROPITEM_TXT_155288,Lenvira Helmet,Lenvira Helmet
-PROPITEM_TXT_155289,Lenvira Suit,Lenvira Suit
-PROPITEM_TXT_155290,Lenvira Gauntlets,Lenvira Gauntlets
-PROPITEM_TXT_155291,Lenvira Boots,Lenvira Boots
-PROPITEM_TXT_155292,Ordelin Helmet,Ordelin Helmet
-PROPITEM_TXT_155293,Ordelin Suit,Ordelin Suit
-PROPITEM_TXT_155294,Ordelin Gauntlets,Ordelin Gauntlets
-PROPITEM_TXT_155295,Ordelin Boots,Ordelin Boots
-PROPITEM_TXT_155296,Ordelyn Helmet,Ordelyn Helmet
-PROPITEM_TXT_155297,Ordelyn Suit,Ordelyn Suit
-PROPITEM_TXT_155298,Ordelyn Gauntlets,Ordelyn Gauntlets
-PROPITEM_TXT_155299,Ordelyn Boots,Ordelyn Boots
-PROPITEM_TXT_155300,Tracien Helmet,Tracien Helmet
-PROPITEM_TXT_155301,Tracien Suit,Tracien Suit
-PROPITEM_TXT_155302,Tracien Gauntlets,Tracien Gauntlets
-PROPITEM_TXT_155303,Tracien Boots,Tracien Boots
-PROPITEM_TXT_155304,Tracior Helmet,Tracior Helmet
-PROPITEM_TXT_155305,Tracior Suit,Tracior Suit
-PROPITEM_TXT_155306,Tracior Gauntlets,Tracior Gauntlets
-PROPITEM_TXT_155307,Tracior Boots,Tracior Boots
+PROPITEM_TXT_155276,Treviron Helmet,泰瑞昂圣铠帽子
+PROPITEM_TXT_155277,Treviron Suit,泰瑞昂圣铠上衣
+PROPITEM_TXT_155278,Treviron Gauntlets,泰瑞昂圣铠手套
+PROPITEM_TXT_155279,Treviron Boots,泰瑞昂圣铠鞋子
+PROPITEM_TXT_155280,Treviran Helmet,泰瑞岚圣铠帽子
+PROPITEM_TXT_155281,Treviran Suit,泰瑞岚圣铠上衣
+PROPITEM_TXT_155282,Treviran Gauntlets,泰瑞岚圣铠手套
+PROPITEM_TXT_155283,Treviran Boots,泰瑞岚圣铠鞋子
+PROPITEM_TXT_155284,Lenvire Helmet,岚薇幻铠帽子
+PROPITEM_TXT_155285,Lenvire Suit,岚薇幻铠上衣
+PROPITEM_TXT_155286,Lenvire Gauntlets,岚薇幻铠手套
+PROPITEM_TXT_155287,Lenvire Boots,岚薇幻铠鞋子
+PROPITEM_TXT_155288,Lenvira Helmet,岚薇幻羽帽子
+PROPITEM_TXT_155289,Lenvira Suit,岚薇幻羽上衣
+PROPITEM_TXT_155290,Lenvira Gauntlets,岚薇幻羽手套
+PROPITEM_TXT_155291,Lenvira Boots,岚薇幻羽鞋子
+PROPITEM_TXT_155292,Ordelin Helmet,序律守御帽子
+PROPITEM_TXT_155293,Ordelin Suit,序律守御上衣
+PROPITEM_TXT_155294,Ordelin Gauntlets,序律守御手套
+PROPITEM_TXT_155295,Ordelin Boots,序律守御鞋子
+PROPITEM_TXT_155296,Ordelyn Helmet,序律辉铠帽子
+PROPITEM_TXT_155297,Ordelyn Suit,序律辉铠上衣
+PROPITEM_TXT_155298,Ordelyn Gauntlets,序律辉铠手套
+PROPITEM_TXT_155299,Ordelyn Boots,序律辉铠鞋子
+PROPITEM_TXT_155300,Tracien Helmet,澈影轻甲帽子
+PROPITEM_TXT_155301,Tracien Suit,澈影轻甲上衣
+PROPITEM_TXT_155302,Tracien Gauntlets,澈影轻甲手套
+PROPITEM_TXT_155303,Tracien Boots,澈影轻甲鞋子
+PROPITEM_TXT_155304,Tracior Helmet,澈锋守御帽子
+PROPITEM_TXT_155305,Tracior Suit,澈锋守御上衣
+PROPITEM_TXT_155306,Tracior Gauntlets,澈锋守御手套
+PROPITEM_TXT_155307,Tracior Boots,澈锋守御鞋子
 PROPITEM_TXT_155308,Phadrine Helmet,Phadrine Helmet
 PROPITEM_TXT_155309,Phadrine Suit,Phadrine Suit
 PROPITEM_TXT_155310,Phadrine Gauntlets,Phadrine Gauntlets
@@ -24369,38 +24369,38 @@ PROPITEM_TXT_155320,Ostelaren Helmet,Ostelaren Helmet
 PROPITEM_TXT_155321,Ostelaren Suit,Ostelaren Suit
 PROPITEM_TXT_155322,Ostelaren Gauntlets,Ostelaren Gauntlets
 PROPITEM_TXT_155323,Ostelaren Boots,Ostelaren Boots
-PROPITEM_TXT_155324,Lorvenic Helmet,Lorvenic Helmet
-PROPITEM_TXT_155325,Lorvenic Suit,Lorvenic Suit
-PROPITEM_TXT_155326,Lorvenic Gauntlets,Lorvenic Gauntlets
-PROPITEM_TXT_155327,Lorvenic Boots,Lorvenic Boots
-PROPITEM_TXT_155328,Lorvenicar Helmet,Lorvenicar Helmet
-PROPITEM_TXT_155329,Lorvenicar Suit,Lorvenicar Suit
-PROPITEM_TXT_155330,Lorvenicar Gauntlets,Lorvenicar Gauntlets
-PROPITEM_TXT_155331,Lorvenicar Boots,Lorvenicar Boots
-PROPITEM_TXT_155332,Etranor Helmet,Etranor Helmet
-PROPITEM_TXT_155333,Etranor Suit,Etranor Suit
-PROPITEM_TXT_155334,Etranor Gauntlets,Etranor Gauntlets
-PROPITEM_TXT_155335,Etranor Boots,Etranor Boots
-PROPITEM_TXT_155336,Etranar Helmet,Etranar Helmet
-PROPITEM_TXT_155337,Etranar Suit,Etranar Suit
-PROPITEM_TXT_155338,Etranar Gauntlets,Etranar Gauntlets
-PROPITEM_TXT_155339,Etranar Boots,Etranar Boots
-PROPITEM_TXT_155340,Lyzarel Helmet,Lyzarel Helmet
-PROPITEM_TXT_155341,Lyzarel Suit,Lyzarel Suit
-PROPITEM_TXT_155342,Lyzarel Gauntlets,Lyzarel Gauntlets
-PROPITEM_TXT_155343,Lyzarel Boots,Lyzarel Boots
-PROPITEM_TXT_155344,Lyzaren Helmet,Lyzaren Helmet
-PROPITEM_TXT_155345,Lyzaren Suit,Lyzaren Suit
-PROPITEM_TXT_155346,Lyzaren Gauntlets,Lyzaren Gauntlets
-PROPITEM_TXT_155347,Lyzaren Boots,Lyzaren Boots
-PROPITEM_TXT_155348,Exiran Helmet,Exiran Helmet
-PROPITEM_TXT_155349,Exiran Suit,Exiran Suit
-PROPITEM_TXT_155350,Exiran Gauntlets,Exiran Gauntlets
-PROPITEM_TXT_155351,Exiran Boots,Exiran Boots
-PROPITEM_TXT_155352,Exiren Helmet,Exiren Helmet
-PROPITEM_TXT_155353,Exiren Suit,Exiren Suit
-PROPITEM_TXT_155354,Exiren Gauntlets,Exiren Gauntlets
-PROPITEM_TXT_155355,Exiren Boots,Exiren Boots
+PROPITEM_TXT_155324,Lorvenic Helmet,洛文尼克魔铠帽子
+PROPITEM_TXT_155325,Lorvenic Suit,洛文尼克魔铠上衣
+PROPITEM_TXT_155326,Lorvenic Gauntlets,洛文尼克魔铠手套
+PROPITEM_TXT_155327,Lorvenic Boots,洛文尼克魔铠鞋子
+PROPITEM_TXT_155328,Lorvenicar Helmet,洛文尼卡魔铠帽子
+PROPITEM_TXT_155329,Lorvenicar Suit,洛文尼卡魔铠上衣
+PROPITEM_TXT_155330,Lorvenicar Gauntlets,洛文尼卡魔铠手套
+PROPITEM_TXT_155331,Lorvenicar Boots,洛文尼卡魔铠鞋子
+PROPITEM_TXT_155332,Etranor Helmet,伊特诺圣铠帽子
+PROPITEM_TXT_155333,Etranor Suit,伊特诺圣铠上衣
+PROPITEM_TXT_155334,Etranor Gauntlets,伊特诺圣铠手套
+PROPITEM_TXT_155335,Etranor Boots,伊特诺圣铠鞋子
+PROPITEM_TXT_155336,Etranar Helmet,伊特纳尔圣铠帽子
+PROPITEM_TXT_155337,Etranar Suit,伊特纳尔圣铠上衣
+PROPITEM_TXT_155338,Etranar Gauntlets,伊特纳尔圣铠手套
+PROPITEM_TXT_155339,Etranar Boots,伊特纳尔圣铠鞋子
+PROPITEM_TXT_155340,Lyzarel Helmet,莉泽尔御锋帽子
+PROPITEM_TXT_155341,Lyzarel Suit,莉泽尔御锋上衣
+PROPITEM_TXT_155342,Lyzarel Gauntlets,莉泽尔御锋手套
+PROPITEM_TXT_155343,Lyzarel Boots,莉泽尔御锋鞋子
+PROPITEM_TXT_155344,Lyzaren Helmet,莉扎伦御守帽子
+PROPITEM_TXT_155345,Lyzaren Suit,莉扎伦御守上衣
+PROPITEM_TXT_155346,Lyzaren Gauntlets,莉扎伦御守手套
+PROPITEM_TXT_155347,Lyzaren Boots,莉扎伦御守鞋子
+PROPITEM_TXT_155348,Exiran Helmet,艾克希兰帽子
+PROPITEM_TXT_155349,Exiran Suit,艾克希兰上衣
+PROPITEM_TXT_155350,Exiran Gauntlets,艾克希兰手套
+PROPITEM_TXT_155351,Exiran Boots,艾克希兰鞋子
+PROPITEM_TXT_155352,Exiren Helmet,艾克希伦帽子
+PROPITEM_TXT_155353,Exiren Suit,艾克希伦上衣
+PROPITEM_TXT_155354,Exiren Gauntlets,艾克希伦手套
+PROPITEM_TXT_155355,Exiren Boots,艾克希伦鞋子
 PROPITEM_TXT_155356,Dricent Helmet,Dricent Helmet
 PROPITEM_TXT_155357,Dricent Suit,Dricent Suit
 PROPITEM_TXT_155358,Dricent Gauntlets,Dricent Gauntlets
@@ -24417,38 +24417,38 @@ PROPITEM_TXT_155368,Urvaken Helmet,Urvaken Helmet
 PROPITEM_TXT_155369,Urvaken Suit,Urvaken Suit
 PROPITEM_TXT_155370,Urvaken Gauntlets,Urvaken Gauntlets
 PROPITEM_TXT_155371,Urvaken Boots,Urvaken Boots
-PROPITEM_TXT_155372,Haskrel Helmet,Haskrel Helmet
-PROPITEM_TXT_155373,Haskrel Suit,Haskrel Suit
-PROPITEM_TXT_155374,Haskrel Gauntlets,Haskrel Gauntlets
-PROPITEM_TXT_155375,Haskrel Boots,Haskrel Boots
-PROPITEM_TXT_155376,Haskren Helmet,Haskren Helmet
-PROPITEM_TXT_155377,Haskren Suit,Haskren Suit
-PROPITEM_TXT_155378,Haskren Gauntlets,Haskren Gauntlets
-PROPITEM_TXT_155379,Haskren Boots,Haskren Boots
-PROPITEM_TXT_155380,Kevric Helmet,Kevric Helmet
-PROPITEM_TXT_155381,Kevric Suit,Kevric Suit
-PROPITEM_TXT_155382,Kevric Gauntlets,Kevric Gauntlets
-PROPITEM_TXT_155383,Kevric Boots,Kevric Boots
-PROPITEM_TXT_155384,Kevricar Helmet,Kevricar Helmet
-PROPITEM_TXT_155385,Kevricar Suit,Kevricar Suit
-PROPITEM_TXT_155386,Kevricar Gauntlets,Kevricar Gauntlets
-PROPITEM_TXT_155387,Kevricar Boots,Kevricar Boots
-PROPITEM_TXT_155388,Brakiven Helmet,Brakiven Helmet
-PROPITEM_TXT_155389,Brakiven Suit,Brakiven Suit
-PROPITEM_TXT_155390,Brakiven Gauntlets,Brakiven Gauntlets
-PROPITEM_TXT_155391,Brakiven Boots,Brakiven Boots
-PROPITEM_TXT_155392,Brakivar Helmet,Brakivar Helmet
-PROPITEM_TXT_155393,Brakivar Suit,Brakivar Suit
-PROPITEM_TXT_155394,Brakivar Gauntlets,Brakivar Gauntlets
-PROPITEM_TXT_155395,Brakivar Boots,Brakivar Boots
-PROPITEM_TXT_155396,Zorect Helmet,Zorect Helmet
-PROPITEM_TXT_155397,Zorect Suit,Zorect Suit
-PROPITEM_TXT_155398,Zorect Gauntlets,Zorect Gauntlets
-PROPITEM_TXT_155399,Zorect Boots,Zorect Boots
-PROPITEM_TXT_155400,Zoracet Helmet,Zoracet Helmet
-PROPITEM_TXT_155401,Zoracet Suit,Zoracet Suit
-PROPITEM_TXT_155402,Zoracet Gauntlets,Zoracet Gauntlets
-PROPITEM_TXT_155403,Zoracet Boots,Zoracet Boots
+PROPITEM_TXT_155372,Haskrel Helmet,哈斯克雷尔帽子
+PROPITEM_TXT_155373,Haskrel Suit,哈斯克雷尔上衣
+PROPITEM_TXT_155374,Haskrel Gauntlets,哈斯克雷尔手套
+PROPITEM_TXT_155375,Haskrel Boots,哈斯克雷尔鞋子
+PROPITEM_TXT_155376,Haskren Helmet,哈斯克雷恩帽子
+PROPITEM_TXT_155377,Haskren Suit,哈斯克雷恩上衣
+PROPITEM_TXT_155378,Haskren Gauntlets,哈斯克雷恩手套
+PROPITEM_TXT_155379,Haskren Boots,哈斯克雷恩鞋子
+PROPITEM_TXT_155380,Kevric Helmet,凯夫里克帽子
+PROPITEM_TXT_155381,Kevric Suit,凯夫里克上衣
+PROPITEM_TXT_155382,Kevric Gauntlets,凯夫里克手套
+PROPITEM_TXT_155383,Kevric Boots,凯夫里克鞋子
+PROPITEM_TXT_155384,Kevricar Helmet,凯夫里卡尔帽子
+PROPITEM_TXT_155385,Kevricar Suit,凯夫里卡尔上衣
+PROPITEM_TXT_155386,Kevricar Gauntlets,凯夫里卡尔手套
+PROPITEM_TXT_155387,Kevricar Boots,凯夫里卡尔鞋子
+PROPITEM_TXT_155388,Brakiven Helmet,布拉基文帽子
+PROPITEM_TXT_155389,Brakiven Suit,布拉基文上衣
+PROPITEM_TXT_155390,Brakiven Gauntlets,布拉基文手套
+PROPITEM_TXT_155391,Brakiven Boots,布拉基文鞋子
+PROPITEM_TXT_155392,Brakivar Helmet,布拉基瓦尔帽子
+PROPITEM_TXT_155393,Brakivar Suit,布拉基瓦尔上衣
+PROPITEM_TXT_155394,Brakivar Gauntlets,布拉基瓦尔手套
+PROPITEM_TXT_155395,Brakivar Boots,布拉基瓦尔鞋子
+PROPITEM_TXT_155396,Zorect Helmet,佐雷克帽子
+PROPITEM_TXT_155397,Zorect Suit,佐雷克上衣
+PROPITEM_TXT_155398,Zorect Gauntlets,佐雷克手套
+PROPITEM_TXT_155399,Zorect Boots,佐雷克鞋子
+PROPITEM_TXT_155400,Zoracet Helmet,佐拉塞特帽子
+PROPITEM_TXT_155401,Zoracet Suit,佐拉塞特上衣
+PROPITEM_TXT_155402,Zoracet Gauntlets,佐拉塞特手套
+PROPITEM_TXT_155403,Zoracet Boots,佐拉塞特鞋子
 PROPITEM_TXT_155404,Quevril Helmet,Quevril Helmet
 PROPITEM_TXT_155405,Quevril Suit,Quevril Suit
 PROPITEM_TXT_155406,Quevril Gauntlets,Quevril Gauntlets
@@ -24465,38 +24465,38 @@ PROPITEM_TXT_155416,Cyravak Helmet,Cyravak Helmet
 PROPITEM_TXT_155417,Cyravak Suit,Cyravak Suit
 PROPITEM_TXT_155418,Cyravak Gauntlets,Cyravak Gauntlets
 PROPITEM_TXT_155419,Cyravak Boots,Cyravak Boots
-PROPITEM_TXT_155420,Sholthar Helmet,Sholthar Helmet
-PROPITEM_TXT_155421,Sholthar Suit,Sholthar Suit
-PROPITEM_TXT_155422,Sholthar Gauntlets,Sholthar Gauntlets
-PROPITEM_TXT_155423,Sholthar Boots,Sholthar Boots
-PROPITEM_TXT_155424,Sholtharen Helmet,Sholtharen Helmet
-PROPITEM_TXT_155425,Sholtharen Suit,Sholtharen Suit
-PROPITEM_TXT_155426,Sholtharen Gauntlets,Sholtharen Gauntlets
-PROPITEM_TXT_155427,Sholtharen Boots,Sholtharen Boots
-PROPITEM_TXT_155428,Ustamel Helmet,Ustamel Helmet
-PROPITEM_TXT_155429,Ustamel Suit,Ustamel Suit
-PROPITEM_TXT_155430,Ustamel Gauntlets,Ustamel Gauntlets
-PROPITEM_TXT_155431,Ustamel Boots,Ustamel Boots
-PROPITEM_TXT_155432,Ustamen Helmet,Ustamen Helmet
-PROPITEM_TXT_155433,Ustamen Suit,Ustamen Suit
-PROPITEM_TXT_155434,Ustamen Gauntlets,Ustamen Gauntlets
-PROPITEM_TXT_155435,Ustamen Boots,Ustamen Boots
-PROPITEM_TXT_155436,Obbric Helmet,Obbric Helmet
-PROPITEM_TXT_155437,Obbric Suit,Obbric Suit
-PROPITEM_TXT_155438,Obbric Gauntlets,Obbric Gauntlets
-PROPITEM_TXT_155439,Obbric Boots,Obbric Boots
-PROPITEM_TXT_155440,Obbricar Helmet,Obbricar Helmet
-PROPITEM_TXT_155441,Obbricar Suit,Obbricar Suit
-PROPITEM_TXT_155442,Obbricar Gauntlets,Obbricar Gauntlets
-PROPITEM_TXT_155443,Obbricar Boots,Obbricar Boots
-PROPITEM_TXT_155444,Yrenoth Helmet,Yrenoth Helmet
-PROPITEM_TXT_155445,Yrenoth Suit,Yrenoth Suit
-PROPITEM_TXT_155446,Yrenoth Gauntlets,Yrenoth Gauntlets
-PROPITEM_TXT_155447,Yrenoth Boots,Yrenoth Boots
-PROPITEM_TXT_155448,Yrenath Helmet,Yrenath Helmet
-PROPITEM_TXT_155449,Yrenath Suit,Yrenath Suit
-PROPITEM_TXT_155450,Yrenath Gauntlets,Yrenath Gauntlets
-PROPITEM_TXT_155451,Yrenath Boots,Yrenath Boots
+PROPITEM_TXT_155420,Sholthar Helmet,肖尔萨帽子
+PROPITEM_TXT_155421,Sholthar Suit,肖尔萨上衣
+PROPITEM_TXT_155422,Sholthar Gauntlets,肖尔萨手套
+PROPITEM_TXT_155423,Sholthar Boots,肖尔萨鞋子
+PROPITEM_TXT_155424,Sholtharen Helmet,肖尔萨伦帽子
+PROPITEM_TXT_155425,Sholtharen Suit,肖尔萨伦上衣
+PROPITEM_TXT_155426,Sholtharen Gauntlets,肖尔萨伦手套
+PROPITEM_TXT_155427,Sholtharen Boots,肖尔萨伦鞋子
+PROPITEM_TXT_155428,Ustamel Helmet,乌斯塔梅尔帽子
+PROPITEM_TXT_155429,Ustamel Suit,乌斯塔梅尔上衣
+PROPITEM_TXT_155430,Ustamel Gauntlets,乌斯塔梅尔手套
+PROPITEM_TXT_155431,Ustamel Boots,乌斯塔梅尔鞋子
+PROPITEM_TXT_155432,Ustamen Helmet,乌斯塔门帽子
+PROPITEM_TXT_155433,Ustamen Suit,乌斯塔门上衣
+PROPITEM_TXT_155434,Ustamen Gauntlets,乌斯塔门手套
+PROPITEM_TXT_155435,Ustamen Boots,乌斯塔门鞋子
+PROPITEM_TXT_155436,Obbric Helmet,奥布里克帽子
+PROPITEM_TXT_155437,Obbric Suit,奥布里克上衣
+PROPITEM_TXT_155438,Obbric Gauntlets,奥布里克手套
+PROPITEM_TXT_155439,Obbric Boots,奥布里克鞋子
+PROPITEM_TXT_155440,Obbricar Helmet,奥布里卡帽子
+PROPITEM_TXT_155441,Obbricar Suit,奥布里卡上衣
+PROPITEM_TXT_155442,Obbricar Gauntlets,奥布里卡手套
+PROPITEM_TXT_155443,Obbricar Boots,奥布里卡鞋子
+PROPITEM_TXT_155444,Yrenoth Helmet,伊雷诺斯帽子
+PROPITEM_TXT_155445,Yrenoth Suit,伊雷诺斯上衣
+PROPITEM_TXT_155446,Yrenoth Gauntlets,伊雷诺斯手套
+PROPITEM_TXT_155447,Yrenoth Boots,伊雷诺斯鞋子
+PROPITEM_TXT_155448,Yrenath Helmet,伊雷纳斯帽子
+PROPITEM_TXT_155449,Yrenath Suit,伊雷纳斯上衣
+PROPITEM_TXT_155450,Yrenath Gauntlets,伊雷纳斯手套
+PROPITEM_TXT_155451,Yrenath Boots,伊雷纳斯鞋子
 PROPITEM_TXT_155452,Phornet Helmet,Phornet Helmet
 PROPITEM_TXT_155453,Phornet Suit,Phornet Suit
 PROPITEM_TXT_155454,Phornet Gauntlets,Phornet Gauntlets
@@ -24513,45 +24513,45 @@ PROPITEM_TXT_155464,Yushenar Helmet,Yushenar Helmet
 PROPITEM_TXT_155465,Yushenar Suit,Yushenar Suit
 PROPITEM_TXT_155466,Yushenar Gauntlets,Yushenar Gauntlets
 PROPITEM_TXT_155467,Yushenar Boots,Yushenar Boots
-PROPITEM_TXT_155468,Vostran Helmet,Vostran Helmet
-PROPITEM_TXT_155469,Vostran Suit,Vostran Suit
-PROPITEM_TXT_155470,Vostran Gauntlets,Vostran Gauntlets
-PROPITEM_TXT_155471,Vostran Boots,Vostran Boots
-PROPITEM_TXT_155472,Vostren Helmet,Vostren Helmet
-PROPITEM_TXT_155473,Vostren Suit,Vostren Suit
-PROPITEM_TXT_155474,Vostren Gauntlets,Vostren Gauntlets
-PROPITEM_TXT_155475,Vostren Boots,Vostren Boots
-PROPITEM_TXT_155476,Virashon Helmet,Virashon Helmet
-PROPITEM_TXT_155477,Virashon Suit,Virashon Suit
-PROPITEM_TXT_155478,Virashon Gauntlets,Virashon Gauntlets
-PROPITEM_TXT_155479,Virashon Boots,Virashon Boots
-PROPITEM_TXT_155480,Verashan Helmet,Verashan Helmet
-PROPITEM_TXT_155481,Verashan Suit,Verashan Suit
-PROPITEM_TXT_155482,Verashan Gauntlets,Verashan Gauntlets
-PROPITEM_TXT_155483,Verashan Boots,Verashan Boots
-PROPITEM_TXT_155484,Menicor Helmet,Menicor Helmet
-PROPITEM_TXT_155485,Menicor Suit,Menicor Suit
-PROPITEM_TXT_155486,Menicor Gauntlets,Menicor Gauntlets
-PROPITEM_TXT_155487,Menicor Boots,Menicor Boots
-PROPITEM_TXT_155488,Maenicar Helmet,Maenicar Helmet
-PROPITEM_TXT_155489,Maenicar Suit,Maenicar Suit
-PROPITEM_TXT_155490,Maenicar Gauntlets,Maenicar Gauntlets
-PROPITEM_TXT_155491,Maenicar Boots,Maenicar Boots
-PROPITEM_TXT_155492,Tremiel Helmet,Tremiel Helmet
-PROPITEM_TXT_155493,Tremiel Suit,Tremiel Suit
-PROPITEM_TXT_155494,Tremiel Gauntlets,Tremiel Gauntlets
-PROPITEM_TXT_155495,Tremiel Boots,Tremiel Boots
-PROPITEM_TXT_155496,Tramien Helmet,Tramien Helmet
-PROPITEM_TXT_155497,Tramien Suit,Tramien Suit
-PROPITEM_TXT_155498,Tramien Gauntlets,Tramien Gauntlets
-PROPITEM_TXT_155499,Tramien Boots,Tramien Boots
+PROPITEM_TXT_155468,Vostran Helmet,沃斯特兰帽子
+PROPITEM_TXT_155469,Vostran Suit,沃斯特兰上衣
+PROPITEM_TXT_155470,Vostran Gauntlets,沃斯特兰手套
+PROPITEM_TXT_155471,Vostran Boots,沃斯特兰鞋子
+PROPITEM_TXT_155472,Vostren Helmet,沃斯特伦帽子
+PROPITEM_TXT_155473,Vostren Suit,沃斯特伦上衣
+PROPITEM_TXT_155474,Vostren Gauntlets,沃斯特伦手套
+PROPITEM_TXT_155475,Vostren Boots,沃斯特伦鞋子
+PROPITEM_TXT_155476,Virashon Helmet,维拉雄帽子
+PROPITEM_TXT_155477,Virashon Suit,维拉雄上衣
+PROPITEM_TXT_155478,Virashon Gauntlets,维拉雄手套
+PROPITEM_TXT_155479,Virashon Boots,维拉雄鞋子
+PROPITEM_TXT_155480,Verashan Helmet,维拉尚帽子
+PROPITEM_TXT_155481,Verashan Suit,维拉尚上衣
+PROPITEM_TXT_155482,Verashan Gauntlets,维拉尚手套
+PROPITEM_TXT_155483,Verashan Boots,维拉尚鞋子
+PROPITEM_TXT_155484,Menicor Helmet,梅尼科尔帽子
+PROPITEM_TXT_155485,Menicor Suit,梅尼科尔上衣
+PROPITEM_TXT_155486,Menicor Gauntlets,梅尼科尔手套
+PROPITEM_TXT_155487,Menicor Boots,梅尼科尔鞋子
+PROPITEM_TXT_155488,Maenicar Helmet,梅尼卡尔帽子
+PROPITEM_TXT_155489,Maenicar Suit,梅尼卡尔上衣
+PROPITEM_TXT_155490,Maenicar Gauntlets,梅尼卡尔手套
+PROPITEM_TXT_155491,Maenicar Boots,梅尼卡尔鞋子
+PROPITEM_TXT_155492,Tremiel Helmet,特雷米尔帽子
+PROPITEM_TXT_155493,Tremiel Suit,特雷米尔上衣
+PROPITEM_TXT_155494,Tremiel Gauntlets,特雷米尔手套
+PROPITEM_TXT_155495,Tremiel Boots,特雷米尔鞋子
+PROPITEM_TXT_155496,Tramien Helmet,特拉米恩帽子
+PROPITEM_TXT_155497,Tramien Suit,特拉米恩上衣
+PROPITEM_TXT_155498,Tramien Gauntlets,特拉米恩手套
+PROPITEM_TXT_155499,Tramien Boots,特拉米恩鞋子
 PROPITEM_TXT_155500,Ankou's Heart,安库之心
 PROPITEM_TXT_155501,Veil of Shade,谢莉德的面纱
 PROPITEM_TXT_155502,Maw of Judgement,审判之噬
 PROPITEM_TXT_155503,Oracle,神谕
 PROPITEM_TXT_155504,Scepter of Disorder,混沌神权
 PROPITEM_TXT_155505,Roika's Stave,创世残脉
-PROPITEM_TXT_155506,Curtana,慈悲之剑
+PROPITEM_TXT_155506,Curtana,慈悲
 PROPITEM_TXT_155507,Celestial Edge,天界裁断
 PROPITEM_TXT_155508,Bringer of Souls,灵魂引渡者
 PROPITEM_TXT_155509,Butcher's Carnage,血腥盛宴
@@ -24561,7 +24561,7 @@ PROPITEM_TXT_155512,Hell's Gate,地狱之门
 PROPITEM_TXT_155513,Dragon's Rain,龙霖
 PROPITEM_TXT_155514,K Fang,祭血獠牙
 PROPITEM_TXT_155515,Vial of Toxins,毒剂瓶
-PROPITEM_TXT_155516,A lethal vial carrying a toxic substance. Needed to use toxic Harlequin skills.,A lethal vial carrying a toxic substance. Needed to use toxic Harlequin skills.
+PROPITEM_TXT_155516,A lethal vial carrying a toxic substance. Needed to use toxic Harlequin skills.,致命毒瓶​内藏剧毒物质。施展“谑影者”剧毒技能所需。
 PROPITEM_TXT_155517,Broken Butcher's Carnage,Broken Butcher's Carnage
 PROPITEM_TXT_155518,Battle-Worn Butcher's Carnage,Battle-Worn Butcher's Carnage
 PROPITEM_TXT_155519,Cursed Butcher's Carnage,被诅咒的血腥盛宴
@@ -24806,8 +24806,8 @@ PROPITEM_TXT_134990,Cloak of Equilibrium,Cloak of Equilibrium
 PROPITEM_TXT_134991,"A magnificent cloak that grants powerful strength for a limited time. A well-balanced cloak that enhances overall abilities. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only.","A magnificent cloak that grants powerful strength for a limited time. A well-balanced cloak that enhances overall abilities. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only."
 PROPITEM_TXT_134992,Cloak of Ascension,Cloak of Ascension
 PROPITEM_TXT_134993,"A magnificent cloak that grants powerful strength for a limited time. Provides a strong buff that aids in combat and growth. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only.","A magnificent cloak that grants powerful strength for a limited time. Provides a strong buff that aids in combat and growth. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only."
-PROPITEM_TXT_134994,[20~160] Amplification ES Scroll Select Box,[20~160] Amplification ES Scroll Select Box
-PROPITEM_TXT_134995,Select which Amplification Scroll you want!,Select which Amplification Scroll you want!
+PROPITEM_TXT_134994,[20~160] Amplification ES Scroll Select Box,[20~160] 强化 ES 卷轴选择箱
+PROPITEM_TXT_134995,Select which Amplification Scroll you want!,选择你想要的强化卷轴！
 PROPITEM_TXT_134996,Equilibrium Package,Equilibrium Package
 PROPITEM_TXT_134997,"A package containing 1x Cloak of Equilibrium, 5x Power Scroll, 7x Def-Upcut Stone, 7x Upcut Stone, 6x Elemental Attack Stone Select Box and +6 Elemental Defense Stone Select Box. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only. All items are Soul-Linked.","A package containing 1x Cloak of Equilibrium, 5x Power Scroll, 7x Def-Upcut Stone, 7x Upcut Stone, 6x Elemental Attack Stone Select Box and +6 Elemental Defense Stone Select Box. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only. All items are Soul-Linked."
 PROPITEM_TXT_134998,Ascension Package,Ascension Package
@@ -24856,8 +24856,8 @@ PROPITEM_TXT_155660,1.5 Update Growth Package,1.5 Update Growth Package
 PROPITEM_TXT_155661,"A package containing 5x New Amplification ES Scroll Select Box, 5x Vital Drink X or Refresher Hold, 5x Scroll of Velocity, 5x Upcut Stone and 5x Power Scroll. All items are also linked.","A package containing 5x New Amplification ES Scroll Select Box, 5x Vital Drink X or Refresher Hold, 5x Scroll of Velocity, 5x Upcut Stone and 5x Power Scroll. All items are also linked."
 PROPITEM_TXT_155662,1.5 Scroll of Ultimate Bonus Package,1.5 Scroll of Ultimate Bonus Package
 PROPITEM_TXT_155663,A package containing 3x Scroll of Ultimate Bonus and 3x Scroll of Ultimate Bonus II. All items are also linked.,A package containing 3x Scroll of Ultimate Bonus and 3x Scroll of Ultimate Bonus II. All items are also linked.
-PROPITEM_TXT_155664,[20~160] Amplification ES Scroll Bundle Select Box,[20~160] Amplification ES Scroll Bundle Select Box
-PROPITEM_TXT_155665,"Select which Amplification Scroll you want! \n※ This item only includes Scroll of Amplification ES 20, 40, 60, 80, 120 and 160. Please be aware.","Select which Amplification Scroll you want! \n※ This item only includes Scroll of Amplification ES 20, 40, 60, 80, 120 and 160. Please be aware."
+PROPITEM_TXT_155664,[20~160] Amplification ES Scroll Bundle Select Box,[20~160] 强化 ES 卷轴礼包选择箱
+PROPITEM_TXT_155665,"Select which Amplification Scroll you want! \n※ This item only includes Scroll of Amplification ES 20, 40, 60, 80, 120 and 160. Please be aware.",选择你想要的强化卷轴！本物品仅包含强化 ES 20、40、60、80、120 及 160 卷轴。敬请留意。
 PROPITEM_TXT_155666,Turkeylicious Neon Pink Set,Turkeylicious Neon Pink Set
 PROPITEM_TXT_155667,Turkeylicious Neon Pink Tail,Turkeylicious Neon Pink Tail
 PROPITEM_TXT_155668,Turkeylicious Neon Pink Hat (M),Turkeylicious Neon Pink Hat (M)
@@ -25680,7 +25680,7 @@ PROPITEM_TXT_902810,Button Mark Costume Lucky Box,Button Mark Costume Lucky Box
 PROPITEM_TXT_902811,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.
 PROPITEM_TXT_135096,Yetti's Precious Box,Yetti's Precious Box
 PROPITEM_TXT_135097,Reconnaissance Set Select Box,Reconnaissance Set Select Box
-PROPITEM_TXT_135098,[20~190] Amplification ES Scroll Select Box,[20~190] Amplification ES Scroll Select Box
+PROPITEM_TXT_135098,[20~190] Amplification ES Scroll Select Box,[20~190] 强化 ES 卷轴选择箱
 PROPITEM_TXT_902812,Heart Punk 10% Pink Set,Heart Punk 10% Pink Set
 PROPITEM_TXT_902813,Heart Punk Pink Aibag,Heart Punk Pink Aibag
 PROPITEM_TXT_902814,Heart Punk Pink Mask,Heart Punk Pink Mask
@@ -26117,11 +26117,11 @@ PROPITEM_TXT_903244,Lovable Chocolatier Brown Weapon Set,Lovable Chocolatier Bro
 PROPITEM_TXT_903245,Select which Lovable Chocolatier Brown Weapon you want to receive!,Select which Lovable Chocolatier Brown Weapon you want to receive!
 PROPITEM_TXT_903246,Lovable Chocolatier Weapon Skin Box,Lovable Chocolatier Weapon Skin Box
 PROPITEM_TXT_903247,Select your favorite color!,Select your favorite color!
-PROPITEM_TXT_903248,Stretching Emote,Stretching Emote
+PROPITEM_TXT_903248,Waist Stretching Emote,Waist Stretching Emote
 PROPITEM_TXT_903249,All-in-One Pet Package,All-in-One Pet Package
 PROPITEM_TXT_903250,"A package containing 1x Feed Bag (7 Days), 3x Pet Reroll Scroll and 3x Pet Transmute. All items are also linked.","A package containing 1x Feed Bag (7 Days), 3x Pet Reroll Scroll and 3x Pet Transmute. All items are also linked."
 PROPITEM_TXT_903251,Spring Hunting Package,Spring Hunting Package
-PROPITEM_TXT_903252,A package containing 3x Scroll of Reduction A and 3x Scroll of Reduction B. All items are also linked.,A package containing 3x Scroll of Reduction A and 3x Scroll of Reduction B. All items are also linked.
+PROPITEM_TXT_903252,"A package containing 5x Scroll of Amplification ES, 5x Scroll of Resurrection, 5x Scroll of Return Town, 5x Scroll of Velocity and 5x Activition. All items are also linked.","A package containing 5x Scroll of Amplification ES, 5x Scroll of Resurrection, 5x Scroll of Return Town, 5x Scroll of Velocity and 5x Activition. All items are also linked."
 PROPITEM_TXT_903253,Elixir Select Box A,Elixir Select Box A
 PROPITEM_TXT_903254,Select which Elixir you want to receive!,Select which Elixir you want to receive!
 PROPITEM_TXT_903255,Spring Exp Power Package,Spring Exp Power Package
@@ -26340,18 +26340,3 @@ PROPITEM_TXT_903467,Lotus Blossom Gold Skyblade ,Lotus Blossom Gold Skyblade
 PROPITEM_TXT_903468,Lotus Blossom Silver Skyblade,Lotus Blossom Silver Skyblade
 PROPITEM_TXT_903469,Lotus Blossom Black Skyblade,Lotus Blossom Black Skyblade
 PROPITEM_TXT_903470,"A divine skyblade imbued with ancient martial power, allowing its wielder to travel the skies. Maximum Speed: 64 km/h.","A divine skyblade imbued with ancient martial power, allowing its wielder to travel the skies. Maximum Speed: 64 km/h."
-PROPITEM_TXT_135099,[Event] 2026 Spring Monster Ball Lv1,[Event] 2026 Spring Monster Ball Lv1
-PROPITEM_TXT_135100,[Event] 2026 Spring Monster Ball Lv2,[Event] 2026 Spring Monster Ball Lv2
-PROPITEM_TXT_135101,[Event] 2026 Spring Monster Ball Lv3,[Event] 2026 Spring Monster Ball Lv3
-PROPITEM_TXT_135102,[Event] 2026 Spring Monster Ball Lv4,[Event] 2026 Spring Monster Ball Lv4
-PROPITEM_TXT_135103,"A Monster Ball that summons a top-tier monster. Be careful when using it, as giant monsters occasionally appear.\n※Retrieval is scheduled for a limited time after the event ends.","A Monster Ball that summons a top-tier monster. Be careful when using it, as giant monsters occasionally appear.\n※Retrieval is scheduled for a limited time after the event ends."
-PROPITEM_TXT_135104,[Event] 2026 Giant Monster Box Lv1,[Event] 2026 Giant Monster Box Lv1
-PROPITEM_TXT_135105,[Event] 2026 Giant Monster Box Lv2,[Event] 2026 Giant Monster Box Lv2
-PROPITEM_TXT_135106,[Event] 2026 Giant Monster Box Lv3,[Event] 2026 Giant Monster Box Lv3
-PROPITEM_TXT_135107,[Event] 2026 Giant Monster Box Lv4,[Event] 2026 Giant Monster Box Lv4
-PROPITEM_TXT_135108,[Event] 2026 General Monster Box Lv1,[Event] 2026 General Monster Box Lv1
-PROPITEM_TXT_135109,[Event] 2026 General Monster Box Lv2,[Event] 2026 General Monster Box Lv2
-PROPITEM_TXT_135110,[Event] 2026 General Monster Box Lv3,[Event] 2026 General Monster Box Lv3
-PROPITEM_TXT_135111,[Event] 2026 General Monster Box Lv4,[Event] 2026 General Monster Box Lv4
-PROPITEM_TXT_135112,Box obtained by hunting a Lv4 Giant monster. Test your Luck today!!,Box obtained by hunting a Lv4 Giant monster. Test your Luck today!!
-PROPITEM_TXT_135113,Box obtained by hunting a Lv4 General monster. Test your Luck today!!,Box obtained by hunting a Lv4 General monster. Test your Luck today!!

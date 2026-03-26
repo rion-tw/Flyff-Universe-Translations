@@ -557,7 +557,7 @@ CLIENT_HELP_INC_000555,This indicates how much “Reduced/Weakened magical damag
 CLIENT_HELP_INC_000556,Properties,Atributos Elementales
 CLIENT_HELP_INC_000557,There are 5 elemental properties or attributes that exist in FLYFF. Each of these properties has a strength and weakness. A player can achieve the highest possible damage when he uses a weapon which is imbued with the property that is the weakness of his enemy’s property.,Existen 5 atributos elementales en FLYFF. Cada uno de estos tiene su fortaleza y debilidad. Un jugador puede conseguir el mayor daño utilizando un arma con el elemento que mayor fortaleza tenga contra otro.
 CLIENT_HELP_INC_000558,Fire,Fuego
-CLIENT_HELP_INC_000559,Fire A property that is weak against the Wind property but is weak against the Water property.,"Fuego. Un elemento que es fuerte contra el Viento, pero débil contra el Agua."
+CLIENT_HELP_INC_000559,Fire A property that is strong against the Wind property but is weak against the Water property.,"Fuego. Un elemento que es fuerte contra el Viento, pero débil contra el Agua."
 CLIENT_HELP_INC_000560,Water,Agua
 CLIENT_HELP_INC_000561,Water. A property that is as strong against the Fire Property but is weak against the Electricity property.,"Agua. Un elemento que es fuerte contra el Fuego, pero débil contra la Electricidad."
 CLIENT_HELP_INC_000562,Electricity,Electricidad

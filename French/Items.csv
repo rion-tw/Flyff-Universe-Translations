@@ -1,4 +1,4 @@
-Key,English,French
+﻿Key,English,French
 PROPITEM_TXT_000001,,
 PROPITEM_TXT_000002,Hand,Main
 PROPITEM_TXT_000004,Penya,Penya
@@ -12464,7 +12464,7 @@ PROPITEM_TXT_122505,Resets the range value for the fixed stat of Ultimate Weapon
 PROPITEM_TXT_122506,Scroll of Ultimate Bonus,Parchemin de Bonus Ultime
 PROPITEM_TXT_122507,Resets the kind of random stat and value that gets applied to the Ultimate Weapon.,Réinitialise le type de de stat aléatoire ainsi que la valeur qui est appliqué à l'Arme Ultime (Lignes jaune doré).
 PROPITEM_TXT_122508,Sunstone,Orichalque
-PROPITEM_TXT_122509,Used for upgrading Ultimate Weapon.,Un métal rare aux propriétés magiques, essentiel pour améliorer des Armes Ultimes ou des bijoux ultimes.
+PROPITEM_TXT_122509,Used for upgrading Ultimate Weapon.,"Un métal rare aux propriétés magiques, essentiel pour améliorer des Armes Ultimes ou des bijoux ultimes."
 PROPITEM_TXT_122510,Scroll of XProtect,Parchemin Xprotect Ultime
 PROPITEM_TXT_122511,"This scroll prevents the loss of Ultimate Weapon for upgrade failure. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","Ce parchemin permet d'empêcher la perte liée à l'échec d'amélioration d'Arme Ultime. Pour l'utiliser, placez le parchemin au bon endroit dans le menu d'amélioration avant de tenter l'amélioration. Le parchemin est consommé durant la manipulation."
 PROPITEM_TXT_123000,Shield of the Jade Dragon,Bouclier du Dragon de Jade
@@ -26117,11 +26117,11 @@ PROPITEM_TXT_903244,Lovable Chocolatier Brown Weapon Set,Ensemble d'Armes Marron
 PROPITEM_TXT_903245,Select which Lovable Chocolatier Brown Weapon you want to receive!,Sélectionnez l'arme Marron Chocolatier Adorable que vous souhaitez recevoir !
 PROPITEM_TXT_903246,Lovable Chocolatier Weapon Skin Box,Boîte d'Apparence d'Arme Chocolatier Adorable
 PROPITEM_TXT_903247,Select your favorite color!,Sélectionnez votre couleur préférée !
-PROPITEM_TXT_903248,Stretching Emote,Mouvement d'Étirement
+PROPITEM_TXT_903248,Waist Stretching Emote,Mouvement d'Étirement
 PROPITEM_TXT_903249,All-in-One Pet Package,Pack Tout-en-Un pour Animal de Compagnie
 PROPITEM_TXT_903250,"A package containing 1x Feed Bag (7 Days), 3x Pet Reroll Scroll and 3x Pet Transmute. All items are also linked.","Un pack contenant 1x Sac de Nourriture (7 jours), 3x Parchemins de Relance Animal et 3x Transmutation d’Animal. Tous les objets sont liés."
 PROPITEM_TXT_903251,Spring Hunting Package,Pack de Chasse Printanière
-PROPITEM_TXT_903252,A package containing 3x Scroll of Reduction A and 3x Scroll of Reduction B. All items are also linked.,Un pack contenant 3x Parchemins de Réduction A et 3x Parchemins de Réduction B. Tous les objets sont liés.
+PROPITEM_TXT_903252,"A package containing 5x Scroll of Amplification ES, 5x Scroll of Resurrection, 5x Scroll of Return Town, 5x Scroll of Velocity and 5x Activition. All items are also linked.",Un pack contenant 3x Parchemins de Réduction A et 3x Parchemins de Réduction B. Tous les objets sont liés.
 PROPITEM_TXT_903253,Elixir Select Box A,Boîte de Sélection d’Élixir A
 PROPITEM_TXT_903254,Select which Elixir you want to receive!,Choisissez l’élixir que vous souhaitez recevoir !
 PROPITEM_TXT_903255,Spring Exp Power Package,Pack d’Exp et Puissance Printanier
@@ -26340,18 +26340,3 @@ PROPITEM_TXT_903467,Lotus Blossom Gold Skyblade ,Lame céleste dorée en fleur d
 PROPITEM_TXT_903468,Lotus Blossom Silver Skyblade,Lame céleste argentée en fleur de lotus
 PROPITEM_TXT_903469,Lotus Blossom Black Skyblade,Lame céleste noire en fleur de lotus
 PROPITEM_TXT_903470,"A divine skyblade imbued with ancient martial power, allowing its wielder to travel the skies. Maximum Speed: 64 km/h.","Une Lame céleste divine imprégnée d’un ancien pouvoir martial, permettant à son porteur de parcourir les cieux. Vitesse maximale : 64 km/h."
-PROPITEM_TXT_135099,[Event] 2026 Spring Monster Ball Lv1,[Événement] Boule de Monstre Printemps 2026 Niv1
-PROPITEM_TXT_135100,[Event] 2026 Spring Monster Ball Lv2,[Événement] Boule de Monstre Printemps 2026 Niv2
-PROPITEM_TXT_135101,[Event] 2026 Spring Monster Ball Lv3,[Événement] Boule de Monstre Printemps 2026 Niv3
-PROPITEM_TXT_135102,[Event] 2026 Spring Monster Ball Lv4,[Événement] Boule de Monstre Printemps 2026 Niv4
-PROPITEM_TXT_135103,"A Monster Ball that summons a top-tier monster. Be careful when using it, as giant monsters occasionally appear.\n※Retrieval is scheduled for a limited time after the event ends.","Une Boule de Monstre qui invoque un monstre de haut niveau. Faites attention en l’utilisant, car des monstres géants apparaissent occasionnellement.\n※Récupération disponible pendant un temps limité après la fin de l’événement."
-PROPITEM_TXT_135104,[Event] 2026 Giant Monster Box Lv1,[Événement] Boîte Monstre Géant 2026 Niv1
-PROPITEM_TXT_135105,[Event] 2026 Giant Monster Box Lv2,[Événement] Boîte Monstre Géant 2026 Niv2
-PROPITEM_TXT_135106,[Event] 2026 Giant Monster Box Lv3,[Événement] Boîte Monstre Géant 2026 Niv3
-PROPITEM_TXT_135107,[Event] 2026 Giant Monster Box Lv4,[Événement] Boîte Monstre Géant 2026 Niv4
-PROPITEM_TXT_135108,[Event] 2026 General Monster Box Lv1,[Événement] Boîte Monstre Général 2026 Niv1
-PROPITEM_TXT_135109,[Event] 2026 General Monster Box Lv2,[Événement] Boîte Monstre Général 2026 Niv2
-PROPITEM_TXT_135110,[Event] 2026 General Monster Box Lv3,[Événement] Boîte Monstre Général 2026 Niv3
-PROPITEM_TXT_135111,[Event] 2026 General Monster Box Lv4,[Événement] Boîte Monstre Général 2026 Niv4
-PROPITEM_TXT_135112,Box obtained by hunting a Lv4 Giant monster. Test your Luck today!!,Boîte obtenue en chassant un monstre géant Niv4. Testez votre chance aujourd’hui !!
-PROPITEM_TXT_135113,Box obtained by hunting a Lv4 General monster. Test your Luck today!!,Boîte obtenue en chassant un monstre général Niv4. Testez votre chance aujourd’hui !!

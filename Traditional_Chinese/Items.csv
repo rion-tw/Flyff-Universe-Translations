@@ -4794,7 +4794,7 @@ PROPITEM_TXT_016570,"Sta+10, Str+10, Melee Block+3%, Range Block+3%","體力+10,
 PROPITEM_TXT_011801,A beautifully crafted cloak adorned with a symbol that represents the ninth Lunar Year. The ninth Lunar Year is dedicated to the Monkey.,象徵著農曆生肖猴年的斗篷
 PROPITEM_TXT_011963,"The Mad Hatter's Gloves for male characters. With these fabulous Gloves, you can slice a tea cup in half!",男用瘋帽匠手套，有了這神話般的手套，可以將茶杯切成兩半！
 PROPITEM_TXT_017047,Frog Shoes 2015 (M),呱呱青蛙鞋子(男)
-PROPITEM_TXT_015167,"Your suit grants you superhuman abilities, all stats +5","你的套裝賦予你超人的能力，全能力值+5"
+PROPITEM_TXT_015167,"Your suit grants you superhuman abilities, all stats +5",你的套裝賦予你超人的能力，全能力值+5
 PROPITEM_TXT_009580,Suit of Dignity (M),威嚴的套裝(男)
 PROPITEM_TXT_010992,Harbor Outfit (F),克洛陣服裝(女)
 PROPITEM_TXT_012256,Cloak of Cameroon,卡麥隆斗篷
@@ -6646,9 +6646,9 @@ PROPITEM_TXT_100220,"A cute and fast, baby, Giant Aibatt that follows its master
 PROPITEM_TXT_100221,Baby Glaphan,邪惡皮皮寶寶
 PROPITEM_TXT_100222,"A scary but fast, baby, Glaphan that follows its master around and picks up dropped items",一個可怕但速度很快的巫獸皮皮寶寶，它跟隨它的主人並撿起掉落的道具。
 PROPITEM_TXT_100223,Box of Element Attack,攻擊元素石箱
-PROPITEM_TXT_100224,"This box contains one Attack Stone per natural element, increasing Element Attack by 20% for 1 hour. Each Stone's element must match the Weapon's element.","這個盒子裝有每種自然元素各一個攻擊石，在 1 小時內增加 20% 的元素攻擊力，每塊石頭的元素必須與武器的元素相匹配。"
+PROPITEM_TXT_100224,"This box contains one Attack Stone per natural element, increasing Element Attack by 20% for 1 hour. Each Stone's element must match the Weapon's element.",這個盒子裝有每種自然元素各一個攻擊石，在 1 小時內增加 20% 的元素攻擊力，每塊石頭的元素必須與武器的元素相匹配。
 PROPITEM_TXT_100225,Box of Element Defense,防禦元素石箱
-PROPITEM_TXT_100226,"This box contains one Defense Stone per natural element, increasing Element Defense by 20% for 1 hour. Each Stone's element must match the Suit's element.","這個盒子裝有每種自然元素各一個防禦石，在 1 小時內增加 20% 的元素防禦力，每塊石頭的元素必須與衣服的元素相匹配。"
+PROPITEM_TXT_100226,"This box contains one Defense Stone per natural element, increasing Element Defense by 20% for 1 hour. Each Stone's element must match the Suit's element.",這個盒子裝有每種自然元素各一個防禦石，在 1 小時內增加 20% 的元素防禦力，每塊石頭的元素必須與衣服的元素相匹配。
 PROPITEM_TXT_010742,Big Bad Wolf Set (M),大灰狼套裝(男)
 PROPITEM_TXT_010743,This box contains a Male Big Bad Wolf Set. 'Caution when opening. Contents Ferocious.',這個箱子包含一個男性大灰狼套裝。”打開時要小心，內容物兇猛“。
 PROPITEM_TXT_010752,Red Riding Hood Set (F),小紅帽套裝（女）
@@ -26117,11 +26117,11 @@ PROPITEM_TXT_903244,Lovable Chocolatier Brown Weapon Set,Lovable Chocolatier Bro
 PROPITEM_TXT_903245,Select which Lovable Chocolatier Brown Weapon you want to receive!,Select which Lovable Chocolatier Brown Weapon you want to receive!
 PROPITEM_TXT_903246,Lovable Chocolatier Weapon Skin Box,Lovable Chocolatier Weapon Skin Box
 PROPITEM_TXT_903247,Select your favorite color!,Select your favorite color!
-PROPITEM_TXT_903248,Stretching Emote,Stretching Emote
+PROPITEM_TXT_903248,Waist Stretching Emote,Waist Stretching Emote
 PROPITEM_TXT_903249,All-in-One Pet Package,All-in-One Pet Package
 PROPITEM_TXT_903250,"A package containing 1x Feed Bag (7 Days), 3x Pet Reroll Scroll and 3x Pet Transmute. All items are also linked.","A package containing 1x Feed Bag (7 Days), 3x Pet Reroll Scroll and 3x Pet Transmute. All items are also linked."
 PROPITEM_TXT_903251,Spring Hunting Package,Spring Hunting Package
-PROPITEM_TXT_903252,A package containing 3x Scroll of Reduction A and 3x Scroll of Reduction B. All items are also linked.,A package containing 3x Scroll of Reduction A and 3x Scroll of Reduction B. All items are also linked.
+PROPITEM_TXT_903252,"A package containing 5x Scroll of Amplification ES, 5x Scroll of Resurrection, 5x Scroll of Return Town, 5x Scroll of Velocity and 5x Activition. All items are also linked.","A package containing 5x Scroll of Amplification ES, 5x Scroll of Resurrection, 5x Scroll of Return Town, 5x Scroll of Velocity and 5x Activition. All items are also linked."
 PROPITEM_TXT_903253,Elixir Select Box A,Elixir Select Box A
 PROPITEM_TXT_903254,Select which Elixir you want to receive!,Select which Elixir you want to receive!
 PROPITEM_TXT_903255,Spring Exp Power Package,Spring Exp Power Package
@@ -26340,18 +26340,3 @@ PROPITEM_TXT_903467,Lotus Blossom Gold Skyblade ,Lotus Blossom Gold Skyblade
 PROPITEM_TXT_903468,Lotus Blossom Silver Skyblade,Lotus Blossom Silver Skyblade
 PROPITEM_TXT_903469,Lotus Blossom Black Skyblade,Lotus Blossom Black Skyblade
 PROPITEM_TXT_903470,"A divine skyblade imbued with ancient martial power, allowing its wielder to travel the skies. Maximum Speed: 64 km/h.","A divine skyblade imbued with ancient martial power, allowing its wielder to travel the skies. Maximum Speed: 64 km/h."
-PROPITEM_TXT_135099,[Event] 2026 Spring Monster Ball Lv1,[Event] 2026 Spring Monster Ball Lv1
-PROPITEM_TXT_135100,[Event] 2026 Spring Monster Ball Lv2,[Event] 2026 Spring Monster Ball Lv2
-PROPITEM_TXT_135101,[Event] 2026 Spring Monster Ball Lv3,[Event] 2026 Spring Monster Ball Lv3
-PROPITEM_TXT_135102,[Event] 2026 Spring Monster Ball Lv4,[Event] 2026 Spring Monster Ball Lv4
-PROPITEM_TXT_135103,"A Monster Ball that summons a top-tier monster. Be careful when using it, as giant monsters occasionally appear.\n※Retrieval is scheduled for a limited time after the event ends.","A Monster Ball that summons a top-tier monster. Be careful when using it, as giant monsters occasionally appear.\n※Retrieval is scheduled for a limited time after the event ends."
-PROPITEM_TXT_135104,[Event] 2026 Giant Monster Box Lv1,[Event] 2026 Giant Monster Box Lv1
-PROPITEM_TXT_135105,[Event] 2026 Giant Monster Box Lv2,[Event] 2026 Giant Monster Box Lv2
-PROPITEM_TXT_135106,[Event] 2026 Giant Monster Box Lv3,[Event] 2026 Giant Monster Box Lv3
-PROPITEM_TXT_135107,[Event] 2026 Giant Monster Box Lv4,[Event] 2026 Giant Monster Box Lv4
-PROPITEM_TXT_135108,[Event] 2026 General Monster Box Lv1,[Event] 2026 General Monster Box Lv1
-PROPITEM_TXT_135109,[Event] 2026 General Monster Box Lv2,[Event] 2026 General Monster Box Lv2
-PROPITEM_TXT_135110,[Event] 2026 General Monster Box Lv3,[Event] 2026 General Monster Box Lv3
-PROPITEM_TXT_135111,[Event] 2026 General Monster Box Lv4,[Event] 2026 General Monster Box Lv4
-PROPITEM_TXT_135112,Box obtained by hunting a Lv4 Giant monster. Test your Luck today!!,Box obtained by hunting a Lv4 Giant monster. Test your Luck today!!
-PROPITEM_TXT_135113,Box obtained by hunting a Lv4 General monster. Test your Luck today!!,Box obtained by hunting a Lv4 General monster. Test your Luck today!!

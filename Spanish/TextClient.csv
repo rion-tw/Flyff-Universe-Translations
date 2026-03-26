@@ -462,7 +462,7 @@ TEXTCLIENT_ACCESSORY_MAXOVER,Jewelry can be upgraded to +20.,Las joyas se pueden
 TEXTCLIENT_UPGRADE_ERROR_WRONGUPLEVEL,Using wrong item to upgrade.,Se esta usando un objeto de mejora erróneo.
 TEXTCLIENT_UPGRADE_ERROR_NOSUPSTONE,Not enough supplement item.,No tienes suficientes objetos de suplemento.
 TEXTCLIENT_UPGRADE_FAIL,The upgrade has failed.,La mejora ha fallado.
-TEXTCLIENT_UPGRADE_SUCCESSFUL,Upgrade Succesful!,¡La mejora ha sido un Éxito!
+TEXTCLIENT_UPGRADE_SUCCESSFUL,Upgrade Successful!,¡La mejora ha sido un Éxito!
 TEXTCLIENT_REMOVE_ERROR,That weapon is not possible to remove the element upgrading. Try again after checking.,A esta arma no se le puede eliminar la mejora del elemento. Intentalo de nuevo después de revisarla.
 TEXTCLIENT_REMOVE_ATTRIBUTE_CONFIRM,The element of weapon was removed.,El elemento del arma ha sido eliminado.
 TEXTCLIENT_DEPEN_USE,This item takes effect once your character dies. Do you want to use it?,Este objeto hace efecto cuando el personaje muere. ¿Quieres usarlo?
@@ -732,7 +732,7 @@ TEXTCLIENT_CARDUPGRADE_SUCCESS,Card upgrade successful!,¡Carta mejorada con éx
 TEXTCLIENT_CARDUPGRADE_FAIL,Card upgrade failed.,Mejora de carta fallida.
 TEXTCLIENT_CARDUPGRADE_FAIL2,Card upgrade failed. %d of registered card will be destroyed.,Mejora de carta fallida. %d de las cartas registradas se destruirán.
 TEXTCLIENT_CARDRESHUFFLE_SUCCESS,You received %s.,Has recibido %s.
-TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Succesful!,¡Convertir exitoso!
+TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Successful!,¡Convertir exitoso!
 TEXTCLIENT_GUILD_ADDSUPPM,%s increased the amount of members you can have in the guild by 5!,¡%s ha aumentado el número de miembros que puede tener la guild en 5!
 TEXTCLIENT_REPORT_SUCCESS,Successfully sent report.,Informe enviado con éxito.
 TEXTCLIENT_REPORT_WAIT,You must wait before reporting the same player.,Debes esperar antes de volver a informar sobre la misma persona.
@@ -1084,7 +1084,7 @@ TEXTCLIENT_RAINBOWRACE_END,The Rainbow Race is over! The winner is %s!,¡La Carr
 TEXTCLIENT_RAINBOWRACE_NOPENYA,You do not have enough Penya to apply for the Rainbow Race.,No tienes suficiente Penya para postularte a la Carrera Arcoiris.
 TEXTCLIENT_RAINBOWRACE_EXIST,You've already applied for the next race.,Ya has solicitado la próxima carrera.
 TEXTCLIENT_RAINBOWRACE_NOPLAYERS,The Rainbow Race was not held due to lack of participants.,La Carrera Arcoiris no se realizó por falta de participantes.
-TEXTCLIENT_ULTIMATE_CONVERSION_SUCCESSFUL,Conversion Succesful!,¡Conversión exitosa!
+TEXTCLIENT_ULTIMATE_CONVERSION_SUCCESSFUL,Conversion Successful!,¡Conversión exitosa!
 TEXTCLIENT_ULTIMATE_CONVERSION_NOMATERIAL,Not enough Material.,Material insuficiente.
 TEXTCLIENT_UPGRADE_MAXLEVEL,This item has reached its maximum upgrade level.,Este artículo ha alcanzado su nivel máximo de mejora.
 TEXTCLIENT_UPGRADE_GREAT_FAILURE,The upgrade has been a great failure.,La actualización ha sido un gran fracaso.
