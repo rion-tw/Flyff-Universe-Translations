@@ -2473,8 +2473,8 @@ PROPITEM_TXT_004485,"Known as the ""Red Scroll"" in some circles, this powerful 
 PROPITEM_TXT_004486,Common Bank 15,Compte Commun (15 jours)
 PROPITEM_TXT_004487,Access items in all your characters' banks,Parchemin donnant accès aux banques de vos autres personnages du serveur.
 PROPITEM_TXT_004488,Common Bank 30,Compte Commun (30 jours)
-PROPITEM_TXT_004490,Activation,Élixir de combos
-PROPITEM_TXT_004491,Provides unlimited Action Slot skills. Lasts 1 Hour.,Élixir permettant d'enchaîner les combos sans pénalité de délai pendant 1 heure.
+PROPITEM_TXT_004490,Activation,Parchemin de combos
+PROPITEM_TXT_004491,Provides unlimited Action Slot skills. Lasts 1 Hour.,Parchemin permettant d'enchaîner les combos sans pénalité de délai pendant 1 heure.
 PROPITEM_TXT_004494,Transy,Parchemin de Morphologie
 PROPITEM_TXT_004495,Changes Sex,"Parchemin permettant de changer le genre du personnage, fille ou garçon ?"
 PROPITEM_TXT_004496,Rocket Cracker,Feu d'artifice
@@ -2589,9 +2589,9 @@ PROPITEM_TXT_004669,What on earth is in this box?,"Mais, que peut bien contenir 
 PROPITEM_TXT_004670,Re-Skill,Parchemin de Compétences
 PROPITEM_TXT_004671,Allows you to redistribute your skill points once. Does not work for Vagrants.,Parchemin permettant de redistribuer une fois tous les points de compétences (Inutilisable par le Vagabond).
 PROPITEM_TXT_004672,Box of Vital,Coffre de Vitalité
-PROPITEM_TXT_004673,Contains Vital Drink X and Activation,Coffre contenant Boisson Énergétique X et Élixir de Combos.
+PROPITEM_TXT_004673,Contains Vital Drink X and Activation,Coffre contenant Boisson Énergétique X et Parchemin de combos.
 PROPITEM_TXT_004674,Box of Mana,Coffre de Mana
-PROPITEM_TXT_004675,Contains Refresher Hold and Activation,Coffre contenant Fiole de Mana X et Élixir de combos.
+PROPITEM_TXT_004675,Contains Refresher Hold and Activation,Coffre contenant Fiole de Mana X et Parchemin de combos.
 PROPITEM_TXT_004676,Soup Box of Vital,Coffre de Soupe Vitale
 PROPITEM_TXT_004677,Contains Hot Ddukguk and Fresh Ddukguk,Coffre contenant Dukguk Chaud et Dukguk Frais.
 PROPITEM_TXT_004678,Soup Box of Change,Coffre de Soupe Spirituelle
@@ -2660,8 +2660,8 @@ PROPITEM_TXT_004740,Scroll of SFusion High,Parchemin Sfusion Haut
 PROPITEM_TXT_004741,"100% Upgrade Rate up to +7. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","Parchemin garantissant la réussite de l'enchantement des armes et armures à 100% (efficace jusqu'à un enchantement +7, mais chaque parchemin n'est actif que pour une seule tentative d'enchantement. Attention, ne fonctionne pas pour les élémentarisations.)."
 PROPITEM_TXT_004742,Item Transy (A),Morphitem (60)
 PROPITEM_TXT_004743,Change the sex of items levels 1-60 (Does not work on Costume Items),"Parchemin permettant de changer le genre d'un objet (niv 1 à 60), hormis ceux de la Boutique Flyff."
-PROPITEM_TXT_004744,Item Transy (B),Morphitem (155)
-PROPITEM_TXT_004745,Change the sex of items levels 61 and above. (Does not work on Costume Items),"Parchemin permettant de changer le genre d'un objet (niv 61 à 155), hormis ceux de la boutique Flyff."
+PROPITEM_TXT_004744,Item Transy (B),Morphitem (190)
+PROPITEM_TXT_004745,Change the sex of items levels 61 and above. (Does not work on Costume Items),"Parchemin permettant de changer le genre d'un objet (niv 61 à 190), hormis ceux de la boutique Flyff."
 PROPITEM_TXT_004746,[20] Scroll of Amplification ES,Parchemin de Maîtrise S3 (20)
 PROPITEM_TXT_004747,Increases Exp gain by 50% (x1.5) for 1h. This item can be stacked 3 times for a total of x2.5 Exp. Cannot be used at the same time as a basic Scroll of Amplification ES. The buff is removed once reaching the maximum level to use it.,"Expérience augmentée de 50% (x1,5) pendant 1 heure, cumulable 3 fois pour un total de x2,5. Ne peux pas être utilisé en même temps qu'un autre Parchemin d'Amplification ES. Le bonus d'expérience disparaîtra si vous atteignez le niveau maximum du parchemin."
 PROPITEM_TXT_004748,[40] Scroll of Amplification ES,Parchemin de Maîtrise S3 (40)
@@ -8132,7 +8132,7 @@ PROPITEM_TXT_101494,This box contains many rewards including a Upgraded RPS Cons
 PROPITEM_TXT_101495,RPS Reward Box Lv 3,Récompense Flyffoumi Lv3
 PROPITEM_TXT_101496,This box contains many rewards including a Vital Drink X or Refresher Hold and Upcut Stone.,"Cette boite contient de nombreuses récompenses, dont une Boisson Energétique X, une Fiole de Mana X ou une Pierre Mars."
 PROPITEM_TXT_101498,RPS Reward Box Lv 4,Récompense Flyffoumi Lv4
-PROPITEM_TXT_101499,"This box contains many rewards including a Scroll of Sprint, a Scroll of Amplification ES and a Activation.","Cette boite contient de nombreuses récompenses, dont un Parchemin de Sprint, un Parchemin Spécial d'Amplification et un élixir de combos."
+PROPITEM_TXT_101499,"This box contains many rewards including a Scroll of Sprint, a Scroll of Amplification ES and a Activation.","Cette boite contient de nombreuses récompenses, dont un Parchemin de Sprint, un Parchemin Spécial d'Amplification et un Parchemin de combos."
 PROPITEM_TXT_101500,RPS Reward Box Lv 5,Récompense Flyffoumi Lv5
 PROPITEM_TXT_101501,This box contains many rewards including Scrolls of AProtect.,"Cette boite contient de nombreuses récompenses, dont des Parchemins APotect."
 PROPITEM_TXT_101502,RPS Reward Box Lv 6,Récompense Flyffoumi Lv6
@@ -9442,7 +9442,7 @@ PROPITEM_TXT_130029,Popcrank Cap,Chapeau de Joker
 PROPITEM_TXT_130030,Adorned Popcrank Cap,Chapeau de Joker Orné
 PROPITEM_TXT_130031,Muffrin Cap,Chapeau de Muffrin
 PROPITEM_TXT_230000,Dungeon Coins,Jetons de Donjon
-PROPITEM_TXT_230001,Used to enter dungeons.,Permet d'entrer dans les donjons.
+PROPITEM_TXT_230001,Used to enter dungeons.,Permet d’accéder aux donjons et d’y appliquer des malédictions.
 PROPITEM_TXT_130032,PK Chromatic Wings (7 Days),Ailes Chromatiques de PK (7 jours)
 PROPITEM_TXT_130033,Shine like you're worth it.,Brillez comme vous le méritez !
 PROPITEM_TXT_130034,Glaphan Cap,Chapeau de Glaphan
@@ -12125,7 +12125,7 @@ PROPITEM_TXT_222099,White Phantocat,Chat-Fantôme Blanc
 PROPITEM_TXT_222100,Exorcist Lucky Box,Boîte de Tenue d'Exorciste
 PROPITEM_TXT_222101,This box contains a Exorcist with Speed bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient une tenue Exorciste avec un bonus de vitesse. Vous pourrez sélectionner le genre du costume en ouvrant la boîte.
 PROPITEM_TXT_222102,2023 Halloween Package,Pack d'Halloween 2023
-PROPITEM_TXT_222103,"A package containing 20x Upcut Stone, 10x Activation, 10x Halloween Balloons Box, 20x Vital Drink X or Refresher Hold and 1x Mr. Pumpkin Vendor Shop 30 Day. All items are also linked.","Paquet qui contient 20 Pierres Mars, 10 Élixir de combos, 10 Boîtes de Ballons d'Halloween, 20 Boissons Énergétiques X ou Fioles de Mana X et 1 Boutique gérée du Pumpkin (30 jours). Tous les objets sont liés."
+PROPITEM_TXT_222103,"A package containing 20x Upcut Stone, 10x Activation, 10x Halloween Balloons Box, 20x Vital Drink X or Refresher Hold and 1x Mr. Pumpkin Vendor Shop 30 Day. All items are also linked.","Paquet qui contient 20 Pierres Mars, 10 Parchemin de combos, 10 Boîtes de Ballons d'Halloween, 20 Boissons Énergétiques X ou Fioles de Mana X et 1 Boutique gérée du Pumpkin (30 jours). Tous les objets sont liés."
 PROPITEM_TXT_222104,Halloween Enchant Package A,Pack d'Enchantement d'Halloween A
 PROPITEM_TXT_222105,A package containing 20x Scroll of AProtect and 1x Halloween Balloons Box. All items are also linked.,Paquet qui contient 20 Parchemins Aprotect et 1 Boîte de Ballons d'Halloween. Tous les objets sont liés.
 PROPITEM_TXT_222106,Halloween Enchant Package B,Pack d'Enchantement d'Halloween B
@@ -12161,7 +12161,7 @@ PROPITEM_TXT_222135,Red Riding Hood Set,Tenue du Chaperon Rouge
 PROPITEM_TXT_222136,Select if you want to receive Big Bad Wolf Set (M) or Red Riding Hood Set (F)!,Choisissez entre une Tenue de Grand Méchant Loup (G) ou de Chaperon Rouge (F) !
 PROPITEM_TXT_222137,1 Day Scroll of Combined Party Effects,Parchemin d'Effets de Groupe Combinés (1 jour)
 PROPITEM_TXT_222138,"Increase the rate at which Party Exp is gained by 50% and enhances Party Skills, negating their distance limitations. Allows Party Skills to be stacked, combining their duration, but not effect. Your party will get twice the number of points when reaching a new level. Works when the party leader has it activated. (Lasts 1 day from activation, even if logged off)","Augmente l'expérience de groupe de 50% et améliore les compétences de groupes. Permet de cumuler la durée des compétences de groupe mais pas leurs effets. Votre groupe recevra le double de points en passant un niveau. Fonctionne quand le chef de groupe l'a activé. (Dure 1 jour après activition, même hors connexion)."
-PROPITEM_TXT_222139,"A package containing 20x Upcut Stone, 10x Activation, 10x Halloween Balloons Box, 20x Vital Drink X or Refresher Hold and 1x Mr. Pumpkin Vendor Shop. All items are also linked.","Paquet qui contient 20 Pierres Mars, 10 Élixir de combos, 10 Boîtes de Ballons d'Halloween, 20 Boissons Énergétiques X ou Fioles de Mana X et 1 Boutique gérée du Pumpkin. Tous les objets sont liés."
+PROPITEM_TXT_222139,"A package containing 20x Upcut Stone, 10x Activation, 10x Halloween Balloons Box, 20x Vital Drink X or Refresher Hold and 1x Mr. Pumpkin Vendor Shop. All items are also linked.","Paquet qui contient 20 Pierres Mars, 10 Parchemin de combos, 10 Boîtes de Ballons d'Halloween, 20 Boissons Énergétiques X ou Fioles de Mana X et 1 Boutique gérée du Pumpkin. Tous les objets sont liés."
 PROPITEM_TXT_222140,Bank Extra Bag (15 Days),Sac d'inventaire de banque (15 jours)
 PROPITEM_TXT_222141,Expands the bank space limit by 24 items for current character. You can only use 1 at the same time. Lasts 15 days.,Augmente la limite d’espace de la banque de 24 objets pour le personnage actuel. Vous ne pouvez en utiliser qu’un à la fois. Dure 15 jours.
 PROPITEM_TXT_222142,Bank Extra Bag (1 Day),Sac d’inventaire de banque (1 jour)
@@ -17325,7 +17325,7 @@ PROPITEM_TXT_140018,Couple Anniversary Gift 3,Cadeau d’Anniversaire de Couple 
 PROPITEM_TXT_140019,Couple Anniversary Gift 4,Cadeau d’Anniversaire de Couple 4
 PROPITEM_TXT_140020,Couple Anniversary Gift 5,Cadeau d’Anniversaire de Couple 5
 PROPITEM_TXT_140021,Couple Anniversary Gift 6,Cadeau d’Anniversaire de Couple 6
-PROPITEM_TXT_140022,Rose Petals,Pétales de Rose
+PROPITEM_TXT_140022,Rose Petals,Rose rouge
 PROPITEM_TXT_140023,"It's a beautiful rose flower. When used, you gain 10 couple skill points.","C’est une belle rose. Lors de son utilisation, vous gagnez 10 points de compétence de couple."
 PROPITEM_TXT_140024,Small Bouquet of Roses,Petit Bouquet de Roses
 PROPITEM_TXT_140025,"It's a small bouquet made of beautiful rose flowers. When used, you gain 20 couple skill points.","C’est un petit bouquet composé de belles roses. Lors de son utilisation, vous gagnez 20 points de compétence de couple."
@@ -17794,13 +17794,13 @@ PROPITEM_TXT_133413,Meat Skewer (C),Brochette de Viande (C)
 PROPITEM_TXT_133414,Recovers 144 HP,Redonne 144 PV
 PROPITEM_TXT_133415,Biscuit (C),Biscuit (C)
 PROPITEM_TXT_133416,Recovers 144 HP,Redonne 144 PV
-PROPITEM_TXT_133417,Fish Ball (D),Boule de Poisson (D)
+PROPITEM_TXT_133417,Fish Ball (D),Boulette de Poisson (D)
 PROPITEM_TXT_133418,A dish made by making minced fish meat into balls.,Plat à base de poisson haché en boulettes
-PROPITEM_TXT_133419,Fish Ball (C),Boule de Poisson (C)
+PROPITEM_TXT_133419,Fish Ball (C),Boulette de Poisson (C)
 PROPITEM_TXT_133420,A dish made by making minced fish meat into balls.,Plat à base de poisson haché en boulettes
-PROPITEM_TXT_133421,Fish Ball (B),Boule de Poisson (B)
-PROPITEM_TXT_133422,Fish Ball (A),Boule de Poisson (A)
-PROPITEM_TXT_133423,Fish Ball (A+),Boule de Poisson (A+)
+PROPITEM_TXT_133421,Fish Ball (B),Boulette de Poisson (B)
+PROPITEM_TXT_133422,Fish Ball (A),Boulette de Poisson (A)
+PROPITEM_TXT_133423,Fish Ball (A+),Boulette de Poisson (A+)
 PROPITEM_TXT_133424,A dish made by making minced fish meat into balls.,Plat à base de poisson haché en boulettes
 PROPITEM_TXT_133425,Seafood Pancake (C),Crêpe aux Fruits de Mer (C)
 PROPITEM_TXT_133426,Recovers 276 HP,Redonne 276 PV
@@ -17902,62 +17902,62 @@ PROPITEM_TXT_133520,Tuna Sushi (B),Sushi (B)
 PROPITEM_TXT_133521,Tuna Sushi (A),Sushi (A)
 PROPITEM_TXT_133522,Tuna Sushi (A+),Sushi (A+)
 PROPITEM_TXT_133523,Sushi made with tuna on top.,"Un sushi raffiné recouvert d’un tendre morceau de thon frais, apprécié des aventuriers en quête d’énergie."
-PROPITEM_TXT_133524,Red Fish Ball (D),Boule de Poisson Rouge (D)
+PROPITEM_TXT_133524,Red Fish Ball (D),Boulette de Poisson Rouge (D)
 PROPITEM_TXT_133525,Fish balls infused with alchemical reagents to give them a special effect.,Boules de poisson infusées de réactifs alchimiques pour un effet spécial
-PROPITEM_TXT_133526,Red Fish Ball (C),Boule de Poisson Rouge (C)
-PROPITEM_TXT_133527,Red Fish Ball (B),Boule de Poisson Rouge (B)
-PROPITEM_TXT_133528,Red Fish Ball (A),Boule de Poisson Rouge (A)
-PROPITEM_TXT_133529,Red Fish Ball (A+),Boule de Poisson Rouge (A+)
-PROPITEM_TXT_133530,Blue Fish Ball (D),Boule de Poisson Bleu (D)
-PROPITEM_TXT_133531,Blue Fish Ball (C),Boule de Poisson Bleu (C)
-PROPITEM_TXT_133532,Blue Fish Ball (B),Boule de Poisson Bleu (B)
-PROPITEM_TXT_133533,Blue Fish Ball (A),Boule de Poisson Bleu (A)
-PROPITEM_TXT_133534,Blue Fish Ball (A+),Boule de Poisson Bleu (A+)
-PROPITEM_TXT_133535,Green Fish Ball (D),Boule de Poisson Vert (D)
-PROPITEM_TXT_133536,Green Fish Ball (C),Boule de Poisson Vert (C)
-PROPITEM_TXT_133537,Green Fish Ball (B),Boule de Poisson Vert (B)
-PROPITEM_TXT_133538,Green Fish Ball (A),Boule de Poisson Vert (A)
-PROPITEM_TXT_133539,Green Fish Ball (A+),Boule de Poisson Vert (A+)
-PROPITEM_TXT_133540,Purple Fish Ball (D),Boule de Poisson Violet (D)
-PROPITEM_TXT_133541,Purple Fish Ball (C),Boule de Poisson Violet (C)
-PROPITEM_TXT_133542,Purple Fish Ball (B),Boule de Poisson Violet (B)
-PROPITEM_TXT_133543,Purple Fish Ball (A),Boule de Poisson Violet (A)
-PROPITEM_TXT_133544,Purple Fish Ball (A+),Boule de Poisson Violet (A+)
-PROPITEM_TXT_133545,Rainbow Fish Ball (D),Boule de Poisson Arc-en-ciel (D)
-PROPITEM_TXT_133546,Rainbow Fish Ball (C),Boule de Poisson Arc-en-ciel (C)
-PROPITEM_TXT_133547,Rainbow Fish Ball (B),Boule de Poisson Arc-en-ciel (B)
-PROPITEM_TXT_133548,Rainbow Fish Ball (A),Boule de Poisson Arc-en-ciel (A)
-PROPITEM_TXT_133549,Rainbow Fish Ball (A+),Boule de Poisson Arc-en-ciel (A+)
-PROPITEM_TXT_133550,Orange Fish Ball (D),Boule de Poisson Orange (D)
-PROPITEM_TXT_133551,Orange Fish Ball (C),Boule de Poisson Orange (C)
-PROPITEM_TXT_133552,Orange Fish Ball (B),Boule de Poisson Orange (B)
-PROPITEM_TXT_133553,Orange Fish Ball (A),Boule de Poisson Orange (A)
-PROPITEM_TXT_133554,Orange Fish Ball (A+),Boule de Poisson Orange (A+)
-PROPITEM_TXT_133555,Sky Blue Fish Ball (D),Boule de Poisson Bleu Ciel (D)
-PROPITEM_TXT_133556,Sky Blue Fish Ball (C),Boule de Poisson Bleu Ciel (C)
-PROPITEM_TXT_133557,Sky Blue Fish Ball (B),Boule de Poisson Bleu Ciel (B)
-PROPITEM_TXT_133558,Sky Blue Fish Ball (A),Boule de Poisson Bleu Ciel (A)
-PROPITEM_TXT_133559,Sky Blue Fish Ball (A+),Boule de Poisson Bleu Ciel (A+)
-PROPITEM_TXT_133560,Yellow Fish Ball (D),Boule de Poisson Jaune (D)
-PROPITEM_TXT_133561,Yellow Fish Ball (C),Boule de Poisson Jaune (C)
-PROPITEM_TXT_133562,Yellow Fish Ball (B),Boule de Poisson Jaune (B)
-PROPITEM_TXT_133563,Yellow Fish Ball (A),Boule de Poisson Jaune (A)
-PROPITEM_TXT_133564,Yellow Fish Ball (A+),Boule de Poisson Jaune (A+)
-PROPITEM_TXT_133565,Pink Fish Ball (D),Boule de Poisson Rose (D)
-PROPITEM_TXT_133566,Pink Fish Ball (C),Boule de Poisson Rose (C)
-PROPITEM_TXT_133567,Pink Fish Ball (B),Boule de Poisson Rose (B)
-PROPITEM_TXT_133568,Pink Fish Ball (A),Boule de Poisson Rose (A)
-PROPITEM_TXT_133569,Pink Fish Ball (A+),Boule de Poisson Rose (A+)
-PROPITEM_TXT_133570,Grey Fish Ball (D),Boule de Poisson Gris (D)
-PROPITEM_TXT_133571,Grey Fish Ball (C),Boule de Poisson Gris (C)
-PROPITEM_TXT_133572,Grey Fish Ball (B),Boule de Poisson Gris (B)
-PROPITEM_TXT_133573,Grey Fish Ball (A),Boule de Poisson Gris (A)
-PROPITEM_TXT_133574,Grey Fish Ball (A+),Boule de Poisson Gris (A+)
-PROPITEM_TXT_133575,White Fish Ball (D),Boule de Poisson Blanc (D)
-PROPITEM_TXT_133576,White Fish Ball (C),Boule de Poisson Blanc (C)
-PROPITEM_TXT_133577,White Fish Ball (B),Boule de Poisson Blanc (B)
-PROPITEM_TXT_133578,White Fish Ball (A),Boule de Poisson Blanc (A)
-PROPITEM_TXT_133579,White Fish Ball (A+),Boule de Poisson Blanc (A+)
+PROPITEM_TXT_133526,Red Fish Ball (C),Boulette de Poisson Rouge (C)
+PROPITEM_TXT_133527,Red Fish Ball (B),Boulette de Poisson Rouge (B)
+PROPITEM_TXT_133528,Red Fish Ball (A),Boulette de Poisson Rouge (A)
+PROPITEM_TXT_133529,Red Fish Ball (A+),Boulette de Poisson Rouge (A+)
+PROPITEM_TXT_133530,Blue Fish Ball (D),Boulette de Poisson Bleu (D)
+PROPITEM_TXT_133531,Blue Fish Ball (C),Boulette de Poisson Bleu (C)
+PROPITEM_TXT_133532,Blue Fish Ball (B),Boulette de Poisson Bleu (B)
+PROPITEM_TXT_133533,Blue Fish Ball (A),Boulette de Poisson Bleu (A)
+PROPITEM_TXT_133534,Blue Fish Ball (A+),Boulette de Poisson Bleu (A+)
+PROPITEM_TXT_133535,Green Fish Ball (D),Boulette de Poisson Vert (D)
+PROPITEM_TXT_133536,Green Fish Ball (C),Boulette de Poisson Vert (C)
+PROPITEM_TXT_133537,Green Fish Ball (B),Boulette de Poisson Vert (B)
+PROPITEM_TXT_133538,Green Fish Ball (A),Boulette de Poisson Vert (A)
+PROPITEM_TXT_133539,Green Fish Ball (A+),Boulette de Poisson Vert (A+)
+PROPITEM_TXT_133540,Purple Fish Ball (D),Boulette de Poisson Violet (D)
+PROPITEM_TXT_133541,Purple Fish Ball (C),Boulette de Poisson Violet (C)
+PROPITEM_TXT_133542,Purple Fish Ball (B),Boulette de Poisson Violet (B)
+PROPITEM_TXT_133543,Purple Fish Ball (A),Boulette de Poisson Violet (A)
+PROPITEM_TXT_133544,Purple Fish Ball (A+),Boulette de Poisson Violet (A+)
+PROPITEM_TXT_133545,Rainbow Fish Ball (D),Boulette de Poisson Arc-en-ciel (D)
+PROPITEM_TXT_133546,Rainbow Fish Ball (C),Boulette de Poisson Arc-en-ciel (C)
+PROPITEM_TXT_133547,Rainbow Fish Ball (B),Boulette de Poisson Arc-en-ciel (B)
+PROPITEM_TXT_133548,Rainbow Fish Ball (A),Boulette de Poisson Arc-en-ciel (A)
+PROPITEM_TXT_133549,Rainbow Fish Ball (A+),Boulette de Poisson Arc-en-ciel (A+)
+PROPITEM_TXT_133550,Orange Fish Ball (D),Boulette de Poisson Orange (D)
+PROPITEM_TXT_133551,Orange Fish Ball (C),Boulette de Poisson Orange (C)
+PROPITEM_TXT_133552,Orange Fish Ball (B),Boulette de Poisson Orange (B)
+PROPITEM_TXT_133553,Orange Fish Ball (A),Boulette de Poisson Orange (A)
+PROPITEM_TXT_133554,Orange Fish Ball (A+),Boulette de Poisson Orange (A+)
+PROPITEM_TXT_133555,Sky Blue Fish Ball (D),Boulette de Poisson Bleu Ciel (D)
+PROPITEM_TXT_133556,Sky Blue Fish Ball (C),Boulette de Poisson Bleu Ciel (C)
+PROPITEM_TXT_133557,Sky Blue Fish Ball (B),Boulette de Poisson Bleu Ciel (B)
+PROPITEM_TXT_133558,Sky Blue Fish Ball (A),Boulette de Poisson Bleu Ciel (A)
+PROPITEM_TXT_133559,Sky Blue Fish Ball (A+),Boulette de Poisson Bleu Ciel (A+)
+PROPITEM_TXT_133560,Yellow Fish Ball (D),Boulette de Poisson Jaune (D)
+PROPITEM_TXT_133561,Yellow Fish Ball (C),Boulette de Poisson Jaune (C)
+PROPITEM_TXT_133562,Yellow Fish Ball (B),Boulette de Poisson Jaune (B)
+PROPITEM_TXT_133563,Yellow Fish Ball (A),Boulette de Poisson Jaune (A)
+PROPITEM_TXT_133564,Yellow Fish Ball (A+),Boulette de Poisson Jaune (A+)
+PROPITEM_TXT_133565,Pink Fish Ball (D),Boulette de Poisson Rose (D)
+PROPITEM_TXT_133566,Pink Fish Ball (C),Boulette de Poisson Rose (C)
+PROPITEM_TXT_133567,Pink Fish Ball (B),Boulette de Poisson Rose (B)
+PROPITEM_TXT_133568,Pink Fish Ball (A),Boulette de Poisson Rose (A)
+PROPITEM_TXT_133569,Pink Fish Ball (A+),Boulette de Poisson Rose (A+)
+PROPITEM_TXT_133570,Grey Fish Ball (D),Boulette de Poisson Gris (D)
+PROPITEM_TXT_133571,Grey Fish Ball (C),Boulette de Poisson Gris (C)
+PROPITEM_TXT_133572,Grey Fish Ball (B),Boulette de Poisson Gris (B)
+PROPITEM_TXT_133573,Grey Fish Ball (A),Boulette de Poisson Gris (A)
+PROPITEM_TXT_133574,Grey Fish Ball (A+),Boulette de Poisson Gris (A+)
+PROPITEM_TXT_133575,White Fish Ball (D),Boulette de Poisson Blanc (D)
+PROPITEM_TXT_133576,White Fish Ball (C),Boulette de Poisson Blanc (C)
+PROPITEM_TXT_133577,White Fish Ball (B),Boulette de Poisson Blanc (B)
+PROPITEM_TXT_133578,White Fish Ball (A),Boulette de Poisson Blanc (A)
+PROPITEM_TXT_133579,White Fish Ball (A+),Boulette de Poisson Blanc (A+)
 PROPITEM_TXT_133580,Pickled Herring (D),Hareng Mariné (D)
 PROPITEM_TXT_133581,Pickled Herring (C),Hareng Mariné (C)
 PROPITEM_TXT_133582,Pickled Herring (B),Hareng Mariné (B)
@@ -19600,30 +19600,30 @@ PROPITEM_TXT_201001,5th grade Jewel Selection Box,Boîte de Sélection de Joyaux
 PROPITEM_TXT_201002,You can select 1 out of total 7 5th grade ultimate weapon jewels.,Vous pouvez sélectionner 1 parmi les 7 Joyaux d’arme ultime de 5ᵉ grade.
 PROPITEM_TXT_201003,Tier A Piercing Card Lucky Box,Boîte Chanceuse de Carte Perforante de Rang A
 PROPITEM_TXT_201004,You can get 1 random grade A piercing card.,Vous pouvez obtenir 1 carte perforante de rang A au hasard
-PROPITEM_TXT_201005,Fishball Select Box,Boîte de Sélection de Boule de Poisson
-PROPITEM_TXT_201006,There are various types of Fishballs.\nYou can select and obtain 1 type of Fishball box.,Il existe différents types de Boules de Poisson.\nVous pouvez sélectionner et obtenir 1 type de boîte de Boule de Poisson.
-PROPITEM_TXT_201007,Red Fishball Box,Boîte de Boule de Poisson Rouge
-PROPITEM_TXT_201008,You can obtain 1 type of D to A+ grade Red colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson rouge de grade D à A+.
-PROPITEM_TXT_201009,Blue Fishball Box,Boîte de Boule de Poisson Bleue
-PROPITEM_TXT_201010,You can obtain 1 type of D to A+ grade Blue colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson bleue de grade D à A+.
-PROPITEM_TXT_201011,Green Fishball Box,Boîte de Boule de Poisson Verte
-PROPITEM_TXT_201012,You can obtain 1 type of D to A+ grade Green colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson verte de grade D à A+.
-PROPITEM_TXT_201013,Purple Fishball Box,Boîte de Boule de Poisson Violette
-PROPITEM_TXT_201014,You can obtain 1 type of D to A+ grade Purple colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson violette de grade D à A+.
-PROPITEM_TXT_201015,Rainbow Fishball Box,Boîte de Boule de Poisson Arc-en-ciel
-PROPITEM_TXT_201016,You can obtain 1 type of D to A+ grade Rainbow colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson arc-en-ciel de grade D à A+.
-PROPITEM_TXT_201017,Orange Fishball Box,Boîte de Boule de Poisson Orange
-PROPITEM_TXT_201018,You can obtain 1 type of D to A+ grade Orange colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson orange de grade D à A+.
-PROPITEM_TXT_201019,Skyblue Fishball Box,Boîte de Boule de Poisson Bleu Ciel
-PROPITEM_TXT_201020,You can obtain 1 type of D to A+ grade Skyblue colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson bleu ciel de grade D à A+.
-PROPITEM_TXT_201021,Yellow Fishball Box,Boîte de Boule de Poisson Jaune
-PROPITEM_TXT_201022,You can obtain 1 type of D to A+ grade Yellow colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson jaune de grade D à A+.
-PROPITEM_TXT_201023,Pink Fishball Box,Boîte de Boule de Poisson Rose
-PROPITEM_TXT_201024,You can obtain 1 type of D to A+ grade Pink colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson rose de grade D à A+.
-PROPITEM_TXT_201025,Grey Fishball Box,Boîte de Boule de Poisson Grise
-PROPITEM_TXT_201026,You can obtain 1 type of D to A+ grade Grey colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson grise de grade D à A+.
-PROPITEM_TXT_201027,White Fishball Box,Boîte de Boule de Poisson Blanche
-PROPITEM_TXT_201028,You can obtain 1 type of D to A+ grade White colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson blanche de grade D à A+.
+PROPITEM_TXT_201005,Fishball Select Box,Boîte de Sélection de Boulette de Poisson
+PROPITEM_TXT_201006,There are various types of Fishballs.\nYou can select and obtain 1 type of Fishball box.,Il existe différents types de Boules de Poisson.\nVous pouvez sélectionner et obtenir 1 type de boîte de Boulette de Poisson.
+PROPITEM_TXT_201007,Red Fishball Box,Boîte de Boulette de Poisson Rouge
+PROPITEM_TXT_201008,You can obtain 1 type of D to A+ grade Red colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson rouge de grade D à A+.
+PROPITEM_TXT_201009,Blue Fishball Box,Boîte de Boulette de Poisson Bleue
+PROPITEM_TXT_201010,You can obtain 1 type of D to A+ grade Blue colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson bleue de grade D à A+.
+PROPITEM_TXT_201011,Green Fishball Box,Boîte de Boulette de Poisson Verte
+PROPITEM_TXT_201012,You can obtain 1 type of D to A+ grade Green colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson verte de grade D à A+.
+PROPITEM_TXT_201013,Purple Fishball Box,Boîte de Boulette de Poisson Violette
+PROPITEM_TXT_201014,You can obtain 1 type of D to A+ grade Purple colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson violette de grade D à A+.
+PROPITEM_TXT_201015,Rainbow Fishball Box,Boîte de Boulette de Poisson Arc-en-ciel
+PROPITEM_TXT_201016,You can obtain 1 type of D to A+ grade Rainbow colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson arc-en-ciel de grade D à A+.
+PROPITEM_TXT_201017,Orange Fishball Box,Boîte de Boulette de Poisson Orange
+PROPITEM_TXT_201018,You can obtain 1 type of D to A+ grade Orange colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson orange de grade D à A+.
+PROPITEM_TXT_201019,Skyblue Fishball Box,Boîte de Boulette de Poisson Bleu Ciel
+PROPITEM_TXT_201020,You can obtain 1 type of D to A+ grade Skyblue colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson bleu ciel de grade D à A+.
+PROPITEM_TXT_201021,Yellow Fishball Box,Boîte de Boulette de Poisson Jaune
+PROPITEM_TXT_201022,You can obtain 1 type of D to A+ grade Yellow colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson jaune de grade D à A+.
+PROPITEM_TXT_201023,Pink Fishball Box,Boîte de Boulette de Poisson Rose
+PROPITEM_TXT_201024,You can obtain 1 type of D to A+ grade Pink colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson rose de grade D à A+.
+PROPITEM_TXT_201025,Grey Fishball Box,Boîte de Boulette de Poisson Grise
+PROPITEM_TXT_201026,You can obtain 1 type of D to A+ grade Grey colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson grise de grade D à A+.
+PROPITEM_TXT_201027,White Fishball Box,Boîte de Boulette de Poisson Blanche
+PROPITEM_TXT_201028,You can obtain 1 type of D to A+ grade White colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boulette de Poisson blanche de grade D à A+.
 PROPITEM_TXT_201029,Nightmare Set,Set Cauchemar
 PROPITEM_TXT_201030,Nightmare Set (M),Set Cauchemar (H)
 PROPITEM_TXT_201031,The Nightmare Set for male character.,Le Set Cauchemar pour personnage masculin
@@ -19809,7 +19809,7 @@ PROPITEM_TXT_201076,Shop Advertisement (Purple),Publicité de Boutique (Violet)
 PROPITEM_TXT_201077,This scroll makes your Private or Vendor Shop appear at the top of the Search Shop results with a purple adorner. It is consumed when opening the shop and disappears when closing it.,Ce parchemin fait apparaître votre boutique privée ou de vendeur en haut des résultats de recherche avec un ornement violet. Il est consommé à l’ouverture de la boutique et disparaît à la fermeture.
 PROPITEM_TXT_201078,Shop Advertisement (Pink),Publicité de Boutique (Rose)
 PROPITEM_TXT_201079,This scroll makes your Private or Vendor Shop appear at the top of the Search Shop results with a pink adorner. It is consumed when opening the shop and disappears when closing it.,Ce parchemin fait apparaître votre boutique privée ou de vendeur en haut des résultats de recherche avec un ornement rose. Il est consommé à l’ouverture de la boutique et disparaît à la fermeture.
-PROPITEM_TXT_201081,Adds an additional stat to Premium Shop fashion items and cloaks. Target item becomes no-trade unless you use a Blessing of the Goddess item to overwrite the status. (You CAN'T remove it from the Jewel Manager Peach),Ajoute un bonus supplémentaire aux objets de mode et capes de la Boutique Premium. L’objet ciblé devient non échangeable sauf si vous utilisez un objet Bénédiction de la Déesse pour écraser le statut. (Vous NE POUVEZ PAS le retirer du Gestionnaire de Joyaux Peach)
+PROPITEM_TXT_201081,Adds an additional stat to Premium Shop fashion items and cloaks. Target item becomes no-trade unless you use a Blessing of the Goddess item to overwrite the status. (You CAN'T remove it from the Jewel Manager Peach),Ajoute un bonus supplémentaire aux objets de mode et capes de la Boutique Premium. L’objet ciblé devient non échangeable sauf si vous utilisez un objet Bénédiction de la Déesse pour écraser le statut. (Vous NE POUVEZ PAS le retirer du Gestionnaire de Joyaux Angie)
 PROPITEM_TXT_201082,Kalgas' Fury Sword,Épée de la Furie de Kalgas
 PROPITEM_TXT_201083,Kalgas' Fury Axe,Hache de la Furie de Kalgas
 PROPITEM_TXT_201084,Kalgas' Fury Big Sword,Glaive de la Furie de Kalgas
