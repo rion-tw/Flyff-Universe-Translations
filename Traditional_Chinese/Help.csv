@@ -611,7 +611,7 @@ CLIENT_HELP_INC_000609,This shop sells food items that help recover HP,販賣幫
 CLIENT_HELP_INC_000610,General merchandise,雜貨店
 CLIENT_HELP_INC_000611,"This place sells Arrows, Posters, and those sorts of things.",販賣的物品種類很多，有箭矢、符咒、MP和FP飲品。
 CLIENT_HELP_INC_000612,Public Office,城鎮服務處
-CLIENT_HELP_INC_000613,"This place is for selling Perin, using your personal bank, and guild bank.",這裡可以讓你使用個人倉庫和公會倉庫。
+CLIENT_HELP_INC_000613,"This place is for selling Perin, using your personal bank, and guild bank.",這裡可以讓你使用個人銀行和公會銀行。
 CLIENT_HELP_INC_000614,Station,航空站
 CLIENT_HELP_INC_000615,This shop sells Flight related items like Flight gears as well as guide’s player on how to fly.,販賣飛行器與飛行物品的地方，您也可在這裡得知一些飛行相關的知識。
 CLIENT_HELP_INC_000616,Duel,對戰
@@ -619,7 +619,7 @@ CLIENT_HELP_INC_000617,A duel is a battle between 2 players. This is different f
 CLIENT_HELP_INC_000618,Fame,名譽
 CLIENT_HELP_INC_000619,You will gain the fame if you keep winning duels. You will also gain  different titles as well.,在對戰中獲的很多勝利時，名譽自然會上升。而隨著名譽的上升，可以獲得各種的號稱。
 CLIENT_HELP_INC_000620,Guild Combat Center,公會戰鬥中心
-CLIENT_HELP_INC_000621,This place is for applying and running guild sieges and 1 on 1 guild sieges. Only available on the 1st sub server.,公會大戰及1:1公會大戰參加申請，還有可以進行大戰的地方。只有在第1頻道可以使用。
+CLIENT_HELP_INC_000621,This place is for applying and running guild sieges and 1 on 1 guild sieges. Only available on the 1st sub server.,公會戰及1:1公會戰參加申請，還有可以進行大戰的地方。只有在第1頻道可以使用。
 CLIENT_HELP_INC_000622,Other inquiries,其他事項
 CLIENT_HELP_INC_000623,Please visit the official homepage: $WEBSITE$ for more inquiries. Have a nice day.,查詢更多事項請訪問官方網站：$WEBSITE$。 祝你今天過得愉快。
 CLIENT_HELP_INC_000624,Beauty shop,美容商店
@@ -633,7 +633,7 @@ CLIENT_HELP_INC_000631,"Put a name in the Shop Name Window, and press OK. You ca
 CLIENT_HELP_INC_000632,Creating a Guild,成立公會
 CLIENT_HELP_INC_000633,"There are some basic requirements to creating a Guild. You will need a party of three players all at least level 40, then you have to complete a quest through the Public office NPC Helena in SM. Once finished you and your party members will become a guild.",成立公會必須到達40級以上之後，到聖音特找城鎮服務員海蓮娜接受成立公會的任務後，將相關的任務全部完成，即可成立工會，自己的隊友也會變成公會成員。
 CLIENT_HELP_INC_000634,Raising the Guild Level,公會成長
-CLIENT_HELP_INC_000635,"Guild Members area able to contribute items and Penya towards raising the guild level. To contribute items, simply press the Support Button inside of the Guild Storage. Raising the Guild Level will open up various options to the Guild to help it grow and distinguish itself.",可以貢獻物品和貢獻金幣來提高公會等級。利用公會倉庫來支援所需之物品，才能讓公會快速的成長。供獻度和供獻金幣達一定數值後，就會提升公會的等級。
+CLIENT_HELP_INC_000635,"Guild Members area able to contribute items and Penya towards raising the guild level. To contribute items, simply press the Support Button inside of the Guild Storage. Raising the Guild Level will open up various options to the Guild to help it grow and distinguish itself.",可以貢獻物品和貢獻金幣來提高公會等級。利用公會銀行來支援所需之物品，才能讓公會快速的成長。供獻度和供獻金幣達一定數值後，就會提升公會的等級。
 CLIENT_HELP_INC_000636,Joining a Guild,加入公會
 CLIENT_HELP_INC_000637,Initially only a Guild Master has the authority to invite Guild members. But a Guild Master can give authority to any Guildie to recruit other members to his Guild.,要加入剛成立的公會，必須要得到公會會長的同意。之後會長可分派權限給公會成員，並由其他成員邀請他人入會。招募成員與組隊的方式相同。
 CLIENT_HELP_INC_000638,Disbanding a Guild,公會解散
@@ -646,8 +646,8 @@ CLIENT_HELP_INC_000644,Announcement,公會公告
 CLIENT_HELP_INC_000645,Guild Masters can make an announcement by clicking the Notice button on the Information Tab in the Guild Menu. Either a new message can be made of the old one can simply be modified.,公會公告可透過公會視窗的公會情報頁面進行。此頁面中有個『公告』的按鈕，按下去之後會出下公告設定的視窗，此時選擇『新建』，並將想要公會的內容輸入完畢之後，按下『開始』鍵即可。若要將目前公告中的內容修改，可按下『編輯』來進行。此功能只有公會會長能夠使用。
 CLIENT_HELP_INC_000646,Guild Logo,公會徽章
 CLIENT_HELP_INC_000647,"The Guild Logo is the symbol or emblem of the Guild. This can be chosen only once and only by the Guild Master. To use this function, select the Logo button in the Guild Menu.",代表工會的徽章只能由會長去設定，而且只能設定一次。若要設定公會徽章，可在公會情報頁面上按下『Logo』按鈕後，選擇想要的圖即可。
-CLIENT_HELP_INC_000648,Guild Storage,公會倉庫
-CLIENT_HELP_INC_000649,You can use the Guild Storage only on the 1st Channel of each Server. Anyone can deposit items and Penya into the Guild Storage but only authorized Guild Members can withdraw items and Penya.,公會倉庫只能在各伺服器的第一世界使用。雖然在公會倉庫放入的道具或金幣不管是誰都可以使用，但是必需要被賦予稱號的公會會員才能夠取出公會倉庫裡的道具和金幣。
+CLIENT_HELP_INC_000648,Guild Storage,公會銀行
+CLIENT_HELP_INC_000649,You can use the Guild Storage only on the 1st Channel of each Server. Anyone can deposit items and Penya into the Guild Storage but only authorized Guild Members can withdraw items and Penya.,公會銀行只能在各伺服器的第一世界使用。雖然在公會銀行放入的道具或金幣不管是誰都可以使用，但是必需要被賦予稱號的公會會員才能夠取出公會銀行裡的道具和金幣。
 CLIENT_HELP_INC_000650,Info-Pang,情報胖
 CLIENT_HELP_INC_000651,You may have noticed when you first logged into the game that you were greeted by the Info-Pang in the lower right corner of your screen. This section briefly explains the Info-Pang and how to use him.,你可能已經注意到，當您第一次登錄遊戲時，螢幕右下角的情報胖會向你打招呼，這裡簡要介紹 情報胖及其使用方法。
 CLIENT_HELP_INC_000652,What is it?,情報胖是甚麼?
@@ -682,7 +682,7 @@ CLIENT_HELP_INC_000680,placholder 64,placholder 64
 CLIENT_HELP_INC_000681,placholder 65,placholder 65
 CLIENT_HELP_INC_000682,placholder 66,placholder 66
 CLIENT_HELP_INC_000683,Server,伺服器
-CLIENT_HELP_INC_000684,Guild bank and Guild sieges are available only at the 1st sub server of each server set.,公會倉庫使用或公會大戰等機制，僅限第1頻道進行。
+CLIENT_HELP_INC_000684,Guild bank and Guild sieges are available only at the 1st sub server of each server set.,公會銀行使用或公會戰等機制，僅限第1頻道進行。
 CLIENT_HELP_INC_000685,placholder 67,placholder 67
 CLIENT_HELP_INC_000686,placholder 68,placholder 68
 CLIENT_HELP_INC_000687,placholder 69,placholder 69
