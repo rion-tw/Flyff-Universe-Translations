@@ -1876,7 +1876,7 @@ UI_BATTLEPASS_MISSION_ACTIVEBEGINNERBUFF,Ask the Buff Pang for Buffs,向 Buff Pa
 UI_BATTLEPASS_MISSION_USECOMBOSKILL,Perform %s or More Combos Using the Action Slot,使用連續技能執行 %s 或更多連擊
 UI_BATTLEPASS_MISSION_ACTIVEEQUIPSET,Wear a Set With a Set Effect,穿上裝備，獲得套裝效果
 UI_BATTLEPASS_MISSION_KALGAS_ASSAULT,Finish a Kalgas Assault Match,結束卡爾加斯突擊
-UI_BATTLEPASS_INFO2,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,結束於：#b%s#nb\n每週積分上限：#b%d / %d#nb\n#i賽季任務獲得的積分不計入每週積分上限。 #ni
+UI_BATTLEPASS_INFO2,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,%s結束於：#b%s#nb\n每週積分上限：#b%d / %d#nb\n#i賽季任務獲得的積分不計入每週積分上限。 #ni
 UI_BATTLEPASS_INFO3,%s ends at: #b%s#nb (Server Time)\n#iSome rewards are enhanced after reaching level %d.#ni,%s結束於：#b%s#nb（伺服器時間）\n#i達到 %d 級後，部分獎勵將會提升。#ni
 UI_BATTLEPASS_INFO4,%s ends at: #b%s#nb (Server Time),%s ends at: #b%s#nb (Server Time)
 UI_BATTLEPASS_INFO5,The Starter Pass does not expire and is available to all players who purchase it.,新手通行證沒有有效期限，所有購買的玩家均可使用。
