@@ -991,7 +991,7 @@ NPC_100045,Hm... Yes...,嗯...是...
 NPC_100046,...,...
 NPC_100047,May Rhisis be with you.,願黎席斯與你同在。
 NPC_100048,You should not be here...,你不該在這兒的...
-NPC_100049,Volkane is an ancient and once forgotten cavern in the depths of Magmient. The air is filled with volcanic ash and hot gases. This is no place for you.,熔岩秘境是美格米昂深處一個古老而曾經被遺忘的洞穴，空氣中充滿了火山灰和熱氣，哪裡不適合你。
+NPC_100049,Volkane is an ancient and once forgotten cavern in the depths of Magmient. The air is filled with volcanic ash and hot gases. This is no place for you.,熔岩祕境是美格米昂深處一個古老而曾經被遺忘的洞穴，空氣中充滿了火山灰和熱氣，哪裡不適合你。
 NPC_100050,A traveler? In this place? Oh my.,旅行者？在這個地方？天啊！
 NPC_100051,Hm.,嗯
 NPC_100052,This is no place for travelers. You must leave if you value your life.,這裡不適合旅行者，你必須離開，如果你珍惜生命的話。
@@ -1004,7 +1004,7 @@ NPC_100058,,
 NPC_100059,,
 NPC_100060,,
 NPC_100061,You are ready to challenge the Red Meteonyker. Are you sure you would like to enter?\n[Yes][IDS_NPC_Yes_Enter] / [No][IDS_NPC_No_Enter]\n\n#cffff0000All the party members participating must be close to you to enter.#nc,你已準備好挑戰炙焰飛龍。你確定要進入嗎？\n[是][IDS_NPC_Yes_Enter] / [否][IDS_NPC_No_Enter]\n\n#cffff0000所有參與的成員必須靠近你才能進入。#nc
-NPC_100062,You must go and speak with Kumah to forge the Volkane Key.,你必須去與庫瑪交談以複製熔岩秘境鑰匙。
+NPC_100062,You must go and speak with Kumah to forge the Volkane Key.,你必須去與庫瑪交談以複製熔岩祕境鑰匙。
 NPC_100063,"Hello I am Azria Pang, the oldest of the Pang brothers. We manage the Lodelights.",大家好，我是阿茲里亞乓，乓兄弟中年紀最大的，我們管理生命光塔。
 NPC_100064,#b#cff8a004fThe #cfff60000Level 80 Guild Siege Application Center #cff8a004fis open!#nc#nb,#b#cff8a004f#cfff60000 80級公會戰申請中心#cff8a004fis開放！#nc#nb
 NPC_100065,Good Luck!,好運！
