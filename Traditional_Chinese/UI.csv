@@ -2805,7 +2805,7 @@ UI_MENU_BAN_IP,Ban IP,Ban IP
 UI_MENU_KICK_IP,Kick IP,Kick IP
 UI_MENU_MUTE_SHA,Mute Sha,Mute Sha
 UI_APP_INSPECTION,Inspection,Inspection
-UI_TARGET_PLAYERS_KILLED,- Players killed: ,- 玩家死亡:
+UI_TARGET_PLAYERS_KILLED,- Players killed: ,- 擊殺玩家數:
 UI_TARGET_PK_VALUE,- PK Value : ,- PK點數 :
 UI_TARGET_PLAYER_ID,- PlayerID: #,- 玩家ID: #
 UI_PUBLISHED_BY,Published by ,Published by
