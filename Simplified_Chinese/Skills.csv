@@ -1128,7 +1128,7 @@ PROPSKILL_TXT_150591,Skill scaling is improved.,技能成长加成提升。
 PROPSKILL_TXT_150592,Maximum number of stacks is increased to 8 at maximum level.,满级时，最大层数上限提升至 8 层。
 PROPSKILL_TXT_150593,Death's Rush,死神突袭
 PROPSKILL_TXT_150594,The God of Death gazes upon you.,死神正凝视着你。
-PROPSKILL_TXT_150595,Infusion,元素注入
+PROPSKILL_TXT_150595,Infusion,元素灌注
 PROPSKILL_TXT_150596,"Infuse any elemental skills you use with your weapon's applied element, overriding the skill's element.",将你使用的任意元素技能注入你武器当前生效的元素属性，并覆盖该技能原本的元素属性。
 PROPSKILL_TXT_150597,Intelligent Scaling,智力加成
 PROPSKILL_TXT_150598,"Skill duration scales with INT instead of STA, with increased duration, reduced penalty, and improved casting efficiency as it levels.",技能不再受体力加成，改为受智力加成。
