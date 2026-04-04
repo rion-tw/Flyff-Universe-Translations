@@ -2515,7 +2515,7 @@ UI_COUPLE_PROPOSAL,Couple Proposal,Couple Proposal
 UI_COUPLE_PROPOSAL_TEXT,%s is proposing to you! Accept their proposal request and become a couple?,%s is proposing to you! Accept their proposal request and become a couple?
 UI_COUPLE_RING_REPLACE,Ring Replacement,Ring Replacement
 UI_COUPLE_RING_REPLACE_TEXT,Your partner is proposing to change the ring to the following ring. Accept?,Your partner is proposing to change the ring to the following ring. Accept?
-UI_COUPLE_PARTNER_OFFLINE,Your partner must be online.,Tu pareja debe estar conectado.
+UI_COUPLE_PARTNER_OFFLINE,Your partner must be online.,Tu pareja debe estar en línea.
 UI_COUPLE_BREAKUP_DEADLINE,Break up response deadline: %s,Break up response deadline: %s
 UI_COUPLE_BREAKUP_NOTI,Break up notification time: %s,Break up notification time: %s
 UI_COUPLE_NEXTEXP_TIME,Next Couple EXP: %s,Next Couple EXP: %s
