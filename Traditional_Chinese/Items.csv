@@ -24122,8 +24122,8 @@ PROPITEM_TXT_155073,Mara's Mane,Mara's Mane
 PROPITEM_TXT_155074,A lock of Mara's hair.,A lock of Mara's hair.
 PROPITEM_TXT_155075,Armor of Ghed,Armor of Ghed
 PROPITEM_TXT_155076,A well earned piece of Ghed's enchanted Armor.,A well earned piece of Ghed's enchanted Armor.
-PROPITEM_TXT_155077,Ankou's Scale,Ankou's Scale
-PROPITEM_TXT_155078,A scale from the hide of the [God of Death] Ankou. You may not want to be in possession of this when Ankou returns...,A scale from the hide of the [God of Death] Ankou. You may not want to be in possession of this when Ankou returns...
+PROPITEM_TXT_155077,Ankou's Scale,安庫之鱗
+PROPITEM_TXT_155078,A scale from the hide of the [God of Death] Ankou. You may not want to be in possession of this when Ankou returns...,來自[死神]安庫皮膚的鱗片。安庫回來時你最好不要還留著它...
 PROPITEM_TXT_155079,Trap Tool,Trap Tool
 PROPITEM_TXT_155080,A tool used to place traps.,A tool used to place traps.
 PROPITEM_TXT_155100,Stale Record,Stale Record
@@ -24135,12 +24135,12 @@ PROPITEM_TXT_155105,"A strange sphere, bathed in supernatural light.","A strange
 PROPITEM_TXT_155106,[190] Scroll of Amplification ES,[190] Scroll of Amplification ES
 PROPITEM_TXT_155107,,
 PROPITEM_TXT_155108,Obtained by completing all story quests from Eillun!,Obtained by completing all story quests from Eillun!
-PROPITEM_TXT_155109,HP/MP Statted Ankou's Mask,HP/MP Statted Ankou's Mask
-PROPITEM_TXT_155110,Magic Power Statted Ankou's Mask,Magic Power Statted Ankou's Mask
-PROPITEM_TXT_155111,Attack Statted Ankou's Mask,Attack Statted Ankou's Mask
-PROPITEM_TXT_155112,Defense Statted Ankou's Mask,Defense Statted Ankou's Mask
-PROPITEM_TXT_155113,Healing Statted Ankou's Mask,Healing Statted Ankou's Mask
-PROPITEM_TXT_155114,Statted Ankou's Mask Select Box,Statted Ankou's Mask Select Box
+PROPITEM_TXT_155109,HP/MP Statted Ankou's Mask,HP/MP屬性安庫面具
+PROPITEM_TXT_155110,Magic Power Statted Ankou's Mask,魔力屬性安庫面具
+PROPITEM_TXT_155111,Attack Statted Ankou's Mask,攻擊屬性安庫面具
+PROPITEM_TXT_155112,Defense Statted Ankou's Mask,防禦屬性安庫面具
+PROPITEM_TXT_155113,Healing Statted Ankou's Mask,治療屬性安庫面具
+PROPITEM_TXT_155114,Statted Ankou's Mask Select Box,屬性安庫面具選擇箱
 PROPITEM_TXT_155115,Select which statted mask you want!,Select which statted mask you want!
 PROPITEM_TXT_750000,Lower Scroll of Jewel Conversion,Lower Scroll of Jewel Conversion
 PROPITEM_TXT_750001,Jewels of tier 1~5 will be randomly changed with jewels of the same tier.,Jewels of tier 1~5 will be randomly changed with jewels of the same tier.
@@ -24957,10 +24957,10 @@ PROPITEM_TXT_135006,3 Days Scroll of Party Skill,3 Days Scroll of Party Skill
 PROPITEM_TXT_135007,3 Days Scroll of Combined Party Effects,3 Days Scroll of Combined Party Effects
 PROPITEM_TXT_135008,Scroll of Pickup Range (3 days),Scroll of Pickup Range (3 days)
 PROPITEM_TXT_135009,1.5 Update Lucky Box,1.5 Update Lucky Box
-PROPITEM_TXT_135010,Ankou,Ankou
-PROPITEM_TXT_135011,A Ankou that follows its master around and picks up dropped items,A Ankou that follows its master around and picks up dropped items
-PROPITEM_TXT_135012,Demonic Ankou,Demonic Ankou
-PROPITEM_TXT_135013,A Demonic Ankou that follows its master around and picks up dropped items,A Demonic Ankou that follows its master around and picks up dropped items
+PROPITEM_TXT_135010,Ankou,安庫
+PROPITEM_TXT_135011,A Ankou that follows its master around and picks up dropped items,會跟在主人身邊並撿取掉落物的安庫
+PROPITEM_TXT_135012,Demonic Ankou,冥魔安庫
+PROPITEM_TXT_135013,A Demonic Ankou that follows its master around and picks up dropped items,會跟在主人身邊並撿取掉落物的冥魔安庫
 PROPITEM_TXT_135014,Jewel (1) Select Box,Jewel (1) Select Box
 PROPITEM_TXT_135015,Jewel (2) Select Box,Jewel (2) Select Box
 PROPITEM_TXT_135016,Jewel (3) Select Box,Jewel (3) Select Box
