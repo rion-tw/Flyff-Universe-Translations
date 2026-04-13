@@ -706,16 +706,16 @@ PROPSKILL_TXT_140066,Pit,陷坑
 PROPSKILL_TXT_140067,You have stepped on a trap.,你踩到了一个陷阱。
 PROPSKILL_TXT_140068,Proficient Traps,陷阱专精
 PROPSKILL_TXT_140069,Crowd Controller,控场大师
-PROPSKILL_TXT_140071,Trap: DoT,陷阱: 持续伤害
+PROPSKILL_TXT_140071,Trap: DoT,陷阱：持续伤害
 PROPSKILL_TXT_140072,Deploy a trap that deals continuous damage.,部署一个陷阱，对范围内的敌人造成持续伤害。
 PROPSKILL_TXT_140073,Proficient Traps,陷阱专精
-PROPSKILL_TXT_140076,Trap: AoE,陷阱: 范围
+PROPSKILL_TXT_140076,Trap: AoE,陷阱：范围
 PROPSKILL_TXT_140077,Deploy a trap that deals damage in the designated area.,在指定区域部署一个陷阱，对范围内的敌人造成伤害。
 PROPSKILL_TXT_140078,Proficient Traps,陷阱专精
-PROPSKILL_TXT_140081,Trap: Binding,陷阱: 致盲
+PROPSKILL_TXT_140081,Trap: Binding,陷阱：致盲
 PROPSKILL_TXT_140082,Deploy a trap that immobilizes the target.,部署一个陷阱，使目标陷入定身状态。
 PROPSKILL_TXT_140083,Skilled Installation,熟练部署
-PROPSKILL_TXT_140086,Trap: Blast,陷阱: 爆裂
+PROPSKILL_TXT_140086,Trap: Blast,陷阱：爆裂
 PROPSKILL_TXT_140087,Deploy a trap that pushes the target away.,部署一个陷阱，将目标击退。
 PROPSKILL_TXT_140088,Proficient Traps,陷阱专精
 PROPSKILL_TXT_140091,Marked Prey,标记猎物

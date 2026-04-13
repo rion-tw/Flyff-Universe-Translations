@@ -1643,7 +1643,7 @@ UI_WORLDCUP,GET'EM B'ALL,GET'EM B'ALL
 UI_WORLDCUP_TITLE,GET'EM B'ALL Scoreboard,GET'EM B'ALL 計分牌
 UI_WORLDCUP_INFO,Collect #bSoccer Balls#nb from monsters to increase your guild's points! Guilds receive #brewards based on their rank#nb:\n1-10: Soccer Gold Box\n11-30: Soccer Silver Box\n31+: Soccer Bronze Box\nGuild members who score fewer than 50 points are not eligible for rewards.,從怪物身上收集#b足球#nb 來增加您的公會積分！ 將根據公會排名等級來獲得#b獎勵#nb:\n1名~10名：足球金箱\n11名~30名：足球銀箱\n31名~全部：足球銅箱\n公會成員必須至少 50積分以上才能獲得獎勵。
 UI_WORLDCUP_POINTS,GET'EM B'ALL Points,GET'EM B'ALL 積分
-UI_WORLDCUP_RANK,Guild Rank: %d - Guild Points: %d - Your Points: %d,公會排名: %d - 公會點數: %d - 您的點數: %d
+UI_WORLDCUP_RANK,Guild Rank: %d - Guild Points: %d - Your Points: %d,公會排名：%d - 公會點數：%d - 您的點數：%d
 UI_MSGBOX_COPY,Copy,複製
 UI_MSGBOX_COPY_CONFIRM,Copied to Clipboard,複製到剪貼板
 UI_DUNGEON_TITLE,Dungeon,副本
@@ -1677,12 +1677,12 @@ UI_DUNGEON_MIN_GUILD_LEVEL,Req. Guild Level: %d,公會所需等級：%d
 UI_DUNGEON_MODS_NOTE,#bNote: Curses are applied only when creating a new dungeon instance.#nb,#b注意：如果您進入一個已經開啟的副本，選擇副本詛咒不會有任何效果，也不會減少任何成本。#nb
 UI_QUEST_LEVEL,Reach level %d,到達等級 %d
 UI_QUEST_BADGE1,Badge,徽章
-UI_QUEST_BADGE2,Badge: %s,徽章: %s
+UI_QUEST_BADGE2,Badge: %s,徽章：%s
 UI_ACHIEVEMENTS_REWARD_SKILL,Unlocks skill: %s lv. %d,解鎖技能：%s lv. %d
 UI_ACHIEVEMENTS_NOBADGE,No Badge,無徽章
 UI_ACHIEVEMENTS_NOBADGE_DESCRIPTION,Hide your badge.,不展示任何徽章。
 UI_ACHIEVEMENTS_BADGEREWARD,Unlocked Badge,解鎖徽章
-UI_ACHIEVEMENTS_BADGE,Badge: #b%s#nb,徽章: #b%s#nb
+UI_ACHIEVEMENTS_BADGE,Badge: #b%s#nb,徽章：#b%s#nb
 TEXTCLIENT_EXCHANGELIMIT,Out of stock - no items are available to trade!,沒有更多的物品可以交易！庫存為空！
 UI_THIEFSANTAHUNT_RANKING_TITLE,Thief Santa Hunt Ranking,獵殺小偷聖誕老人排名
 UI_BATTLEPASS_MISSION_PLAYTIME,Stay Online for %s Minutes,保持在線 %s 分鐘
@@ -1961,7 +1961,7 @@ UI_GUILDBUFF_NONE,There is no donation yet. ,There is no donation yet.
 UI_TOOLTIP_BUYREQLV,Purchase requirement is level %d or higher,Purchase requirement is level %d or higher
 UI_COSTUME_BOX_ITEM,Costume Box,Costume Box
 UI_COSTUME_BOX_MATERIAL,Repair Hammer,修理錘
-UI_COSTUME_BOX_UPGRADE_PROB,Success: #b%s#nb,成功: #b%s#nb
+UI_COSTUME_BOX_UPGRADE_PROB,Success: #b%s#nb,成功：#b%s#nb
 UI_COSTUME_BOX_DECREASED,The Costume Box Upgrade Level has decreased,The Costume Box Upgrade Level has decreased
 UI_MATERIAL_COUNT,%s x%d,%s x%d
 UI_PURCHASE_LIMIT,Purchase Limit: %d / %d,Purchase Limit: %d / %d
@@ -2218,10 +2218,10 @@ UI_PARTY_CHANGE_NAME,Name,名稱
 UI_PARTY_CHANGE_NAME_TIP,Change the Party name.,更改劇團名稱。
 UI_KALGAS_ASSAULT_NOT_SCHEDUL_DESC,There is no Kalgas Assault scheduled.,目前沒有卡爾加斯突擊戰行程。
 UI_KALGAS_ASSAULT_CANNOT_ENTER,You cannot enter Kalgas Assault at this time.,目前無法進入卡爾加斯突擊戰。
-UI_KALGAS_ASSAULT_ENTERTIME_DESC,Enter Kalgas Assault now?\n\nEntry time remaining: %s,是否要進入卡爾加斯突擊戰?\n\n入場時間: %s
-UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Cannot enter Kalgas Assault yet.\n\nEntry Start: %02d:%02d:%02d,尚未開放進入卡爾加斯突擊戰。\n\n入場: %02d:%02d:%02d
+UI_KALGAS_ASSAULT_ENTERTIME_DESC,Enter Kalgas Assault now?\n\nEntry time remaining: %s,是否要進入卡爾加斯突擊戰?\n\n入場時間：%s
+UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Cannot enter Kalgas Assault yet.\n\nEntry Start: %02d:%02d:%02d,尚未開放進入卡爾加斯突擊戰。\n\n入場：%02d:%02d:%02d
 UI_KALGAS_ASSAULT_LATE_DESC,Today's Kalgas Assault has already started.,卡爾加斯突擊戰今天已經開始。
-UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration opens:\n %s \nTime until entry:\n %s \nMinimum level: %d\n\nCurrent number of registered players: %d\n\n※ Only players registered for Kalgas Assault can participate.\n※ You cannot enter after the entry period ends.\n※ Maximum 200 players per instance (100 vs 100).\n※ Ranking rewards require at least 20 players. If fewer than 20 players participate, only the winner reward will be granted.\n※ Teams are assigned randomly.",#cff0000ff報名#nc\n距離登記開始的時間:\n %s \n距離進入的時間:\n %s \n至少等級: %d\n\n目前已報名玩家人數: %d\n\n※ 僅限已報名卡爾加斯突擊戰的玩家參加。\n※ 時間限制過後將無法進場。\n※ 每個戰場最多 200 名玩家 (100 對 100)。\n※ 當參加人數少於 20 人時，將不提供排名獎勵，僅發放勝利獎勵。\n※ 系統將隨機分隊。
+UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration opens:\n %s \nTime until entry:\n %s \nMinimum level: %d\n\nCurrent number of registered players: %d\n\n※ Only players registered for Kalgas Assault can participate.\n※ You cannot enter after the entry period ends.\n※ Maximum 200 players per instance (100 vs 100).\n※ Ranking rewards require at least 20 players. If fewer than 20 players participate, only the winner reward will be granted.\n※ Teams are assigned randomly.",#cff0000ff報名#nc\n距離登記開始的時間:\n %s \n距離進入的時間:\n %s \n至少等級：%d\n\n目前已報名玩家人數：%d\n\n※ 僅限已報名卡爾加斯突擊戰的玩家參加。\n※ 時間限制過後將無法進場。\n※ 每個戰場最多 200 名玩家 (100 對 100)。\n※ 當參加人數少於 20 人時，將不提供排名獎勵，僅發放勝利獎勵。\n※ 系統將隨機分隊。
 UI_SUN,Sunday,Sunday
 UI_MON,Monday,Monday
 UI_TUE,Tuesday,Tuesday
