@@ -1,4 +1,4 @@
-﻿Key,English,Simplified_Chinese
+Key,English,Simplified_Chinese
 LANGUAGE_CODE,EN,CNS
 UI_HOME_TITLE,Home,开始
 UI_HOME_GUESTCHAR,Guest Character,游客角色
@@ -2030,7 +2030,7 @@ UI_TOOLTIP_DST_SPIRITUAL_CHARGE,Spiritual Overcharge Chance,精神充能几率
 UI_TOOLTIP_DST_AURABURST,Aura Burst Chance,爆破光环几率
 UI_TOOLTIP_DST_WATERBOMB,Waterbomb Chance,水弹
 UI_TOOLTIP_DST_SLOW_RATE,Dmg Slow Rate,伤害减速几率
-UI_TOOLTIP_DST_ARCANE,Arcane Insight Chance,奥数洞悉几率
+UI_TOOLTIP_DST_ARCANE,Arcane Insight Chance,奥术洞悉几率
 UI_MSGBOX_DISMANTLE,Dismantle,分解
 UI_PLAYERHOUSINGBUY_TITLE,Select House Template,选择房屋模板
 UI_PLAYERHOUSINGBUY_INFO,Select a template for your house.\n\n#b#cffff0000Changing your house template will remove all currently placed decorations and NPCs! Save them to a preset to restore them later.#nc#nb,Select a template for your house.\n\n#b#cffff0000Changing your house template will remove all currently placed decorations and NPCs! Save them to a preset to restore them later.#nc#nb
