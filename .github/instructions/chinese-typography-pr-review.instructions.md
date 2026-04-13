@@ -1,118 +1,124 @@
 ---
 name: chinese-typography-pr-review
-description: "Review Simplified_Chinese / Traditional_Chinese translations for game UI. Ensure optimal Chinese-English mixed typography, readability, and consistency."
+description: "Apply CJK typography and mixed-text spacing normalization for game UI translations."
 applyTo: 
   - "Simplified_Chinese/**"
   - "Traditional_Chinese/**"
 ---
 
-# 中文翻譯 UI 排版規範（遊戲最終顯示）
+# Chinese Typography Rules for Game UI
 
-## 🎯 核心原則
+## 🎯 Principles
 
-本規範目標：
+This guideline applies **CJK Typography** and **Mixed Text Spacing** to ensure:
 
-- 提升 遊戲 UI 可讀性
-- 優化 中英混排視覺節奏
-- 保持 一致性與專業感
-- 避免因字型導致的 排版錯位
-
----
-
-# 1. 全形 → 半形（強制）
-
-以下符號一律使用半形：
-
-| 全形 | 半形 |
-|------|------|
-| （ | ( |
-| ） | ) |
-| ： | : |
+- High readability for game UI
+- Consistent Chinese–English mixed layout
+- Clean and professional visual presentation
 
 ---
 
-# 2. 中英混排空白規則（核心）
+## 🧩 Rules
 
-所有「中文 + 英文 / 數字 / 符號」之間必須有空白
+### 1. Fullwidth → Halfwidth Normalization
 
-正確：
-技能 Level 5  
-攻擊 +10%  
-需要 Gold 100  
-冷卻時間 5 sec  
+Convert fullwidth punctuation to halfwidth:
 
-錯誤：
-技能Level 5  
-攻擊+10%  
-需要Gold100  
+- `（ ） → ( )`
+- `： → :`
 
 ---
 
-# 3. 括號排版
+### 2. CJK Mixed Text Spacing (Core Rule)
 
-左括號前需空白：
+Insert spaces between:
 
-技能 (Level 5)  
-Fire Ball (強化)  
+- Chinese characters and English words
+- Chinese characters and numbers
+- Chinese characters and symbols (excluding punctuation)
 
-右括號後需空白（若後面是文字）：
-
-完成) 任務  
-Buff) Active  
-
-標點例外：
-
-(Level).  
-(強化)，提升效果  
+**Examples**
+- `技能 Level 5`
+- `攻擊 +10%`
+- `需要 Gold 100`
 
 ---
 
-# 4. 中括號排版
+### 3. Parentheses and Brackets Spacing
 
-中文前：
+Apply consistent spacing:
 
-任務 [Quest]  
+- Insert a space before `(` when preceded by text
+- Insert a space after `)` when followed by text
+- Insert a space before `[` when preceded by Chinese text
+- Insert a space after `]` when followed by text
 
-右側：
-
-[Buff] Active  
-
----
-
-# 5. 數值與單位
-
-造成 100 傷害  
-持續 5 秒  
-10 HP  
-5 sec  
-+10%  
+Do NOT insert spaces when adjacent to punctuation.
 
 ---
 
-# 6. 技能名稱與英文
+### 4. Numbers and Units
 
-使用 Fire Ball  
-啟動 Power Mode  
+Ensure readability:
 
----
+- `100 傷害`
+- `5 秒`
+- `10 HP`
+- `5 sec`
 
-# 7. 行首清理
-
-(技能描述)  
-[Buff] 效果  
-
----
-
-# ✔ PR 檢查清單
-
-- 是否存在全形標點
-- 中英是否有空白
-- 括號是否正確
-- 中括號是否正確
-- 數值是否清楚
-- 行首是否乾淨
-- UI 是否自然
+**Exception**
+- No space before `%` → `+10%`
 
 ---
 
-最後更新：2026-04-13
+### 5. Line Start Normalization
+
+Remove unintended leading spaces before brackets:
+
+- `(text)`
+- `[Buff] text`
+
+---
+
+## ⚠️ Exceptions
+
+Do NOT modify:
+
+- punctuation adjacency (`).`, `],`)
+- already correctly formatted text
+- structured data (e.g., CSV field alignment)
+
+---
+
+## 🧠 Priority Rule
+
+When rules conflict:
+
+> Prioritize **UI readability over strict grammar**
+
+---
+
+## ✔ Review Checklist
+
+- fullwidth punctuation normalized
+- correct CJK–Latin spacing
+- proper parentheses and bracket spacing
+- numbers and units are readable
+- no unintended leading spaces
+- overall UI readability is natural
+
+---
+
+## 🤖 Copilot Instruction Summary
+
+Apply **CJK typography and mixed-text spacing normalization**:
+
+- normalize fullwidth punctuation
+- insert spacing between Chinese and Latin text
+- normalize parentheses and bracket spacing
+- preserve punctuation rules
+- optimize for UI readability
+
+---
+
+Last updated: 2026-04-13
