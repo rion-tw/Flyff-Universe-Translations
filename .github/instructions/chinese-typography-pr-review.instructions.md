@@ -83,7 +83,7 @@ Remove unintended leading spaces before brackets:
 
 Do NOT modify:
 
-- punctuation adjacency (`).`, `],`)
+- punctuation adjacency, for example `).` and `],`
 - already correctly formatted text
 - structured data (e.g., CSV field alignment)
 
