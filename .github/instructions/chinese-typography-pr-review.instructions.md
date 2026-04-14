@@ -74,8 +74,8 @@ Ensure readability:
 
 Remove unintended leading spaces before brackets:
 
-- `(text)`
-- `[Buff] text`
+- ` (text)` → `(text)`
+- ` [Buff] text` → `[Buff] text`
 
 ---
 
