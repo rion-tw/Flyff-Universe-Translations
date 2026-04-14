@@ -20,7 +20,7 @@ This guideline applies **CJK Typography** and **Mixed Text Spacing** to ensure:
 
 ## 🧩 Rules
 
-### 1. Fullwidth → Halfwidth Normalization
+### 1. Fullwidth → Halfwidth Punctuation Normalization
 
 Convert fullwidth punctuation to halfwidth:
 
