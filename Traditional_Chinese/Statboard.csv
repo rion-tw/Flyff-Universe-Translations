@@ -8,14 +8,14 @@ STATBOARD_TXT_000005,Damage Taken,承受傷害
 STATBOARD_TXT_000006,Healing Done,治癒量
 STATBOARD_TXT_000007,Total Kills,總擊殺
 STATBOARD_TXT_000008,Total Deaths,總死亡
-STATBOARD_TXT_000009,Damage Per Death,傷害（每次死亡）
-STATBOARD_TXT_000010,Tanking Per Death,承受傷害（每次死亡）
-STATBOARD_TXT_000011,Healing Per Death,治癒（每次死亡）
-STATBOARD_TXT_000012,Kills Per Death,擊殺（每次死亡）
-STATBOARD_TXT_000013,Damage Per Min,傷害（每分鐘）
-STATBOARD_TXT_000014,Tanking Per Min,承受傷害（每分鐘）
-STATBOARD_TXT_000015,Healing Per Min,治癒（每分鐘）
-STATBOARD_TXT_000016,Deaths Per Min,死亡（每分鐘）
+STATBOARD_TXT_000009,Damage Per Death,傷害 (每次死亡)
+STATBOARD_TXT_000010,Tanking Per Death,承受傷害 (每次死亡)
+STATBOARD_TXT_000011,Healing Per Death,治癒 (每次死亡)
+STATBOARD_TXT_000012,Kills Per Death,擊殺 (每次死亡)
+STATBOARD_TXT_000013,Damage Per Min,傷害 (每分鐘)
+STATBOARD_TXT_000014,Tanking Per Min,承受傷害 (每分鐘)
+STATBOARD_TXT_000015,Healing Per Min,治癒 (每分鐘)
+STATBOARD_TXT_000016,Deaths Per Min,死亡 (每分鐘)
 STATBOARD_TXT_000017,Time Spent CC'd,被群體控制時間
 STATBOARD_TXT_000018,CC's applied,施加群體控制時間
 STATBOARD_TXT_000019,Damage Amped,傷害增強
