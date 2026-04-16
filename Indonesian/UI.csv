@@ -2763,7 +2763,7 @@ UI_TOOLTIP_FREEBLESSING,Demon Blessing,Demon Blessing
 UI_CHARINFO_HOUSING_SLOTS,Pet Inventory Slots,Pet Inventory Slots
 UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,Use Blessing?
 UI_GENERALAWAKE_SOULBIND,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.
-UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.","Resepnya belum sepenuhnya dipahami, jadi hanya satu bahan yang digunakan."
+UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.","Resepnya belum sepenuhnya dipahami, jadi hanya satu dari setiap bahan yang digunakan."
 UI_CHRISTMAS_INVANSION_MISSION,Quest completed,Quest completed
 UI_TELEPORT_ARENA,Exit the arena?,Apakah kamu ingin keluar dari arena?
 UI_NEWYEARPASS_2025,2025 New Year Pass,2025 New Year Pass
