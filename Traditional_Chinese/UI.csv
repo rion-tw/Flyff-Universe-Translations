@@ -2549,27 +2549,27 @@ UI_ULTIMATE_JEWEL_EMERALD,Emerald,翡翠
 UI_ULTIMATE_JEWEL_DIAMOND,Diamond,鑽石
 UI_ULTIMATE_JEWEL_AMETHYST,Amethyst,紫水晶
 UI_ULTIMATE_JEWEL_ONYX,Onyx,縞瑪瑙
-UI_RAINBOW_ULTIMATE_JEWEL_COMPOSE_TITLE,Create Rainbow Ultimate Jewel,Create Rainbow Ultimate Jewel
-UI_RAINBOW_ULTIMATE_JEWEL_INFO,Combine one of each jewel type of the same grade to obtain a Rainbow Jewel of that grade.,Combine one of each jewel type of the same grade to obtain a Rainbow Jewel of that grade.
-UI_RAINBOW_ULITMATE_JEWEL_DISMANTLE_TITLE,Dismantle Rainbow Jewel,Dismantle Rainbow Jewel
-UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_INFO,You can dismantle the Rainbow Jewel to get Ultimate Jewel.,You can dismantle the Rainbow Jewel to get Ultimate Jewel.
+UI_RAINBOW_ULTIMATE_JEWEL_COMPOSE_TITLE,Create Rainbow Ultimate Jewel,製作彩虹終極寶石
+UI_RAINBOW_ULTIMATE_JEWEL_INFO,Combine one of each jewel type of the same grade to obtain a Rainbow Jewel of that grade.,合成同等級的各類寶石各一顆，可獲得該等級的彩虹寶石。
+UI_RAINBOW_ULITMATE_JEWEL_DISMANTLE_TITLE,Dismantle Rainbow Jewel,分解彩虹寶石
+UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_INFO,You can dismantle the Rainbow Jewel to get Ultimate Jewel.,可將彩虹寶石分解為終極寶石。
 UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_NOTICE,"If you fail, you will lose your item.","If you fail, you will lose your item."
-UI_HOUSINGWARDROBE_INFO,Wardrobe items can only be worn by #bone#nb NPC at a time.,Wardrobe items can only be worn by #bone#nb NPC at a time.
+UI_HOUSINGWARDROBE_INFO,Wardrobe items can only be worn by #bone#nb NPC at a time.,衣櫃物品同一時間只能由一名NPC穿戴。
 UI_HOUSINGWARDROBE_CONFIRM,Equip,裝備
 UI_HOUSINGWARDROBE_CONFIRMMESSAGE,The selected NPC will wear the chosen costume item. Only one NPC can wear the same costume item at a time. Proceed?,The selected NPC will wear the chosen costume item. Only one NPC can wear the same costume item at a time. Proceed?
 UI_HOUSINGWARDROBE_USEDBY,Worn by %s,Worn by %s
-UI_HOUSINGWARDROBE_UNEQUIP,Unequip,Unequip
-UI_HOUSINGWARDROBE_MSGBOX_TITLE,Unequip Item?,Unequip Item?
-UI_HOUSINGWARDROBE_MSGBOX_CONFIRM,Unequip this item from the NPC?,Unequip this item from the NPC?
-UI_HOUSINGSETUP_PETS,Pets,Pets
+UI_HOUSINGWARDROBE_UNEQUIP,Unequip,卸下
+UI_HOUSINGWARDROBE_MSGBOX_TITLE,Unequip Item?,是否卸下物品？
+UI_HOUSINGWARDROBE_MSGBOX_CONFIRM,Unequip this item from the NPC?,要從該NPC卸下此物品嗎？
+UI_HOUSINGSETUP_PETS,Pets,寵物
 UI_HOUSING_PETTRAINING_INFO,"You can train Raised Pets in your housing inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc","You can train Raised Pets in your housing inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc"
-UI_PETTRAINING_PET,Pet to Train,Pet to Train
+UI_PETTRAINING_PET,Pet to Train,訓練中的寵物
 UI_PETTRAINING_CANDY,Pet Candy,寵物糖果
-UI_PETTRAINING_INTERVALS,Feeding Interval,Feeding Interval
+UI_PETTRAINING_INTERVALS,Feeding Interval,餵食間隔
 UI_PETTRAINING_CONFIRM,"#bThe selected pet cannot be used while in training. #cffff0000If you stop the training, the pet will be returned.#nb#nc Proceed?","#bThe selected pet cannot be used while in training. #cffff0000If you stop the training, the pet will be returned.#nb#nc Proceed?"
-UI_PETTRAINING_TOTALTRAINING,Total Training Time,Total Training Time
+UI_PETTRAINING_TOTALTRAINING,Total Training Time,總訓練時間
 UI_PETTRAINING_CLAIM,Claim,領取
-UI_PETTRAINING_NEXTCANDY,Next Candy In,Next Candy In
+UI_PETTRAINING_NEXTCANDY,Next Candy In,下一次糖果時間
 UI_PETTRAINING_CANCELTRAINING_HOUSING,You are about to cancel pet training. The pet will be returned to your housing inventory with its current progress. Proceed?,You are about to cancel pet training. The pet will be returned to your housing inventory with its current progress. Proceed?
 UI_PETTRAINING_CANCELTRAINING,You are about to cancel pet training. The pet will be returned to your inventory with its current progress. Proceed?,You are about to cancel pet training. The pet will be returned to your inventory with its current progress. Proceed?
 UI_PETTRAINING_INFO,"You can train Raised Pets in your inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc","You can train Raised Pets in your inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc"
@@ -2579,27 +2579,27 @@ UI_COUPLE_RING_SLOTS,Storage Slots: %d,銀行空間：%d
 UI_COUPLE_MOTION_TITLE,Couple Emotes,情侶表情
 UI_COUPLE_MOTION_REQUEST,Your partner would like to perform the %s emote with you. Accept?,您的伴侶想和您一起做 %s 表情。接受嗎?
 UI_APP_LIFE_TIP,View and manage life skills.,檢視和管理您的生活技能。
-UI_LIFE_GATHERING_TAB,Gathering,Gathering
-UI_LIFE_PRODUCTION_TAB,Production,Production
+UI_LIFE_GATHERING_TAB,Gathering,採集
+UI_LIFE_PRODUCTION_TAB,Production,製作
 UI_LIFE_TITLE,Life,生活
-UI_LIFE_MASTERY_EFFECT,Mastery Details,Mastery Details
-UI_LIFE_IDENTIFIED_HARVESTING,Identified Resources,Identified Resources
-UI_LIFE_HARVESTING_INFORMATION,Resource Information,Resource Information
-UI_LIFE_EXPERTBTN,Set as Expertise,Set as Expertise
+UI_LIFE_MASTERY_EFFECT,Mastery Details,精通詳情
+UI_LIFE_IDENTIFIED_HARVESTING,Identified Resources,已識別資源
+UI_LIFE_HARVESTING_INFORMATION,Resource Information,資源資訊
+UI_LIFE_EXPERTBTN,Set as Expertise,設為專精
 UI_LIFE_MASTERY_EFFECT_DESC,"Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc","Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc"
 UI_LIFE_MASTERY,Mastery,精通
 UI_LIFE_EXPERT_TIME,Change Expertise In: %s,Change Expertise In: %s
 UI_REPAIR_TITLE,Repair,修理
 UI_REPAIR_DESC_DEFAULT,Do you wish to repair %s?\n(%s),Do you wish to repair %s?\n(%s)
 UI_REPAIR_DESC_PERCENT,Do you wish to repair %s?\n(%s%%),Do you wish to repair %s?\n(%s%%)
-UI_LIFE_FISHING_MINIGAME,Minigame,Minigame
-UI_LIFE_FISHING_SKIP_MINIGAME,Auto-Skip Minigame,Auto-Skip Minigame
+UI_LIFE_FISHING_MINIGAME,Minigame,小遊戲
+UI_LIFE_FISHING_SKIP_MINIGAME,Auto-Skip Minigame,自動略過小遊戲
 UI_LIFE_FISHING_SKIP_MINIGAME_AUTO,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?
 UI_LIFE_FISHING_SKIP_MINIGAME_INFORMATION,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?
-UI_LIFE_FISHING_BAIT_SELECTION,Bait Selection,Bait Selection
+UI_LIFE_FISHING_BAIT_SELECTION,Bait Selection,魚餌選擇
 UI_LIFE_FISHING_BAIT_SELECTION_INFORMATION,Select the bait to use for fishing. The selected bait affects the rarity of fish you can catch.,Select the bait you want to use for fishing. The bait you use will change the rarity of fish you can get.
 UI_QUEST_GATHERING_HERB,Gather Herbs #cffc32f07#b%d/%d#nb#nc,Gather Herbs #cffc32f07#b%d/%d#nb#nc
-UI_LIFE_FISHING_GUESS,Guess which bait the fish will bite.,Guess which bait the fish will bite.
+UI_LIFE_FISHING_GUESS,Guess which bait the fish will bite.,猜測魚會咬哪個魚餌。
 UI_LIFE_FISHING_SUCCESS_RATE_INCREASE,Guessing correctly increases your fishing success rate.\n(Current success rate: %.1f%%),Guessing correctly increases your fishing success rate.\n(Current success rate: %.1f%%)
 UI_SEC,%d sec,%d sec
 UI_CONFIRM,Confirm,確認
@@ -2610,16 +2610,16 @@ UI_LIFE_FISHING_NUMBEROF_LARGEFISH_CAUGHT,Number of Trophy Fish Caught:,Number o
 UI_LIFE_FISHING_SUCCESS_RATE,Success Rate:,Success Rate:
 UI_LIFE_FISHING_TIME_FORMAT,%d hrs %d min %d sec,%d hrs %d min %d sec
 UI_TIMES,%d time(s),%d time(s)
-UI_LIFE_FISHING_STATUS,Fishing Status,Fishing Status
-UI_WAITING,Waiting,Waiting
-UI_LIFE_RECIPEBTN,Recipes,Recipes
-UI_LIFE_RECIPES,Recipes,Recipes
-UI_LIFE_RECIPES_CATEGORY,Category,Category
-UI_LIFE_RECIPES_DETAILS,Recipe,Recipe
-UI_LIFE_RECIPES_NOSELECTED,No recipe selected,No recipe selected
+UI_LIFE_FISHING_STATUS,Fishing Status,釣魚狀態
+UI_WAITING,Waiting,等待中
+UI_LIFE_RECIPEBTN,Recipes,配方
+UI_LIFE_RECIPES,Recipes,配方
+UI_LIFE_RECIPES_CATEGORY,Category,分類
+UI_LIFE_RECIPES_DETAILS,Recipe,配方
+UI_LIFE_RECIPES_NOSELECTED,No recipe selected,未選擇配方
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,Required Mastery: %d\nRequired Ingredients:
-UI_LIFE_PRODUCTION_TITLE,Production,Production
+UI_LIFE_PRODUCTION_TITLE,Production,製作
 UI_LIFE_PRODUCTION_SUCCESS_RATE,Success Rate,Success Rate
 UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,Production Time Per Cycle
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Required Mastery: %d\nRequired Title: [%s]
@@ -2685,7 +2685,7 @@ UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,Success Rate:
 UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,Product Upgrade
 UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,Please insert the material items.
 UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1
-UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,Shop Refresh
+UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,商店刷新
 UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?
 UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,Use %s to refresh the shop inventory
 UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,Mastery Rankings
@@ -2711,7 +2711,7 @@ UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rar
 UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ores.,Rock with a unique appearance. Yields Common-Rare ores.
 UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,Rare rock that is difficult to find. Yields Common-Very Rare ores.
 UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,Legendary rock known to few. Yields Rare-Very Rare ores.
-UI_LIFE_PRODUCTION_START,Production Start,Production Start
+UI_LIFE_PRODUCTION_START,Production Start,開始製作
 UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc"
 UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc"
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Mine Ore #cffc32f07#b%d/%d#nb#nc
@@ -2737,7 +2737,7 @@ UI_TOOLTIP_ALCHEMY_SUCCESS_RATE,Alchemy Success Rate,Alchemy Success Rate
 UI_TOOLTIP_COOKING_SUCCESS_RATE,Cooking Success Rate,Cooking Success Rate
 UI_TOOLTIP_CARPENTRY_SUCCESS_RATE,Carpentry Success Rate,Carpentry Success Rate
 UI_TOOLTIP_SMITHING_SUCCESS_RATE,Smithing Success Rate,Smithing Success Rate
-UI_HOUSINGSETUP_GATHERING,Gathering,Gathering
+UI_HOUSINGSETUP_GATHERING,Gathering,採集
 UI_HOUSINGSETUP_NEXTHARVEST,Ready in:,Ready in:
 UI_HOUSINGSETUP_HARVESTREADY,Ready to Harvest,Ready to Harvest
 UI_GACHA_HOUSINGGATHERING,Harvest Cooldown,Harvest Cooldown
@@ -2789,7 +2789,7 @@ UI_EASTER_EGG_MISSION,Gather Easter Eggs,Gather Easter Eggs
 UI_LIFE_MASTERY_CHROMA_ORE,Rock commonly found throughout the world. Yields Common ores.,Rock commonly found throughout the world. Yields Common ores.
 UI_TARGET_HEALTH,Health: ,生命:
 UI_TARGET_PENYA,- Penya: ,- 金幣：
-UI_ACHIEVEMENTS_LIFE_TAB,Life,Life
+UI_ACHIEVEMENTS_LIFE_TAB,Life,生活
 UI_MENU_REFRESH,Refresh,更新
 UI_MENU_MESSAGE,Message,訊息
 UI_MENU_SUMMON,Summon,召喚
@@ -2805,7 +2805,7 @@ UI_MENU_BAN,Ban,Ban
 UI_MENU_BAN_IP,Ban IP,Ban IP
 UI_MENU_KICK_IP,Kick IP,Kick IP
 UI_MENU_MUTE_SHA,Mute Sha,Mute Sha
-UI_APP_INSPECTION,Inspection,Inspection
+UI_APP_INSPECTION,Inspection,檢查
 UI_TARGET_PLAYERS_KILLED,- Players killed: ,- 擊殺玩家數:
 UI_TARGET_PK_VALUE,- PK Value : ,- PK 點數 :
 UI_TARGET_PLAYER_ID,- PlayerID: #,- 玩家 ID: #
