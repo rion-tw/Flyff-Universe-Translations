@@ -255,9 +255,9 @@ UI_TOOLTIP_ATTACKSPEED_RATE,Attack Speed Rate,攻击速率
 UI_TOOLTIP_DST_DMG_GET,Lifesteal,生命偷取
 UI_TOOLTIP_DST_HPDMG_UP,Attack power and HP,攻击力和HP
 UI_TOOLTIP_DST_DEFHIRATE_DOWN,Defense power and accuracy decrease,防御力和命中率降低
-UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,致命突袭几率
-UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,安库的收割
-UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,穆兰的愤怒
+UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,死亡突袭几率
+UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,安库噬魂
+UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,穆兰之怒
 UI_TOOLTIP_LOCOMOTION,Movement,移动
 UI_TOOLTIP_RETURN_USE,Return to your former position.,返回到移动前的位置。
 UI_DISPLAY_BUFFS,Show/hide buffs,显示/隐藏BUFF
@@ -2245,7 +2245,7 @@ UI_KALGAS_ASSAULT_RANK_RANKING,Ranking,排名
 UI_KALGAS_ASSAULT_RANK_TEAM,Team,队伍
 UI_KALGAS_ASSAULT_RANK_NAME,Name,名称
 UI_KALGAS_ASSAULT_RANK_POINT,Point,点数
-UI_TOOLTIP_DST_BOSS_DMG,Boss Monster Damage,首领怪物伤害
+UI_TOOLTIP_DST_BOSS_DMG,Boss Monster Damage,对首领造成伤害
 UI_KALGAS_ASSAULT_KILL_COUNT,Kill Count: %d,击杀数：%d
 UI_KALGAS_ASSAULT_REVIVAL_TITLE,Kalgas Assault Revival,卡尔加斯突袭复活
 UI_KALGAS_ASSAULT_REVIVAL_COUNT,Revive in: %d sec,%d 秒后复活
@@ -3191,7 +3191,7 @@ UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),(定身)
 UI_ACTIVE_SKILLS,Active Skills,主动技能
 UI_PASSIVE_SKILLS,Passive Skills,被动技能
 UI_MASTER_SKILLS,Master Variations,精通变体
-UI_TOOLTIP_BOSSINCOMING_DMG,Boss Incoming Damage,首领来袭伤害
+UI_TOOLTIP_BOSSINCOMING_DMG,Boss Incoming Damage,首领伤害
 UI_TOOLTIP_DMG_TICK,Damage Tick,持续伤害间隔
 UI_TOOLTIP_HP_THRESHOLD,HP Threshold: %d%%,生命值阈值：%d%%
 UI_TOOLTIP_HP_THRESHOLD_NEG,HP Threshold: Below %d%%,生命值阈值：低于 %d%%
