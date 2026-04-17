@@ -1531,17 +1531,17 @@ PROPQUEST_INC_110219,The $QUEST_END_KILL_NAME$ has been spotted on the second fl
 PROPQUEST_INC_110220,The $QUEST_END_KILL_NAME$ has been spotted on the third floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 被發現在被遺忘之塔的三樓。
 PROPQUEST_INC_110221,The $QUEST_END_KILL_NAME$ has been spotted on the fourth floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 在被遺忘之塔的四樓被發現。
 PROPQUEST_INC_110222,The $QUEST_END_KILL_NAME$ has been spotted on the fifth floor of the Forsaken Tower.,$QUEST_END_KILL_NAME$ 被發現在被遺忘之塔的五樓。
-PROPQUEST_INC_110223,Clockworks War (Medium),Clockworks War (Medium)
+PROPQUEST_INC_110223,Clockworks War (Medium),時空毀滅者之戰 (中等)
 PROPQUEST_INC_110224,Clockworks War (Hard),時空毀滅者之戰 (困難)
-PROPQUEST_INC_110225,Meteonyker,Meteonyker
-PROPQUEST_INC_110226,Meteonyker (Medium),Meteonyker (Medium)
+PROPQUEST_INC_110225,Meteonyker,地炎飛龍
+PROPQUEST_INC_110226,Meteonyker (Medium),地炎飛龍 (中等)
 PROPQUEST_INC_110227,Meteonyker (Hard),地炎飛龍 (困難)
-PROPQUEST_INC_110228,Forsaken Tower Daily Quests,Forsaken Tower Daily Quests
-PROPQUEST_INC_110229,Dungeon Card Reward,Dungeon Card Reward
-PROPQUEST_INC_110230,Weapon Piercing Box (D),Weapon Piercing Box (D)
-PROPQUEST_INC_110231,Weapon Piercing Box (C),Weapon Piercing Box (C)
-PROPQUEST_INC_110232,Weapon Piercing Box (B),Weapon Piercing Box (B)
-PROPQUEST_INC_110233,Weapon Piercing Box (A),Weapon Piercing Box (A)
+PROPQUEST_INC_110228,Forsaken Tower Daily Quests,遺忘之塔每日任務
+PROPQUEST_INC_110229,Dungeon Card Reward,副本卡片獎勵
+PROPQUEST_INC_110230,Weapon Piercing Box (D),武器穿孔箱 (D)
+PROPQUEST_INC_110231,Weapon Piercing Box (C),武器穿孔箱 (C)
+PROPQUEST_INC_110232,Weapon Piercing Box (B),武器穿孔箱 (B)
+PROPQUEST_INC_110233,Weapon Piercing Box (A),武器穿孔箱 (A)
 PROPQUEST_INC_110234,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 5 dungeon bosses, and return to me once you are done?","Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 5 dungeon bosses, and return to me once you are done?"
 PROPQUEST_INC_110235,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 20 dungeon bosses on Hard or higher difficulty, and return to me once you are done?","Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 20 dungeon bosses on Hard or higher difficulty, and return to me once you are done?"
 PROPQUEST_INC_110236,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 35 dungeon bosses on Extra Hard or higher difficulty, and return to me once you are done?","Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 35 dungeon bosses on Extra Hard or higher difficulty, and return to me once you are done?"
@@ -1557,8 +1557,8 @@ PROPQUEST_INC_110245,Collect souls from 5 dungeon bosses on any difficulty.,Coll
 PROPQUEST_INC_110246,Collect souls from 20 dungeon bosses on Hard or higher difficulty.,Collect souls from 20 dungeon bosses on Hard or higher difficulty.
 PROPQUEST_INC_110247,Collect souls from 35 dungeon bosses on Extra Hard or higher difficulty.,Collect souls from 35 dungeon bosses on Extra Hard or higher difficulty.
 PROPQUEST_INC_110248,Collect souls from 50 dungeon bosses on Nightmare difficulty.,Collect souls from 50 dungeon bosses on Nightmare difficulty.
-PROPQUEST_INC_110249,Daily Quests,Daily Quests
-PROPQUEST_INC_110250,Saving Private Leo,Saving Private Leo
+PROPQUEST_INC_110249,Daily Quests,每日任務
+PROPQUEST_INC_110250,Saving Private Leo,拯救列奧士兵
 PROPQUEST_INC_110251,Private Leo has been trapped in the dungeon and sent an SOS sign!\nPlease save Private Leo!,Private Leo has been trapped in the dungeon and sent an SOS sign!\nPlease save Private Leo!
 PROPQUEST_INC_110252,Private Leo seems to be injured so please hurry!,Private Leo seems to be injured so please hurry!
 PROPQUEST_INC_110253,"I have misjudged you! I’ll look for another person, now begone!","I have misjudged you! I’ll look for another person, now begone!"
@@ -1584,9 +1584,9 @@ PROPQUEST_INC_110272,You're not curious? You must not be too hot...,You're not c
 PROPQUEST_INC_110273,Here you go! Hurry up and try it before it melts!,Here you go! Hurry up and try it before it melts!
 PROPQUEST_INC_110274,Oh why are you so late? Your ice already melted and it can't be used...,Oh why are you so late? Your ice already melted and it can't be used...
 PROPQUEST_INC_110275,"Are you still collecting?\nIf the ice melts, we can't make the shaved ice so hurry up!","Are you still collecting?\nIf the ice melts, we can't make the shaved ice so hurry up!"
-PROPQUEST_INC_110276,Defeat the monsters before the ice metls and return to Sotta\n(Can redo the quest if failed),Defeat the monsters before the ice metls and return to Sotta\n(Can redo the quest if failed)
-PROPQUEST_INC_130000,Coral Island,Coral Island
-PROPQUEST_INC_130001,Clouds Over Coral Island,Clouds Over Coral Island
+PROPQUEST_INC_110276,Defeat the monsters before the ice metls and return to Sotta\n(Can redo the quest if failed),Defeat the monsters before the ice metls and return to Sotta\n (Can redo the quest if failed)
+PROPQUEST_INC_130000,Coral Island,珊瑚島
+PROPQUEST_INC_130001,Clouds Over Coral Island,籠罩珊瑚島的雲霧
 PROPQUEST_INC_130002,"Hero, the clouds over the island to the southeast have finally cleared!","Hero, the clouds over the island to the southeast have finally cleared!"
 PROPQUEST_INC_130003,For the longest time we have been unable to travel to the famed Coral Island. I wonder who or what caused the clouds to dissipate?,For the longest time we have been unable to travel to the famed Coral Island. I wonder who or what caused the clouds to dissipate?
 PROPQUEST_INC_130004,"Regardless of the reason, perhaps you should go pay a visit to the island and see what's new. ","Regardless of the reason, perhaps you should go pay a visit to the island and see what's new. "
@@ -1594,7 +1594,7 @@ PROPQUEST_INC_130005,Many years ago a skilled blacksmith from Darken City named 
 PROPQUEST_INC_130006,"I understand hero, Coral Island has been uncharted territory for many years... Come back to me if you change your mind.","I understand hero, Coral Island has been uncharted territory for many years... Come back to me if you change your mind."
 PROPQUEST_INC_130007,"Hello there traveler, I didn't expect to see one of you so soon after the clouds around Coral Island were lifted...","Hello there traveler, I didn't expect to see one of you so soon after the clouds around Coral Island were lifted..."
 PROPQUEST_INC_130008,Go seek out Coral Island and see if BoBu managed to survive.,Go seek out Coral Island and see if BoBu managed to survive.
-PROPQUEST_INC_130009,Find Your Bearings,Find Your Bearings
+PROPQUEST_INC_130009,Find Your Bearings,熟悉環境
 PROPQUEST_INC_130010,"Long ago I sailed into the mist that surrounded this island, hoping to discover something new and untouched in the land of Madrigal.","Long ago I sailed into the mist that surrounded this island, hoping to discover something new and untouched in the land of Madrigal."
 PROPQUEST_INC_130011,"I found Coral Island nestled deep into the clouds, but something kept me from ever leaving.","I found Coral Island nestled deep into the clouds, but something kept me from ever leaving."
 PROPQUEST_INC_130012,The mist that covered the island held some magic that prevented those who arrived from escaping.,The mist that covered the island held some magic that prevented those who arrived from escaping.
@@ -1602,7 +1602,7 @@ PROPQUEST_INC_130013,"With Coral Island open to all, we may begin seeing more tr
 PROPQUEST_INC_130014,"Take your time, the island has a lot to offer. Come back to me when you are ready.","Take your time, the island has a lot to offer. Come back to me when you are ready."
 PROPQUEST_INC_130015,"Wow, it's a real adventure! It's been so long since we've had anyone come visit Coral Island. I wasn't sure this day would ever come!","Wow, it's a real adventure! It's been so long since we've had anyone come visit Coral Island. I wasn't sure this day would ever come!"
 PROPQUEST_INC_130016,Introduce yourself to Sunny Pang.,Introduce yourself to Sunny Pang.
-PROPQUEST_INC_130017,An Island Shrouded in Mystery,An Island Shrouded in Mystery
+PROPQUEST_INC_130017,An Island Shrouded in Mystery,被謎團籠罩的島嶼
 PROPQUEST_INC_130018,Those who call Coral Island their home have been unable to explore the world due to a curse placed on the island many years ago.,Those who call Coral Island their home have been unable to explore the world due to a curse placed on the island many years ago.
 PROPQUEST_INC_130019,The cause of the cursed mist that has kept the Coral Island inhabitants trapped is unknown.,The cause of the cursed mist that has kept the Coral Island inhabitants trapped is unknown.
 PROPQUEST_INC_130020,"However with the mist cleared from around the island, we can finally welcome fresh new faces to help us defend our small village!","However with the mist cleared from around the island, we can finally welcome fresh new faces to help us defend our small village!"
@@ -1611,7 +1611,7 @@ PROPQUEST_INC_130022,We didn't expect everyone that arrived to be strong enough 
 PROPQUEST_INC_130023,I am impressed! Atrox are dangerous beasts known to cut down most creatures that approach them. You have proven yourself.,I am impressed! Atrox are dangerous beasts known to cut down most creatures that approach them. You have proven yourself.
 PROPQUEST_INC_130024,"Atrox are dangerous foes, you'll need to successfully defeat more of them to prove yourself to me.","Atrox are dangerous foes, you'll need to successfully defeat more of them to prove yourself to me."
 PROPQUEST_INC_130025,"Defeat 200 of any kind of Atrox, then return to Sunny Pang.","Defeat 200 of any kind of Atrox, then return to Sunny Pang."
-PROPQUEST_INC_130026,Clear the Paths,Clear the Paths
+PROPQUEST_INC_130026,Clear the Paths,清理道路
 PROPQUEST_INC_130027,Word has been going around the village about a strong new visitor that can hold their own against the ferocities of Coral Island.,Word has been going around the village about a strong new visitor that can hold their own against the ferocities of Coral Island.
 PROPQUEST_INC_130028,"The number of Tigars on the island have exploded recently, and we're not sure why. It's hardly safe to walk along the paths of Coral Island anymore.","The number of Tigars on the island have exploded recently, and we're not sure why. It's hardly safe to walk along the paths of Coral Island anymore."
 PROPQUEST_INC_130029,"If you are willing to help us, go hunt enough Tigars to keep our paths safe for a while. Around 300 should do.","If you are willing to help us, go hunt enough Tigars to keep our paths safe for a while. Around 300 should do."
@@ -1619,7 +1619,7 @@ PROPQUEST_INC_130030,Perhaps no one is powerful enough to defeat the Tigars.,Per
 PROPQUEST_INC_130031,"Incredible, thank you for your efforts! We can safely travel around the land paths of the island again.","Incredible, thank you for your efforts! We can safely travel around the land paths of the island again."
 PROPQUEST_INC_130032,"Tigars hide in the grass, waiting to strike their prey. In just one NaNosecond they pounce to attack.","Tigars hide in the grass, waiting to strike their prey. In just one NaNosecond they pounce to attack."
 PROPQUEST_INC_130033,"Defeat 300 of any kind of Tigar, then return to Talus.","Defeat 300 of any kind of Tigar, then return to Talus."
-PROPQUEST_INC_130034,Pirates and Their Pet,Pirates and Their Pet
+PROPQUEST_INC_130034,Pirates and Their Pet,海盜與他們的寵物
 PROPQUEST_INC_130035,"Your reputation continues to grow in our little village, hero!","Your reputation continues to grow in our little village, hero!"
 PROPQUEST_INC_130036,The Meral pirates of Coral Island have managed to tame a Lord Tigar. Those thieves have threatened to come rob and destroy our homes.,The Meral pirates of Coral Island have managed to tame a Lord Tigar. Those thieves have threatened to come rob and destroy our homes.
 PROPQUEST_INC_130037,Defeat the pirates and their gigantic pet before they destroy everything we've built!,Defeat the pirates and their gigantic pet before they destroy everything we've built!
@@ -1627,7 +1627,7 @@ PROPQUEST_INC_130038,I wouldn't want to be eaten by a Lord Tigar either. Underst
 PROPQUEST_INC_130039,"I knew you could do it, hero! For now we can rest, knowing that our village is safe from the Meral pirates and their Lord Tigar!","I knew you could do it, hero! For now we can rest, knowing that our village is safe from the Meral pirates and their Lord Tigar!"
 PROPQUEST_INC_130040,Merals and their pet Tigar are terribly powerful. You'll need to be strong to defeat them.,Merals and their pet Tigar are terribly powerful. You'll need to be strong to defeat them.
 PROPQUEST_INC_130041,"Collect 30 Pristine Pirate Lens from any kind of Meral, and a Gigantic Feline Fang from a Lord Tigar.","Collect 30 Pristine Pirate Lens from any kind of Meral, and a Gigantic Feline Fang from a Lord Tigar."
-PROPQUEST_INC_130042,King of the Pirates!,King of the Pirates!
+PROPQUEST_INC_130042,King of the Pirates!,海盜之王！
 PROPQUEST_INC_130043,"Woaw, welcome to Coral Island hero! Let me tell you a story of legend, if you don't mind.","Woaw, welcome to Coral Island hero! Let me tell you a story of legend, if you don't mind."
 PROPQUEST_INC_130044,"Long ago, a huge Meral was once blessed by Shade. The Meral grew twisted and grotesque, but filled with dark power.","Long ago, a huge Meral was once blessed by Shade. The Meral grew twisted and grotesque, but filled with dark power."
 PROPQUEST_INC_130045,"Soon the Overlord Meral became the King of the Pirates of Coral Island, ruling with an iron hook.","Soon the Overlord Meral became the King of the Pirates of Coral Island, ruling with an iron hook."
@@ -1638,7 +1638,7 @@ PROPQUEST_INC_130049,It seems this one piece of stone is filled with purple magi
 PROPQUEST_INC_130050,"Fufufu, the only thing that bothers me is that there is legend of a second piece of magic stone hidden on this island. Maybe one day the two of us will discover where it's hiding!","Fufufu, the only thing that bothers me is that there is legend of a second piece of magic stone hidden on this island. Maybe one day the two of us will discover where it's hiding!"
 PROPQUEST_INC_130051,"To find out if the legend is true, you'll need to defeat the Overlord Meral.","To find out if the legend is true, you'll need to defeat the Overlord Meral."
 PROPQUEST_INC_130052,Defeat the Overlord Meral to collect the Purple Pirate Insignia.,Defeat the Overlord Meral to collect the Purple Pirate Insignia.
-PROPQUEST_INC_130053,Island Delicacies,Island Delicacies
+PROPQUEST_INC_130053,Island Delicacies,島嶼珍饈
 PROPQUEST_INC_130054,"Ha! You have really made a name for yourself here on Coral Island, hero. Everyone has told me of the amazing feats you've accomplished.","Ha! You have really made a name for yourself here on Coral Island, hero. Everyone has told me of the amazing feats you've accomplished."
 PROPQUEST_INC_130055,"If you want to prove yourself further, help us defeat the legion of Naga that have taken over the island.","If you want to prove yourself further, help us defeat the legion of Naga that have taken over the island."
 PROPQUEST_INC_130056,"To safely take on the Naga, first you'll need to gather bait made of their favorite foods. You can make bait from any type of Kingster or Creper! Meet up with Pau Pau and he'll prepare everything.",為了安全地對付那迦，首先你需要收集他們最喜歡的食物製成的誘餌。 您可以用任何類型的金斯特或克雷普製作魚餌！ 與包包會面，他會準備好一切。
@@ -1646,7 +1646,7 @@ PROPQUEST_INC_130057,"Everyone's adventure comes to a close one day. That's alri
 PROPQUEST_INC_130058,"Woaw, nice job hero! We can make plenty of bait with all this to lower the guard of the Naga! For now, take a rest. We'll make a plan of attack later.","Woaw, nice job hero! We can make plenty of bait with all this to lower the guard of the Naga! For now, take a rest. We'll make a plan of attack later."
 PROPQUEST_INC_130059,Keep fighting Kingster or Creper until you've found enough bait.,繼續與金斯特或克雷普戰鬥，直到找到足夠的誘餌。
 PROPQUEST_INC_130060,Defeat any kind of Kingster or Creper until you've made 200 Island Bait.,擊敗任何種類的金斯特或克雷普，直到製作 200 個島嶼魚餌。
-PROPQUEST_INC_130061,Lizard People,Lizard People
+PROPQUEST_INC_130061,Lizard People,蜥蜴人
 PROPQUEST_INC_130062,I hope you're feeling rested after making all that bait with Pau Pau!,我希望您在用包包製作了所有誘餌後感到要休息了！
 PROPQUEST_INC_130063,It's time to go on the offensive and take down as many of the Naga as we can.,It's time to go on the offensive and take down as many of the Naga as we can.
 PROPQUEST_INC_130064,"Okay hero, go out there and defeat the Naga before they come eat us!","Okay hero, go out there and defeat the Naga before they come eat us!"
@@ -1655,7 +1655,7 @@ PROPQUEST_INC_130066,"Incredible! Truly amazing! You've conquered the Naga, and 
 PROPQUEST_INC_130067,Hopefully soon our village can sleep without keeping one eye open.,Hopefully soon our village can sleep without keeping one eye open.
 PROPQUEST_INC_130068,Keep going! You need to defeat more Naga.,Keep going! You need to defeat more Naga.
 PROPQUEST_INC_130069,"Collect evidence of defeating at least 1000 Small Naga, Naga, or Captain Naga. After that, defeat the Lord Naga and Overlord Naga.","Collect evidence of defeating at least 1000 Small Naga, Naga, or Captain Naga. After that, defeat the Lord Naga and Overlord Naga."
-PROPQUEST_INC_130070,Mission Improbable,Mission Improbable
+PROPQUEST_INC_130070,Mission Improbable,不可能的任務
 PROPQUEST_INC_130071,"Hahaha! I cannot thank you enough for all that you have done for our village, hero! Only the most powerful of masquerpets remain a threat to our village now.","Hahaha! I cannot thank you enough for all that you have done for our village, hero! Only the most powerful of masquerpets remain a threat to our village now."
 PROPQUEST_INC_130072,"We rarely see the Dorian and Okean creatures approach the village. However with so many other Island evils defeated, I fear they may leave their lair to take advantage of the situation!",我們很少看到多利安和奧肯怪物接近村莊。 然而，隨著如此多的島嶼邪惡勢力被擊敗，我擔心他們可能會離開巢穴來乘虛而入！
 PROPQUEST_INC_130073,Go seek out where the Dorian and Okean live. We'll need as much information as we can get if we expect to defeat them!,去尋找多利安人和奧肯人居住的地方。 如果我們想要擊敗他們，我們需要更多的資訊！
@@ -1663,7 +1663,7 @@ PROPQUEST_INC_130074,What!? You can't possibly be scared of a few more masquerpe
 PROPQUEST_INC_130075,"Well done, hero! With this information we have a chance to defeat the Dorian and Okean before they can attack!",作得好，英雄！ 有了這些信息，我們就有機會在多利安人和奧肯人進攻之前擊敗他們！
 PROPQUEST_INC_130076,"Keep searching, the Dorian and Okean make their homes in the waters of Coral Island.",繼續尋找，多利安人和奧肯人在珊瑚島的水域安了家。
 PROPQUEST_INC_130077,Search for where the Dorian and Okean live.,尋找多利安人和奧肯人居住的地方。
-PROPQUEST_INC_130078,Surprise Attack!,Surprise Attack!
+PROPQUEST_INC_130078,Surprise Attack!,奇襲！
 PROPQUEST_INC_130079,HOOWAH! I'm trembling with excitement!,HOOWAH! I'm trembling with excitement!
 PROPQUEST_INC_130080,"With the information you've brought back, our village has a real chance to take down the Dorian and Okean before they get to us!",有了你帶回來的信息，我們村莊就有機會在多利安人和奧肯人到達我們面前之前幹掉他們！
 PROPQUEST_INC_130081,"Go ahead and defeat as many Dorian and Okean as you can find, including their leaders! We trust you to take down the leaders, we'll be helping with the smaller ones in the back.",繼續吧，擊敗更多的多利安和奧肯，包括他們的頭目！ 我們相信你能打倒頭目，我們會幫助後面的較小的怪物。
@@ -1671,7 +1671,7 @@ PROPQUEST_INC_130082,If we wait too much longer the Dorian and Okean will attack
 PROPQUEST_INC_130083,"It's been done, hero. We've defeated the Dorian and Okean, and can now rest easy.",已經完成了，英雄。 我們已經擊敗了多利安人和奧肯人，現在可以高枕無憂了。
 PROPQUEST_INC_130084,We're doomed... without your help we will never defeat the Dorian and Okean in time!,We're doomed... without your help we will never defeat the Dorian and Okean in time!
 PROPQUEST_INC_130085,"Collect trophies from any defeated Dorian and Okean, and defeat at least one Lord or Overlord of each!","Collect trophies from any defeated Dorian and Okean, and defeat at least one Lord or Overlord of each!"
-PROPQUEST_INC_130086,Inky Darkness,Inky Darkness
+PROPQUEST_INC_130086,Inky Darkness,墨色黑暗
 PROPQUEST_INC_130087,"I hope you are ready for our final challenge hero... According to legend, once every few hundred years the Sea King will release spawn onto Coral Island.","I hope you are ready for our final challenge hero... According to legend, once every few hundred years the Sea King will release spawn onto Coral Island."
 PROPQUEST_INC_130088,"A strange darkness has began to fill the waters of Coral Island, so it seems as if the legend is true.","A strange darkness has began to fill the waters of Coral Island, so it seems as if the legend is true."
 PROPQUEST_INC_130089,Please help us stave off the spawn of the Sea King!,Please help us stave off the spawn of the Sea King!
@@ -1680,7 +1680,7 @@ PROPQUEST_INC_130091,"Soon the inky darkness will overflow Coral Island, and we 
 PROPQUEST_INC_130092,"Hohoho! You really do have a mysterious power within you, don't you hero?","Hohoho! You really do have a mysterious power within you, don't you hero?"
 PROPQUEST_INC_130093,Will we become faceless like those that failed before us?,Will we become faceless like those that failed before us?
 PROPQUEST_INC_130094,Defeat 500 of any type of Kraken.,Defeat 500 of any type of Kraken.
-PROPQUEST_INC_130095,The Sea King Returns,The Sea King Returns
+PROPQUEST_INC_130095,The Sea King Returns,海王歸來
 PROPQUEST_INC_130096,The great Sea King of Coral Island has finally returned to wreck havoc upon the land.,The great Sea King of Coral Island has finally returned to wreck havoc upon the land.
 PROPQUEST_INC_130097,The locals told me that getting near the beast could cause mortals to lose their mind...,The locals told me that getting near the beast could cause mortals to lose their mind...
 PROPQUEST_INC_130098,"This battle will take all the strength we can muster. If you make it out alive, go back to Darken City, and let the mayor know about all that happened here.","This battle will take all the strength we can muster. If you make it out alive, go back to Darken City, and let the mayor know about all that happened here."
@@ -1689,81 +1689,81 @@ PROPQUEST_INC_130100,Those who lose their mind to the Sea King are said to becom
 PROPQUEST_INC_130101,"Welcome back from Coral Island, hero! And what a story to tell, it's true that Coral Island is a fascinating place.","Welcome back from Coral Island, hero! And what a story to tell, it's true that Coral Island is a fascinating place."
 PROPQUEST_INC_130102,BoBu and the Coral Island villagers sent something by mail for you as a way to say thanks. Perhaps they were too shy to give it to you themselves!,BoBu and the Coral Island villagers sent something by mail for you as a way to say thanks. Perhaps they were too shy to give it to you themselves!
 PROPQUEST_INC_130103,The Sea King consumes all who look into the void.,The Sea King consumes all who look into the void.
-PROPQUEST_INC_130104,Ultimate Crafting,Ultimate Crafting
-PROPQUEST_INC_130105,Orbs of Power,Orbs of Power
+PROPQUEST_INC_130104,Ultimate Crafting,終極製作
+PROPQUEST_INC_130105,Orbs of Power,力量寶珠
 PROPQUEST_INC_130106,"Your arrival has come at a critical time, hero. Bring me Ultima, and in return I shall grant you the key to ultimate power.","Your arrival has come at a critical time, hero. Bring me Ultima, and in return I shall grant you the key to ultimate power."
 PROPQUEST_INC_130107,"Collect Ultima from the giant creatures that live on Coral Island, or from chests of plunder deep in The Wilds.","Collect Ultima from the giant creatures that live on Coral Island, or from chests of plunder deep in The Wilds."
 PROPQUEST_INC_130108,Without Ultima I cannot grant the ultimate power you seek.,Without Ultima I cannot grant the ultimate power you seek.
 PROPQUEST_INC_130109,"Well done, hero... I bestow upon you the power of the Ultimate Orb. Combine this with Shining Oricalkum and obtain ultimate power!","Well done, hero... I bestow upon you the power of the Ultimate Orb. Combine this with Shining Oricalkum and obtain ultimate power!"
 PROPQUEST_INC_130110,I need more Ultima to complete the ritual.,I need more Ultima to complete the ritual.
 PROPQUEST_INC_130111,Collect ten Ultima from the giants of Coral Island and treasure chests in The Wilds.,Collect ten Ultima from the giants of Coral Island and treasure chests in The Wilds.
-PROPQUEST_INC_132000,New Hero,New Hero
+PROPQUEST_INC_132000,New Hero,新的英雄
 PROPQUEST_INC_132001,"Your will and ability have proven you to be a master in both thought and deed. Now that you've shown your true strength, it is time for your final task.","Your will and ability have proven you to be a master in both thought and deed. Now that you've shown your true strength, it is time for your final task."
 PROPQUEST_INC_132002,I need you to reach level 125 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$. Only a real Hero can do that!,I need you to reach level 125 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$. Only a real Hero can do that!
 PROPQUEST_INC_132003,Reach level 125 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$.,Reach level 125 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$.
-PROPQUEST_INC_132004,New Year's Hunt,New Year's Hunt
+PROPQUEST_INC_132004,New Year's Hunt,新年狩獵
 PROPQUEST_INC_132005,"Celebrating 2024, let's hunt 2024 monsters!\nWhat do you say?""","Celebrating 2024, let's hunt 2024 monsters!\nWhat do you say?"""
 PROPQUEST_INC_132006,"""Great! I know you'll make it for sure!\nHere's to a new year full of adventures in 2024!!!""","""Great! I know you'll make it for sure!\nHere's to a new year full of adventures in 2024!!!"""
 PROPQUEST_INC_132007,"""It's a shame, because I've got the best New Year's gift ever…""","""It's a shame, because I've got the best New Year's gift ever…"""
 PROPQUEST_INC_132008,"""You've done great~ Here's your New Year's gift~\nLet's see how lucky you are this year!!!""","""You've done great~ Here's your New Year's gift~\nLet's see how lucky you are this year!!!"""
 PROPQUEST_INC_132009,"""Are you still a long way off? We're running out of time! Please hurry up!""","""Are you still a long way off? We're running out of time! Please hurry up!"""
 PROPQUEST_INC_132010,Defeat the monsters and return to Auxilior.,Defeat the monsters and return to Auxilior.
-PROPQUEST_INC_132011,Collecting Candy Shells,Collecting Candy Shells
+PROPQUEST_INC_132011,Collecting Candy Shells,收集糖果碎殼
 PROPQUEST_INC_132012,Madrigal is being polluted by discarded candy shells everywhere!! We need your help!!,Madrigal is being polluted by discarded candy shells everywhere!! We need your help!!
 PROPQUEST_INC_132013,Thank you so much!! I won't forget your help!!,Thank you so much!! I won't forget your help!!
 PROPQUEST_INC_132014,"I have a special gift for you, but it's a shame...","I have a special gift for you, but it's a shame..."
 PROPQUEST_INC_132015,I'm so proud to see Madrigal cleaned up~!,I'm so proud to see Madrigal cleaned up~!
 PROPQUEST_INC_132016,Hang in there!!,Hang in there!!
 PROPQUEST_INC_132017,Collect the candy shells and return to Auxilior.,Collect the candy shells and return to Auxilior.
-PROPQUEST_INC_132018,Spring Monster Ball,Spring Monster Ball
+PROPQUEST_INC_132018,Spring Monster Ball,春季怪物球
 PROPQUEST_INC_132019,Hello Adventurer! Would you like to take a suggestion about hunting a stronger monster?,Hello Adventurer! Would you like to take a suggestion about hunting a stronger monster?
 PROPQUEST_INC_132020,Great! Show me what you can do first!,Great! Show me what you can do first!
 PROPQUEST_INC_132021,"That's too bad, please join us next time!","That's too bad, please join us next time!"
 PROPQUEST_INC_132022,Thank you. Here is your Monster Ball. Please be cautious!\nNo one knows what kind of powerful monster will come out.,Thank you. Here is your Monster Ball. Please be cautious!\nNo one knows what kind of powerful monster will come out.
 PROPQUEST_INC_132023,Are we there yet? We don't have much time.,Are we there yet? We don't have much time.
 PROPQUEST_INC_132024,Complete all 3 missions.,Complete all 3 missions.
-PROPQUEST_INC_132025,Couple Ring Hunt,Couple Ring Hunt
+PROPQUEST_INC_132025,Couple Ring Hunt,情侶戒指狩獵
 PROPQUEST_INC_132026,"If you bring me the coupling, I will give you something really good. Go get it.","If you bring me the coupling, I will give you something really good. Go get it."
 PROPQUEST_INC_132027,"Thanks for granting my request. I've heard through the grapevine that there's been a lot of frauds playing with fake couple rings lately, so you'd better be careful.","Thanks for granting my request. I've heard through the grapevine that there's been a lot of frauds playing with fake couple rings lately, so you'd better be careful."
 PROPQUEST_INC_132028,"What? Where in the world is such a couple ring? So you're saying I'm lying? If you don't believe me, get off!","What? Where in the world is such a couple ring? So you're saying I'm lying? If you don't believe me, get off!"
 PROPQUEST_INC_132029,"Did you manage to get the couple ring already? This is a fake! Didn't I warn you not to get scammed. But I'm giving it to you for your efforts, so take it.","Did you manage to get the couple ring already? This is a fake! Didn't I warn you not to get scammed. But I'm giving it to you for your efforts, so take it."
 PROPQUEST_INC_132030,"Still haven't found the coupling? Hmm...well, that could be... I mean, where would a legendary couple ring be so easy to find?","Still haven't found the coupling? Hmm...well, that could be... I mean, where would a legendary couple ring be so easy to find?"
 PROPQUEST_INC_132031,Hunt the monsters and gather couple rings!,Hunt the monsters and gather couple rings!
-PROPQUEST_INC_132050,Roll your dice,Roll your dice
+PROPQUEST_INC_132050,Roll your dice,擲出你的骰子
 PROPQUEST_INC_132051,Complete all missions.,Complete all missions.
-PROPQUEST_INC_140003,Couple Daily Quests,Couple Daily Quests
+PROPQUEST_INC_140003,Couple Daily Quests,情侶每日任務
 PROPQUEST_INC_132033,Hunt the monsters and gather couple rings!,Hunt the monsters and gather couple rings!
 PROPQUEST_INC_132034,"I'm so glad to see how in love you are. Go collect $QUEST_END_ITEM_NAME$ from the Nyangnyangs in northern Flaris, then return to me.","I'm so glad to see how in love you are. Go collect $QUEST_END_ITEM_NAME$ from the Nyangnyangs in northern Flaris, then return to me."
 PROPQUEST_INC_132035,I can feel these charms emitting love waves. Soon everyone will know how special your love is!,I can feel these charms emitting love waves. Soon everyone will know how special your love is!
 PROPQUEST_INC_132036,"I'm sorry, were you unable to find the $QUEST_END_ITEM_NAME$? Perhaps they only appear for those truly in love.","I'm sorry, were you unable to find the $QUEST_END_ITEM_NAME$? Perhaps they only appear for those truly in love."
 PROPQUEST_INC_132037,Bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$ back to me to prove the strength of your love!,Bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$ back to me to prove the strength of your love!
-PROPQUEST_INC_132038,Kill Demian Thieves,Kill Demian Thieves
+PROPQUEST_INC_132038,Kill Demian Thieves,擊敗迪米安盜賊
 PROPQUEST_INC_132039,"Welcome! Another request has come in to clear out $QUEST_END_KILL_NAME$. Could you please work together to defeat the $QUEST_END_KILL_NAME$, and return to me once you are done?","Welcome! Another request has come in to clear out $QUEST_END_KILL_NAME$. Could you please work together to defeat the $QUEST_END_KILL_NAME$, and return to me once you are done?"
 PROPQUEST_INC_132040,The $QUEST_END_KILL_NAME$ has been spotted somewhere in Madrigal. Check your map for hints for where they may be hiding!,The $QUEST_END_KILL_NAME$ has been spotted somewhere in Madrigal. Check your map for hints for where they may be hiding!
 PROPQUEST_INC_132041,"The power of your love have vanquished the $QUEST_END_KILL_NAME$ threat, thank you!","The power of your love have vanquished the $QUEST_END_KILL_NAME$ threat, thank you!"
 PROPQUEST_INC_132042,Were you unable to find and defeat $QUEST_END_KILL_NAME$ yet? Track them down to prove your love is true!,Were you unable to find and defeat $QUEST_END_KILL_NAME$ yet? Track them down to prove your love is true!
-PROPQUEST_INC_132043,Find Love Fish,Find Love Fish
+PROPQUEST_INC_132043,Find Love Fish,尋找愛情魚
 PROPQUEST_INC_132044,Have you heard of the legendary $QUEST_END_ITEM_NAME$? Legend has it that lovers who obtain the $QUEST_END_ITEM_NAME$ will be together forever.,Have you heard of the legendary $QUEST_END_ITEM_NAME$? Legend has it that lovers who obtain the $QUEST_END_ITEM_NAME$ will be together forever.
 PROPQUEST_INC_132045,Wonderful! The $QUEST_END_ITEM_NAME$ is said to swim near Zaoma's Refuge in the middle of the Leren Mountains.,Wonderful! The $QUEST_END_ITEM_NAME$ is said to swim near Zaoma's Refuge in the middle of the Leren Mountains.
 PROPQUEST_INC_132046,You've found the $QUEST_END_ITEM_NAME$! Surely your love will be blessed to last forever.,You've found the $QUEST_END_ITEM_NAME$! Surely your love will be blessed to last forever.
 PROPQUEST_INC_132047,"I don't see the $QUEST_END_ITEM_NAME$. If you have trouble finding it, search near Zaoma in the Leren Mountains.","I don't see the $QUEST_END_ITEM_NAME$. If you have trouble finding it, search near Zaoma in the Leren Mountains."
 PROPQUEST_INC_132048,Bring $QUEST_END_ITEM_NAME$ back to me to prove the strength of your love!,Bring $QUEST_END_ITEM_NAME$ back to me to prove the strength of your love!
-PROPQUEST_INC_132049,Kill Giggle Boxes,Kill Giggle Boxes
-PROPQUEST_INC_132084,Kill Trangfoma,Kill Trangfoma
-PROPQUEST_INC_132085,Kill Doridoma,Kill Doridoma
-PROPQUEST_INC_132052,Kill Scorpicon,Kill Scorpicon
-PROPQUEST_INC_132053,Kill Tombstone Bearer,Kill Tombstone Bearer
-PROPQUEST_INC_132054,Kill Cardpuppets,Kill Cardpuppets
-PROPQUEST_INC_132055,Kill Steam Walkers,Kill Steam Walkers
-PROPQUEST_INC_132056,Kill Nutty Wheels,Kill Nutty Wheels
-PROPQUEST_INC_132057,Kill Fefern,Kill Fefern
-PROPQUEST_INC_132058,Kill Wagsaac,Kill Wagsaac
-PROPQUEST_INC_132059,Kill Prankster,Kill Prankster
-PROPQUEST_INC_132060,Collect Whispering Leaves from Risem,Collect Whispering Leaves from Risem
+PROPQUEST_INC_132049,Kill Giggle Boxes,擊敗笑笑箱
+PROPQUEST_INC_132084,Kill Trangfoma,擊敗特蘭格弗瑪
+PROPQUEST_INC_132085,Kill Doridoma,擊敗多利多瑪
+PROPQUEST_INC_132052,Kill Scorpicon,擊敗蠍尾獅
+PROPQUEST_INC_132053,Kill Tombstone Bearer,擊敗墓碑搬運者
+PROPQUEST_INC_132054,Kill Cardpuppets,擊敗卡片木偶
+PROPQUEST_INC_132055,Kill Steam Walkers,擊敗蒸汽機甲
+PROPQUEST_INC_132056,Kill Nutty Wheels,擊敗瘋輪
+PROPQUEST_INC_132057,Kill Fefern,擊敗菲菲恩
+PROPQUEST_INC_132058,Kill Wagsaac,擊敗瓦格薩克
+PROPQUEST_INC_132059,Kill Prankster,擊敗惡作劇者
+PROPQUEST_INC_132060,Collect Whispering Leaves from Risem,從里森收集低語樹葉
 PROPQUEST_INC_132061,"In their spare time, Risems collect leaves that whisper sweet nothings. Spread love around Madrigal by bringing these $QUEST_END_ITEM_NAME$ back to me!","In their spare time, Risems collect leaves that whisper sweet nothings. Spread love around Madrigal by bringing these $QUEST_END_ITEM_NAME$ back to me!"
 PROPQUEST_INC_132062,"I'm so glad to see how in love you are. Go collect $QUEST_END_ITEM_NAME$ from the Risems in Darken, then return to me.","I'm so glad to see how in love you are. Go collect $QUEST_END_ITEM_NAME$ from the Risems in Darken, then return to me."
 PROPQUEST_INC_132063,Can you hear the leaves speak? Soon everyone will know how special your love is!,Can you hear the leaves speak? Soon everyone will know how special your love is!
-PROPQUEST_INC_132064,A Date on Mars!,A Date on Mars!
+PROPQUEST_INC_132064,A Date on Mars!,火星約會！
 PROPQUEST_INC_132065,What could be more romantic than frolicking near the Bangs of Northern Flaris? A picnic outside of Mars Mine sounds outstanding!,What could be more romantic than frolicking near the Bangs of Northern Flaris? A picnic outside of Mars Mine sounds outstanding!
 PROPQUEST_INC_132066,"Wonderful, then the date is set. Enjoy your time sightseeing at the Mars Mine!","Wonderful, then the date is set. Enjoy your time sightseeing at the Mars Mine!"
 PROPQUEST_INC_132067,"Not a fan of Bangs? Well, there's always the Nyangnyangs.","Not a fan of Bangs? Well, there's always the Nyangnyangs."
@@ -1773,54 +1773,54 @@ PROPQUEST_INC_132070,Go on a romantic date outside the entrance of Mars Mine!,Go
 PROPQUEST_INC_140000,"Welcome! Another request has come in to clear out $QUEST_END_KILL_NAME$. Could you please slay the $QUEST_END_KILL_NAME$, and return to me once you are done?","Welcome! Another request has come in to clear out $QUEST_END_KILL_NAME$. Could you please slay the $QUEST_END_KILL_NAME$, and return to me once you are done?"
 PROPQUEST_INC_140001,The $QUEST_END_KILL_NAME$ has been spotted somewhere in Madrigal.,The $QUEST_END_KILL_NAME$ has been spotted somewhere in Madrigal.
 PROPQUEST_INC_140002,Some days we don't feel productive. I understand.,Some days we don't feel productive. I understand.
-PROPQUEST_INC_132071,Collect Rainbow Flowers,Collect Rainbow Flowers
+PROPQUEST_INC_132071,Collect Rainbow Flowers,收集彩虹花
 PROPQUEST_INC_132072,"Welcome! We require flowers blessed by lovers. Could you please collect Rainbow Flowers, and return to me once you are done?","Welcome! We require flowers blessed by lovers. Could you please collect Rainbow Flowers, and return to me once you are done?"
 PROPQUEST_INC_132073,Wonderful! The rare flowers grow near the large tree in Saint Morning where no one flies.,Wonderful! The rare flowers grow near the large tree in Saint Morning where no one flies.
 PROPQUEST_INC_132074,These flowers are perfect. With your help I can now bless all of Madrigal with love!,These flowers are perfect. With your help I can now bless all of Madrigal with love!
 PROPQUEST_INC_132075,"Oh no, that's not right. The flowers are in Saint Morning. If you get lost, remember to check your map!","Oh no, that's not right. The flowers are in Saint Morning. If you get lost, remember to check your map!"
 PROPQUEST_INC_132076,"Head to the Plateau of Silence in Saint Morning, and retrieve the Wild Rainbow Flowers.","Head to the Plateau of Silence in Saint Morning, and retrieve the Wild Rainbow Flowers."
-PROPQUEST_INC_132077,Collect Heart Charms from Nyangnyang,Collect Heart Charms from Nyangnyang
+PROPQUEST_INC_132077,Collect Heart Charms from Nyangnyang,從喵喵收集愛心護符
 PROPQUEST_INC_132078,"Nyangnyangs possess charms bursting with the power of love. With a few of these charms, you can show Madrigal how strong your love is!","Nyangnyangs possess charms bursting with the power of love. With a few of these charms, you can show Madrigal how strong your love is!"
-PROPQUEST_INC_132079,The Mystery of the Shady Eye,The Mystery of the Shady Eye
-PROPQUEST_INC_132080,The Mystery of the Shady Eye (2),The Mystery of the Shady Eye (2)
-PROPQUEST_INC_132081,The Cursed Wing of Destiny,The Cursed Wing of Destiny
-PROPQUEST_INC_132082,The Cursed Wing of Destiny (2),The Cursed Wing of Destiny (2)
+PROPQUEST_INC_132079,The Mystery of the Shady Eye,暗影之眼的謎團
+PROPQUEST_INC_132080,The Mystery of the Shady Eye (2),暗影之眼的謎團 (2)
+PROPQUEST_INC_132081,The Cursed Wing of Destiny,被詛咒的命運之翼
+PROPQUEST_INC_132082,The Cursed Wing of Destiny (2),被詛咒的命運之翼 (2)
 PROPQUEST_INC_132083,The $QUEST_END_KILL_NAME$ has been spotted on the sixth floor of the Forsaken Tower.,The $QUEST_END_KILL_NAME$ has been spotted on the sixth floor of the Forsaken Tower.
 PROPQUEST_INC_132086,The $QUEST_END_KILL_NAME$ has been spotted on the seventh floor of the Forsaken Tower.,The $QUEST_END_KILL_NAME$ has been spotted on the seventh floor of the Forsaken Tower.
-PROPQUEST_INC_132087,Disarming the Maleficars,Disarming the Maleficars
-PROPQUEST_INC_132088,Disarming the Maleficars (2),Disarming the Maleficars (2)
-PROPQUEST_INC_132089,Stealing gems from the cursed guardian,Stealing gems from the cursed guardian
-PROPQUEST_INC_132090,Stealing gems from the cursed guardian (2),Stealing gems from the cursed guardian (2)
-PROPQUEST_INC_110277,Herbology Class,Herbology Class
+PROPQUEST_INC_132087,Disarming the Maleficars,解除瑪勒菲卡爾的武裝
+PROPQUEST_INC_132088,Disarming the Maleficars (2),解除瑪勒菲卡爾的武裝 (2)
+PROPQUEST_INC_132089,Stealing gems from the cursed guardian,從被詛咒的守護者手中奪取寶石
+PROPQUEST_INC_132090,Stealing gems from the cursed guardian (2),從被詛咒的守護者手中奪取寶石 (2)
+PROPQUEST_INC_110277,Herbology Class,草藥學課程
 PROPQUEST_INC_110278,You can gather herbs with a hoe. Want to learn how to gather herbs?,You can gather herbs with a hoe. Want to learn how to gather herbs?
 PROPQUEST_INC_110279,"Good. Then go out into the field and try to gather some. It will be a great help, whether you succeed or not.","Good. Then go out into the field and try to gather some. It will be a great help, whether you succeed or not."
 PROPQUEST_INC_110280,"There you go. It's easier than you think, isn't it? Just remember, the most important thing is to do 'a lot'.","There you go. It's easier than you think, isn't it? Just remember, the most important thing is to do 'a lot'."
-PROPQUEST_INC_110281,Woodcutting Class,Woodcutting Class
+PROPQUEST_INC_110281,Woodcutting Class,伐木課程
 PROPQUEST_INC_110282,You can chop trees with an axe. Would you like to learn woodcutting?,You can chop trees with an axe. Would you like to learn woodcutting?
 PROPQUEST_INC_110283,"Good. Then go out into the field and chop some. It will be a great help, whether you succeed or not.","Good. Then go out into the field and chop some. It will be a great help, whether you succeed or not."
-PROPQUEST_INC_110284,Mining Class,Mining Class
+PROPQUEST_INC_110284,Mining Class,採礦課程
 PROPQUEST_INC_110285,You can dig up ores with a pickaxe. Would you like to learn mining?,You can dig up ores with a pickaxe. Would you like to learn mining?
 PROPQUEST_INC_110286,"Good. Then go out into the field and try to dig some. It will be a great help, whether you succeed or not.","Good. Then go out into the field and try to dig some. It will be a great help, whether you succeed or not."
-PROPQUEST_INC_110287,Fishing Class,Fishing Class
+PROPQUEST_INC_110287,Fishing Class,釣魚課程
 PROPQUEST_INC_110288,"Once you get to know thrill of fishing, it's hard to get away from it. What do you say, learn?","Once you get to know thrill of fishing, it's hard to get away from it. What do you say, learn?"
 PROPQUEST_INC_110289,"Good. Then go to the nearest river and try fishing. Whether you succeed or fail, it'll help you a lot.","Good. Then go to the nearest river and try fishing. Whether you succeed or fail, it'll help you a lot."
-PROPQUEST_INC_110290,Alchemy Class,Alchemy Class
+PROPQUEST_INC_110290,Alchemy Class,煉金課程
 PROPQUEST_INC_110291,"Once you learn the alchemy, you can brew your own buff potion to carry with. Want to learn?","Once you learn the alchemy, you can brew your own buff potion to carry with. Want to learn?"
 PROPQUEST_INC_110292,Good. Try anything on the caldron nearby. Caldron is near the magic shop.,Good. Try anything on the caldron nearby. Caldron is near the magic shop.
-PROPQUEST_INC_110293,Cooking Class,Cooking Class
+PROPQUEST_INC_110293,Cooking Class,烹飪課程
 PROPQUEST_INC_110294,Food is the basic of survival. Why don't you cook on your own?,Food is the basic of survival. Why don't you cook on your own?
 PROPQUEST_INC_110295,Good. Try anything on the oven nearby. Oven is near the food shop.,Good. Try anything on the oven nearby. Oven is near the food shop.
-PROPQUEST_INC_110296,Carpentry Class,Carpentry Class
+PROPQUEST_INC_110296,Carpentry Class,木工課程
 PROPQUEST_INC_110297,You can make furniture out of wood. Would you like to learn carpenting?,You can make furniture out of wood. Would you like to learn carpenting?
 PROPQUEST_INC_110298,"Okay, try anything on the woodcutting tools nearby. The woodcutting tools are near the Housing Manager.","Okay, try anything on the woodcutting tools nearby. The woodcutting tools are near the Housing Manager."
-PROPQUEST_INC_110299,Smithing Class,Smithing Class
+PROPQUEST_INC_110299,Smithing Class,鍛造課程
 PROPQUEST_INC_110300,You can make furniture out of wood. Would you like to learn carpenting?,You can make furniture out of wood. Would you like to learn carpenting?
 PROPQUEST_INC_110301,"Okay, try anything at the nearest crafting tool. The tools are near the jewelry.","Okay, try anything at the nearest crafting tool. The tools are near the jewelry."
-PROPQUEST_INC_132091,Destroy the pumpkins 1,Destroy the pumpkins 1
+PROPQUEST_INC_132091,Destroy the pumpkins 1,摧毀南瓜 1
 PROPQUEST_INC_132092,Complete the mission.,Complete the mission.
-PROPQUEST_INC_132093,Destroy the pumpkins 2,Destroy the pumpkins 2
+PROPQUEST_INC_132093,Destroy the pumpkins 2,摧毀南瓜 2
 PROPQUEST_INC_132094,Complete the mission.,Complete the mission.
-PROPQUEST_INC_132095,Thanksgiving Turkey,Thanksgiving Turkey
+PROPQUEST_INC_132095,Thanksgiving Turkey,感恩節火雞
 PROPQUEST_INC_132096,Help the mayor cook his turkey for thanksgiving.\nHunt monsters (Lv. -10 to Lv. +10 from your level) to earn [Event] Turkeys.,Help the mayor cook his turkey for thanksgiving.\nHunt monsters (Lv. -10 to Lv. +10 from your level) to earn [Event] Turkeys.
 PROPQUEST_INC_132097,"Hello, adventurer! I'm planning to cook a turkey for the village. Do you have a moment to help?","Hello, adventurer! I'm planning to cook a turkey for the village. Do you have a moment to help?"
 PROPQUEST_INC_132098,"Great! Actually, I tried to cook it myself, but while I left the ingredients outside, monsters stole them all! Can you help me get them back?","Great! Actually, I tried to cook it myself, but while I left the ingredients outside, monsters stole them all! Can you help me get them back?"
@@ -1835,13 +1835,13 @@ PROPQUEST_INC_110306,Try anything on the caldron nearby. Caldron is near the mag
 PROPQUEST_INC_110307,Try anything on the oven nearby. Oven is near the food shop.,Try anything on the oven nearby. Oven is near the food shop.
 PROPQUEST_INC_110308,Try anything on the woodcutting tools nearby. The woodcutting tools are near the Housing Manager.,Try anything on the woodcutting tools nearby. The woodcutting tools are near the Housing Manager.
 PROPQUEST_INC_110309,Try anything at the nearest crafting tool. The tools are near the jewelry.,Try anything at the nearest crafting tool. The tools are near the jewelry.
-PROPQUEST_INC_110310,Hero Grade (2),Hero Grade (2)
+PROPQUEST_INC_110310,Hero Grade (2),英雄等級 (2)
 PROPQUEST_INC_110311,I need you to reach level 140 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$. Only a real Hero can do that!,I need you to reach level 140 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$. Only a real Hero can do that!
 PROPQUEST_INC_110312,Reach level 140 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$.,Reach level 140 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$.
-PROPQUEST_INC_110313,Hero Grade (3),Hero Grade (3)
+PROPQUEST_INC_110313,Hero Grade (3),英雄等級 (3)
 PROPQUEST_INC_110314,I need you to reach level 160 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$. Only a real Hero can do that!,I need you to reach level 160 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$. Only a real Hero can do that!
 PROPQUEST_INC_110315,Reach level 160 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$.,Reach level 160 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$.
-PROPQUEST_INC_110316,Rumble from the Depths,Rumble from the Depths
+PROPQUEST_INC_110316,Rumble from the Depths,深淵的震響
 PROPQUEST_INC_110317,(H-Hiii…!) T-tremors... w-waves... taller than a Clockworks... (Gulp) A... a deafening noise... Wh-what’s going on?!,(H-Hiii…!) T-tremors... w-waves... taller than a Clockworks... (Gulp) A... a deafening noise... Wh-what’s going on?!
 PROPQUEST_INC_132103,What?! You’re not aware??! But where have you been?! Honestly… We can never count on you to keep an eye on our precious world…,What?! You’re not aware??! But where have you been?! Honestly… We can never count on you to keep an eye on our precious world…
 PROPQUEST_INC_132104,"Well… listen. It doesn’t matter, I’ll need you. I have no idea what happened, or even where exactly… (hesitation) But I feel like the deafening noise came from the Krakens side.","Well… listen. It doesn’t matter, I’ll need you. I have no idea what happened, or even where exactly… (hesitation) But I feel like the deafening noise came from the Krakens side."
@@ -1851,7 +1851,7 @@ PROPQUEST_INC_132107,"Ah! Finally, someone reliable! I knew I could count on you
 PROPQUEST_INC_132108,"What?! You’re not going?! Really… We can’t count on anyone… Fine, do as you wish, but remember that this world needs protectors, not cowards. And don’t come complaining if things get worse without you!","What?! You’re not going?! Really… We can’t count on anyone… Fine, do as you wish, but remember that this world needs protectors, not cowards. And don’t come complaining if things get worse without you!"
 PROPQUEST_INC_132109,Starfish… coral… and all kinds of little sea things coming together to form… a portal?! This is insane… How could this be possible?!,Starfish… coral… and all kinds of little sea things coming together to form… a portal?! This is insane… How could this be possible?!
 PROPQUEST_INC_132110,"You’re back already? But… don’t tell me you haven’t checked out the source of that noise yet! We need to know what’s happening on the Krakens side. Go on, get moving! The world’s not going to protect itself, you know!","You’re back already? But… don’t tell me you haven’t checked out the source of that noise yet! We need to know what’s happening on the Krakens side. Go on, get moving! The world’s not going to protect itself, you know!"
-PROPQUEST_INC_132111,Magic water stone of Herneos,Magic water stone of Herneos
+PROPQUEST_INC_132111,Magic water stone of Herneos,赫尼奧斯的魔法水石
 PROPQUEST_INC_132112,"Hmm… If what you’re telling me is true, it would correspond to a well-known legend of Madrigal… Once upon a time, in the Old World, Herneos was a prosperous city where everyone dreamed of living, a true underwater paradise with magnificent architecture.","Hmm… If what you’re telling me is true, it would correspond to a well-known legend of Madrigal… Once upon a time, in the Old World, Herneos was a prosperous city where everyone dreamed of living, a true underwater paradise with magnificent architecture."
 PROPQUEST_INC_132113,"But one day, Shade pierced the glass bubble that protected Herneos from the depths of the ocean, and the city sank… along with its inhabitants. Since then, despite numerous searches, we have never found this lost city. But if you’re telling me a portal has opened…","But one day, Shade pierced the glass bubble that protected Herneos from the depths of the ocean, and the city sank… along with its inhabitants. Since then, despite numerous searches, we have never found this lost city. But if you’re telling me a portal has opened…"
 PROPQUEST_INC_132114,"I’m afraid Shade has finally found a way to return to the city of Herneos… For what purpose? I have no idea, but we need to ensure it is indeed the city of Herneos…","I’m afraid Shade has finally found a way to return to the city of Herneos… For what purpose? I have no idea, but we need to ensure it is indeed the city of Herneos…"
@@ -1860,7 +1860,7 @@ PROPQUEST_INC_132116,"Ah, thank you! I knew you’d understand the urgency. If t
 PROPQUEST_INC_132117,"What?! You’re not interested in helping with this? You don’t understand this isn’t just some small errand! Herneos could be the key to untold mysteries… and maybe even threats. But fine, if you can’t be bothered, I’ll just have to find someone else…","What?! You’re not interested in helping with this? You don’t understand this isn’t just some small errand! Herneos could be the key to untold mysteries… and maybe even threats. But fine, if you can’t be bothered, I’ll just have to find someone else…"
 PROPQUEST_INC_132118,"Ah, you've returned with the magical water stone! Thank you! I'll begin the analysis right away to confirm its origin.","Ah, you've returned with the magical water stone! Thank you! I'll begin the analysis right away to confirm its origin."
 PROPQUEST_INC_132119,"Back so soon? You don’t have the magical water stone yet? We’re counting on that stone to prove if it’s truly from Herneos. Shade’s power might be stronger than we thought, so time is crucial. Please, return as soon as you have it!","Back so soon? You don’t have the magical water stone yet? We’re counting on that stone to prove if it’s truly from Herneos. Shade’s power might be stronger than we thought, so time is crucial. Please, return as soon as you have it!"
-PROPQUEST_INC_132120,Under Shade's Command,Under Shade's Command
+PROPQUEST_INC_132120,Under Shade's Command,Shade 的支配之下
 PROPQUEST_INC_132121,"What?! Monsters? Whole hordes?! Listen… Shade must already be at work, and if she’s there, she won’t waste any time.","What?! Monsters? Whole hordes?! Listen… Shade must already be at work, and if she’s there, she won’t waste any time."
 PROPQUEST_INC_132122,"I’ll need you to return there. Observe, fight, assess their strengths… If these creatures are really under Shade’s control, we need to know what awaits us.","I’ll need you to return there. Observe, fight, assess their strengths… If these creatures are really under Shade’s control, we need to know what awaits us."
 PROPQUEST_INC_132123,"When you’ve dealt with the monsters, return to see Dr. Estly. He should have finished the analysis of the water by then, and we’ll finally know if this submerged city is indeed Herneos…","When you’ve dealt with the monsters, return to see Dr. Estly. He should have finished the analysis of the water by then, and we’ll finally know if this submerged city is indeed Herneos…"
@@ -1869,14 +1869,14 @@ PROPQUEST_INC_132125,"Excellent! I knew I could count on you. The creatures unde
 PROPQUEST_INC_132126,"What?! You’re refusing?! Don’t you see how serious this is? Shade’s forces won’t stop they’ll only get stronger if we ignore them. Fine, if you’re not willing to help, I’ll find someone who is up to the challenge. But don’t forget you might regret standing by if Shade succeeds.","What?! You’re refusing?! Don’t you see how serious this is? Shade’s forces won’t stop they’ll only get stronger if we ignore them. Fine, if you’re not willing to help, I’ll find someone who is up to the challenge. But don’t forget you might regret standing by if Shade succeeds."
 PROPQUEST_INC_132127,"You’re back again? But… have you not dealt with those monsters yet? We need to know what we’re up against! Shade’s forces are growing stronger every moment you delay. Go back and finish the job! Time is of the essence, and the fate of Herneos depends on it!","You’re back again? But… have you not dealt with those monsters yet? We need to know what we’re up against! Shade’s forces are growing stronger every moment you delay. Go back and finish the job! Time is of the essence, and the fate of Herneos depends on it!"
 PROPQUEST_INC_132128,You did it! I knew you could handle those monsters! Thank you for stepping up when we needed it the most.,You did it! I knew you could handle those monsters! Thank you for stepping up when we needed it the most.
-PROPQUEST_INC_132129,Seeking the Truth of Herneos,Seeking the Truth of Herneos
+PROPQUEST_INC_132129,Seeking the Truth of Herneos,追尋赫尼奧斯的真相
 PROPQUEST_INC_132130,I’m afraid I don’t have the knowledge necessary to interpret the results correctly.,I’m afraid I don’t have the knowledge necessary to interpret the results correctly.
 PROPQUEST_INC_132131,"Listen, take this sample and bring it to Martinyc the historian of Flarine. Only she has the archives and the skills to compare and tell you what’s going on! If this water is really connected to Herneos, she’ll know.","Listen, take this sample and bring it to Martinyc the historian of Flarine. Only she has the archives and the skills to compare and tell you what’s going on! If this water is really connected to Herneos, she’ll know."
 PROPQUEST_INC_132132,Take the analysis result to Martinyc the historian of Flarine,Take the analysis result to Martinyc the historian of Flarine
 PROPQUEST_INC_132133,"Thank you! I knew you’d understand the importance of this. Martinyc is our best hope for interpreting these results. Take the sample to her right away, and let’s hope she can shed some light on this mystery! The fate of Herneos could depend on it!","Thank you! I knew you’d understand the importance of this. Martinyc is our best hope for interpreting these results. Take the sample to her right away, and let’s hope she can shed some light on this mystery! The fate of Herneos could depend on it!"
 PROPQUEST_INC_132134,"What? You’re turning this down? This is vital information that could unlock the secrets of Herneos! If you won’t help now, I don’t know what we’ll do. Fine, but don’t forget that knowledge is power, and you might regret passing on this opportunity!","What? You’re turning this down? This is vital information that could unlock the secrets of Herneos! If you won’t help now, I don’t know what we’ll do. Fine, but don’t forget that knowledge is power, and you might regret passing on this opportunity!"
 PROPQUEST_INC_132135,"You’re back? But… have you not delivered the sample to Martinyc yet? We need her expertise to understand what the analysis reveals! Time is running out, and if this water is connected to Herneos, we need to act quickly. Go now, before it’s too late!","You’re back? But… have you not delivered the sample to Martinyc yet? We need her expertise to understand what the analysis reveals! Time is running out, and if this water is connected to Herneos, we need to act quickly. Go now, before it’s too late!"
-PROPQUEST_INC_132136,Trophies from the Depths,Trophies from the Depths
+PROPQUEST_INC_132136,Trophies from the Depths,來自深淵的戰利品
 PROPQUEST_INC_132137,"Hello, who are you?... Oh, you must be the adventurer Estly told me about! Nice to meet you. How can I assist you?","Hello, who are you?... Oh, you must be the adventurer Estly told me about! Nice to meet you. How can I assist you?"
 PROPQUEST_INC_132138,"Oh, you want me to interpret the results of this analysis to check, using the archives, if this water is indeed from the city of Herneos?","Oh, you want me to interpret the results of this analysis to check, using the archives, if this water is indeed from the city of Herneos?"
 PROPQUEST_INC_132139,"(Smirking) But nothing comes for free, you know! I heard there are all-new monsters, never seen before, over there…","(Smirking) But nothing comes for free, you know! I heard there are all-new monsters, never seen before, over there…"
@@ -1938,7 +1938,7 @@ PROPQUEST_INC_132194,"Really? You’re choosing not to follow up on this? Dr. Es
 PROPQUEST_INC_132195,"You haven’t visited Dr. Estly yet? The analysis of the water might hold crucial answers about Herneos! Time is ticking, and we need that information to understand what Shade might be planning. Please, head to him as soon as possible.","You haven’t visited Dr. Estly yet? The analysis of the water might hold crucial answers about Herneos! Time is ticking, and we need that information to understand what Shade might be planning. Please, head to him as soon as possible."
 PROPQUEST_INC_132196,"The analysis is complete, but... (annoyed look)","The analysis is complete, but... (annoyed look)"
 PROPQUEST_INC_132197,"It’s time to return to Dr. Estly. The analysis should be complete by now, and with it, we might finally learn the truth about Herneos. Head back to her as soon as you can!","It’s time to return to Dr. Estly. The analysis should be complete by now, and with it, we might finally learn the truth about Herneos. Head back to her as soon as you can!"
-PROPQUEST_INC_132198,A rumor says a great reward awaits you... Go speak to the mayor of Flarine!    ,A rumor says a great reward awaits you... Go speak to the mayor of Flarine!    
+PROPQUEST_INC_132198,A rumor says a great reward awaits you... Go speak to the mayor of Flarine!    ,A rumor says a great reward awaits you... Go speak to the mayor of Flarine! 
 PROPQUEST_INC_132199,That's awesome! Hurry and go see the mayor!,That's awesome! Hurry and go see the mayor!
 PROPQUEST_INC_132200,"What do you mean, no?! You've already done everything.. You just need to claim your reward from the mayor of Flarine!","What do you mean, no?! You've already done everything.. You just need to claim your reward from the mayor of Flarine!"
 PROPQUEST_INC_132201,"Do you think you could bring me a magical water stone from there? With an analysis of the stone, we can confirm if it truly originates from Herneos, as magical water stones can only be found in that legendary city.","Do you think you could bring me a magical water stone from there? With an analysis of the stone, we can confirm if it truly originates from Herneos, as magical water stones can only be found in that legendary city."
