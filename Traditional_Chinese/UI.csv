@@ -2515,16 +2515,16 @@ UI_UPGRADE_ULTIMATE_JEWEL_INFO,"※ Insert an Ultimate Jewel Gemstone for a chan
 UI_COUPLE_PROPOSAL,Couple Proposal,情侶求婚
 UI_COUPLE_PROPOSAL_TEXT,%s is proposing to you! Accept their proposal request and become a couple?,%s 向您求婚了！接受他的求婚，成為一對情侶吧?
 UI_COUPLE_RING_REPLACE,Ring Replacement,戒指更換
-UI_COUPLE_RING_REPLACE_TEXT,Your partner is proposing to change the ring to the following ring. Accept?,您的伴侶提議把戒指換成下面這枚戒指。您接受嗎?
-UI_COUPLE_PARTNER_OFFLINE,Your partner must be online.,您的伴侶必須在線上。
+UI_COUPLE_RING_REPLACE_TEXT,Your partner is proposing to change the ring to the following ring. Accept?,您的情侶提議把戒指換成下面這枚戒指。您接受嗎?
+UI_COUPLE_PARTNER_OFFLINE,Your partner must be online.,您的情侶必須在線上。
 UI_COUPLE_BREAKUP_DEADLINE,Break up response deadline: %s,分手回覆截止日期：%s
 UI_COUPLE_BREAKUP_NOTI,Break up notification time: %s,分手通知時間：%s
 UI_COUPLE_NEXTEXP_TIME,Next Couple EXP: %s,下一次情侶經驗值：%s
-UI_COUPLE_NEXTEXP_OFFLINE,No Passive EXP (Partner Offline),無被動經驗值 (伴侶離線)
+UI_COUPLE_NEXTEXP_OFFLINE,No Passive EXP (Partner Offline),無被動經驗值 (情侶離線)
 UI_COUPLE_BREAKUP,Break Up,分手
 UI_COUPLE_BREAKUP_FORCE,Break Up (F),分手 (F)
 UI_COUPLE_TELEPORT,Teleport,傳送
-UI_COUPLE_TELEPORT_TEXT,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.,想傳送到伴侶所在位置嗎? 如果伴侶位於無法到達的區域，則無法進行傳送。
+UI_COUPLE_TELEPORT_TEXT,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.,想傳送到情侶所在位置嗎? 如果情侶位於無法到達的區域，則無法進行傳送。
 UI_COUPLE_CHEER,Cheer,鼓勵
 UI_COUPLE_FORM_DATE,Established On,結婚日期
 UI_COUPLE_STORAGE_AVAIL,Available Storage Slots,可用的情侶銀行大小
@@ -2533,10 +2533,10 @@ UI_COUPLE_MAX_CHEERS,Maximum Daily Cheers,每日鼓勵次數上限
 UI_COUPLE_MAX_POINTS,Maximum Couple Points,最大情侶點數
 UI_COUPLE_TOTAL_QUESTS,Couple Quests Completed,情侶任務已完成
 UI_COUPLE_SINGLE,You are single.,您是單身。
-UI_COUPLE_TABPARTNER,Partner,伴侶
-UI_COUPLE_BREAKUP_TEXT,"If you break up with your partner, all items in couple storage will be permanently lost, and couple functions will no longer be available. Proceed?",如果您與伴侶分手，情侶銀行中的所有物品將永久消失，情侶功能也將無法使用。是否繼續?
+UI_COUPLE_TABPARTNER,Partner,情侶
+UI_COUPLE_BREAKUP_TEXT,"If you break up with your partner, all items in couple storage will be permanently lost, and couple functions will no longer be available. Proceed?",如果您與情侶分手，情侶銀行中的所有物品將永久消失，情侶功能也將無法使用。是否繼續?
 UI_COUPLE_BREAKUP_FORCE_TEXT,"Forcing a breakup will permanently delete all items in couple storage, and couple functions will no longer be available. Proceed?",強制分手會永久刪除情侶銀行中的所有物品，情侶功能也將無法使用。是否繼續?
-UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a breakup. If you accept, all items in couple storage will be permanently lost, and you will no longer have access to couple functions. Accept?",您的伴侶提出了分手要求。如果您接受，情侶銀行中的所有物品將永久消失，情侶功能也將無法使用。接受嗎?
+UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a breakup. If you accept, all items in couple storage will be permanently lost, and you will no longer have access to couple functions. Accept?",您的情侶提出了分手要求。如果您接受，情侶銀行中的所有物品將永久消失，情侶功能也將無法使用。接受嗎?
 UI_COUPLE_PROPOSE,Propose,求婚
 UI_COUPLE_PROPOSE_INFO,Send a couple proposal using the inserted couple ring.,使用情侶戒指提出求婚訊息。
 UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,要求情侶等級：%d
@@ -2577,7 +2577,7 @@ UI_COUPLE_RING_TP,Teleports: %d,傳送次數：%d
 UI_COUPLE_RING_CHEER,Cheers: %d,鼓勵次數：%d
 UI_COUPLE_RING_SLOTS,Storage Slots: %d,銀行空間：%d
 UI_COUPLE_MOTION_TITLE,Couple Emotes,情侶表情
-UI_COUPLE_MOTION_REQUEST,Your partner would like to perform the %s emote with you. Accept?,您的伴侶想和您一起做 %s 表情。接受嗎?
+UI_COUPLE_MOTION_REQUEST,Your partner would like to perform the %s emote with you. Accept?,您的情侶想和您一起做 %s 表情。接受嗎?
 UI_APP_LIFE_TIP,View and manage life skills.,檢視和管理您的生活技能。
 UI_LIFE_GATHERING_TAB,Gathering,採集
 UI_LIFE_PRODUCTION_TAB,Production,製作
