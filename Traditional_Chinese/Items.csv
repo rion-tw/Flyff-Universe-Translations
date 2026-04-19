@@ -22405,7 +22405,7 @@ PROPITEM_TXT_134799,"Received at random from ""Secret Letter"". Faintly marked w
 PROPITEM_TXT_134800,Undamaged Letter,未損壞的信
 PROPITEM_TXT_134801,"Received at random from ""Secret Letter"". Can replace other alphabet items.",從「密信」中隨機收到。可以替換其他字母項目。
 PROPITEM_TXT_134802,[Event] Revolution Supply Box A,[活動] 革命補給箱 A
-PROPITEM_TXT_134803,"This is the final reward of the Revolutionary Secret Journal event!\nYou can obtain: Revolutionary Random Box x2, Blessing of the Goddess x1, Amplification ES Scroll Select Box x1.",這是革命祕密手札活動的最終獎勵！\n可獲得：革命隨機箱 x2、女神祝福 x1、經驗加成卷軸自選箱 x1。
+PROPITEM_TXT_134803,"This is the final reward of the Revolutionary Secret Journal event!\nYou can obtain: Revolutionary Random Box x2, Blessing of the Goddess x1, Amplification ES Scroll Select Box x1.",這是革命祕密手札活動的最終獎勵！\n可獲得：革命隨機箱 x2、女神祝福 x1、經驗加成卷軸 ES 選擇箱 x1。
 PROPITEM_TXT_134804,[Event] Revolution Supply Box B,[活動] 革命補給箱 B
 PROPITEM_TXT_134805,"This is the second reward of the Revolutionary Secret Journal event!\nYou can obtain: Feed Bag (1 Day) x1, Potion Box x1, Scroll of General Shop x1, Wandering Merchant Refresh Ticket x5.",這是革命祕密手札活動的第二階段獎勵！\n可獲得：飼料袋 (1 天) x1、藥水箱 x1、一般商店卷軸 x1、流浪商人刷新券 x5。
 PROPITEM_TXT_134806,[Event] Revolution Supply Box C,[活動] 革命補給箱 C
@@ -24802,7 +24802,7 @@ PROPITEM_TXT_134997,"A package containing 1x Cloak of Equilibrium, 5x Power Scro
 PROPITEM_TXT_134998,Ascension Package,揚升套組
 PROPITEM_TXT_134999,"A package containing 20x Scroll of Amplification ES, 1x Cloak of Ascension and 1x Scroll of PickUp Boost (7days). The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only. All items are Soul-Linked.",內含 20x 經驗加成卷軸、1x 昇華披風與 1x 拾取強化卷軸 (7 天)。披風上的能力選項將於 1.5 更新後移除，僅保留外觀用途。所有物品皆為靈魂綁定。
 PROPITEM_TXT_135000,Advanced Ascension Package,進階提升套組
-PROPITEM_TXT_135001,"A package containing 1x New Amplification ES Scroll Select Box, 1x Cloak of Ascension and 1x Scroll of PickUp Boost (7days). All items are Soul-Linked.",內含 1x 新版經驗加成卷軸自選箱、1x 昇華披風與 1x 拾取強化卷軸 (7 天)。所有物品皆為靈魂綁定。
+PROPITEM_TXT_135001,"A package containing 1x New Amplification ES Scroll Select Box, 1x Cloak of Ascension and 1x Scroll of PickUp Boost (7days). All items are Soul-Linked.",內含 1x 新版經驗加成卷軸 ES 選擇箱、1x 昇華披風與 1x 拾取強化卷軸 (7 天)。所有物品皆為靈魂綁定。
 PROPITEM_TXT_155622,[Event] 2025 Thanksgiving Gift Box,[活動] 2025 感恩禮盒
 PROPITEM_TXT_155623,Shop Advertisement Random Box,商店廣告隨機箱
 PROPITEM_TXT_155624,"This package randomly contains a Shop Advertisement Gold, Green, Red, Blue, Purple or Pink.",此禮包隨機包含 a Shop Advertisement 金色，綠色，紅色，藍色，紫色或粉紅色.
@@ -26583,7 +26583,7 @@ PROPITEM_TXT_903684,"A kit containing 1x Lifestyle Bag Select Box (15 Days), 2x 
 PROPITEM_TXT_903685,Extra Bag (7 days),額外背包 (7 天)
 PROPITEM_TXT_903686,Expands item carrying limit by 24 items for characters. You can only use 2 at the same time. Lasts 7 days.,為角色增加 24 個攜帶欄位上限。同時間最多只能使用 2 個。持續 7 天。
 PROPITEM_TXT_903687,FWC 2026 Mycard Promotion Box A,FWC 2026 MyCard 平台促銷活動禮盒 A 款道具
-PROPITEM_TXT_903688,"A package containing 10x Blinkwing of Madrigal, 5x Flask Box, 5x Upcut Stone, 5x Vital Drink X or Refresher Hold, 5x Activition, 5x Grilled Eel and 1x [20~140] Amplification ES Scroll Select Box. All items are also linked.",內含 10x 瑪德利賈回卷、5x 藥劑箱、5x 力量之石、5x 無限活力多或無限魔力多、5x 無限技能卷、5x 蒲燒鰻魚與 1x [20~140] 經驗加成卷軸自選箱。所有物品皆為綁定。
+PROPITEM_TXT_903688,"A package containing 10x Blinkwing of Madrigal, 5x Flask Box, 5x Upcut Stone, 5x Vital Drink X or Refresher Hold, 5x Activition, 5x Grilled Eel and 1x [20~140] Amplification ES Scroll Select Box. All items are also linked.",內含 10x 瑪德利賈回卷、5x 藥劑箱、5x 力量之石、5x 無限活力多或無限魔力多、5x 無限技能卷、5x 蒲燒鰻魚與 1x [20~140] 經驗加成卷軸 ES 選擇箱。所有物品皆為綁定。
 PROPITEM_TXT_903689,FWC 2026 Mycard Promotion Box B,FWC 2026 MyCard 平台促銷活動禮盒 B 款道具
 PROPITEM_TXT_903690,"A package containing 3x Scroll of Velocity, 2x Elemental Attack Stone Select Box, 2x Balloon Select Box(6h), 5x Power Scroll, 1x Extra Bag (15 days), 3x [20~160] Amplification ES Scroll Select Box, 1x Rose Pink Yukata Costume Set Select Box and 1x Lucky Neko Weapon Set. All items are also linked.",內含 3x 敏銳的卷軸、2x 元素攻擊石選擇箱、2x Balloon 選擇箱 (6 小時)、5x 力量卷軸、1x 擴充包包 (15 天)、3x [20~160] 經驗加成卷軸 ES 選擇箱、1x Rose 粉紅色 Yukata Costume 套裝選擇箱 與 1x 幸運 Neko 武器套組。所有物品皆為綁定。
 PROPITEM_TXT_903691,FWC 2026 Mycard Promotion Box C,FWC 2026 MyCard 平台促銷活動禮盒 C 款道具
