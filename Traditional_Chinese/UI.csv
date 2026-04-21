@@ -223,7 +223,7 @@ UI_TOOLTIP_PARRY,Parry,迴避
 UI_TOOLTIP_ATKPOWER,Attack,攻擊力
 UI_TOOLTIP_JUMPING,Jump Height,跳躍高度
 UI_TOOLTIP_BLOCKRANGE,Ranged Block,遠距離格擋
-UI_TOOLTIP_ALLSTAT,All Stats,全能力點
+UI_TOOLTIP_ALLSTAT,All Stats,全能力值
 UI_TOOLTIP_DST_HP_MAX_RATE,HP,HP
 UI_TOOLTIP_CONDITIONRATE,Magical Power,魔法攻擊力
 UI_TOOLTIP_DST_ADJDEF_RATE,Defense,防禦力
@@ -706,7 +706,7 @@ UI_REVIVAL_REVIVAL,Current Location,原地復活
 UI_REVIVAL_REVIVAL_TIP,Use a Scroll of Resurrection to revive at your current location,使用復活捲軸在目前位置復活。
 UI_COMMITEM_DIALOG_TITLE,Use Item,使用物品
 UI_RESTATE_CONFIRM_TITLE,Confirm Stat Reset,能力點重置確認
-UI_RESTATE_CONFIRM_ALL,"This will reset all character stats, and the points will be returned to you. Continue?",這將重置角色全能力點，點數將返還給您。繼續嗎?
+UI_RESTATE_CONFIRM_ALL,"This will reset all character stats, and the points will be returned to you. Continue?",這將重置角色全能力值，點數將返還給您。繼續嗎?
 UI_RESTATE_CONFIRM_STR,"Your Strength (STR) stat will be reset, and the points will be returned to you. Continue?",角色能力點 (力量) 將被重置並返還，繼續嗎?
 UI_RESTATE_CONFIRM_STA,"Your Stamina (STA) stat will be reset, and the points will be returned to you. Continue?",角色能力點 (體力) 將被重置並返還，繼續嗎?
 UI_RESTATE_CONFIRM_DEX,"Your Dexterity (DEX) stat will be reset, and the points will be returned to you. Continue?",角色能力點 (敏捷) 將被重置並返還，繼續嗎?
