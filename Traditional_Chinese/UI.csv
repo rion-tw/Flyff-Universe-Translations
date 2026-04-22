@@ -1515,7 +1515,7 @@ UI_SELECTSERVER_EU,Europe,歐洲
 UI_SELECTSERVER_ASIA,Asia,亞洲
 UI_SELECTSERVER_LABEL,Select your Server and Channel:,選擇您的伺服器和頻道：
 UI_GUILDBANK_BAGS,Bags,包
-UI_GUILDBANK_BAGS_TIP,Use Guild Extra Bags to expand the Guild Bank.,使用公會額外包來擴大公會銀行。
+UI_GUILDBANK_BAGS_TIP,Use Guild Extra Bags to expand the Guild Bank.,使用公會背包擴充來擴大公會銀行。
 UI_UPGRADECARD_UNSAFE,"Without a Scroll of EProtect, the material cards will be destroyed if fusion fails.",如果沒有使用卡片防爆卷，合成失敗時物品會消失。
 UI_WORLD_LOCK,Locked,鎖住
 UI_WORLD_UNLOCK,Unlocked,解鎖
@@ -1988,9 +1988,9 @@ UI_BATTLEPASS_INFO8,%s ends at: #b%s#nb (UTC Time)\n#iSome rewards are enhanced 
 UI_BATTLEPASS_INFO9,%s ends at: #b%s#nb (UTC Time),%s 結束於：#b%s#nb (UTC 時間)
 UI_REMOTE_SHOP_TITLE,Remote Shop,遠端商店
 UI_HALLOWEENPASS,Halloween Pass,萬聖節通行證
-UI_PURCHASE_BANK_EXTRA_BAG,Purchase Extra Bag,購買額外背包
-UI_SEARCH_BANK_EXTRA_BAG,Bank Extra Bag,銀行額外包
-UI_EXTRA_BAG_FMT,Bank Extra Bag Time Remaining: %s,銀行額外背包剩餘時間：%s
+UI_PURCHASE_BANK_EXTRA_BAG,Purchase Extra Bag,購買背包擴充
+UI_SEARCH_BANK_EXTRA_BAG,Bank Extra Bag,銀行背包擴充
+UI_EXTRA_BAG_FMT,Bank Extra Bag Time Remaining: %s,銀行背包擴充剩餘時間：%s
 UI_RAINBOWRACE_ITEMS,Rainbow Items,彩虹競賽物品
 UI_RAINBOWRACE_ITEMS_INFO,Fly through items throughout the race to use them against others!,在比賽過程中收集各種道具，並用它們來對抗其他玩家！
 UI_RAINBOWRACE_POINTS,Rank %d / %d (%d points),排名 %d / %d (%d 分數)
@@ -2140,7 +2140,7 @@ UI_LOW_FRAMERATE_GUIDE_GUIDE01,1) Adjust the in-game video/graphic settings to m
 UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure hardware acceleration is enabled in your browser.,2) 確保在瀏覽器中啟用硬體加速。
 UI_LOW_FRAMERATE_GUIDE_BUTTON_SETTING,Go to Game Settings,前往遊戲設定
 UI_BATTLEPASS_MISSION_FINISH_RAINBOW_RACE,Finish a Rainbow Race,完成彩虹競賽
-UI_LOCKED_SLOT_TIP,"Additional inventory slots can be unlocked by completing certain quests or achievements, or by using an Extra Bag (available in the Flyff Shop).",可以通過完成特定任務或成就或使用額外背包 (在 Flyff 商店中提供) 來解鎖額外庫存欄位。
+UI_LOCKED_SLOT_TIP,"Additional inventory slots can be unlocked by completing certain quests or achievements, or by using an Extra Bag (available in the Flyff Shop).",可以通過完成特定任務或成就或使用背包擴充 (在 Flyff 商店中提供) 來解鎖額外庫存欄位。
 UI_LOCKED_SLOT_TIP_COUPLE,Additional slots can be unlocked by increasing your couple level or proposing with a higher-grade couple ring.,可以通過提高您的情侶等級或使用更高等級的情侶戒指求婚來解鎖額外欄位。
 UI_QUEST_SLOTS_COMMAND,Uncompleted quests that unlock inventory slots:,未完成的可解鎖庫存欄位的任務：
 UI_ACHIEVEMENT_SLOTS_COMMAND,Unclaimed or incomplete achievements that unlock inventory slots:,未領取或未完成的可解鎖庫存欄位的成就：

@@ -40,7 +40,7 @@ CLIENT_HELP_INC_000037,Wands have the unique ability to shoot a charged magic at
 CLIENT_HELP_INC_000038,Equipping items,裝備物品
 CLIENT_HELP_INC_000039,"To equip an item, open your inventory then double-click the item you want to equip. It will then automatically replace the item you currently have equipped in that slot. Double-click on equipped item to unequip it.",武器類、防具類、裝飾類的物品，可使用雙擊來裝備物品。此時，物品將會自動裝備在所屬的部位上。如果該部位已裝備其他物品，則會自動替換成最後選取的物品。
 CLIENT_HELP_INC_000040,Using Items,使用物品
-CLIENT_HELP_INC_000041,You can use an item by double-clicking it. You can also place items in your Extra Bags by simply opening them and then dragging it over. The item drops to the ground if you place the item outside your inventory.,直接在物品上雙擊滑鼠左鍵，即可使用物品。您也可以將物品放入額外背包，只需打開背包，然後將物品拖入即可。時若將物品拖曳到物品欄的外面，就會將物品丟棄到地上。
+CLIENT_HELP_INC_000041,You can use an item by double-clicking it. You can also place items in your Extra Bags by simply opening them and then dragging it over. The item drops to the ground if you place the item outside your inventory.,直接在物品上雙擊滑鼠左鍵，即可使用物品。您也可以將物品放入背包擴充，只需打開背包，然後將物品拖入即可。時若將物品拖曳到物品欄的外面，就會將物品丟棄到地上。
 CLIENT_HELP_INC_000042,You can place an item in the quick task bar located at the bottom of your screen. It is possible to use it instantly with the corresponding Hot Key or by clicking with your Mouse. Right click an item to remove the item from the quick slot.,物品可從物品欄內拖曳到下方的熱鍵欄中使用。若要移除熱鍵欄中的物品，可直接在熱鍵的物品上按滑鼠右鍵。
 CLIENT_HELP_INC_000043,,
 CLIENT_HELP_INC_000044,Chatting,聊天
