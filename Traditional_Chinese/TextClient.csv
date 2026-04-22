@@ -1259,7 +1259,7 @@ TEXTCLIENT_COLLECT_GUEST,Guest Characters cannot equip this item. Please link an
 TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,您的帳號已成功刪除。
 TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,您的密碼無效。
 TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,%s 不足。
-TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s 製作出了 %s！
+TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s 成功鍛造出 %s！
 TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,因距離過遠，無法進行交易。
 TEXTCLIENT_COUPON_ITEM_SUCCESS,The coupon has been submitted successfully. Please check your Post Box.,優惠券已成功提交，請查收您的郵箱。
 TEXTCLIENT_COUPON_CASH_SUCCESS,The coupon has been submitted successfully. Please check in the Flyff Shop.,優惠券已成功提交，請前往 Flyff 商店查看。
