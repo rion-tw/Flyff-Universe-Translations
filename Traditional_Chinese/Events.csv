@@ -4,7 +4,7 @@ UI_EVENT_ACCESSORYUPGRADE,Accessory Upgrading!,飾品升級！
 UI_EVENT_WEAPONPIERCING,Weapon Piercing!,武器穿洞！
 UI_EVENT_PARTYEXPBOOST,Party EXP Boost!,劇團的經驗值提升！
 UI_EVENT_GOLDENAIBATT,Find the Golden Aibatt!,發現黃金獨眼蝙蝠！
-UI_EVENT_GOLDENAIBATT_DESC,Kill the Golden Aibatt in dungeons and get drop bonuses!,在副本中獵殺黃金艾巴特並獲得物品掉落率加成！
+UI_EVENT_GOLDENAIBATT_DESC,Kill the Golden Aibatt in dungeons and get drop bonuses!,在副本中獵殺黃金獨眼蝙蝠並獲得物品掉落率加成！
 UI_EVENT_NIGHTBOOST,Night Boost!,夜間提升！
 UI_EVENT_NIGHTBOOST_DESC,+30% EXP when it's night in-game!,遊戲中夜間經驗值加成 +30%！
 UI_EVENT_NIGHTBOOST_NIGHT,It's night! x1.3 EXP!,夜幕降臨了！經驗值加成 x1.3 倍！
