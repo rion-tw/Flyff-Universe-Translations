@@ -1215,7 +1215,7 @@ PROPQUEST_SCENARIO_INC_002503,"We distrust you humans, but I see you have helped
 PROPQUEST_SCENARIO_INC_002504,Go find Hearts of the Red Otem in the Iblis Dungeon.,去伊布利斯地城尋找紅色歐特姆之心。
 PROPQUEST_SCENARIO_INC_002505,Collect 3 Heart of Red Otem.,收集 3 個紅色歐特姆之心。
 PROPQUEST_SCENARIO_INC_002506,"Locku, Leader of the MewMew",喵喵族首領洛庫
-PROPQUEST_SCENARIO_INC_002507,"I will share with you an explanation of our disdain for the Otems... We believe that eons ago, Otems stole the remaining power from an ancient god named Shelid that was a bastion of protection for this land long ago. ",我可以告訴你，為什麼我們如此憎恨歐特姆……我們相信在遠古時代，歐特姆竊取了一位名為雪利德的古神殘餘力量。很久以前，那位神曾是守護這片土地的堡壘。
+PROPQUEST_SCENARIO_INC_002507,"I will share with you an explanation of our disdain for the Otems... We believe that eons ago, Otems stole the remaining power from an ancient god named Shelid that was a bastion of protection for this land long ago. ",我可以告訴你，為什麼我們如此憎恨歐特姆……我們相信在遠古時代，歐特姆竊取了一位名為謝莉德的古神殘餘力量。很久以前，那位神曾是守護這片土地的堡壘。
 PROPQUEST_SCENARIO_INC_002508,"While you may have proven yourself enough to YaoRin to speak to me, you must further show that you are worthy to receive the MewMew clan's assistance.",雖然你已經向姚琳證明到足以見我，但你還得進一步證明，自己值得獲得喵喵族的幫助。
 PROPQUEST_SCENARIO_INC_002509,"Thin the herd of Totemia that taint the Southern Hillid Mountains and destroy their leader. If you can take down the leader of the Totemia, then you have earned our trust enough for YaoRin's help... once.",去清理汙染南方希利德山區的圖特米亞群，並擊潰牠們的首領。只要你能打倒圖特米亞的首領，就算真正贏得了我們的信任，姚琳也會願意幫你一次……僅此一次。
 PROPQUEST_SCENARIO_INC_002510,"If you refuse this task, the MewMew will not assist you in your mission.",如果你拒絕這項任務，喵喵族就不會協助你完成使命。
@@ -1258,16 +1258,16 @@ PROPQUEST_SCENARIO_INC_002546,Petrified Wood,石化之木
 PROPQUEST_SCENARIO_INC_002547,"From the information we have available, the remnant of Ishirut hides in the very heart of the catacombs.",根據目前掌握的資訊，伊希魯特的殘響就藏在地下墓穴最深處。
 PROPQUEST_SCENARIO_INC_002548,"You have already made it further than the last group, keep pushing and find out what lies in store.",你已經比上一批人走得更遠了，繼續前進，看看前方究竟還有什麼。
 PROPQUEST_SCENARIO_INC_002549,You've made it so far... why give up now?,你都已經走到這一步了……現在為什麼要放棄？
-PROPQUEST_SCENARIO_INC_002550,Fascinating! The bark from the large tree creature seems to have the symbol of Shelid etched on the surface... Does this mean that the catacombs were originally an altar to Shelid themself?,真令人著迷！那頭巨大樹木怪身上的樹皮表面，竟然刻著雪利德的象徵……這是否代表地下墓穴原本其實是獻給雪利德的祭壇？
+PROPQUEST_SCENARIO_INC_002550,Fascinating! The bark from the large tree creature seems to have the symbol of Shelid etched on the surface... Does this mean that the catacombs were originally an altar to Shelid themself?,真令人著迷！那頭巨大樹木怪身上的樹皮表面，竟然刻著謝莉德的象徵……這是否代表地下墓穴原本其實是獻給謝莉德的祭壇？
 PROPQUEST_SCENARIO_INC_002551,"Investigate the the catacombs further, there is still more to see.",繼續深入調查地下墓穴，裡面還有更多東西值得一看。
-PROPQUEST_SCENARIO_INC_002552,Collect 10 Tainted Root and 1 Cracked Bark of Shelid.,收集 10 個汙染樹根與 1 片雪利德龜裂樹皮。
+PROPQUEST_SCENARIO_INC_002552,Collect 10 Tainted Root and 1 Cracked Bark of Shelid.,收集 10 個汙染樹根與 1 片謝莉德龜裂樹皮。
 PROPQUEST_SCENARIO_INC_002553,A Shocking Conclusion,令人震驚的結論
 PROPQUEST_SCENARIO_INC_002554,So many mysteries still to unfold... but I believe you are now close to the heart of the catacombs.,還有好多謎團尚未揭曉……不過我相信你現在已經很接近地下墓穴的核心了。
 PROPQUEST_SCENARIO_INC_002555,"Enter once more and clear out the remnant of Ishirut if you are capable of doing so. Prepare yourself before entering again, for I fear the beast within the depths of the ruins is far stronger than you could imagine.",如果你有能力的話，就再進去一次，清除伊希魯特的殘響吧。不過在再次進入前，務必要做好萬全準備，因為我擔心遺跡深處那頭野獸比你想像中還要強大得多。
 PROPQUEST_SCENARIO_INC_002556,After all this effort... now is when you back away from danger?,努力到這一步了……你現在才想退縮？
 PROPQUEST_SCENARIO_INC_002557,"What you have uncovered has tremendous impact on our knowledge of the past! Congratulations on making it through the deadly Rhisis Catacombs, and uncovering the secrets of the past.",你的發現對我們對過去的認識產生了巨大的影響！ 恭喜您成功穿越致命的黎席斯地下墓穴，並揭開了過去的秘密。
-PROPQUEST_SCENARIO_INC_002558,"Based on the evidence you have gathered, we believe that the Rhisis Catacombs were once a holy ground for the god of earth, Shelid.",根據您收集到的證據，我們相信黎席斯地下墓穴曾經是大地之神謝利德的聖地。
-PROPQUEST_SCENARIO_INC_002559,"Along the way, a feud between Shelid and Ishirut must have occurred, leaving behind remnants of both gods that empowered the masquerpets that would eventually call the catacombs their home.",看來在這一路上，雪利德與伊希魯特之間一定發生過衝突，才會留下兩位神的殘響，強化了後來以地下墓穴為巢的那些怪物。
+PROPQUEST_SCENARIO_INC_002558,"Based on the evidence you have gathered, we believe that the Rhisis Catacombs were once a holy ground for the god of earth, Shelid.",根據您收集到的證據，我們相信黎席斯地下墓穴曾經是大地之神謝莉德的聖地。
+PROPQUEST_SCENARIO_INC_002559,"Along the way, a feud between Shelid and Ishirut must have occurred, leaving behind remnants of both gods that empowered the masquerpets that would eventually call the catacombs their home.",看來在這一路上，謝莉德與伊希魯特之間一定發生過衝突，才會留下兩位神的殘響，強化了後來以地下墓穴為巢的那些怪物。
 PROPQUEST_SCENARIO_INC_002560,"With the Temple Guardian eliminated, we can rest easy knowing that Saint City is safe again, thanks to you!",如今神殿守護者已被消滅，我們總算能安心，因為聖音特又安全了。這一切都多虧了你！
 PROPQUEST_SCENARIO_INC_002561,Eliminate the remnant of Ishirut and anything in your way to get there.,擊敗伊希魯特的殘響，以及所有阻擋你去路的敵人。
 PROPQUEST_SCENARIO_INC_002562,"Kill 20 Old Ruts, 10 Bolt Otem, and the Temple Guardian.",擊殺 20 隻舊根獸、10 隻雷擊歐特姆，以及神殿守護者。
