@@ -2604,7 +2604,7 @@ UI_LIFE_FISHING_SUCCESS_RATE_INCREASE,Guessing correctly increases your fishing 
 UI_SEC,%d sec,%d sec
 UI_CONFIRM,Confirm,Bestätigen
 UI_LIFE_FISHING_TIME,Fishing Time:,Fishing Time:
-UI_LIFE_FISHING_NUMBEROF_ATTEMPTS,Number of Attempts:,Number of Attempts:
+UI_LIFE_FISHING_NUMBEROF_ATTEMPTS,Number of Attempts:,Anzahl der Versuche:
 UI_LIFE_FISHING_NUMBEROF_FISH_CAUGHT,Number of Fish Caught:,Number of Fish Caught:
 UI_LIFE_FISHING_NUMBEROF_LARGEFISH_CAUGHT,Number of Trophy Fish Caught:,Number of Trophy Fish Caught:
 UI_LIFE_FISHING_SUCCESS_RATE,Success Rate:,Success Rate:
@@ -2679,9 +2679,9 @@ UI_LIFE_MASTERY_CARPENTRY_SUCCESS,Carpentry Success Rate +%d%%,Carpentry Success
 UI_LIFE_MASTERY_CARPENTRY_GREATSUCCESS,Carpentry Great Success Rate +%d%%,Carpentry Great Success Rate +%d%%
 UI_LIFE_MASTERY_PRODUCTION_EXPERT,(Expert) Earn unbound item for Great Success,(Expert) Earn unbound item for Great Success
 UI_LIFE_PRODUCTION_STATUS_TIME,Production Time:,Production Time:
-UI_LIFE_PRODUCTION_STATUS_NUMBEROF_ATTEMPTS,Number of Attempts:,Number of Attempts:
-UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,Number of Successes:
-UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,Success Rate:
+UI_LIFE_PRODUCTION_STATUS_NUMBEROF_ATTEMPTS,Number of Attempts:,Anzahl der Versuche:
+UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,Anzahl der Erfolge:
+UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,Erfolgsquote:
 UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,Product Upgrade
 UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,Please insert the material items.
 UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1
@@ -2711,9 +2711,9 @@ UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rar
 UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ores.,Rock with a unique appearance. Yields Common-Rare ores.
 UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,Rare rock that is difficult to find. Yields Common-Very Rare ores.
 UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,Legendary rock known to few. Yields Rare-Very Rare ores.
-UI_LIFE_PRODUCTION_START,Production Start,Production Start
-UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc"
-UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc"
+UI_LIFE_PRODUCTION_START,Production Start,Produktionsstart
+UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Sobald die Produktion begonnen hat, kann sie nicht mehr abgebrochen werden. Fortfahren?\n\n#cffffc000Produktionszeit: %s#nc"
+UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Sobald die Produktion begonnen hat, kann sie nicht mehr abgebrochen werden. Fortfahren?\n\n#cffffc000Produktionszeit: %s~%s#nc"
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Mine Ore #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,Cut Trees #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,Fischen. #cffc32f07#b%d/%d#nb#nc
