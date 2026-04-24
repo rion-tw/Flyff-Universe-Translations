@@ -219,7 +219,7 @@ TEXTCLIENT_MSGDENYINVATE,Invitation has been refused.,Undangan telah ditolak.
 TEXTCLIENT_MSGDENY,%s is in the 'Refuse Messenger' setting.,%s ada di setelan 'Refuse Messenger'.
 TEXTCLIENT_MSGMAXUSER,The maximum number of players that can be registered into the messenger is 200.,Jumlah maksimum pemain yang dapat didaftarkan ke messenger adalah 200.
 TEXTCLIENT_MSGINVATECOM,%s has added you to their Messenger.,%s telah menambahkamu ke Messenger mereka.
-TEXTCLIENT_NOTLOGIN,That player is offline.,Pemain itu tidak terhubung.
+TEXTCLIENT_NOTLOGIN,That player is offline.,Pemain itu sedang offline.
 TEXTCLIENT_MSGBLOCKCHR,"Failure to send message, %s is blocked.","Gagal mengirim pesan, %s diblokir."
 TEXTCLIENT_MESSNEWNOTE,You have %d new message(s).,Kamu mendapat %d pesan baru.
 TEXTCLIENT_MESSFULLNOTE,Your message cannot be sent. The receiving inbox may be full.,Pesanmu tidak dapat dikirim. Kotak masuk penerima mungkin penuh.
@@ -253,7 +253,7 @@ TEXTCLIENT_POST_ERROR,You have failed to send.,Kamu gagal mengirim.
 TEXTCLIENT_MAIL_SEND_OK,Your mail has been sent successfully.,Emailmu telah berhasil dikirim.
 TEXTCLIENT_ERROR_RETRY,"An error occured, please retry the operation.","Terjadi kesalahan, silakan coba lagi operasinya."
 TEXTCLIENT_REALTIME,Real Time - %s,Real Time - %s
-TEXTCLIENT_MADRIGALTIME,Madrigal Time - %s,Madrigal Time - %s
+TEXTCLIENT_MADRIGALTIME,Madrigal Time - %s,Waktu Madrigal - %s
 TEXTCLIENT_NEW_QUEST,New Quest,New Quest
 TEXTCLIENT_CURRENT_QUEST,Quests in Progress,Quests in Progress
 TEXTCLIENT_STARTQUEST,You've received the quest: %s. Open your Quest Window for details.,Kamu telah menerima misi: %s. Buka Jendela Pencarianmu untuk detailnya.
@@ -1343,7 +1343,7 @@ TEXTCLIENT_MATOURNAMENT_BETTING_NO_TIME,You can't bid at this time.,You can't bi
 TEXTCLIENT_MATOURNAMENT_BETTING_NO_GOLD,You have no Penya to collect.,You have no Penya to collect.
 TEXTCLIENT_MATOURNAMENT_REWARD_NORECORD,You have no participation or rewards to receive.,You have no participation or rewards to receive.
 TEXTCLIENT_MATOURNAMENT_REWARD,You have received a reward.,You have received a reward.
-TEXTCLIENT_MATOURNAMENT_REWARD_MAIL,You can't receive the reward. Check your mail.,You can't receive the reward. Check your mail.
+TEXTCLIENT_MATOURNAMENT_REWARD_MAIL,You can't receive the reward. Check your mail.,Kamu tidak dapat menerima hadiahnya. Periksa kotak surat Anda.
 TEXTCLIENT_MATOURNAMENT_BETTING_PAYOUT_MAIL,Madrigal Tournament Betting Payout,Madrigal Tournament Betting Payout
 TEXTCLIENT_MATOURNAMENT_BETTING_PAYOUT,You receive betting's payout.,You receive betting's payout.
 TEXTCLIENT_MATOURNAMENT_BETTING_FAIL,Betting failed. Please try again.,Betting failed. Please try again.
@@ -1436,7 +1436,7 @@ TEXTCLIENT_FISHING_FAIL,You are unable to fish.,You are unable to fish.
 TEXTCLIENT_LIFEMASTERY_NEED_SKILL,You do not have the %s skill. You must complete the quest from [Life Master] Livi.,You do not have the %s skill. You must complete the quest from [Life Master] Livi.
 TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_MASTERYPOINTS,You lack enough mastery points.,You lack enough mastery points.
 TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_TITLE,You cannot produce this item without the required title.,You cannot produce this item without the required title.
-TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_INGREDIENT,You need to add the correct ingredients.,You need to add the correct ingredients.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_INGREDIENT,You need to add the correct ingredients.,Kamu perlu menambahkan komposisi yang benar.
 TEXTCLIENT_REPAIR_FAIL_FULLDURATION,This item does not require repairing.,This item does not require repairing.
 TEXTCLIENT_PRODUCTUPGRADE_FAIL,Product upgrade failed.,Product upgrade failed.
 TEXTCLIENT_PRODUCTUPGRADE_SUCCESS,Product upgrade successful!,Product upgrade successful!
@@ -1499,7 +1499,7 @@ UI_TOOLTIP_PICKUP_RANGE,Pickup boost range,Pickup boost range
 TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are accessing from the official game page.,Server refused the connection. Please make sure you are accessing from the official game page.
 TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[Event] Chroma Pickaxe
 TEXTCLIENT_APP_SHADER_DEBUG,Shader Debug,Shader Debug
-TEXTCLIENT_APP_ACCOUNT,Account,Account
+TEXTCLIENT_APP_ACCOUNT,Account,Akun
 TEXTCLIENT_NOT_ENOUGH_ITEM2,You need %d %s.,You need %d %s.
 TEXTCLIENT_ITEMPACK_UPGRADE_DESTROY,Item destroyed due to the failure.,Item hancur karena kegagalan.
 TEXTCLIENT_ITEMPACK_UPGRADE_LEVELDOWN,Item downgraded due to the failure.,Item downgraded due to the failure.
@@ -1507,7 +1507,7 @@ TEXTCLIENT_ITEMPACK_UPGRADE_LIMIT,This item has exceeded its upgrade attempt lim
 TEXTCLIENT_STATUE_MAXLEVEL,"A statue in the name of %s, the first maximum level, has been erected in Northern Flarine.","A statue in the name of %s, the first maximum level, has been erected in Northern Flarine."
 TEXTCLIENT_STATUE_MAXUPGRADE,"A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine.","A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine."
 TEXTCLIENT_ALERT_TIME,[%d hours have passed] Excessive gaming can interfere with normal daily life.,[%d hours have passed] Excessive gaming can interfere with normal daily life.
-TEXTCLIENT_SERVERNOTALLOWED,Your account is not allowed to access this server.,Your account is not allowed to access this server.
+TEXTCLIENT_SERVERNOTALLOWED,Your account is not allowed to access this server.,Akun Anda tidak diizinkan mengakses server ini.
 TEXTCLIENT_STATUE_BASE01,A statue in the name of the first person to reach maximum level.,A statue in the name of the first person to reach maximum level.
 TEXTCLIENT_STATUE_BASE02,A statue in the name of the first person to reach maximum upgrade.,A statue in the name of the first person to reach maximum upgrade.
 TEXTCLIENT_UPGRADE_WRONG_MATERIAL,Invalid material item for upgrade.,Invalid material item for upgrade.

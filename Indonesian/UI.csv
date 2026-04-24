@@ -348,7 +348,7 @@ UI_POST_TITLE,Mailbox,Mailbox
 UI_POST_TAB_SEND,Send Mail,Kirim Mail
 UI_POST_TAB_RECEIVE,Inbox,Kotak Masuk
 UI_OPTION_UISCALE,Scale,Scale
-UI_OPTION_TEXTSCALE,Font Size,Font Size
+UI_OPTION_TEXTSCALE,Font Size,Ukuran Huruf
 UI_IGNORELIST_TITLE,Ignore List,Ignore List
 UI_IGNORELIST_COUNT,Ignored Players: %d,Ignored Players: %d
 UI_CHATFILTER_TITLE,Chat Filter,Chat Filter
@@ -872,11 +872,11 @@ UI_APP_CHARINFO_TIP,View detailed character information and manage your stats.,M
 UI_APP_MOTION_TIP,View emotes and emoticons you can use to express yourself.,Gunakan emoticon dan motion untuk mengekspresikan dirimu.
 UI_APP_STATUS_TIP,View your character's status.,View your character's status.
 UI_APP_CHAT_TIP,Show/hide the chat window.,Buka jendela chat.
-UI_APP_QUIT_TIP,Exit the game.,Keluar Program
+UI_APP_QUIT_TIP,Exit the game.,Keluar dari permainan.
 UI_APP_SUPPORT_TIP,Open the customer support page in a new tab.,Buka Customer Support.
-UI_APP_PRIVACY_TIP,Open Privacy Settings.,Open Privacy Settings.
-UI_APP_LOGOUT_TIP,Log out and return to the login screen.,Log out and return to the login screen.
-UI_APP_OPTION_TIP,Open the game's options window.,Open the game's options window.
+UI_APP_PRIVACY_TIP,Open Privacy Settings.,Buka Pengaturan Privasi.
+UI_APP_LOGOUT_TIP,Log out and return to the login screen.,Logout dan kembali ke layar login.
+UI_APP_OPTION_TIP,Open the game's options window.,Buka jendela opsi permainan.
 UI_APP_MAP_TIP,View the world map.,View the world map.
 UI_APP_NAVIGATOR_TIP,Open the mini-map widget.,Mini-map untuk membantumu
 UI_APP_NOTICE_TIP,Notice,Notice
@@ -2764,7 +2764,7 @@ UI_TOOLTIP_FREEBLESSING,Demon Blessing,Demon Blessing
 UI_CHARINFO_HOUSING_SLOTS,Pet Inventory Slots,Pet Inventory Slots
 UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,Use Blessing?
 UI_GENERALAWAKE_SOULBIND,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.
-UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.","The recipe is not fully understood, so only one of each ingredient is used."
+UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.","Resepnya belum sepenuhnya dipahami, jadi hanya satu dari setiap bahan yang digunakan."
 UI_CHRISTMAS_INVANSION_MISSION,Quest completed,Quest completed
 UI_TELEPORT_ARENA,Exit the arena?,Apakah kamu ingin keluar dari arena?
 UI_NEWYEARPASS_2025,2025 New Year Pass,2025 New Year Pass
@@ -3079,7 +3079,7 @@ UI_FLARE_SHD_DISTORTSIZE,Distortion Size,Distortion Size
 UI_FLARE_SHD_DISTORTSPEED,Distortion Speed,Distortion Speed
 UI_FLARE_SHD_DISTORTSTR,Distortion Strength,Distortion Strength
 UI_ATTR_OBJ,Objects: ,Objects: 
-UI_ATTR_LANDSCAPE,Landscapes: ,Landscapes: 
+UI_ATTR_LANDSCAPE,Landscapes: ,Lanskap: 
 UI_ATTR_PING,Ping: ,Ping: 
 UI_ATTR_FPS,FPS: ,FPS: 
 UI_CCU,CCU,CCU
@@ -3280,5 +3280,5 @@ UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Tidak ada di lemari pakaianmu
 UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%
 UI_DEBUG_DEVICE_ADVERTISING_ID,Advertising ID: ,Advertising ID: 
 UI_DEBUG_DEVICE_EEA,EEA: ,EEA: 
-UI_DEBUG_DEVICE_AD_PERSONALIZATION,Ad Personalization: ,Ad Personalization: 
-UI_DEBUG_DEVICE_AD_USER_DATA,Ad User Data: ,Ad User Data: 
+UI_DEBUG_DEVICE_AD_PERSONALIZATION,Ad Personalization: ,Personalisasi Iklan: 
+UI_DEBUG_DEVICE_AD_USER_DATA,Ad User Data: ,Data Pengguna Iklan: 
