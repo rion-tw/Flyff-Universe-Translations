@@ -3038,9 +3038,9 @@ PROPITEM_TXT_005405,Quest Item: Proof that proves the continents of Madrigal sep
 PROPITEM_TXT_005406,Recommendation of Gothante,高譚提拉的推薦書
 PROPITEM_TXT_005407,Quest Item: A recommendation from Gothante.,[任務道具] 寫給高譚提拉所信任的人的推薦書。
 PROPITEM_TXT_005408,Piece of Strange Cloth,詭異的布料
-PROPITEM_TXT_005409,Quest Item: A piece of cloth with the same pattern as the one in the Field of Bubble.,[任務道具] 有點破掉的布料，上面部分的圖樣與波布爾平原發現的圖案相同。
+PROPITEM_TXT_005409,Quest Item: A piece of cloth with the same pattern as the one in the Field of Bubble.,[任務道具] 有點破掉的布料，上面部分的圖樣與巴布樂平原發現的圖案相同。
 PROPITEM_TXT_005410,Unknown Mark,無法知道的紋樣
-PROPITEM_TXT_005411,Quest Item: Cloth with a weird pattern on it. Found in the Field of Bubble.,[任務道具] 上面有奇怪圖樣的布，在波布爾平原中找到的。
+PROPITEM_TXT_005411,Quest Item: Cloth with a weird pattern on it. Found in the Field of Bubble.,[任務道具] 上面有奇怪圖樣的布，在巴布樂平原中找到的。
 PROPITEM_TXT_005412,Piece of Unknown Cloth,無法知道的布料
 PROPITEM_TXT_005413,Quest Item: A piece of cloth with the same pattern as the one in the Hill of Shade.,[任務道具] 有點破掉的布料，上面部分的圖樣與闇影丘嶺發現的圖案相同。
 PROPITEM_TXT_005414,Book of Troubled History,苦難的歷史
@@ -3052,7 +3052,7 @@ PROPITEM_TXT_005419,Quest Item: An ancient book written in an ancient language.,
 PROPITEM_TXT_005420,Mysterious Black Gem,神秘的黑寶石
 PROPITEM_TXT_005421,Quest Item: Black gem found in the center of the Hill of Shade.,[任務道具] 在闇影丘嶺中發現的黑寶石。
 PROPITEM_TXT_005422,Mysterious Red Gem,神秘的紅寶石
-PROPITEM_TXT_005423,Quest Item: Red gem found in the center of the Field of Bubble.,[任務道具] 在波布爾平原中發現的紅色寶石。
+PROPITEM_TXT_005423,Quest Item: Red gem found in the center of the Field of Bubble.,[任務道具] 在巴布樂平原中發現的紅色寶石。
 PROPITEM_TXT_005424,Book of Laola,拉宇的著作
 PROPITEM_TXT_005425,Quest Item: A book that seems to be useful to Gothante.,[任務道具] 拉宇的著作，對於高譚提拉來說非常有參考價值。
 PROPITEM_TXT_005426,Scroll of Gothante,高譚提拉的捲軸
@@ -3500,8 +3500,8 @@ PROPITEM_TXT_006144,Iblis Trans,小丑伊布利斯變身球
 PROPITEM_TXT_006145,Transform into Iblis,可以變成伊布利斯的變身球
 PROPITEM_TXT_006146,Shade Trans,美麗小丑闇影的變身球
 PROPITEM_TXT_006147,Transform into Shade,可以變成闇影的變身球
-PROPITEM_TXT_006148,Bubble Trans,胖小丑波布爾變身球
-PROPITEM_TXT_006149,Transform into Bubble,可以變成波布爾的變身球
+PROPITEM_TXT_006148,Bubble Trans,胖小丑巴布樂變身球
+PROPITEM_TXT_006149,Transform into Bubble,可以變成巴布樂的變身球
 PROPITEM_TXT_006150,Baby Lawolf,布魯狼寶貝
 PROPITEM_TXT_006151,"A cute, baby, Lawolf that follows its master around and picks up dropped items",解除召喚可愛的布魯狼
 PROPITEM_TXT_006152,Baby Aibatt,可愛的獨眼蝙蝠
@@ -6369,7 +6369,7 @@ PROPITEM_TXT_014942,Hobo Sword,獨刀的刀
 PROPITEM_TXT_014704,Memory Shard,記憶碎片
 PROPITEM_TXT_014860,Fragment of Memories,記憶片段
 PROPITEM_TXT_014708,Ancient Inscription,遠古碑文
-PROPITEM_TXT_014710,Essence of Bubble,波布爾的精神
+PROPITEM_TXT_014710,Essence of Bubble,巴布樂的精神
 PROPITEM_TXT_014712,Essence of Shade,闇影的精神
 PROPITEM_TXT_014870,Parchment of War,戰爭的記錄
 PROPITEM_TXT_014714,Forsaken Soul,被遺忘者的靈魂
@@ -9250,7 +9250,7 @@ PROPITEM_TXT_400375,Skeleton General Sword,冥骸將軍之劍
 PROPITEM_TXT_400376,Skeleton General Big Sword,冥骸將軍大劍
 PROPITEM_TXT_400377,Skeleton General Head,冥骸將軍頭
 PROPITEM_TXT_400378,Old Rut Pipe,舊車轍管
-PROPITEM_TXT_400379,Cache of Bubble,泡泡緩存
+PROPITEM_TXT_400379,Cache of Bubble,巴布樂的儲藏
 PROPITEM_TXT_400380,Quest Item: An ancient cache in the shape of a bubble. It is said to contain great power.,任務物品：一個泡泡狀的古老寶藏。 據說蘊含著強大的力量。
 PROPITEM_TXT_400381,Elemental Def-Upcut Stone Box,元素防禦石箱
 PROPITEM_TXT_400382,Select which elemental def-upcut stone you want!,選擇你想要的元素防禦石！

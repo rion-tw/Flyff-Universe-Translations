@@ -436,8 +436,8 @@ PROPSKILL_TXT_100087,Shade's Swiftness,闇影之迅
 PROPSKILL_TXT_100088,"Shade is a powerful god of fear and rage, and they grant this buff to players by imbuing them with a gust of wind that enhances their reflexes and allows them to move faster.","由恐懼之神闇影,賦予的風之祝福,提升玩家的敏捷與移動速度。"
 PROPSKILL_TXT_100089,Iblis' Fortitude,伊布利斯之魄
 PROPSKILL_TXT_100090,"Iblis is a revered god of apathy and neutrality, and they grant this buff to players by infusing them with a burst of life energy that increases their maximum health and allows them to withstand more damage.",由敬仰之神伊布利斯，賦予的生命祝福，提升最大生命值能承受更多傷害。
-PROPSKILL_TXT_100091,Bubble's Bulwark,波布爾的庇護
-PROPSKILL_TXT_100092,"Bubble is a legendary god of joy and purity, and they grant this buff to players by creating a powerful shield that provides an extra layer of defense against enemy attacks.",由喜悅之神波布爾，賦予的強力護盾，提升防禦力以抵擋敵方傷害。
+PROPSKILL_TXT_100091,Bubble's Bulwark,巴布樂的庇護
+PROPSKILL_TXT_100092,"Bubble is a legendary god of joy and purity, and they grant this buff to players by creating a powerful shield that provides an extra layer of defense against enemy attacks.",由喜悅之神巴布樂，賦予的強力護盾，提升防禦力以抵擋敵方傷害。
 PROPSKILL_TXT_100093,Guild's Enhancement,公會強化
 PROPSKILL_TXT_100094,Donate G-Tokens to your guild and upgrade this enhancement's level!,捐贈 G-Tokens，提升公會強化等級！
 PROPSKILL_TXT_100095,Spiritual Overcharge,靈能爆發機率
@@ -504,7 +504,7 @@ PROPSKILL_TXT_100155,Smithing,鍛造
 PROPSKILL_TXT_100156,Create various accessories.,製作各種飾品。
 PROPSKILL_TXT_FWC_202501,Grinder's Blessing,研磨機的祝福
 PROPSKILL_TXT_FWC_202502,Madrigal's elites guide you!,瑪德利賈的精英們將為您指引方向！
-PROPSKILL_TXT_FWC_202503,Bubble's Fortune,泡泡的財富
+PROPSKILL_TXT_FWC_202503,Bubble's Fortune,巴布樂的財富
 PROPSKILL_TXT_FWC_202504,Madrigal's most fortunate guide you!,瑪德利賈最幸運的指引你！
 PROPSKILL_TXT_150000,Harlequin's Greeting,謔影戲禮
 PROPSKILL_TXT_150001,"Perform a quick step, teleporting behind your target with a swift attack.",使用迅捷步法，瞬間傳送至目標身後並發起疾速攻擊。
@@ -861,7 +861,7 @@ PROPSKILL_TXT_150301,Increases knuckle damage.,提升拳套傷害。
 PROPSKILL_TXT_150302,Quick Movement,快速移動
 PROPSKILL_TXT_150303,Critical Damage,爆擊傷害
 PROPSKILL_TXT_150304,Knuckle Power,拳套之力
-PROPSKILL_TXT_150305,Bubble's Blessing,波卜爾的祝福
+PROPSKILL_TXT_150305,Bubble's Blessing,巴布樂的祝福
 PROPSKILL_TXT_150306,Casts an aura that increases allies' Critical Damage and Attack. Can be re-cast to cancel the effect.,施放一道光環，提升友方的暴擊傷害與攻擊力。可再次施放以取消該效果。
 PROPSKILL_TXT_150309,Range Extension,射程提升
 PROPSKILL_TXT_150310,Touch of Rhisis,黎希絲之觸

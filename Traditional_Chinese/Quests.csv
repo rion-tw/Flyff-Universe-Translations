@@ -241,7 +241,7 @@ PROPQUEST_INC_000748,Assist Skills,神職者的技術
 PROPQUEST_INC_000749,"Now that you have a good understanding of Assist weaponry, I'd like you to visit Goripeg, one of the High-Dwarpets north of Flarine.",我要告訴你的事情，已經講完了。下一個考驗是，你要學習關於神職者的技術。你要去海倚杜爾沛的居住地。
 PROPQUEST_INC_000750,High-Dwarpet Goripeg will give you information on Assist skills. He knows a lot about Assists and I think you are ready to speak with him.,到海倚杜爾沛的居住地，找一個叫做克利培的海倚杜爾沛，他會告訴你一些技術的相關知識。在那之前..
 PROPQUEST_INC_000751,"You can find the High-Dwarpets by opening your map (M Key). Go quickly, young one!",到杜爾沛的居住地找克利培吧!
-PROPQUEST_INC_000752,May Bubble protect you and guide you.,祝你一路順風
+PROPQUEST_INC_000752,May Bubble protect you and guide you.,願巴布樂保佑你並指引你。
 PROPQUEST_INC_000753,"If you feel that you are not ready, young one, that is your decision. If you change your mind, come and speak with me again.",要在這裡放棄嗎?都快結束了還要放棄，不絕得很可惜嗎?
 PROPQUEST_INC_000754,Erhm… hello there! You must be the young apprentice Maki spoke so highly of.,啊?這是我弄丟的書耶，怎麼找到的啊?反正謝謝你啦。爲了報答你，送你一個禮物好了，我看一下喔~488 頁..
 PROPQUEST_INC_000755,"The blessing of Rhisis be with you, apprentice! I'd like to go over one of the Assist skills with you. Haste is a skill that you can cast on yourself or an ally.",黎希絲的祝福使你的身體變的更輕盈，你想要什麼就得到什麼..嗯嗯，這是一個叫做海依施特的技能，很厲害吧?
@@ -661,33 +661,33 @@ PROPQUEST_INC_001210,"Have you ever heard about the Legend of Big Thyred? No? A 
 PROPQUEST_INC_001211,"It was a cave deep underground, surrounded with this strange, bloody fog. Big Thyred investigated the cave only to become infected by a disease within the cave called Horrible Fear.",聽說有一個地下洞穴裡，住著一個叫做恐怖的牛唄唄的怪獸。
 PROPQUEST_INC_001212,"The disease transformed him into a hideous monster, whom we now call Big Muscle. There's virtually nothing left of that brave adventurer but bits and pieces, or so the story goes…",可是後來恐怖的牛唄唄不知道到哪裡去了，突然消失~反正啦..這是我這次小說的主要內容。
 PROPQUEST_INC_001213,"So, here's where you come in. I need to an ending to the story and I'd like to know what's become of Big Muscle. Feel like lending a hand?",所以啊..你可不可以代替我親自去體驗看看啊?然後再把那個體驗的結果說給我聽。
-PROPQUEST_INC_001214,"One of those mangy Organigors ate one of my reference books. Defeat the Organigors at the Plain of Bubble and acquire the Book of Fear 1. While you're there, find the Fortress Map.",好，你首先去波布爾平原找一個叫做窩樂坎的怪物，他會給你恐怖的書第 1 卷，然後在平原的某處找一下他們的靈源..
+PROPQUEST_INC_001214,"One of those mangy Organigors ate one of my reference books. Defeat the Organigors at the Plain of Bubble and acquire the Book of Fear 1. While you're there, find the Fortress Map.",好，你首先去巴布樂平原找一個叫做窩樂坎的怪物，他會給你恐怖的書第 1 卷，然後在平原的某處找一下他們的靈源..
 PROPQUEST_INC_001215,"Awwww, come on! Look, I'll give you HALF of the sales from my book if you'll help. Still having second thoughts?",哇，加油！ 聽著，如果你能幫忙的話，我會給你一半的收入。 還在猶豫嗎？
 PROPQUEST_INC_001216,"Oh, Rhisis! You've got the Book of Fear! Great work! Alright, sounds like you have what it takes to face Big Muscle.",哈哈，這麼難的事情都辦完了啊?把這個收下吧!這是施德利的心臟，好噁心喔~我不想看。
 PROPQUEST_INC_001217,"Here, take this. It's Big Thyred's Heart. \n\n#b*You drop the heart and scream!*#nb\n\nHey, careful! You need that!",來，拿好。這是施德利的心臟\n\n#b*你放下心臟接著大叫*#nb\n\n小心點！你需要那個東西！
 PROPQUEST_INC_001218,"Take the heart to the Dreadpet Manager just southwest of here. You'll have to join a party before you face Big Muscle, it's too dangerous to go alone.",你先去找特萊特怪物管理者，他會告訴你一些事情，但是絕對不要自己去體驗喔~一定要組劇團進去!
 PROPQUEST_INC_001219,"Look, I know it's scary to face the Organigor, but I believe you can do it. Go, now!",窩樂坎這傢伙是有點狡猾啦!可是我相信，如果是你的話，一定沒有問題的!
-PROPQUEST_INC_001220,"Travel to the Plain of bubble, defeat Organigor, and recover both the Fortress Map and the 1st book of Dread for Novelist Gergantes in Northern Flarine.",首先去波布爾平原找一個叫做窩樂坎的人，他會給你恐怖的書第 1 卷，然後在平原的某處找一下他們的靈源。
+PROPQUEST_INC_001220,"Travel to the Plain of bubble, defeat Organigor, and recover both the Fortress Map and the 1st book of Dread for Novelist Gergantes in Northern Flarine.",首先去巴布樂平原找一個叫做窩樂坎的人，他會給你恐怖的書第 1 卷，然後在平原的某處找一下他們的靈源。
 PROPQUEST_INC_001222,Legend of Dreadpet <Krren Dacid>,特萊特怪物的傳說 <Krren Dacid>
 PROPQUEST_INC_001223,"Pssst, hey you! I'm writing a book and I need your help! I'm having a bit of writer's block and I need a brave adventurer to help me write it!",聽好我說的話喔~其實啊..我最近在寫一本書，寫書的時候需要一些材料，但是我自己沒辦法搞定。
 PROPQUEST_INC_001224,"Have you ever heard about the legend of Krren Dacid? A long long time ago, there was a very famous adventurer. His name was Krren Dacid. One day, he found an interesting place to adventure…",你有聽說過特萊特怪物的傳說嗎?以前有一個大冒險家啦~名子叫克安達施德，有一天，他發現了一個很有趣的事情。
 PROPQUEST_INC_001225,It was a huge temple in the sky. Krren investigated the temple only to become infected by a disease within the cave called Cold Fear.,聽說有一個地下洞穴裡，住著一個叫做咕咕噥噥的怪獸。 
 PROPQUEST_INC_001226,"The disease transformed him into a hideous monster, whom we now call Krrr. There's virtually nothing left of that brave adventurer but bits and pieces, or so they say…",可是後來咕咕噥噥不知道到哪裡去了，突然消失~反正啦..這是我這次小說的主要內容。
 PROPQUEST_INC_001227,"So, here's where you come in. I need an ending to the story and I'd like to know what's become of Krrr. So whaddya' say?",所以啊..你可不可以代替我親自去體驗看看啊?然後再把那個體驗的結果說給我聽。
-PROPQUEST_INC_001228,"Great! One of those Gangards at the Plain of Bubble scooped up one of my reference books. Defeat the Gangards and acquire the Book of Fear 2. While you're there, try to find the Temple Map.",好，你首先去波布爾平原找一個叫做坎哥德的人，他會給你恐怖的書第 2 卷，然後在平原的某處找一下他們的聖地..
+PROPQUEST_INC_001228,"Great! One of those Gangards at the Plain of Bubble scooped up one of my reference books. Defeat the Gangards and acquire the Book of Fear 2. While you're there, try to find the Temple Map.",好，你首先去巴布樂平原找一個叫做坎哥德的人，他會給你恐怖的書第 2 卷，然後在平原的某處找一下他們的聖地..
 PROPQUEST_INC_001229,"Oh, come on now! Tell you what, I'll give you 50% of the proceeds from the sale of my book when I release it! How does that sound? Bah!",反正，應該是一個很棒的冒險啦!我會拿我賣書的收入 50% 給你，好不好?
-PROPQUEST_INC_001230,"Blessings from Bubble, you've got it! It looks like you do indeed have what it takes to face Krrr.",哈哈，這麼難的事情都辦完了啊?把這個收下吧!這是克安達施德的心臟，好噁心喔~我不想看。
+PROPQUEST_INC_001230,"Blessings from Bubble, you've got it! It looks like you do indeed have what it takes to face Krrr.",哈哈，連巴布樂的祝福都降臨了！看來你確實有本事面對 Krrr。
 PROPQUEST_INC_001231,"Here, take this. It's Krrr's Heart. \n\n#b*You vomit all over him*#nb\n\n Hey, knock it off!",過來，拿好。這是咕咕噥噥的心臟。\n\n#b*你吐在他身上*#nb\n\n嘿，別鬧了！
 PROPQUEST_INC_001232,"If you're done being sick, take the heart to the Dreadpet Manager in Madren Town. You'll have to join a party to enter the temple, it's way too dangerous to go alone.",你先去找特萊特怪物管理者，他會告訴你一些事情，但是絕對不要自己去體驗喔~一定要組劇團進去!
 PROPQUEST_INC_001233,"Look, I know Ganguard's smell bad and all that, so I understand your reservations… but I really need that book.",坎哥德這傢伙是有點狡猾啦!可是我相信，如果是你的話，一定沒有問題的!
-PROPQUEST_INC_001234,"Travel to the Plain of Bubble, defeat $QUEST_END_KILL_NAME$, and retrieve both the $QUEST_END_ITEM_NAME$ and the $QUEST_END_ITEM_NAME,2$ for Novelist Gergantes in Northern Flarine.","前往波布爾平原，擊敗 $QUEST_END_KILL_NAME$，並幫布拉里斯廣場的小說家凱樂刊特斯取回 $QUEST_END_ITEM_NAME$ 和 $QUEST_END_ITEM_NAME,2$。"
+PROPQUEST_INC_001234,"Travel to the Plain of Bubble, defeat $QUEST_END_KILL_NAME$, and retrieve both the $QUEST_END_ITEM_NAME$ and the $QUEST_END_ITEM_NAME,2$ for Novelist Gergantes in Northern Flarine.","前往巴布樂平原，擊敗 $QUEST_END_KILL_NAME$，並幫布拉里斯廣場的小說家凱樂刊特斯取回 $QUEST_END_ITEM_NAME$ 和 $QUEST_END_ITEM_NAME,2$。"
 PROPQUEST_INC_001236,Legend of Dreadpet <Moot Arvan>,特萊特怪物的傳說<Moot Arvan>
 PROPQUEST_INC_001237,"Pssst, hey you! I am writing a book and I need your help! I've had a little writers block lately and I need a brave adventurer to help me write it!",聽好我說的話喔~其實啊..我最近在寫一本書，寫書的時候需要一些材料，但是我自己沒辦法搞定。
 PROPQUEST_INC_001238,"Have you ever heard of the legend of Moot Arvan? No? A long time ago, there was very a famous adventurer, Moot Arvan. One day, he found an interesting place to adventure...",你有聽說過特萊特怪物的傳說嗎?以前有一個大冒險家啦~名子叫姆特牙勒斑，有一天，他發現了一個很有趣的事情。
 PROPQUEST_INC_001239,"It was a strange, wet marsh. Moot explored the marsh only to become infested with a disease called Unpleasant Fear.",聽說有一個很潮濕的地區，住著一個叫做恐怖的菇菇的怪獸。
 PROPQUEST_INC_001240,"The disease transformed him into a hideous monster known as Mushmoot! There's virtually nothing left of that brave adventurer but bits and pieces, or so they say…",可是後來恐怖的菇菇不知道到哪裡去了，突然消失~反正啦..這是我這次小說的主要內容。
 PROPQUEST_INC_001241,"So, here's where you come in. I need an ending to the story and I'd like to know what's become of Mushmoot. Feel like helping?",所以啊..你可不可以代替我親自去體驗看看啊?然後再把那個體驗的結果說給我聽。
-PROPQUEST_INC_001242,Great! One of those pesky Hadeseors at the Plain of Bubble has stolen one of my reference books! Find and recover the book for me and see if you can locate the Boggy Map while you're there.,好，你首先去波布爾平原找一個叫做瑕德西的人，他會給你恐怖的書第 3 卷，然後在平原的某處找一下他們的氣息地。
+PROPQUEST_INC_001242,Great! One of those pesky Hadeseors at the Plain of Bubble has stolen one of my reference books! Find and recover the book for me and see if you can locate the Boggy Map while you're there.,好，你首先去巴布樂平原找一個叫做瑕德西的人，他會給你恐怖的書第 3 卷，然後在平原的某處找一下他們的氣息地。
 PROPQUEST_INC_001243,"Don't be a scaredy-cat! Look, I'll even give you 50% of the proceeds from my book sales if you help. Okay?",反正，應該是一個很棒的冒險啦!我會拿我賣書的收入 50% 給你，好不好?
 PROPQUEST_INC_001244,"Yes, great work! I knew you could do it!",哈哈，這麼難的事情都辦完了啊?把這個收下吧!這是達施德的心臟，好噁心喔~我不想看。
 PROPQUEST_INC_001245,"Here, take this. It's Moot's Heart. \n\n*You begin to feel sick…*\n\n Oh shake it off, slacker!",過來，拿好。這是菇菇的心臟。\n\n*你開始感到噁心*\n\n快把那個抖掉，噁心死了！
@@ -800,15 +800,15 @@ PROPQUEST_INC_001382,"You have a question? Out with it, quickly. I have no time 
 PROPQUEST_INC_001383,"Find Kindler and use whatever information he has to locate the Golden Helmet. Then take it, and your letter, to Hormes, the Knight Sage at the The Fountain of Dead Person in Flaris.",從齊德勒那找到黃金帽的下落後，請你去布拉里斯的亡者之泉找騎士賢者 [霍魯美斯‧凱德]。
 PROPQUEST_INC_001385,Successor of Hero -Scroll-,英雄的繼承者-捲軸
 PROPQUEST_INC_001386,"I deeply appreciate what you've already done, but alas, the Helmet's journey does not end here.",感謝你找回這寶貴的東西，我要介紹一個人給你認識……
-PROPQUEST_INC_001387,"It belongs with the Hersan Kurmin, in the Plain of Bubble.",對了，拿這黃金帽去波布爾平原，找管理波布爾的平原的 [庫魯米‧韓森]。
-PROPQUEST_INC_001388,The Kurmin Family has managed the house and relics of Billaon for generations. I'm sure they would reward you handsomely for its return.,把這黃金帽拿給管理波布爾的平原的庫魯米‧韓森，可以從他那得到有用的東西喔！
+PROPQUEST_INC_001387,"It belongs with the Hersan Kurmin, in the Plain of Bubble.",對了，拿這黃金帽去巴布樂平原，找管理巴布樂平原的 [庫魯米‧韓森]。
+PROPQUEST_INC_001388,The Kurmin Family has managed the house and relics of Billaon for generations. I'm sure they would reward you handsomely for its return.,把這黃金帽拿給管理巴布樂平原的庫魯米‧韓森，可以從他那得到有用的東西喔！
 PROPQUEST_INC_001389,"Time is a-wasting, Mercenary! Hurry along, now!",出發吧！快點出發吧！
 PROPQUEST_INC_001390,"No time to be showered with the appreciation and riches of a wealthy family? Very well, then...",沒有時間享受富裕家庭的讚賞和財富？ 那好吧..
 PROPQUEST_INC_001391,"Oh my… I can't believe it.... I've been looking for this for years. Thank you, thank you very much!",(啜泣聲) 真的謝謝你，為了找這個東西，我不知道花了多少時間，真的很謝謝你~
 PROPQUEST_INC_001392,I'd like to give you something for bringing this back to the Kurmin family.,我是……什麼？你已經知道我是誰了啊？那就不用再介紹了！謝謝你幫我找回黃金帽！這是我的一點心意。
 PROPQUEST_INC_001393,"This Scroll has only been passed down to the Knights in my family line, until now. I'd like you to have it.",這是只有繼承者才可以拿到的捲軸，現在我把這個給你！
 PROPQUEST_INC_001394,"What nice weather! Oh, I'm sorry, did you need to speak with me?",天氣真不錯，對了！你找我有什麼事嗎？
-PROPQUEST_INC_001395,Go to the Plain of Bubble to meet Kurmin and give her the Golden Helmet.,對了，拿這黃金帽去波布爾的平原，找管理波布爾的平原的庫魯米‧韓森！
+PROPQUEST_INC_001395,Go to the Plain of Bubble to meet Kurmin and give her the Golden Helmet.,對了，拿這黃金帽去巴布樂平原，找管理巴布樂平原的庫魯米‧韓森！
 PROPQUEST_INC_001397,Successor of Hero -Altar-,英雄的繼承者-集團-
 PROPQUEST_INC_001398,"To show my gratitude, I’ll help you further along your way towards becoming a Knight.",我給你的捲軸，記得要好好保管喔！那是你已經成為了英雄繼承者的證明！
 PROPQUEST_INC_001399,You’ll need to visit the Altar of Knight at Magmient in Darkon 3.,去得肯第 3 地區的美格米昂，騎士祭壇就在那附近！
@@ -1104,13 +1104,13 @@ PROPQUEST_INC_001777,Great Clockworks War - 2nd,第 2 次時空毀滅者戰爭
 PROPQUEST_INC_001778,"Now for the final step! You've already heard about the Great Clockworks War. Actually, there was another Clockworks War after that…",那麼，進行第 3 個階段瞜！！在大時空毀滅者戰爭過後，又發生了一次戰爭！！
 PROPQUEST_INC_001779,"That time, Clockworks was defeated and captured.",那場戰爭，是由我們人類打敗了時空毀滅者……
 PROPQUEST_INC_001780,"He was held at the cage where he was defeated by the allied forces of Flarine, Saint City and Darkon.",我們將時空毀滅者封印在地牢中，在這次大戰，也留下了一些東西！！
-PROPQUEST_INC_001781,You can see the evidence of the war in Darkon 1 and at the Plain of Bubble in Flaris.,戰爭所造成的痕跡！在得肯 1 及布拉里斯都還看的到……
-PROPQUEST_INC_001782,"Please find 5 War Scars in Darkon 1 and the Plain of Bubble, and then visit my brother, Dr. Estly, who is in Northern Flaris.",要請你先去得肯第 1 區和布拉里斯北方波布爾平原，尋找戰爭殘留碎片 5 個，再交給 Dr. 法小林！
+PROPQUEST_INC_001781,You can see the evidence of the war in Darkon 1 and at the Plain of Bubble in Flaris.,戰爭所造成的痕跡，在得肯 1 及布拉里斯的巴布樂平原都還看得到……
+PROPQUEST_INC_001782,"Please find 5 War Scars in Darkon 1 and the Plain of Bubble, and then visit my brother, Dr. Estly, who is in Northern Flaris.",要請你先去得肯第 1 區和布拉里斯北方巴布樂平原，尋找戰爭殘留碎片 5 個，再交給 Dr. 法小林！
 PROPQUEST_INC_001783,"Fine, have it your way. I guess you just aren't ready to face Clockworks.",看你好像很忙，那我就不耽誤你的時間了！
 PROPQUEST_INC_001784,"Oh, did my brothers send you to me? Then you must be the Clockworks challenger! Please, show me the War Scars.",你是我哥派來的人啊？你好~我叫 Dr. 法小廷！你是為了挑戰而來找我的，沒錯吧？那請給我 5 個戰爭殘留碎片！
 PROPQUEST_INC_001785,"Hmmm… everything looks to be in order here! Here, take this book. It is a more detailed study of Clockworks. It goes into detail about his behavior.",沒錯，是 5 個！！這個給你！這本書紀錄有關時空毀滅者，對你應該會有用的！！
-PROPQUEST_INC_001786,I'm waiting for someone who is supposed to be bringing me something important.,我哥沒有跟你說嗎？請你先去得肯第 1 區和布拉里斯波布爾的平原找戰爭殘留碎片 5 個。
-PROPQUEST_INC_001787,Find 5 War Scars in Darkon 1 and the Plain of Bubble and visit Dr.Estly in Northern Flaris.,請你先去得肯 1 和布拉里斯北方波布爾平原，尋找戰爭殘留碎片 5 個，再交給 Dr. 法小林！
+PROPQUEST_INC_001786,I'm waiting for someone who is supposed to be bringing me something important.,我哥沒有跟你說嗎？請你先去得肯第 1 區和布拉里斯的巴布樂平原找戰爭殘留碎片 5 個。
+PROPQUEST_INC_001787,Find 5 War Scars in Darkon 1 and the Plain of Bubble and visit Dr.Estly in Northern Flaris.,請你先去得肯 1 和布拉里斯北方巴布樂平原，尋找戰爭殘留碎片 5 個，再交給 Dr. 法小林！
 PROPQUEST_INC_001789,Show What You Can Do,展現實力！
 PROPQUEST_INC_001790,"Well, it looks like you have all the information you need about Clockworks.",你對時空毀滅者應該有一定程度的了解，現在就要來真的囉！
 PROPQUEST_INC_001791,"So, after all that, the masterpiece of Darkon was created, Clocks! What? You don't know what Clocks is?",[克拉斯]！！你知道是什麼嗎？

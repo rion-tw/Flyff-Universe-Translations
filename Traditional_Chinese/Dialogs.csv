@@ -120,7 +120,7 @@ NPC_000127,We must never forget the sacrifice of the Heroes. We are here to trai
 NPC_000128,"I am Guardian Boneper. I'm here to protect the will of Billaon, the Knight Hero, at all costs. We are seeking those who are worthy enough to follow the path of the Knight Hero.",我是守護騎士英雄畢雷恩的騎士守護者波內佩拉，我們正在尋找那些值得追隨騎士英雄之路的人。
 NPC_000129,"May the courage of Billaon be with you, adventurer.",希望畢雷恩的勇氣一直與你同在，冒險者！
 NPC_000130,We are here to protect the will of the Heroes. Are you worthy to become a successor of the Billposter Hero?,支持爆咒師英雄羅瓦特的人們啊！準備好繼承英雄的遺志了嗎？
-NPC_000131,"I fear that those who follow Shade, Iblis and Bubble too closely will be destroyed by them in the end. Follow the path of the Heroes and you will not lose your way.",不管是生是死！英雄的遺志要傳承下去！
+NPC_000131,"I fear that those who follow Shade, Iblis and Bubble too closely will be destroyed by them in the end. Follow the path of the Heroes and you will not lose your way.",我擔心那些過於追隨闇影、伊布利斯和巴布樂的人，最後終將被他們毀滅。追隨英雄的道路，你就不會迷失方向。
 NPC_000132,"My name is Guardian Capafe. I am here as a guide and I protect the will of Roentel, the Billposter Hero.",我是 [爆咒師守護者] 卡班沛，守護著爆咒師英雄羅瓦特的意志。
 NPC_000133,The power of Roentel will protect and guide you.,以羅瓦特的力量為榮！
 NPC_000134,Rare metals and minerals reside deep within the Dekane Mine.,礦山裡有石頭，又有鐵鎚…
@@ -193,7 +193,7 @@ NPC_000200,"Hello there! I am the Guild Siege Merchant. I'm here to sell any and
 NPC_000201,"Good luck out there, champ!",如果有好消息的話，別忘的也要告訴我喔。
 NPC_000202,"Hmmm, no. This is no good. I need more information. I wish someone could help me.",可能需要再詳細一點調查啦…嗯…如果有人可以幫我的話再好不過了。
 NPC_000203,"Madrigal holds much history, and many secrets, some of which should stay hidden. Don't go sticking your nose where it doesn't belong if you know what's good for ya'.",瑪德利賈有太多的秘密了，聽說其中有些秘密絕對不能讓任何人知道...真好笑啊。
-NPC_000204,I am Hachal Gedvas. I was kicked out of the Madrigal History Society. Now I roam the Plain of Bubble in search of Madrigals many secrets.,我是在瑪德利賈歷史協會…惹太多麻煩，而被趕出來的歷史學者夏格凱巴。
+NPC_000204,I am Hachal Gedvas. I was kicked out of the Madrigal History Society. Now I roam the Plain of Bubble in search of Madrigals many secrets.,我是夏格凱巴。我被瑪德利賈歷史協會趕了出來。現在我在巴布樂平原四處遊走，尋找瑪德利賈的眾多祕密。
 NPC_000205,Be careful out there. Watch your step!,祝你一路順風喔，呵呵呵。
 NPC_000239,Aenn 's Teardrops have helped to deliver peace to this world.,阿利安諾！你的眼淚帶來了世界和平！
 NPC_000240,"They've gone now, but the lives saved by their sacrifice will be forever remembered.",英雄的犧牲，保全了這個世界的和平！
@@ -391,7 +391,7 @@ NPC_000436,"Trust in Aenn, and your path shall be lit with the light of a thousa
 NPC_000437,"The Heroes sacrificed themselves to defeat Shade, but she will one day return. We must prepare.",決定命運的時刻，終於來臨！
 NPC_000438,"My name is Clamb Cobonet, the Ringmaster Wise Man. I am here to preserve the legacy of Aenn, the Ringmaster Hero and to light the path for those that wish to follow in Aenn's footsteps. Have faith, young one, Aenn watches over you.",我的名字是可伯內特，守護者賢者，我來這裡是為了保護守護者英雄 阿利安諾的遺志，並為那些希望追隨阿利安諾腳步的人照亮道路。
 NPC_000439,"Follow the path of Aenn, and you will never be forgotten.",跟隨阿利安諾的道路，你將永遠不會被遺忘。
-NPC_000440,Bubble watches over all aspiring heroes. ,好好加油！一切順利囉！
+NPC_000440,Bubble watches over all aspiring heroes. ,巴布樂守護著所有心懷抱負的英雄。
 NPC_000441,The shields of the Heroes have defended Madrigal from the wrath of Shade. We are forever grateful for their bravery and wish to preserve their memory for all time.,就算結果有所不同，但所要經歷的考驗是相同的！
 NPC_000442,"My name is Cuarine Coexar and I am the Psykeeper Wise Man. I preserve the history of the Heroes and provide guidance for those wishing to follow the path Offerep, the Psykeeper Hero.",我是 [念力師賢者] 可林！
 NPC_000443,"Follow the path of the Heroes, and you will never lose your way.",念力師的象徵就是擁有堅強的精神信念！
@@ -418,7 +418,7 @@ NPC_000463,"7. That about covers it for your flying combat training, cadet! Just
 NPC_000464,Have fun out there and be safe! Don't forget to check your six!,祝您冒險愉快！別忘了確認第六項！
 NPC_000465,"Goodbye, adventurer! Feel free to stop by again if you have any questions about flying.",再見了，冒險者！如果您對飛行還有任何疑問，請隨時再次光臨。
 NPC_000466,Why do we all have to wear the same outfit? ,沒有其他地方比這更適合我的，你說是吧！
-NPC_000467,"Rhisis created the three Clown Gods; Shade, Iblis and Bubble and bestowed each of them with a different aspect of herself. Shade, infused with the Fear and Rage of Rhisis, nearly destroy our original home, Roika.",黎希絲創造了三個小丑神； 闇影、伊布利斯 和 波布爾 賦予他們每個人不同的一面。 充滿黎希絲的恐懼和憤怒的陰影幾乎摧毀了我們原來的家，洛伊卡。
+NPC_000467,"Rhisis created the three Clown Gods; Shade, Iblis and Bubble and bestowed each of them with a different aspect of herself. Shade, infused with the Fear and Rage of Rhisis, nearly destroy our original home, Roika.",黎希絲創造了三個小丑神； 闇影、伊布利斯 和 巴布樂 賦予他們每個人不同的一面。 充滿黎希絲的恐懼和憤怒的陰影幾乎摧毀了我們原來的家，洛伊卡。
 NPC_000468,"I am Domek Ilujian, the Billposter Wise Man. I am here to record the history of the Billposter Hero, Roentel, and educate travelers on Madrigal's rich history.",我是 [爆咒師賢者] 德邁洛‧詹。
 NPC_000469,"Farewell, traveler. If we do not learn from our past, we are doomed to repeat it.",人因夢想而偉大……
 NPC_000470,#b#cff8a004fCheck in here to review the weekly results of the #cfffc0000Guild Siege!#nc#nb,#b#cff0000ff想知道對戰的結果嗎?我會引導你的。#nc#nb
@@ -433,7 +433,7 @@ NPC_000478,"Assists are way better than Mercenaries! Quiet Mustang! *chuckles* H
 NPC_000479,"What is that crazy Mustang babbling about now... Ah, no matter. Every party needs an Assist. Any schmuck can wack a monster in the head, but we can do that AND play a support role! Do you like popularity? Than this is the job for you!",我.. 為了成為神職者走了很漫長的路。希望你也走這樣的路。這個才是真正成為神職者的路程。
 NPC_000480,"I am Captain Elic Eward of the Madrigal Job Training Center. If you want to become an Assist, I can help you.",我是瑪德利賈的訓練教官艾里維得。如果想成為神職者的話，請來找我，我一定會幫你成為真正的神職者。
 NPC_000481,"Remember, every party needs an Assist! Don't leave home without us!",不要忘記幫助自己這句話，加油!
-NPC_000482,Yay! I am so happy! Bubble smiles on us!,我好高興喔~
+NPC_000482,Yay! I am so happy! Bubble smiles on us!,我好高興喔~巴布樂正對著我們微笑！
 NPC_000483,"I may not look like much, but I'm very powerful. I'm ready for anything! The Soldiers of Kion will prevail!",潘不大能相信陌生人，你可別見怪！
 NPC_000484,"My name is Eoners Archer and I am one of the hired soldiers of Kion. We are here to protect the citizens of Flarine, as long as the money is right. \n*wink*",我的名字是「恩內爾思」，我是凱英的僱傭兵之一。 只要錢到位，我們就會在這保護所有布拉里斯的公民。*眨眼*
 NPC_000485,Love to Kion!!,為了傭兵團的光榮勝利！
@@ -524,9 +524,9 @@ NPC_000597,"Hello, my friend. There is something I require your assistance with.
 NPC_000598,The Heroes saved us all from certain doom. We are forever grateful for their bravery. Will you follow the path of the Heroes?,他們拯救了世界，後代子孫將永遠記得！
 NPC_000599,"My name is Sage Kimel and I am here as a guide to those seeking the knowledge of the Heroes. Sage Radion is the greatest Wise Man of all of us. If you seek knowledge, go to him.",我是 8 位賢者中的其中一位，我承接大賢者拉迪溫的遺志，在這裡負責記錄英雄的歷史！
 NPC_000600,The Heroes live on through all of us.,英雄永遠存活在人民的心中！
-NPC_000601,"Hello there, traveler! This area, the plain of Bubble, was created by Bubble himself, long ago.",這裡是傳說的波布爾的平原！
+NPC_000601,"Hello there, traveler! This area, the plain of Bubble, was created by Bubble himself, long ago.",這裡是傳說的巴布樂平原！
 NPC_000602,The earth trembled as the battle between Shade and the Heroes was fought viciously. Scars from this battle can be seen all over madrigal.,至今人們聽到那個傳說，還是會害怕不已……
-NPC_000603,"Welcome, my name is Kurmin Hersan and I watch over the Plain of Bubble. It's an amazing area filled with life. It is a powerful place that seems to fill your soul with love and euphoria.",我是負責管理波布爾的平原，歡迎你來到此地！
+NPC_000603,"Welcome, my name is Kurmin Hersan and I watch over the Plain of Bubble. It's an amazing area filled with life. It is a powerful place that seems to fill your soul with love and euphoria.",我是負責管理巴布樂平原，歡迎你來到此地！
 NPC_000604,"Oh man! All this shoveling, all day long! Can't I have a break?!",劍的響亮混動了天空，巨大的斧頭指向大地。所有的東西即將被奪走的象徵..
 NPC_000605,"*Langdrong grins at you*\nYou want me to say hello to you? Haha, never! I may live like you humans but I am nothing like you! So nyah!",*壞笑*\n你好啊?以為我會這樣說嘛?哈..我做的事情雖然跟人類很像，但是我跟完全不同啦!!
 NPC_000606,Me? You want to know who I am? Hahaha! What a shame the feeling isn't mutual. I am High-Dwarpet Langdrong Clo and I'm the keeper of the Mercenaries Book of Technique. Happy?,我?哈哈，真懂事啊。我很欣賞你的那個想了解我的心，嘻嘻。我是杜爾沛，名叫克羅。擔任保管勇者的東西。
@@ -553,7 +553,7 @@ NPC_000626,Don't forget to shop at Handsome Lui's General Shop for your adventur
 NPC_000627,"So many Vagrants, so little time!",選擇神職者之路的學徒們啊~您們即將會得到祝福的..
 NPC_000628,"Assists are masters of healing wounds in combat, enhancing abilities, and can be fierce opponents in close quarters combat. Never underestimate an Assist. ",自己立下的行為是不會消失的，要跟隨收斂與苦行，請不要對自己的收斂做出投機取巧的行為。
 NPC_000629,My name is Maki Ah and I am the Assist Master of Flarine. I'm here to guide young Vagrants on the path to becoming an Assist.,我是專業的轉職者瑪吉，擔任神職者的轉職。
-NPC_000630,May Bubble watch over you.,神職者的身邊總會有很多的祝福相伴。
+NPC_000630,May Bubble watch over you.,願巴布樂庇佑你。
 NPC_000631,"Are you as intrigued by magic as I am? Well, look no further! I have wands, staves, blinkwings and Magician Armor in stock now!",夢想的魔法世界！在魔力夢夢的魔法商店什麼都可以實現喔~
 NPC_000632,Please solve this mystery as soon as possible.,請儘快處理，麻煩了！
 NPC_000633,"My mentor, Mule, got himself into some trouble. I highly doubt I'll ever see him again. I've taken it upon myself to continue running his magic shop. It's the least I could do. ","我的導師,「謬」給自己惹了麻煩。 我非常懷疑我是否還能再見到他。 我已經擔起繼續經營他的魔法商店的重任。 至少這是我能做的的事情。"
