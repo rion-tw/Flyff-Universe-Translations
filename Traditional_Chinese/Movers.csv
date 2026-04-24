@@ -291,7 +291,7 @@ PROPMOVER_TXT_000630,Julia,喬艾倫
 PROPMOVER_TXT_000632,Lui,路伊
 PROPMOVER_TXT_000634,Marche,魔力夢夢
 PROPMOVER_TXT_000636,Bulrox,布隆
-PROPMOVER_TXT_000638,Tina,綈娜
+PROPMOVER_TXT_000638,Tina,蒂娜
 PROPMOVER_TXT_000640,Karin,卡琳
 PROPMOVER_TXT_000642,Martin,馬丁
 PROPMOVER_TXT_000644,Bill,比爾
@@ -312,7 +312,7 @@ PROPMOVER_TXT_000672,Almani,阿爾瑪尼
 PROPMOVER_TXT_000674,Achaben,安迪
 PROPMOVER_TXT_000676,Eshylop,愛雪琳
 PROPMOVER_TXT_000678,Remine,雷米娜
-PROPMOVER_TXT_000680,Unknown,安諾恩
+PROPMOVER_TXT_000680,Unknown,未知
 PROPMOVER_TXT_000682,Agent,仲介人
 PROPMOVER_TXT_000684,Ancimys,安奇米斯
 PROPMOVER_TXT_000686,Guardian,卡第恩
@@ -402,11 +402,11 @@ PROPMOVER_TXT_000856,Brigadier General Crumple,活動專用崩崩
 PROPMOVER_TXT_000858,Lieutenant General Scythoid,活動專用赤螳螂
 PROPMOVER_TXT_000860,Air Marshall Spiketail,活動專用骷髏魔翼
 PROPMOVER_TXT_000862,General Glyphaxz,活動專用變種蝙蝠俠
-PROPMOVER_TXT_000866,Soccerball Angel,angel ball
+PROPMOVER_TXT_000866,Soccerball Angel,足球天使
 PROPMOVER_TXT_000868,Kidler,齊德勒
 PROPMOVER_TXT_000870,Shacalpion,沙卡畢歐
 PROPMOVER_TXT_000872,Hoiren,胡歐仁
-PROPMOVER_TXT_000874,Hunter X,獵人X
+PROPMOVER_TXT_000874,Hunter X,獵人 X
 PROPMOVER_TXT_000876,Kynsy,奇撒易
 PROPMOVER_TXT_000878,Iblis Crasher,地穴妖獸
 PROPMOVER_TXT_000880,Iblis Poisoner,地穴血紅蠍
@@ -440,7 +440,7 @@ PROPMOVER_TXT_000934,Baby Polar Bear,可愛的北極熊
 PROPMOVER_TXT_000936,Polar Bear,北極熊
 PROPMOVER_TXT_000946,Mailbox,郵箱
 PROPMOVER_TXT_000950,Blue Meteonyker,湛藍流星領主
-PROPMOVER_TXT_000954,Baby Penguin,企鵝
+PROPMOVER_TXT_000954,Baby Penguin,可愛的企鵝
 PROPMOVER_TXT_000956,Baby Iguana,可愛的鬣蜥
 PROPMOVER_TXT_000958,Baby Cobra,可愛的眼鏡蛇
 PROPMOVER_TXT_000960,Egg,寶貝蛋
@@ -484,8 +484,8 @@ PROPMOVER_TXT_001080,Baby Black Dragon,勇猛的神龍
 PROPMOVER_TXT_001196,Baby Yetti,小雪人
 PROPMOVER_TXT_001300,[Guildwar Manager] Frankie,[公會對戰管理員] 法蘭奇
 PROPMOVER_TXT_001302,[Guildwar Manager] Donaris,[公會對戰管理員] 多娜利司
-PROPMOVER_TXT_001304,[1vs1Guildwar Manager] Amos,[1vs1公會對戰管理員] 阿摩司
-PROPMOVER_TXT_001306,[1vs1Guildwar Manager] Annie,[1vs1公會對戰管理員] 艾妮
+PROPMOVER_TXT_001304,[1vs1Guildwar Manager] Amos,[1vs1 公會對戰管理員] 阿摩司
+PROPMOVER_TXT_001306,[1vs1Guildwar Manager] Annie,[1vs1 公會對戰管理員] 艾妮
 PROPMOVER_TXT_001308,[Arena Manager] Lay,[自由競技場管理員] 雷伊
 PROPMOVER_TXT_001310,Mayor,市長
 PROPMOVER_TXT_001318,English Bulldog,兇猛牛頭犬
@@ -540,7 +540,7 @@ PROPMOVER_TXT_002034,Usagi,可愛小兔精靈
 PROPMOVER_TXT_002036,Cooperative Donation NPC,合作捐贈 NPC
 PROPMOVER_TXT_002038,X900 EvilTron,淘氣鬼機器惡魔
 PROPMOVER_TXT_002040,Mister Grizz,可愛的泰迪熊
-PROPMOVER_TXT_002162,Lil' Potato,Gpotato
+PROPMOVER_TXT_002162,Lil' Potato,小薯仔
 PROPMOVER_TXT_002166,Friendly Baby Kargo,可愛的卡勒古先生
 PROPMOVER_TXT_002170,Charming Babushka Doll,瑪特羅斯奇
 PROPMOVER_TXT_002232,Cute Baby Cat,可愛小貓
@@ -552,7 +552,7 @@ PROPMOVER_TXT_002242,Tamed Bolo,溫馴的哈薩拉
 PROPMOVER_TXT_002282,Pink Mocomochi Pet,粉紅摩可摩奇寵物 
 PROPMOVER_TXT_002284,Rainbow Mocomochi Pet,彩虹摩可摩奇寵物 
 PROPMOVER_TXT_002286,Black Bulldog Pet,黑色牛頭犬
-PROPMOVER_TXT_002288,Red Dragon Pet,Red Dragon
+PROPMOVER_TXT_002288,Red Dragon Pet,可愛的赤龍
 PROPMOVER_TXT_002292,Blue Snowman Pet,藍色雪人寵物
 PROPMOVER_TXT_002142,Reonan,雷奧南
 PROPMOVER_TXT_002144,Nerco,尼羅可
@@ -729,9 +729,9 @@ PROPMOVER_TXT_100161,Black Alien Octopus,黑色外星章魚
 PROPMOVER_TXT_100162,Baby Peakyturtle,可愛的戰車蟲
 PROPMOVER_TXT_100163,Baby Rock Muscle,可愛的牛唄唄
 PROPMOVER_TXT_100164,Baby Giggle Box,可愛的整人箱
-PROPMOVER_TXT_100165,Baby Totemia,寶貝疊疊樂
-PROPMOVER_TXT_100166,Baby Fafnir,寶貝法夫尼爾
-PROPMOVER_TXT_100167,Baby Popcrank,寶貝不恐怖小丑
+PROPMOVER_TXT_100165,Baby Totemia,可愛的疊疊樂
+PROPMOVER_TXT_100166,Baby Fafnir,可愛的法夫尼爾
+PROPMOVER_TXT_100167,Baby Popcrank,不恐怖小丑
 PROPMOVER_TXT_100168,Rookie Cloudberry Carrier,菜鳥雲朵莓運送者
 PROPMOVER_TXT_100169,Cloudberry Carrier,雲朵莓運送者
 PROPMOVER_TXT_100170,Lightberry Carrier,燈莓運送者
@@ -833,7 +833,7 @@ PROPMOVER_TXT_100269,Temple Guardian,聖殿守護者
 PROPMOVER_TXT_100270,Sentient Tree Warrior,有情樹戰士
 PROPMOVER_TXT_100271,Old Rut,舊車轍
 PROPMOVER_TXT_100244,Skeletal Militant,冥骸武士
-PROPMOVER_TXT_100245,Crystal Demon Lord,水晶魔王
+PROPMOVER_TXT_100245,Crystal Demon Lord,冰晶惡魔領主
 PROPMOVER_TXT_100246,Great Kraken,大克拉肯
 PROPMOVER_TXT_100247,Siren,賽伊蓮 
 PROPMOVER_TXT_100248,Lurking Merman,潛伏人魚
@@ -892,8 +892,8 @@ PROPMOVER_TXT_001172,Small Catsy,部下凱西貓
 PROPMOVER_TXT_001174,Catsy,凱西貓 
 PROPMOVER_TXT_001176,Giant Catsy,頭目凱西貓 
 PROPMOVER_TXT_001178,Captain Catsy,巨大凱西貓 
-PROPMOVER_TXT_001218,Knight 2,騎士2
-PROPMOVER_TXT_001220,Knight 1,騎士1
+PROPMOVER_TXT_001218,Knight 2,騎士 2
+PROPMOVER_TXT_001220,Knight 1,騎士 1
 PROPMOVER_TXT_001221,Queen Long Legs,長腿女王
 PROPMOVER_TXT_001222,Nightmist Empress,領主輔佐官 
 PROPMOVER_TXT_001223,Bolt Otem,螺栓歐騰
@@ -996,12 +996,12 @@ PROPMOVER_TXT_110066,Baby Wheelem,寶寶惠勒姆
 PROPMOVER_TXT_110067,Gacha Machine,扭蛋機
 PROPMOVER_TXT_110068,Skating Cat,溜冰貓
 PROPMOVER_TXT_110069,Bach,巴赫
-PROPMOVER_TXT_110070,Neo Purple Robot,尼奧紫機器人
-PROPMOVER_TXT_110071,Neo Green Robot,尼奧綠機器人
-PROPMOVER_TXT_110072,Neo Orange Robot,尼奧橙機器人
-PROPMOVER_TXT_110073,Neo Yellow Robot,尼奧黃機器人
-PROPMOVER_TXT_110074,Neo Black Robot,尼奧黑機器人
-PROPMOVER_TXT_110075,Neo White Robot,尼奧白機器人
+PROPMOVER_TXT_110070,Neo Purple Robot,新潮紫機器人
+PROPMOVER_TXT_110071,Neo Green Robot,新潮綠機器人
+PROPMOVER_TXT_110072,Neo Orange Robot,新潮橙機器人
+PROPMOVER_TXT_110073,Neo Yellow Robot,新潮黃機器人
+PROPMOVER_TXT_110074,Neo Black Robot,新潮黑機器人
+PROPMOVER_TXT_110075,Neo White Robot,新潮白機器人
 PROPMOVER_TXT_110076,Pink Flying Froggy,粉紅飛蛙
 PROPMOVER_TXT_110077,Green Flying Froggy,綠色飛蛙
 PROPMOVER_TXT_110078,Purple Flying Froggy,紫色飛蛙
@@ -1056,7 +1056,7 @@ PROPMOVER_TXT_210095,Tanuki Enforcer,浣熊執行官
 PROPMOVER_TXT_210096,Tanuki Protector,浣熊守衛者
 PROPMOVER_TXT_210097,Wildwood Stalker,叢林追獵者
 PROPMOVER_TXT_210098,Wildwood Chieftain,叢林酋長
-PROPMOVER_TXT_210099,Beast King Khan,百獸之王・可汗
+PROPMOVER_TXT_210099,Beast King Khan,百獸之王‧可汗
 PROPMOVER_TXT_210100,Small Kingster,小型霸王蝦
 PROPMOVER_TXT_110101,Kingster,霸王蝦
 PROPMOVER_TXT_110102,Captain Kingster,大型霸王蝦
@@ -1121,7 +1121,7 @@ PROPMOVER_TXT_210160,Kammie,卡米
 PROPMOVER_TXT_210161,BoBu,波布
 PROPMOVER_TXT_210162,Talus,塔盧斯
 PROPMOVER_TXT_210163,Inventor Remi,發明家蕾米
-PROPMOVER_TXT_210164,Sunny Pang,陽光胖胖
+PROPMOVER_TXT_210164,Sunny Pang,晴光龐
 PROPMOVER_TXT_210165,'s Artifact,的神器
 PROPMOVER_TXT_210166,Tanuki Trainee,狸貓學徒
 PROPMOVER_TXT_210167,Wildwood Shaman,荒林薩滿
@@ -1313,10 +1313,10 @@ PROPMOVER_TXT_400326,Green Medieval Horse,綠色瑞加戰馬
 PROPMOVER_TXT_400327,Red Medieval Horse,紅色瑞加戰馬
 PROPMOVER_TXT_400328,Black Medieval Horse,黑色瑞加戰馬
 PROPMOVER_TXT_400329,Captain Luminfin,大型輝鱗
-PROPMOVER_TXT_400330,[Depths Guardian] Bunyip,[深淵守護者] 邦伊普
-PROPMOVER_TXT_400331,[Depths Queen] Nereid,[深淵女王] 涅瑞伊德
+PROPMOVER_TXT_400330,[Depths Guardian] Bunyip,深淵守護者‧邦伊普
+PROPMOVER_TXT_400331,[Depths Queen] Nereid,深淵女王‧涅瑞伊德
 PROPMOVER_TXT_400332,Sovann,索萬
-PROPMOVER_TXT_400333,[Shade Lieutenant] Kriton,[謝莉德影將] 克里頓
+PROPMOVER_TXT_400333,[Shade Lieutenant] Kriton,謝莉德影將‧克里頓
 PROPMOVER_TXT_400334,Dreadfin,恐鰭
 PROPMOVER_TXT_400335,Captain Dreadfin,恐鰭隊長
 PROPMOVER_TXT_400336,Dreadscale,怖鱗
@@ -1354,7 +1354,7 @@ PROPMOVER_TXT_400371,White Roaryen,白吼獅
 PROPMOVER_TXT_400372,Black Roaryen,黑吼獅
 PROPMOVER_TXT_001236,Mechamochi,摩可摩奇
 PROPMOVER_TXT_001237,[Event] Clockworks,[活動] 時空毀滅者
-PROPMOVER_TXT_001238,Baby Pang,胖胖
+PROPMOVER_TXT_001238,Baby Pang,可愛的胖胖
 PROPMOVER_TXT_400373,Lord Mothbee,蜂之王
 PROPMOVER_TXT_400374,Lord Zendros,惡魔之眼
 PROPMOVER_TXT_400375,Lord Dumb Bull,荒原牛之王
@@ -1377,12 +1377,12 @@ PROPMOVER_TXT_400391,Lord Naga,那伽之王
 PROPMOVER_TXT_400392,Overlord Naga,那伽霸主
 PROPMOVER_TXT_400393,Overlord Meral,強襲海盜隊長霸主
 PROPMOVER_TXT_400394,Lord Tigar,熱帶虎之王
-PROPMOVER_TXT_400395,Pink Guardian Easter Bunny,粉櫻守護者・復活節兔
-PROPMOVER_TXT_400396,Green Guardian Easter Bunny,碧翠守護者・復活節兔
-PROPMOVER_TXT_400397,Blue Guardian Easter Bunny,蔚藍守護者・復活節兔
-PROPMOVER_TXT_400398,Orange Guardian Easter Bunny,橙焰守護者・復活節兔
-PROPMOVER_TXT_400399,Purple Guardian Easter Bunny,紫晶守護者・復活節兔
-PROPMOVER_TXT_400400,Dark Guardian Easter Bunny,暗黑守護者・復活節兔
+PROPMOVER_TXT_400395,Pink Guardian Easter Bunny,粉櫻復活節兔兔
+PROPMOVER_TXT_400396,Green Guardian Easter Bunny,碧翠復活節兔兔
+PROPMOVER_TXT_400397,Blue Guardian Easter Bunny,蔚藍復活節兔兔
+PROPMOVER_TXT_400398,Orange Guardian Easter Bunny,橙焰復活節兔兔
+PROPMOVER_TXT_400399,Purple Guardian Easter Bunny,紫晶復活節兔兔
+PROPMOVER_TXT_400400,Dark Guardian Easter Bunny,暗黑復活節兔兔
 PROPMOVER_TXT_400401,Lord Yetti,怪力羊之王
 PROPMOVER_TXT_400402,Purple Pawsy,紫色帕西
 PROPMOVER_TXT_400403,Red Pawsy,紅色帕西
@@ -1401,18 +1401,18 @@ PROPMOVER_TXT_400415,Yellow Flumos,黃焰靈
 PROPMOVER_TXT_400416,White Flumos,白焰靈
 PROPMOVER_TXT_400417,Black Flumos,黑焰靈
 PROPMOVER_TXT_400418,Wounded Revolutionary,負傷的革命者
-PROPMOVER_TXT_400419,Yellow Breezy,黃風靈
-PROPMOVER_TXT_400420,Purple Breezy,紫風靈
-PROPMOVER_TXT_400421,Blue Breezy,藍風靈
-PROPMOVER_TXT_400422,Pink Breezy,粉風靈
-PROPMOVER_TXT_400423,White Breezy,白風靈
-PROPMOVER_TXT_400424,Black Breezy,黑風靈
-PROPMOVER_TXT_400425,Blue Pawsh,藍爪靈
-PROPMOVER_TXT_400426,Pink Pawsh,粉爪靈
-PROPMOVER_TXT_400427,Orange Pawsh,橙爪靈
-PROPMOVER_TXT_400428,Green Pawsh,碧爪靈
-PROPMOVER_TXT_400429,Navy Pawsh,深藍爪靈
-PROPMOVER_TXT_400430,Red Pawsh,赤爪靈
+PROPMOVER_TXT_400419,Yellow Breezy,微悠黃汪
+PROPMOVER_TXT_400420,Purple Breezy,微悠紫汪
+PROPMOVER_TXT_400421,Blue Breezy,微悠藍汪
+PROPMOVER_TXT_400422,Pink Breezy,微悠粉汪
+PROPMOVER_TXT_400423,White Breezy,微悠白汪
+PROPMOVER_TXT_400424,Black Breezy,微悠黑汪
+PROPMOVER_TXT_400425,Blue Pawsh,優雅藍紳士貓
+PROPMOVER_TXT_400426,Pink Pawsh,優雅粉紳士貓
+PROPMOVER_TXT_400427,Orange Pawsh,優雅橙紳士貓
+PROPMOVER_TXT_400428,Green Pawsh,優雅綠紳士貓
+PROPMOVER_TXT_400429,Navy Pawsh,優雅海藍紳士貓
+PROPMOVER_TXT_400430,Red Pawsh,優雅紅紳士貓
 PROPMOVER_TXT_400431,Fortune Pang,招財胖胖
 PROPMOVER_TXT_400432,Orange Marshall,橙焰統領
 PROPMOVER_TXT_400433,Green Marshall,碧翠統領
@@ -1437,14 +1437,14 @@ PROPMOVER_TXT_400451,Cyan Frogzy,青蛙仔
 PROPMOVER_TXT_400452,Mint Green Frogzy,薄荷綠蛙仔
 PROPMOVER_TXT_400453,Black Frogzy,黑蛙仔
 PROPMOVER_TXT_400454,White Frogzy,白蛙仔
-PROPMOVER_TXT_400455,Orange Whispero,橘色低語者
-PROPMOVER_TXT_400456,Yellow Whispero,黃色低語者
-PROPMOVER_TXT_400457,Pink Whispero,粉色低語者
-PROPMOVER_TXT_400458,Purple Whispero,紫色低語者
-PROPMOVER_TXT_400459,Blue Whispero,藍色低語者
-PROPMOVER_TXT_400460,Green Whispero,綠色低語者
-PROPMOVER_TXT_400461,Black Whispero,黑色低語者
-PROPMOVER_TXT_400462,White Whispero,白色低語者
+PROPMOVER_TXT_400455,Orange Whispero,橘色幽語靈
+PROPMOVER_TXT_400456,Yellow Whispero,黃色幽語靈
+PROPMOVER_TXT_400457,Pink Whispero,粉色幽語靈
+PROPMOVER_TXT_400458,Purple Whispero,紫色幽語靈
+PROPMOVER_TXT_400459,Blue Whispero,藍色幽語靈
+PROPMOVER_TXT_400460,Green Whispero,綠色幽語靈
+PROPMOVER_TXT_400461,Black Whispero,黑色幽語靈
+PROPMOVER_TXT_400462,White Whispero,白色幽語靈
 PROPMOVER_TXT_400463,Green Mecha Rabbit,綠色機甲兔
 PROPMOVER_TXT_400464,Orange Mecha Rabbi,橘色機甲兔
 PROPMOVER_TXT_400465,Red Mecha Rabbit,紅色機甲兔
@@ -1500,18 +1500,18 @@ PROPMOVER_TXT_500043,Hellhound,地獄犬
 PROPMOVER_TXT_500044,Captain Hellhound,大型地獄犬
 PROPMOVER_TXT_500045,Giant Hellhound,巨型地獄犬
 PROPMOVER_TXT_500046,Violet Hellhound,墮落的地獄犬
-PROPMOVER_TXT_500047,Chief Keokuk,酋長基奧卡克
+PROPMOVER_TXT_500047,Chief Keokuk,基奧卡克酋長
 PROPMOVER_TXT_500048,Monument of Death,亡魂碑
-PROPMOVER_TXT_500049,[Twisted Soul] Orcus,[扭曲之魂] 奧耳庫斯
-PROPMOVER_TXT_500050,[Tormented Soul] Nergal,[受難之魂] 涅爾伽勒
-PROPMOVER_TXT_500051,[Demonic Soul] Hel,[魔化之魂] 赫爾
-PROPMOVER_TXT_500052,[Perverted Soul] Morrigan,[墮化之魂] 摩莉甘
-PROPMOVER_TXT_500053,[Anguished Soul] Mara,[哀嚎之魂] 瑪拉
-PROPMOVER_TXT_500054,[Violent Soul] Ghed ,[狂怒之魂] 蓋德
-PROPMOVER_TXT_500055,[God of Death] Ankou,[死神] 安庫
-PROPMOVER_TXT_500056,[God of Death] Blazing Ankou,[死神] 獄焰安庫
-PROPMOVER_TXT_500057,[God of Death] Demonic Ankou,[死神] 冥魔安庫
-PROPMOVER_TXT_500058,[Elder] Traitus,[長老] 特萊圖斯
+PROPMOVER_TXT_500049,[Twisted Soul] Orcus,扭曲之魂‧奧耳庫斯
+PROPMOVER_TXT_500050,[Tormented Soul] Nergal,受難之魂‧涅爾伽勒
+PROPMOVER_TXT_500051,[Demonic Soul] Hel,魔化之魂‧赫爾
+PROPMOVER_TXT_500052,[Perverted Soul] Morrigan,墮化之魂‧摩莉甘
+PROPMOVER_TXT_500053,[Anguished Soul] Mara,哀嚎之魂‧瑪拉
+PROPMOVER_TXT_500054,[Violent Soul] Ghed ,狂怒之魂‧蓋德
+PROPMOVER_TXT_500055,[God of Death] Ankou,死神‧安庫
+PROPMOVER_TXT_500056,[God of Death] Blazing Ankou,獄焰死神‧安庫
+PROPMOVER_TXT_500057,[God of Death] Demonic Ankou,冥魔死神‧安庫
+PROPMOVER_TXT_500058,[Elder] Traitus,長老‧特萊圖斯
 PROPMOVER_TXT_500059,Asylum Guard,禁域守衛
 PROPMOVER_TXT_500060,Ankou,安庫
 PROPMOVER_TXT_500061,Demonic Ankou,冥魔安庫

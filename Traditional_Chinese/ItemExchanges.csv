@@ -1,7 +1,7 @@
 ﻿Key,English,Traditional_Chinese
-EXCHANGE_ROSHAMBO_EVENT,"Exchange 10 mosquitoes and 50,000 Penya for a Rock-Paper-Scissors coupon.",請拿 10隻蚊子和50000金幣 就可換取一張剪刀.石頭.布兌換卷。
-EXCHANGE_CHRISTMAS_EVENT,"Exchange 10 red socks and 50,000 Penya for a Rock-Paper-Scissors coupon.",請拿 10個紅色襪子和50000金幣 就可換取一張剪刀.石頭.布兌換卷。
-EXCHANGE_PIECE,"If you bring me 10 pieces of any item, I will exchange them for a whole one! Just click the item you want to exchange and press Ok!",如果你帶來10件的話，就可以交換唷～！決定好要交換的東西之後只要按下OK就可以了！
+EXCHANGE_ROSHAMBO_EVENT,"Exchange 10 mosquitoes and 50,000 Penya for a Rock-Paper-Scissors coupon.",請拿 10 隻蚊子和 50000 金幣 就可換取一張剪刀.石頭.布兌換券。
+EXCHANGE_CHRISTMAS_EVENT,"Exchange 10 red socks and 50,000 Penya for a Rock-Paper-Scissors coupon.",請拿 10 個紅色襪子和 50000 金幣 就可換取一張剪刀.石頭.布兌換券。
+EXCHANGE_PIECE,"If you bring me 10 pieces of any item, I will exchange them for a whole one! Just click the item you want to exchange and press Ok!",如果你帶來 10 件的話，就可以交換唷～！決定好要交換的東西之後只要按下 OK 就可以了！
 EXCHANGE_DICE,I can exchange your dice with Penya. Just click the item you want to exchange and press Ok!,我可以用金幣交換你的骰子，只需點擊要交換的物品，然後按確定！
 EXCHANGE_REDCHIPS,"The armor sets I sell here in my shop are absolutely the best you can find! So, how many Red Chips do you have, hmmm?",我店裡賣的盔甲套裝絕對是你能找到的最好的！ 那麼你有多少紅籌碼呢？
 EXCHANGE_SUMMER_EVENT,"Exchange Beach Ball, Parasol and Penya for great Beach Boxes!",用沙灘球、遮陽傘和金幣換取很棒的沙灘箱！
@@ -33,5 +33,5 @@ EXCHANGE_PIRATE_SHIP_EVENT,"The pirates stole my treasure map.\nIf you can bring
 EXCHANGE_YELLOWCHIPS,"The items I sell here in my shop will certainly be helpful! So, how many Yellow Chips do you have, hmmm?",我店裡賣的東西絕對對你有幫助！那麼，你現在有多少黃色籌碼呢？
 EXCHANGE_FISHINGCHAMPION_EVENT,"Have you ever... Have you ever been fishing? Once you fall in love with fishing, you'll never get out!",你有沒有釣過魚？一旦你愛上釣魚，你就再也離不開它了！
 EXCHANGE_3RD_ANNIV_EGG_UPGRADE_EVENT,Exchange items for the Egg Upgrade Event,用於兌換蛋升等活動的物品
-EXCHANGE_FWC_COIN_2025,"Hey there! This is where you can exchange your Champion Coins for items you want.\nEach item has a limited number of exchanges, and your coins are limited too.\nSo think carefully and make sure to grab what you really need!\n\n※ Champion Coin disappears once the period is end.\n※ Unused Champion Coin will be replaced to Penya\n ┗ 1 Champion Coin = 10 Penya","Hey there! This is where you can exchange your Champion Coins for items you want.\nEach item has a limited number of exchanges, and your coins are limited too.\nSo think carefully and make sure to grab what you really need!\n\n※ Champion Coin disappears once the period is end.\n※ Unused Champion Coin will be replaced to Penya\n ┗ 1 Champion Coin = 10 Penya"
-EXCHANGE_PTS,Grab useful items for your testing purposes here!,Grab useful items for your testing purposes here!
+EXCHANGE_FWC_COIN_2025,"Hey there! This is where you can exchange your Champion Coins for items you want.\nEach item has a limited number of exchanges, and your coins are limited too.\nSo think carefully and make sure to grab what you really need!\n\n※ Champion Coin disappears once the period is end.\n※ Unused Champion Coin will be replaced to Penya\n ┗ 1 Champion Coin = 10 Penya",嗨！這裡是你可以用冠軍幣兌換你想要的物品的地方。\n每個物品都有有限的兌換次數，你的幣也是有限的。\n所以要仔細考慮，確保抓住你真正需要的東西！\n\n※ 冠軍幣在活動結束後會消失。\n※ 未使用的冠軍幣將被替換為金幣\n ┗ 1 冠軍幣 = 10 金幣
+EXCHANGE_PTS,Grab useful items for your testing purposes here!,在這裡獲取有用的物品來進行測試！
