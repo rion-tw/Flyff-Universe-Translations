@@ -24549,8 +24549,8 @@ PROPITEM_TXT_155500,Ankou's Heart,安庫之心
 PROPITEM_TXT_155501,Veil of Shade,闇影之紗
 PROPITEM_TXT_155502,Maw of Judgement,審判之噬
 PROPITEM_TXT_155503,Oracle,神諭
-PROPITEM_TXT_155504,Scepter of Disorder,混沌魔權
-PROPITEM_TXT_155505,Roika's Stave,創世神權
+PROPITEM_TXT_155504,Scepter of Disorder,混沌權杖
+PROPITEM_TXT_155505,Roika's Stave,洛伊卡法杖
 PROPITEM_TXT_155506,Curtana,聖裁之劍
 PROPITEM_TXT_155507,Celestial Edge,天界裁決
 PROPITEM_TXT_155508,Bringer of Souls,靈魂侍者
@@ -24574,10 +24574,10 @@ PROPITEM_TXT_155525,Broken Maw of Judgement,破損的審判之噬
 PROPITEM_TXT_155526,Battle-Worn Maw of Judgement,歷戰的審判之噬
 PROPITEM_TXT_155527,Cursed Maw of Judgement,詛咒的審判之噬
 PROPITEM_TXT_155528,Maw of Judgement,審判之噬
-PROPITEM_TXT_155529,Broken Roika's Stave,破損的創世神權
-PROPITEM_TXT_155530,Battle-Worn Roika's Stave,歷戰的創世神權
-PROPITEM_TXT_155531,Cursed Roika's Stave,詛咒的創世神權
-PROPITEM_TXT_155532,Roika's Stave,創世神權
+PROPITEM_TXT_155529,Broken Roika's Stave,破損的洛伊卡法杖
+PROPITEM_TXT_155530,Battle-Worn Roika's Stave,歷戰的洛伊卡法杖
+PROPITEM_TXT_155531,Cursed Roika's Stave,詛咒的洛伊卡法杖
+PROPITEM_TXT_155532,Roika's Stave,洛伊卡法杖
 PROPITEM_TXT_155533,Broken Oracle,破損的神諭
 PROPITEM_TXT_155534,Battle-Worn Oracle,歷戰的神諭
 PROPITEM_TXT_155535,Cursed Oracle,詛咒的神諭
@@ -24598,10 +24598,10 @@ PROPITEM_TXT_155549,Broken Celestial Edge,破損的天界裁決
 PROPITEM_TXT_155550,Battle-Worn Celestial Edge,歷戰的天界裁決
 PROPITEM_TXT_155551,Cursed Celestial Edge,詛咒的天界裁決
 PROPITEM_TXT_155552,Celestial Edge,天界裁決
-PROPITEM_TXT_155553,Broken Scepter of Disorder,破損的混沌魔權
-PROPITEM_TXT_155554,Battle-Worn Scepter of Disorder,歷戰的混沌魔權
-PROPITEM_TXT_155555,Cursed Scepter of Disorder,詛咒的混沌魔權
-PROPITEM_TXT_155556,Scepter of Disorder,混沌魔權
+PROPITEM_TXT_155553,Broken Scepter of Disorder,破損的混沌權杖
+PROPITEM_TXT_155554,Battle-Worn Scepter of Disorder,歷戰的混沌權杖
+PROPITEM_TXT_155555,Cursed Scepter of Disorder,詛咒的混沌權杖
+PROPITEM_TXT_155556,Scepter of Disorder,混沌權杖
 PROPITEM_TXT_155557,Broken Dementia,破損的妄斷
 PROPITEM_TXT_155558,Battle-Worn Dementia,歷戰的妄斷
 PROPITEM_TXT_155559,Cursed Dementia,詛咒的妄斷
