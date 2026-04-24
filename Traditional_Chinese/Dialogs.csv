@@ -162,7 +162,7 @@ NPC_000169,I'm surprised you haven't heard of me. I'm Dr. Est and I research Mad
 NPC_000170,"Watch yourself out there, friend. Some creatures can be quite dangerous!",小心喔！這裡的魔域怪很危險~
 NPC_000171,The will of Hynan will lead you to victory.,浪人的英雄海楠會幫你的。
 NPC_000172,This is what you must to do.,您應該要幫我…
-NPC_000173,"The Heroes fought hard to protect us from Shade's evil masquerpet army. We owe them all our livelihood. That is why I have devoted my life in service to Hynan, the brave Ranger Hero.",英雄們為保護我們免受史瑞德邪惡假面軍團的傷害而奮戰。我們欠他們所有的恩情，這就是為什麼我畢生致力於為勇敢的浪人英雄海楠服務。
+NPC_000173,"The Heroes fought hard to protect us from Shade's evil masquerpet army. We owe them all our livelihood. That is why I have devoted my life in service to Hynan, the brave Ranger Hero.",英雄們為保護我們免受闇影邪惡假面軍團的傷害而奮戰。我們欠他們所有的恩情，這就是為什麼我畢生致力於為勇敢的浪人英雄海楠服務。
 NPC_000174,"I am Eliff, the Ranger Master. I have devoted my life to Hynan's legacy, and my duty is to pass along all that I have learned from him. I have sworn to uphold this promise until my last, dying breath. ",我是負責幫您走浪人之路的…我是浪人大師艾梨布。 我畢生致力於海楠的遺志，我的職責是將我從他那裡學到的一切傳遞下去。 我發誓要堅持這個承諾，直到我最後一口氣。
 NPC_000175,"Hynan watches over us all. Go in peace, my friend.",[海楠] 會祝福您的…安心去吧！我的朋友
 NPC_000176,Aenn's blessing on this world will be remembered forever.,守護者英雄阿利安諾為人們所帶來的祝福將被永遠的記得！
@@ -418,7 +418,7 @@ NPC_000463,"7. That about covers it for your flying combat training, cadet! Just
 NPC_000464,Have fun out there and be safe! Don't forget to check your six!,祝您冒險愉快！別忘了確認第六項！
 NPC_000465,"Goodbye, adventurer! Feel free to stop by again if you have any questions about flying.",再見了，冒險者！如果您對飛行還有任何疑問，請隨時再次光臨。
 NPC_000466,Why do we all have to wear the same outfit? ,沒有其他地方比這更適合我的，你說是吧！
-NPC_000467,"Rhisis created the three Clown Gods; Shade, Iblis and Bubble and bestowed each of them with a different aspect of herself. Shade, infused with the Fear and Rage of Rhisis, nearly destroy our original home, Roika.",黎席斯創造了三個小丑神； 史瑞德、伊普里司 和 波布爾 賦予他們每個人不同的一面。 充滿黎席斯的恐懼和憤怒的陰影幾乎摧毀了我們原來的家，依普利斯。
+NPC_000467,"Rhisis created the three Clown Gods; Shade, Iblis and Bubble and bestowed each of them with a different aspect of herself. Shade, infused with the Fear and Rage of Rhisis, nearly destroy our original home, Roika.",黎席斯創造了三個小丑神； 闇影、伊普里司 和 波布爾 賦予他們每個人不同的一面。 充滿黎席斯的恐懼和憤怒的陰影幾乎摧毀了我們原來的家，依普利斯。
 NPC_000468,"I am Domek Ilujian, the Billposter Wise Man. I am here to record the history of the Billposter Hero, Roentel, and educate travelers on Madrigal's rich history.",我是 [爆咒師賢者] 德邁洛‧詹。
 NPC_000469,"Farewell, traveler. If we do not learn from our past, we are doomed to repeat it.",人因夢想而偉大……
 NPC_000470,#b#cff8a004fCheck in here to review the weekly results of the #cfffc0000Guild Siege!#nc#nb,#b#cff0000ff想知道對戰的結果嗎?我會引導你的。#nc#nb
@@ -974,7 +974,7 @@ NPC_100028,It's true that defeating a dragon is not an easy task for an adventur
 NPC_100029,See you bye bye!,再見~~掰掰
 NPC_100030,"Hello, what are you doing here?\n1.[Fight Meteonyker][IDS_NPC_Meteo]. \n2.[Who are you?][IDS_NPC_Dekane].",你好，你在這裡做什麼?\n1.[戰鬥 “地炎飛龍”][IDS_NPC_ 炎時]\n2.[你是誰？][IDS_NPC_ 塔凱黎斯]。
 NPC_100031,"I am Dekane, the creator of this mine. Now that you've proven yourself, I'll be able to tell you the real problem at the bottom of the mine.",我是「塔凱黎斯」，這個礦山的創造者。 既然你已經證明了自己，我就可以告訴你礦井底部的真正問題。
-NPC_100032,"In a secret room sleep dragons from ancient times created by Shade ages ago. To defeat them, you'll need a well armed team. Ah, but there's one detail I forgot to mention, you need 1,000,000 Penya, you've already collected 50 Blood Trillipys and killed 50 Mutant Keakoon Workers to open the gate. Are you and your team ready to accept this challenge?\n[Yes][IDS_NPC_Yes] / [No][IDS_NPC_No]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc","這個秘密房間裡，沉睡了很久以前由「謝德」創造的遠古時代的龍。 想要打敗他們，你就需要一支裝備精良的隊伍。 啊，但是有一個細節我忘了說，你需要 1,000,000 個金幣，你需要收集 50 個「噬血蜈蚣的背甲」並且擊殺了 50 隻「模範奇昆勞動者」就能來打開大門。 您和您的團隊準備好接受這個挑戰了嗎？\n[是][IDS_NPC_Yes] / [否][IDS_NPC_No]\n\n#cffff0000 所有參與的公會成員必須靠近你才能夠進入。 #nc"
+NPC_100032,"In a secret room sleep dragons from ancient times created by Shade ages ago. To defeat them, you'll need a well armed team. Ah, but there's one detail I forgot to mention, you need 1,000,000 Penya, you've already collected 50 Blood Trillipys and killed 50 Mutant Keakoon Workers to open the gate. Are you and your team ready to accept this challenge?\n[Yes][IDS_NPC_Yes] / [No][IDS_NPC_No]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc","這個秘密房間裡，沉睡了很久以前由「闇影」創造的遠古時代的龍。 想要打敗他們，你就需要一支裝備精良的隊伍。 啊，但是有一個細節我忘了說，你需要 1,000,000 個金幣，你需要收集 50 個「噬血蜈蚣的背甲」並且擊殺了 50 隻「模範奇昆勞動者」就能來打開大門。 您和您的團隊準備好接受這個挑戰了嗎？\n[是][IDS_NPC_Yes] / [否][IDS_NPC_No]\n\n#cffff0000 所有參與的公會成員必須靠近你才能夠進入。 #nc"
 NPC_100033,Would you like to take up the challenge again?\n[Yes][IDS_NPC_Yes] / [No][IDS_NPC_No]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc,你想再次接受挑戰嗎？\n[是][IDS_NPC_Yes] / [否][IDS_NPC_No]\n\n#cffff0000 所有參與的公會成員必須靠近你才能夠進入。 #nc
 NPC_100034,Sorry but you are not rich enough.,抱歉，你還不夠有錢。
 NPC_100035,"It's alright, young successor. Only the bravest of souls can hope to stand against the strong Meteonyker. We'll keep him imprisoned here until the right person is ready to face him.",沒關係，年輕接班人。只有最勇敢的靈魂才有希望對抗強大的炙焰飛龍。我們會把他囚禁在這裡，直到合適的人準備好面對他。
