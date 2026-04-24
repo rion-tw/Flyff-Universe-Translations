@@ -1496,7 +1496,7 @@ TEXTCLIENT_NO_SPECTATE_SELF,You cannot spectate yourself.,You cannot spectate yo
 TEXTCLIENT_NO_SPECTATE_POWER,You do not have permission to spectate.,You do not have permission to spectate.
 TEXTCLIENT_START_SPECTATE,You are now spectating %s.,You are now spectating %s.
 UI_TOOLTIP_PICKUP_RANGE,Pickup boost range,Pickup boost range
-TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are accessing from the official game page.,"Der Server hat die Verbindung abgelehnt. Bitte stelle sicher, dass du über die offizielle Spieleseite zugreifst."
+TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are accessing from the official game page.,"Der Server hat die Verbindung abgelehnt. Bitte stelle sicher, dass du über die offizielle Spielseite zugreifst."
 TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[Event] Chroma Pickaxe
 TEXTCLIENT_APP_SHADER_DEBUG,Shader Debug,Shader Debug
 TEXTCLIENT_APP_ACCOUNT,Account,Account
