@@ -260,7 +260,7 @@ UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,安庫噬魂
 UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,穆蘭之怒
 UI_TOOLTIP_LOCOMOTION,Movement,移動
 UI_TOOLTIP_RETURN_USE,Return to your former position.,返回先前的位置。
-UI_DISPLAY_BUFFS,Show/hide buffs,顯示/隱藏 BUFF
+UI_DISPLAY_BUFFS,Show/hide buffs,顯示/隱藏增益
 UI_SELECTJOB_TITLE,Select new job,選擇新職業
 UI_NOTICE_DISCORD,Join our Discord server,加入我們的 Discord 伺服器
 UI_TOOLTIP_COMBO,Use skills in the Action Slot,使用連續技能欄中的技能

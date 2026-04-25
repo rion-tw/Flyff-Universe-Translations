@@ -311,8 +311,8 @@ PROPSKILL_TXT_000324,Berserker Mushroom,毒菇菇的瘋狂
 PROPSKILL_TXT_000325,Increases Attack and Attack Speed.,增加攻擊力與攻擊速度。
 PROPSKILL_TXT_000326,Protective Tree Bark,樹皮的保護
 PROPSKILL_TXT_000327,Reduces incoming damage by wrapping your body in tree bark.,被樹皮保護著，降低對物理的攻擊。
-PROPSKILL_TXT_000328,Buff Break,解除 BUFF
-PROPSKILL_TXT_000330,Buff Break X,解除 BUFF X
+PROPSKILL_TXT_000328,Buff Break,解除增益
+PROPSKILL_TXT_000330,Buff Break X,解除增益 X
 PROPSKILL_TXT_000350,Burn,燒傷
 PROPSKILL_TXT_000351,Damages the target continuously over time.,在一定時間內，受到持續性的傷害。
 PROPSKILL_TXT_000380,Shield Bash,破滅盾擊
@@ -455,7 +455,7 @@ PROPSKILL_TXT_100106,Slowed,緩速
 PROPSKILL_TXT_100107,Waterbomb,水炸彈機率
 PROPSKILL_TXT_100108,Jungle Fever,叢林熱
 PROPSKILL_TXT_100109,"A disease spreads through your body. Hopefully, the fever breaks.",疾病逐漸擴散全身，並持續惡化中。
-PROPSKILL_TXT_100110,PlayPark's Launch Buff,PlayPark 慶祝 Buff
+PROPSKILL_TXT_100110,PlayPark's Launch Buff,PlayPark 慶祝增益
 PROPSKILL_TXT_100111,Enjoy increased Experience and Drops up to Level 119!,！119 級以下角色可獲得額外經驗與掉寶！
 PROPSKILL_TXT_100112,Artifact Power,神器力量
 PROPSKILL_TXT_100113,"Your team's control over artifacts empowers you, increasing your damage against Kalgas!",我方隊伍持有的神器數量可額外提升對卡爾加斯的傷害！
@@ -745,7 +745,7 @@ PROPSKILL_TXT_150156,"Invoke the spirit of Cimetiere for a short period on the t
 PROPSKILL_TXT_150158,Debuff Chance,減益機率
 PROPSKILL_TXT_150160,Aether Rend,以太撕裂
 PROPSKILL_TXT_150161,Remove a number of Disable and Weaken debuffs from your target up to the number of Malefic Detonation and Damnation Surge stacks available. This skill consumes all stacks of both skills. The damage of this skill scales with Debuff and Weaken effect on you.,移除目標身上的若干控制與虛弱減益效果，移除數量取決於【邪能爆裂】與【詛咒奔湧】的當前疊層數。此技能將消耗上述兩種技能的所有疊層，其傷害隨你身上的減益與虛弱效果強度提升。
-PROPSKILL_TXT_150162,Additional Buffs,追加 Buffs
+PROPSKILL_TXT_150162,Additional Buffs,追加增益
 PROPSKILL_TXT_150163,Additional Damage,追加傷害
 PROPSKILL_TXT_150165,Yo-Yo Storm,輪舞颶風
 PROPSKILL_TXT_150166,Spin your yo-yos in place to continuously attack all nearby enemies.,原地旋轉飛輪，持續攻擊周圍所有敵人。
@@ -1150,7 +1150,7 @@ PROPSKILL_TXT_150613,Increased Multiplier,係數提升
 PROPSKILL_TXT_150614,Reduced PvP Cooldown,PvP 冷卻降低
 PROPSKILL_TXT_150615,Cooldown is reduced in PvP.,PvP 冷卻縮減。
 PROPSKILL_TXT_150616,Up to 100% of the recorded hit is replicated.,最多複製記錄傷害的 100%。
-PROPSKILL_TXT_150617,First Player Level 190 Buff,首位玩家等級 190 Buff
+PROPSKILL_TXT_150617,First Player Level 190 Buff,首位玩家等級 190 增益
 PROPSKILL_TXT_150618,Enjoy Exp+15% until level 164!,享受 15% 經驗加成，直到 164 級！
 PROPSKILL_TXT_150619,Stun duration is increased.,眩暈持續時間延長。
 PROPSKILL_TXT_150620,Increases the target's damage.,提升目標的傷害。
